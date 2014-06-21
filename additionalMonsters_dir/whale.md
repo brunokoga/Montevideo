@@ -10,9 +10,9 @@ Great White WhaleCR 14
 
 **XP 38,400**
 
-N Colossal [animal](monsters_dir/creatureTypes#_animal)
+N Colossal [animal](../monsters_dir/creatureTypes#_animal)
 
-**Init** –2; **Senses** [blindsight](monsters_dir/universalMonsterRules#_blindsight) 120 ft., low-light vision; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +13
+**Init** –2; **Senses** [blindsight](../monsters_dir/universalMonsterRules#_blindsight) 120 ft., low-light vision; [Perception](../additionalMonsters_dir/../skills_dir/perception#_perception) +13
 
 Defense
 
@@ -40,11 +40,11 @@ Statistics
 
 **Base Atk** +13; **CMB** +41; **CMD** 49 (can't be tripped)
 
-**Feats** [Critical Focus](additionalMonsters_dir/../feats#_critical-focus), [Diehard](additionalMonsters_dir/../feats#_diehard), [Endurance](additionalMonsters_dir/../feats#_endurance), [Great Fortitude](additionalMonsters_dir/../feats#_great-fortitude), [Improved Bull Rush](additionalMonsters_dir/../feats#_improved-bull-rush), [Improved Critical](additionalMonsters_dir/../feats#_improved-critical) (bite), [Iron Will](additionalMonsters_dir/../feats#_iron-will), [Power Attack](additionalMonsters_dir/../feats#_power-attack), [Staggering Critical](additionalMonsters_dir/../feats#_staggering-critical)
+**Feats** [Critical Focus](../additionalMonsters_dir/../feats#_critical-focus), [Diehard](../additionalMonsters_dir/../feats#_diehard), [Endurance](../additionalMonsters_dir/../feats#_endurance), [Great Fortitude](../additionalMonsters_dir/../feats#_great-fortitude), [Improved Bull Rush](../additionalMonsters_dir/../feats#_improved-bull-rush), [Improved Critical](../additionalMonsters_dir/../feats#_improved-critical) (bite), [Iron Will](../additionalMonsters_dir/../feats#_iron-will), [Power Attack](../additionalMonsters_dir/../feats#_power-attack), [Staggering Critical](../additionalMonsters_dir/../feats#_staggering-critical)
 
-**Skills** [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +13, [Swim](additionalMonsters_dir/../skills_dir/swim#_swim) +39
+**Skills** [Perception](../additionalMonsters_dir/../skills_dir/perception#_perception) +13, [Swim](../additionalMonsters_dir/../skills_dir/swim#_swim) +39
 
-**SQ** [hold breath](monsters_dir/universalMonsterRules#_hold-breath)
+**SQ** [hold breath](../monsters_dir/universalMonsterRules#_hold-breath)
 
 Ecology
 
@@ -68,9 +68,9 @@ This immense whale moves slowly through the water with a grace that seems incong
 
 **XP 9,600**
 
-N Gargantuan [animal](monsters_dir/creatureTypes#_animal)
+N Gargantuan [animal](../monsters_dir/creatureTypes#_animal)
 
-**Init** +2; **Senses** [blindsight](monsters_dir/universalMonsterRules#_blindsight) 120 ft., low-light vision; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +23
+**Init** +2; **Senses** [blindsight](../monsters_dir/universalMonsterRules#_blindsight) 120 ft., low-light vision; [Perception](../additionalMonsters_dir/../skills_dir/perception#_perception) +23
 
 Defense
 
@@ -98,12 +98,12 @@ Statistics
 
 **Base Atk** +11; **CMB** +29; **CMD** 37 (can't be tripped)
 
-**Feats** [Diehard](additionalMonsters_dir/../feats#_diehard), [Endurance](additionalMonsters_dir/../feats#_endurance), [Great Fortitude](additionalMonsters_dir/../feats#_great-fortitude), Improved Bull   
-Rush, [Improved Initiative](additionalMonsters_dir/../feats#_improved-initiative), [Iron Will](additionalMonsters_dir/../feats#_iron-will), [Power Attack](additionalMonsters_dir/../feats#_power-attack), [Skill Focus](additionalMonsters_dir/../feats#_skill-focus) ( [Perception](additionalMonsters_dir/../skills_dir/perception#_perception))
+**Feats** [Diehard](../additionalMonsters_dir/../feats#_diehard), [Endurance](../additionalMonsters_dir/../feats#_endurance), [Great Fortitude](../additionalMonsters_dir/../feats#_great-fortitude), Improved Bull   
+Rush, [Improved Initiative](../additionalMonsters_dir/../feats#_improved-initiative), [Iron Will](../additionalMonsters_dir/../feats#_iron-will), [Power Attack](../additionalMonsters_dir/../feats#_power-attack), [Skill Focus](../additionalMonsters_dir/../feats#_skill-focus) ( [Perception](../additionalMonsters_dir/../skills_dir/perception#_perception))
 
-**Skills** [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +23, [Swim](additionalMonsters_dir/../skills_dir/swim#_swim) +30; **Racial Modifiers** +4 [Perception](additionalMonsters_dir/../skills_dir/perception#_perception)
+**Skills** [Perception](../additionalMonsters_dir/../skills_dir/perception#_perception) +23, [Swim](../additionalMonsters_dir/../skills_dir/swim#_swim) +30; **Racial Modifiers** +4 [Perception](../additionalMonsters_dir/../skills_dir/perception#_perception)
 
-**SQ** [hold breath](monsters_dir/universalMonsterRules#_hold-breath)
+**SQ** [hold breath](../monsters_dir/universalMonsterRules#_hold-breath)
 
 Ecology
 
@@ -115,7 +115,7 @@ Ecology
 
 Special Abilities
 
-**Capsize (Ex)** A whale can attempt to capsize a boat or ship by ramming it as a charge attack and making a CMB check. The DC of this check is 25, or the result of the captain's [Profession](additionalMonsters_dir/../skills_dir/profession#_profession) (sail0r) check, whichever is higher. For each size category the ship is larger than the whale's size, the whale takes a cumulative –10 penalty on this CMB check.
+**Capsize (Ex)** A whale can attempt to capsize a boat or ship by ramming it as a charge attack and making a CMB check. The DC of this check is 25, or the result of the captain's [Profession](../additionalMonsters_dir/../skills_dir/profession#_profession) (sail0r) check, whichever is higher. For each size category the ship is larger than the whale's size, the whale takes a cumulative –10 penalty on this CMB check.
 
 Whales are frequently hunted for their meat and the valuable oil in their blubber. Baleen whales have no teeth and attack with a tail slap; toothed whales like sperm whales instead attack with a bite. Whale companions are smaller species—rules for such companions are the same as those for orcas (see page 88 of the _Pathfinder RPG Bestiary_.)
 

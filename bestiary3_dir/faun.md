@@ -12,7 +12,7 @@ XP 400
 
 CG Medium fey
 
-**Init** +3; **Senses** low-light vision; [Perception](skills_dir/perception#_perception) +8
+**Init** +3; **Senses** low-light vision; [Perception](../skills_dir/perception#_perception) +8
 
 Defense
 
@@ -36,9 +36,9 @@ Offense
 
 **Spell-Like Abilities** (CL 3rd; concentration +6)
 
-At will—_ [ghost sound](spells_dir/ghostSound#_ghost-sound)_ (DC 13)
+At will—_ [ghost sound](../spells_dir/ghostSound#_ghost-sound)_ (DC 13)
 
-1_dir/day—_ [hideous laughter](spells_dir/hideousLaughter#_hideous-laughter)_ (DC 14), _ [sleep](spells_dir/sleep#_sleep)_ (DC 14)
+1_dir/day—_ [hideous laughter](../spells_dir/hideousLaughter#_hideous-laughter)_ (DC 14), _ [sleep](../spells_dir/sleep#_sleep)_ (DC 14)
 
 Statistics
 
@@ -46,9 +46,9 @@ Statistics
 
 **Base Atk** +1; **CMB** +3; **CMD** 16
 
-**Feats** [Point-Blank Shot](feats#_point-blank-shot), [Weapon Finesse](feats#_weapon-finesse)
+**Feats** [Point-Blank Shot](../feats#_point-blank-shot), [Weapon Finesse](../feats#_weapon-finesse)
 
-**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +8, [Bluff](skills_dir/bluff#_bluff) +9, [Perception](skills_dir/perception#_perception) +8, [Perform](skills_dir/perform#_perform) (wind) +9, [Sense Motive](skills_dir/senseMotive#_sense-motive) +7, [Stealth](skills_dir/stealth#_stealth) +9, [Survival](skills_dir/survival#_survival) +4
+**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +8, [Bluff](../skills_dir/bluff#_bluff) +9, [Perception](../skills_dir/perception#_perception) +8, [Perform](../skills_dir/perform#_perform) (wind) +9, [Sense Motive](../skills_dir/senseMotive#_sense-motive) +7, [Stealth](../skills_dir/stealth#_stealth) +9, [Survival](../skills_dir/survival#_survival) +4
 
 **Languages** Common, Sylvan
 

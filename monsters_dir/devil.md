@@ -38,9 +38,9 @@ _From the tip of its lashing tail to the serrated features of its fang-filled vi
 
 **XP 12,800**
 
-LE Medium [outsider](creatureTypes#_outsider) ( [devil](creatureTypes#_devil-subtype), [evil](creatureTypes#_evil-subtype), [extraplanar](creatureTypes#_extraplanar-subtype), [lawful](creatureTypes#_lawful-subtype))
+LE Medium [outsider](../creatureTypes#_outsider) ( [devil](../creatureTypes#_devil-subtype), [evil](../creatureTypes#_evil-subtype), [extraplanar](../creatureTypes#_extraplanar-subtype), [lawful](../creatureTypes#_lawful-subtype))
 
-**Init** +6; **Senses** darkvision 60 ft., see in darkness; [Perception](../skills_dir/perception#_perception) +21
+**Init** +6; **Senses** darkvision 60 ft., see in darkness; [Perception](../../skills_dir/perception#_perception) +21
 
 **Defense**
 
@@ -56,15 +56,15 @@ LE Medium [outsider](creatureTypes#_outsider) ( [devil](creatureTypes#_devil-sub
 
 **Speed** 30 ft.
 
-**Melee** 2 claws +18 (2d8+6_dir/19–20 plus fear and [grab](universalMonsterRules#_grab))
+**Melee** 2 claws +18 (2d8+6_dir/19–20 plus fear and [grab](../universalMonsterRules#_grab))
 
 **Special Attacks** fear, impale 3d8+9
 
 **Spell-Like Abilities** (CL 12th)
 
-At will—_ [greater teleport](../spells_dir/teleport#_teleport-greater) _(self plus 50 lbs. of objects only), _ [hold person](../spells_dir/holdPerson#_hold-person) _(DC 17), _ [major image](../spells_dir/majorImage#_major-image)_ (DC 17), _ [produce flame](../spells_dir/produceFlame#_produce-flame), [pyrotechnics](../spells_dir/pyrotechnics#_pyrotechnics) _(DC 16), _ [scorching ray](../spells_dir/scorchingRay#_scorching-ray)_ (2 rays only)
+At will—_ [greater teleport](../../spells_dir/teleport#_teleport-greater) _(self plus 50 lbs. of objects only), _ [hold person](../../spells_dir/holdPerson#_hold-person) _(DC 17), _ [major image](../../spells_dir/majorImage#_major-image)_ (DC 17), _ [produce flame](../../spells_dir/produceFlame#_produce-flame), [pyrotechnics](../../spells_dir/pyrotechnics#_pyrotechnics) _(DC 16), _ [scorching ray](../../spells_dir/scorchingRay#_scorching-ray)_ (2 rays only)
 
-1_dir/day—_ [order's wrath](../spells_dir/orderSWrath#_order-s-wrath) _(DC 18), summon (level 4, 1 barbed devil 35%), _ [unholy blight](../spells_dir/unholyBlight#_unholy-blight)_ (DC 18)
+1_dir/day—_ [order's wrath](../../spells_dir/orderSWrath#_order-s-wrath) _(DC 18), summon (level 4, 1 barbed devil 35%), _ [unholy blight](../../spells_dir/unholyBlight#_unholy-blight)_ (DC 18)
 
 **Statistics**
 
@@ -72,11 +72,11 @@ At will—_ [greater teleport](../spells_dir/teleport#_teleport-greater) _(self 
 
 **Base Atk** +12; **CMB** +18 (+22 grapple); **CMD** 34
 
-**Feats** [Alertness](../feats#_alertness), [Cleave](../feats#_cleave), [Combat Reflexes](../feats#_combat-reflexes), [Improved Critical](../feats#_improved-critical) (claws), [Iron Will](../feats#_iron-will), [Power Attack](../feats#_power-attack)
+**Feats** [Alertness](../../feats#_alertness), [Cleave](../../feats#_cleave), [Combat Reflexes](../../feats#_combat-reflexes), [Improved Critical](../../feats#_improved-critical) (claws), [Iron Will](../../feats#_iron-will), [Power Attack](../../feats#_power-attack)
 
-**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +15, [Diplomacy](../skills_dir/diplomacy#_diplomacy) +13, [Intimidate](../skills_dir/intimidate#_intimidate) +19, [Knowledge](../skills_dir/knowledge#_knowledge) (planes) +16, [Perception](../skills_dir/perception#_perception) +21, [Sense Motive](../skills_dir/senseMotive#_sense-motive) +21, [Spellcraft](../skills_dir/spellcraft#_spellcraft) +12, [Stealth](../skills_dir/stealth#_stealth) +13, [Survival](../skills_dir/survival#_survival) +14
+**Skills** [Acrobatics](../../skills_dir/acrobatics#_acrobatics) +15, [Diplomacy](../../skills_dir/diplomacy#_diplomacy) +13, [Intimidate](../../skills_dir/intimidate#_intimidate) +19, [Knowledge](../../skills_dir/knowledge#_knowledge) (planes) +16, [Perception](../../skills_dir/perception#_perception) +21, [Sense Motive](../../skills_dir/senseMotive#_sense-motive) +21, [Spellcraft](../../skills_dir/spellcraft#_spellcraft) +12, [Stealth](../../skills_dir/stealth#_stealth) +13, [Survival](../../skills_dir/survival#_survival) +14
 
-**Languages** Celestial, Common, Draconic, Infernal; [telepathy](universalMonsterRules#_telepathy) 100 ft.
+**Languages** Celestial, Common, Draconic, Infernal; [telepathy](../universalMonsterRules#_telepathy) 100 ft.
 
 **Ecology**
 
@@ -108,9 +108,9 @@ _This seething devil deftly wields a vicious, saw-toothed glaive, while below it
 
 **XP 1,600**
 
-LE Medium [outsider](creatureTypes#_outsider) ( [devil](creatureTypes#_devil-subtype), [evil](creatureTypes#_evil-subtype), [extraplanar](creatureTypes#_extraplanar-subtype), [lawful](creatureTypes#_lawful-subtype))
+LE Medium [outsider](../creatureTypes#_outsider) ( [devil](../creatureTypes#_devil-subtype), [evil](../creatureTypes#_evil-subtype), [extraplanar](../creatureTypes#_extraplanar-subtype), [lawful](../creatureTypes#_lawful-subtype))
 
-**Init** +6; **Senses** darkvision 60 ft., see in darkness; [Perception](../skills_dir/perception#_perception) +10
+**Init** +6; **Senses** darkvision 60 ft., see in darkness; [Perception](../../skills_dir/perception#_perception) +10
 
 **Defense**
 
@@ -134,9 +134,9 @@ LE Medium [outsider](creatureTypes#_outsider) ( [devil](creatureTypes#_devil-sub
 
 **Spell-Like Abilities** (CL 12th)
 
-At will—_ [greater teleport](../spells_dir/teleport#_teleport-greater) _(self plus 50 lbs. of objects only)
+At will—_ [greater teleport](../../spells_dir/teleport#_teleport-greater) _(self plus 50 lbs. of objects only)
 
-1_dir/day— [summon](universalMonsterRules#_summon) (level 3, 1 bearded devil or 6 lemures, 50%)
+1_dir/day— [summon](../universalMonsterRules#_summon) (level 3, 1 bearded devil or 6 lemures, 50%)
 
 **Statistics**
 
@@ -144,11 +144,11 @@ At will—_ [greater teleport](../spells_dir/teleport#_teleport-greater) _(self 
 
 **Base Atk** +6; **CMB** +10; **CMD** 22
 
-**Feats** [Improved Initiative](../feats#_improved-initiative), [Power Attack](../feats#_power-attack), [Weapon Focus](../feats#_weapon-focus) (glaive)
+**Feats** [Improved Initiative](../../feats#_improved-initiative), [Power Attack](../../feats#_power-attack), [Weapon Focus](../../feats#_weapon-focus) (glaive)
 
-**Skills** [Climb](../skills_dir/climb#_climb) +13, [Intimidate](../skills_dir/intimidate#_intimidate) +7, [Perception](../skills_dir/perception#_perception) +10, [Sense Motive](../skills_dir/senseMotive#_sense-motive) +6, [Stealth](../skills_dir/stealth#_stealth) +11
+**Skills** [Climb](../../skills_dir/climb#_climb) +13, [Intimidate](../../skills_dir/intimidate#_intimidate) +7, [Perception](../../skills_dir/perception#_perception) +10, [Sense Motive](../../skills_dir/senseMotive#_sense-motive) +6, [Stealth](../../skills_dir/stealth#_stealth) +11
 
-**Languages** Celestial, Common, Draconic, Infernal; [telepathy](universalMonsterRules#_telepathy) 100 ft.
+**Languages** Celestial, Common, Draconic, Infernal; [telepathy](../universalMonsterRules#_telepathy) 100 ft.
 
 **Ecology**
 
@@ -160,9 +160,9 @@ At will—_ [greater teleport](../spells_dir/teleport#_teleport-greater) _(self 
 
 **Special Abilities**
 
-**Beard (Ex)** If a bearded devil hits a single opponent with both claw attacks, it also lashes at the same target with its spiky, filthy beard. The victim takes 1d8+2 points of damage and must succeed on a DC 17 Fortitude save or contract devil chills. The save DC is Constitution-based._Devil Chills_: Disease—injury; _save_ Fort DC 17; _onset_ 1d4 days; _frequency_ 1_dir/day; _effect_ 1d4 Str [damage](universalMonsterRules#_ability-damage-and-drain); _cure_ 3 consecutive saves.
+**Beard (Ex)** If a bearded devil hits a single opponent with both claw attacks, it also lashes at the same target with its spiky, filthy beard. The victim takes 1d8+2 points of damage and must succeed on a DC 17 Fortitude save or contract devil chills. The save DC is Constitution-based._Devil Chills_: Disease—injury; _save_ Fort DC 17; _onset_ 1d4 days; _frequency_ 1_dir/day; _effect_ 1d4 Str [damage](../universalMonsterRules#_ability-damage-and-drain); _cure_ 3 consecutive saves.
 
-**Infernal Wound (Su)** The damage a bearded devil deals with its glaive inflicts persistent wounds that cause 2 points of [bleed](universalMonsterRules#_bleed) damage. [Bleed](universalMonsterRules#_bleed) caused from an infernal wound is particularly difficult to stanch—a DC 17 [Heal](../skills_dir/heal#_heal) check stops the damage, and any attempt to heal a creature suffering from an infernal wound must succeed on a DC 16 caster level check or the spell does not function. Success indicates the healing works normally and stops all [bleed](universalMonsterRules#_bleed) effects on the victim. The infernal wounds caused by a bearded devil are a supernatural ability of the devil, not of the weapon.
+**Infernal Wound (Su)** The damage a bearded devil deals with its glaive inflicts persistent wounds that cause 2 points of [bleed](../universalMonsterRules#_bleed) damage. [Bleed](../universalMonsterRules#_bleed) caused from an infernal wound is particularly difficult to stanch—a DC 17 [Heal](../../skills_dir/heal#_heal) check stops the damage, and any attempt to heal a creature suffering from an infernal wound must succeed on a DC 16 caster level check or the spell does not function. Success indicates the healing works normally and stops all [bleed](../universalMonsterRules#_bleed) effects on the victim. The infernal wounds caused by a bearded devil are a supernatural ability of the devil, not of the weapon.
 
 Elite warriors in Hell's legions, bearded devils—or barbazus—fight savagely in the name of their infernal lords and command mindless hordes of the damned into battle. They collect and train with their infernally forged glaives among the vaults of Hell's third layer, Erebus, but inevitably return to the first layer, Avernus, to serve at the side of the dread lord Barbatos.
 
@@ -178,9 +178,9 @@ _Merging the most horrifying features of carrion-fed insect and withered cadaver
 
 **XP 6,400**
 
-LE Large [outsider](creatureTypes#_outsider) ( [devil](creatureTypes#_devil-subtype), [evil](creatureTypes#_evil-subtype), [extraplanar](creatureTypes#_extraplanar-subtype), [lawful](creatureTypes#_lawful-subtype))
+LE Large [outsider](../creatureTypes#_outsider) ( [devil](../creatureTypes#_devil-subtype), [evil](../creatureTypes#_evil-subtype), [extraplanar](../creatureTypes#_extraplanar-subtype), [lawful](../creatureTypes#_lawful-subtype))
 
-**Init** +9; **Senses** darkvision 60 ft., see in darkness; [Perception](../skills_dir/perception#_perception) +19
+**Init** +9; **Senses** darkvision 60 ft., see in darkness; [Perception](../../skills_dir/perception#_perception) +19
 
 **Aura** fear aura (5 ft., DC 19, 1d6 rounds)
 
@@ -198,19 +198,19 @@ LE Large [outsider](creatureTypes#_outsider) ( [devil](creatureTypes#_devil-subt
 
 **Speed** 40 ft., fly 60 ft. (good)
 
-**Melee** bite +14 melee (1d8+5), 2 claws +14 melee (1d6+5), sting +14 melee (3d4+5 plus [poison](universalMonsterRules#_poison))
+**Melee** bite +14 melee (1d8+5), 2 claws +14 melee (1d6+5), sting +14 melee (3d4+5 plus [poison](../universalMonsterRules#_poison))
 
 **Space** 10 ft.; **Reach** 10 ft.
 
 **Spell-Like Abilities** (CL 12th)
 
-Constant—_ [fly](../spells_dir/fly)_
+Constant—_ [fly](../../spells_dir/fly)_
 
-At will—_ [dimensional anchor](../spells_dir/dimensionalAnchor#_dimensional), [greater teleport](../spells_dir/teleport#_teleport-greater)_ (self plus 50 lbs. of objects only),_ [invisibility](../spells_dir/invisibility#_invisibility) _(self only),_ [major image](../spells_dir/majorImage#_major-image)_ (DC 17)_, [wall of ice](../spells_dir/wallOfIce#_wall-of-ice)_
+At will—_ [dimensional anchor](../../spells_dir/dimensionalAnchor#_dimensional), [greater teleport](../../spells_dir/teleport#_teleport-greater)_ (self plus 50 lbs. of objects only),_ [invisibility](../../spells_dir/invisibility#_invisibility) _(self only),_ [major image](../../spells_dir/majorImage#_major-image)_ (DC 17)_, [wall of ice](../../spells_dir/wallOfIce#_wall-of-ice)_
 
-3_dir/day—quickened _ [invisibility](../spells_dir/invisibility#_invisibility)_ (self only)
+3_dir/day—quickened _ [invisibility](../../spells_dir/invisibility#_invisibility)_ (self only)
 
-1_dir/day— [summon](universalMonsterRules#_summon) (level 4, 1 bone devil, 35%)
+1_dir/day— [summon](../universalMonsterRules#_summon) (level 4, 1 bone devil, 35%)
 
 **Statistics**
 
@@ -218,11 +218,11 @@ At will—_ [dimensional anchor](../spells_dir/dimensionalAnchor#_dimensional), 
 
 **Base Atk** +10; **CMB** +16; **CMD** 31
 
-**Feats** [Alertness](../feats#_alertness), [Combat Reflexes](../feats#_combat-reflexes), [Improved Initiative](../feats#_improved-initiative), [Iron Will](../feats#_iron-will), [Quicken Spell-Like Ability](monsterFeats#_quicken-spell-like-ability) (_ [invisibility](../spells_dir/invisibility#_invisibility)_)
+**Feats** [Alertness](../../feats#_alertness), [Combat Reflexes](../../feats#_combat-reflexes), [Improved Initiative](../../feats#_improved-initiative), [Iron Will](../../feats#_iron-will), [Quicken Spell-Like Ability](../monsterFeats#_quicken-spell-like-ability) (_ [invisibility](../../spells_dir/invisibility#_invisibility)_)
 
-**Skills** [Bluff](../skills_dir/bluff#_bluff) +17, [Diplomacy](../skills_dir/diplomacy#_diplomacy) +17, [Fly](../skills_dir/fly#_fly) +21, [Intimidate](../skills_dir/intimidate#_intimidate) +17, [Knowledge](../skills_dir/knowledge#_knowledge) (planes) +16, [Perception](../skills_dir/perception#_perception) +19, [Sense Motive](../skills_dir/senseMotive#_sense-motive) +19, [Spellcraft](../skills_dir/spellcraft#_spellcraft) +16, [Stealth](../skills_dir/stealth#_stealth) +14
+**Skills** [Bluff](../../skills_dir/bluff#_bluff) +17, [Diplomacy](../../skills_dir/diplomacy#_diplomacy) +17, [Fly](../../skills_dir/fly#_fly) +21, [Intimidate](../../skills_dir/intimidate#_intimidate) +17, [Knowledge](../../skills_dir/knowledge#_knowledge) (planes) +16, [Perception](../../skills_dir/perception#_perception) +19, [Sense Motive](../../skills_dir/senseMotive#_sense-motive) +19, [Spellcraft](../../skills_dir/spellcraft#_spellcraft) +16, [Stealth](../../skills_dir/stealth#_stealth) +14
 
-**Languages** Celestial, Common, Draconic, Infernal; [telepathy](universalMonsterRules#_telepathy) 100 ft.
+**Languages** Celestial, Common, Draconic, Infernal; [telepathy](../universalMonsterRules#_telepathy) 100 ft.
 
 **Ecology**
 
@@ -234,11 +234,11 @@ At will—_ [dimensional anchor](../spells_dir/dimensionalAnchor#_dimensional), 
 
 **Special Abilities**
 
-**Poison (Ex)** Sting—injury; _save_ Fort DC 20; _frequency_ 1_dir/round for 6 rounds; _effect_ 1d3 Str [damage](universalMonsterRules#_ability-damage-and-drain); _cure_ 2 consecutive saves. The save DC is Constitution-based.
+**Poison (Ex)** Sting—injury; _save_ Fort DC 20; _frequency_ 1_dir/round for 6 rounds; _effect_ 1d3 Str [damage](../universalMonsterRules#_ability-damage-and-drain); _cure_ 2 consecutive saves. The save DC is Constitution-based.
 
 The interrogators and inquisitors of devilkind, bone devils delight in torturing those weaker than themselves—mortals, souls, and other devils alike. Born of ancient heresies mired amid the Styx-fed swamps of Stygia, Hell's fifth layer, bone devils—also known as osyluths—enforce infernal order and the will of the archdevils. Powerful fiends favor these terrifying sadists for their unwavering devotion to Hell's laws and the commands of their masters, as osyluths eagerly report the disobedience of other devils—regardless of standing—and take to the craft of torture like morbid artists. Diabolists risk much to bargain with them, as bone devils glean many infernal secrets amid their nightmarish calcified torture hives. These devils especially delight in journeying to the mortal plane, as their cruel talents and service to evil spellcasters often mean gaining much valuable information, which they might hold in their perfect memories for centuries before reporting back to their diabolical masters.
 
-In battle, an osyluth uses quickened _ [invisibility](../spells_dir/invisibility#_invisibility)_ after each attack to confuse foes. Many osyluths carry twisted and eerie bone weapons, but these tools are more for torture and intimidation than actual combat.
+In battle, an osyluth uses quickened _ [invisibility](../../spells_dir/invisibility#_invisibility)_ after each attack to confuse foes. Many osyluths carry twisted and eerie bone weapons, but these tools are more for torture and intimidation than actual combat.
 
 Osyluths tower over lesser devils at 9 feet tall—though their tails and fearsome but useless wings make them appear much larger—and weigh upward of 400 pounds.
 
@@ -250,9 +250,9 @@ _Some calamity has befallen this angelic warrior. Wings stained black shear the 
 
 **XP 4,800**
 
-LE Medium [outsider](creatureTypes#_outsider) ( [devil](creatureTypes#_devil-subtype), [evil](creatureTypes#_evil-subtype), [extraplanar](creatureTypes#_extraplanar-subtype), [lawful](creatureTypes#_lawful-subtype))
+LE Medium [outsider](../creatureTypes#_outsider) ( [devil](../creatureTypes#_devil-subtype), [evil](../creatureTypes#_evil-subtype), [extraplanar](../creatureTypes#_extraplanar-subtype), [lawful](../creatureTypes#_lawful-subtype))
 
-**Init** +6; **Senses** darkvision 60 ft., see in darkness, _ [true seeing](../spells_dir/trueSeeing#_true-seeing)_; [Perception](../skills_dir/perception#_perception) +16
+**Init** +6; **Senses** darkvision 60 ft., see in darkness, _ [true seeing](../../spells_dir/trueSeeing#_true-seeing)_; [Perception](../../skills_dir/perception#_perception) +16
 
 **Defense**
 
@@ -270,15 +270,15 @@ LE Medium [outsider](creatureTypes#_outsider) ( [devil](creatureTypes#_devil-sub
 
 **Melee** _+1 longsword_ +15_dir/+10 (1d8+8_dir/19–20)
 
-**Ranged** _+1 [flaming](../magicItems_dir/weapons#_weapons-flaming) composite longbow_ +14_dir/+14_dir/+9 (1d8+6_dir/×3 plus 1d6 fire) or rope +15 touch (entangle)
+**Ranged** _+1 [flaming](../../magicItems_dir/weapons#_weapons-flaming) composite longbow_ +14_dir/+14_dir/+9 (1d8+6_dir/×3 plus 1d6 fire) or rope +15 touch (entangle)
 
 **Spell-Like Abilities** (CL 12th)
 
-Constant—_ [true seeing](../spells_dir/trueSeeing#_true-seeing)_
+Constant—_ [true seeing](../../spells_dir/trueSeeing#_true-seeing)_
 
-At will—_ [fear](../spells_dir/fear#_fear)_ (single target, DC 19), _ [greater teleport](../spells_dir/teleport#_teleport-greater)_ (self plus 50 lbs. of objects only), _ [minor image](../spells_dir/minorImage#_minor-image)_ (DC 17), _ [unholy blight](../spells_dir/unholyBlight#_unholy-blight)_ (DC 19)
+At will—_ [fear](../../spells_dir/fear#_fear)_ (single target, DC 19), _ [greater teleport](../../spells_dir/teleport#_teleport-greater)_ (self plus 50 lbs. of objects only), _ [minor image](../../spells_dir/minorImage#_minor-image)_ (DC 17), _ [unholy blight](../../spells_dir/unholyBlight#_unholy-blight)_ (DC 19)
 
-1_dir/day— [summon](universalMonsterRules#_summon) (level 3, 2 bearded devils, 50%)
+1_dir/day— [summon](../universalMonsterRules#_summon) (level 3, 2 bearded devils, 50%)
 
 **Statistics**
 
@@ -286,11 +286,11 @@ At will—_ [fear](../spells_dir/fear#_fear)_ (single target, DC 19), _ [greater
 
 **Base**  **Atk** +9; **CMB** +14; **CMD** 31
 
-**Feats** [Combat Reflexes](../feats#_combat-reflexes), [Dodge](../feats#_dodge)B, [Mobility](../feats#_mobility)B, [Point-Blank Shot](../feats#_point-blank-shot), [Precise Shot](../feats#_precise-shot), [Rapid Shot](../feats#_rapid-shot), [Shot on the Run](../feats#_shot-on-the-run)
+**Feats** [Combat Reflexes](../../feats#_combat-reflexes), [Dodge](../../feats#_dodge)B, [Mobility](../../feats#_mobility)B, [Point-Blank Shot](../../feats#_point-blank-shot), [Precise Shot](../../feats#_precise-shot), [Rapid Shot](../../feats#_rapid-shot), [Shot on the Run](../../feats#_shot-on-the-run)
 
-**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +18, [Bluff](../skills_dir/bluff#_bluff) +17, [Diplomacy](../skills_dir/diplomacy#_diplomacy) +14, [Escape Artist](../skills_dir/escapeArtist#_escape-artist) +12, [Fly](../skills_dir/fly#_fly) +19, [Intimidate](../skills_dir/intimidate#_intimidate) +17, [Knowledge](../skills_dir/knowledge#_knowledge) (planes) +8, [Knowledge](../skills_dir/knowledge#_knowledge) (religion) +8, [Perception](../skills_dir/perception#_perception) +16, [Sense Motive](../skills_dir/senseMotive#_sense-motive) +10, [Stealth](../skills_dir/stealth#_stealth) +15
+**Skills** [Acrobatics](../../skills_dir/acrobatics#_acrobatics) +18, [Bluff](../../skills_dir/bluff#_bluff) +17, [Diplomacy](../../skills_dir/diplomacy#_diplomacy) +14, [Escape Artist](../../skills_dir/escapeArtist#_escape-artist) +12, [Fly](../../skills_dir/fly#_fly) +19, [Intimidate](../../skills_dir/intimidate#_intimidate) +17, [Knowledge](../../skills_dir/knowledge#_knowledge) (planes) +8, [Knowledge](../../skills_dir/knowledge#_knowledge) (religion) +8, [Perception](../../skills_dir/perception#_perception) +16, [Sense Motive](../../skills_dir/senseMotive#_sense-motive) +10, [Stealth](../../skills_dir/stealth#_stealth) +15
 
-**Languages** Celestial, Common, Draconic, Infernal; [telepathy](universalMonsterRules#_telepathy) 100 ft.
+**Languages** Celestial, Common, Draconic, Infernal; [telepathy](../universalMonsterRules#_telepathy) 100 ft.
 
 **Ecology**
 
@@ -298,11 +298,11 @@ At will—_ [fear](../spells_dir/fear#_fear)_ (single target, DC 19), _ [greater
 
 **Organization** solitary or trio
 
-**Treasure** triple (_+1 longsword, +1 [flaming](../magicItems_dir/weapons#_weapons-flaming) composite longbow_ [+5 Str bonus], rope)
+**Treasure** triple (_+1 longsword, +1 [flaming](../../magicItems_dir/weapons#_weapons-flaming) composite longbow_ [+5 Str bonus], rope)
 
 **Special Abilities**
 
-**Entangle (Su)** Each erinyes carries a 50-foot-long rope that entangles opponents of any size as an _ [animate rope](../spells_dir/animateRope#_animate-rope)_ spell (CL 16th, DC 20). An erinyes can hurl its rope 30 feet with no range penalty. An erinyes's rope functions only for the erinyes who made it and no other. The save DC is Dexterity-based.
+**Entangle (Su)** Each erinyes carries a 50-foot-long rope that entangles opponents of any size as an _ [animate rope](../../spells_dir/animateRope#_animate-rope)_ spell (CL 16th, DC 20). An erinyes can hurl its rope 30 feet with no range penalty. An erinyes's rope functions only for the erinyes who made it and no other. The save DC is Dexterity-based.
 
 Known by many names—the Fallen, the Ash Wings, and the Furies—the devils called erinyes mock the form of the angelic hosts in their exaction of vengeance and bloody justice. Executioners, not judges, erinyes alight upon the bladed eaves of Dis, Hell's cosmopolitan second layer, ever attentive for chances to soar into battle, whether in defense of Hell, on the whims of diabolical masters, or at the impassioned summons of jilted mortal summoners. All erinyes weave deadly living ropes from their own hair, which they use in battle to lift their foes into the air, mocking and condemning their victims for their transgressions before dropping them from great heights.
 
@@ -318,9 +318,9 @@ _Bristling with terrible spines and a crown of deadly horns, this leering winged
 
 **XP 76,800**
 
-LE Large [outsider](creatureTypes#_outsider) ( [devil](creatureTypes#_devil-subtype), [evil](creatureTypes#_evil-subtype), [extraplanar](creatureTypes#_extraplanar-subtype), [lawful](creatureTypes#_lawful-subtype))
+LE Large [outsider](../creatureTypes#_outsider) ( [devil](../creatureTypes#_devil-subtype), [evil](../creatureTypes#_evil-subtype), [extraplanar](../creatureTypes#_extraplanar-subtype), [lawful](../creatureTypes#_lawful-subtype))
 
-**Init** +8; **Senses** darkvision 60 ft., see in darkness; [Perception](../skills_dir/perception#_perception) +24
+**Init** +8; **Senses** darkvision 60 ft., see in darkness; [Perception](../../skills_dir/perception#_perception) +24
 
 **Aura** fear aura (5 ft., DC 23)
 
@@ -328,7 +328,7 @@ LE Large [outsider](creatureTypes#_outsider) ( [devil](creatureTypes#_devil-subt
 
 **AC** 35, touch 17, flat-footed 27 (+8 Dex, +18 natural, –1 size)
 
-**hp** 217 (15d10+135); [regeneration](universalMonsterRules#_regeneration) 5 (good weapons, good spells)
+**hp** 217 (15d10+135); [regeneration](../universalMonsterRules#_regeneration) 5 (good weapons, good spells)
 
 **Fort** +18, **Ref** +17, **Will** +13
 
@@ -338,17 +338,17 @@ LE Large [outsider](creatureTypes#_outsider) ( [devil](creatureTypes#_devil-subt
 
 **Speed** 30 ft., fly 50 ft. (average)
 
-**Melee** _+1 [unholy](../magicItems_dir/weapons#_unholy) spiked chain_ +26_dir/+21_dir/+16 (2d6+11 plus stun), bite +22 (2d8+5), tail +22 (2d6+5 plus infernal wound) or 2 claws +24 (2d6+10), bite +24 (2d8+10), tail +22 (2d6+5 plus infernal wound)
+**Melee** _+1 [unholy](../../magicItems_dir/weapons#_unholy) spiked chain_ +26_dir/+21_dir/+16 (2d6+11 plus stun), bite +22 (2d8+5), tail +22 (2d6+5 plus infernal wound) or 2 claws +24 (2d6+10), bite +24 (2d8+10), tail +22 (2d6+5 plus infernal wound)
 
 **Space** 10 ft.; **Reach** 10 ft.
 
 **Spell-Like Abilities** (CL 16th)
 
-At will—_ [dispel chaos](../spells_dir/dispelChaos#_dispel-chaos)_ (DC 21), _ [dispel good](../spells_dir/dispelGood#_dispel-good)_ (DC 21), _ [magic circle against good](../spells_dir/magicCircleAgainstGood#_magic-circle-against-good), [greater teleport](../spells_dir/teleport#_teleport-greater)_ (self plus 50 lbs. of objects only), _ [persistent image](../spells_dir/persistentImage#_persistent-image)_ (DC 21)
+At will—_ [dispel chaos](../../spells_dir/dispelChaos#_dispel-chaos)_ (DC 21), _ [dispel good](../../spells_dir/dispelGood#_dispel-good)_ (DC 21), _ [magic circle against good](../../spells_dir/magicCircleAgainstGood#_magic-circle-against-good), [greater teleport](../../spells_dir/teleport#_teleport-greater)_ (self plus 50 lbs. of objects only), _ [persistent image](../../spells_dir/persistentImage#_persistent-image)_ (DC 21)
 
-3_dir/day—_ [fireball](../spells_dir/fireball#_fireball)_ (DC 19), _ [lightning bolt](../spells_dir/lightningBolt#_lightning-bolt)_ (DC 19)
+3_dir/day—_ [fireball](../../spells_dir/fireball#_fireball)_ (DC 19), _ [lightning bolt](../../spells_dir/lightningBolt#_lightning-bolt)_ (DC 19)
 
-1_dir/day— [summon](universalMonsterRules#_summon) (level 6, 3 barbed devils, 35%)
+1_dir/day— [summon](../universalMonsterRules#_summon) (level 6, 3 barbed devils, 35%)
 
 **Statistics**
 
@@ -356,11 +356,11 @@ At will—_ [dispel chaos](../spells_dir/dispelChaos#_dispel-chaos)_ (DC 21), _ 
 
 **Base Atk** +15; **CMB** +26; **CMD** 44
 
-**Feats** [Improved Bull Rush](../feats#_improved-bull-rush), [Improved Sunder](../feats#_improved-sunder), [Improved Vital Strike](../feats#_improved-vital-strike), [Iron Will](../feats#_iron-will), [Multiattack](monsterFeats#_multiattack), [Power Attack](../feats#_power-attack), [Vital Strike](../feats#_vital-strike), [Weapon Focus](../feats#_weapon-focus) (spiked chain)
+**Feats** [Improved Bull Rush](../../feats#_improved-bull-rush), [Improved Sunder](../../feats#_improved-sunder), [Improved Vital Strike](../../feats#_improved-vital-strike), [Iron Will](../../feats#_iron-will), [Multiattack](../monsterFeats#_multiattack), [Power Attack](../../feats#_power-attack), [Vital Strike](../../feats#_vital-strike), [Weapon Focus](../../feats#_weapon-focus) (spiked chain)
 
-**Skills** [Bluff](../skills_dir/bluff#_bluff) +24, [Diplomacy](../skills_dir/diplomacy#_diplomacy) +21, [Fly](../skills_dir/fly#_fly) +15, [Intimidate](../skills_dir/intimidate#_intimidate) +24, [Knowledge](../skills_dir/knowledge#_knowledge) (planes) +20, [Perception](../skills_dir/perception#_perception) +24, [Sense Motive](../skills_dir/senseMotive#_sense-motive) +21, [Spellcraft](../skills_dir/spellcraft#_spellcraft) +20, [Stealth](../skills_dir/stealth#_stealth) +22
+**Skills** [Bluff](../../skills_dir/bluff#_bluff) +24, [Diplomacy](../../skills_dir/diplomacy#_diplomacy) +21, [Fly](../../skills_dir/fly#_fly) +15, [Intimidate](../../skills_dir/intimidate#_intimidate) +24, [Knowledge](../../skills_dir/knowledge#_knowledge) (planes) +20, [Perception](../../skills_dir/perception#_perception) +24, [Sense Motive](../../skills_dir/senseMotive#_sense-motive) +21, [Spellcraft](../../skills_dir/spellcraft#_spellcraft) +20, [Stealth](../../skills_dir/stealth#_stealth) +22
 
-**Languages** Celestial, Common, Draconic, Infernal; [telepathy](universalMonsterRules#_telepathy) 100 ft.
+**Languages** Celestial, Common, Draconic, Infernal; [telepathy](../universalMonsterRules#_telepathy) 100 ft.
 
 **Ecology**
 
@@ -368,11 +368,11 @@ At will—_ [dispel chaos](../spells_dir/dispelChaos#_dispel-chaos)_ (DC 21), _ 
 
 **Organization** solitary, pair, or wing (3–10)
 
-**Treasure** standard (_+1 [unholy](../magicItems_dir/weapons#_unholy) spiked chain_, other treasure)
+**Treasure** standard (_+1 [unholy](../../magicItems_dir/weapons#_unholy) spiked chain_, other treasure)
 
 **Special Abilities**
 
-**Infernal Wound (Su)** The damage a horned devil deals with its tail causes persistent wounds that deal 2d6 points of [bleed](universalMonsterRules#_bleed) damage. Bleeding caused in this way is difficult to staunch—a DC 26 [Heal](../skills_dir/heal#_heal) check stops the damage, and any attempt to heal a creature suffering from an infernal wound must succeed on a DC 26 caster level check or the spell does not function. Success indicates the healing works normally and stops all [bleed](universalMonsterRules#_bleed) effects.
+**Infernal Wound (Su)** The damage a horned devil deals with its tail causes persistent wounds that deal 2d6 points of [bleed](../universalMonsterRules#_bleed) damage. Bleeding caused in this way is difficult to staunch—a DC 26 [Heal](../../skills_dir/heal#_heal) check stops the damage, and any attempt to heal a creature suffering from an infernal wound must succeed on a DC 26 caster level check or the spell does not function. Success indicates the healing works normally and stops all [bleed](../universalMonsterRules#_bleed) effects.
 
 **Stun (Su)** Whenever a horned devil hits with a spiked chain attack, the opponent must succeed on a DC 27 Fortitude save or be stunned for 1d4 rounds. This ability is a function of the horned devil, not of the spiked chain. The save DC is Strength-based.
 
@@ -388,9 +388,9 @@ _A pair of frozen, multifaceted eyes coldly judge all before this towering, inse
 
 **XP 25,600**
 
-LE Large [outsider](creatureTypes#_outsider) ( [devil](creatureTypes#_devil-subtype), [evil](creatureTypes#_evil-subtype), [extraplanar](creatureTypes#_extraplanar-subtype), [lawful](creatureTypes#_lawful-subtype))
+LE Large [outsider](../creatureTypes#_outsider) ( [devil](../creatureTypes#_devil-subtype), [evil](../creatureTypes#_evil-subtype), [extraplanar](../creatureTypes#_extraplanar-subtype), [lawful](../creatureTypes#_lawful-subtype))
 
-**Init** +9; **Senses** darkvision 60 ft., see in darkness; [Perception](../skills_dir/perception#_perception) +27
+**Init** +9; **Senses** darkvision 60 ft., see in darkness; [Perception](../../skills_dir/perception#_perception) +27
 
 **Aura** fear (10 ft., DC 22)
 
@@ -408,17 +408,17 @@ LE Large [outsider](creatureTypes#_outsider) ( [devil](creatureTypes#_devil-subt
 
 **Speed** 40 ft., fly 60 ft. (good)
 
-**Melee** _+1 [frost](../magicItems_dir/weapons#_weapons-frost) spear_ +21_dir/+16_dir/+11 (2d6+10_dir/×3 plus 1d6 cold plus slow), bite +14 (2d6+6), tail +14 (3d6+3 plus slow)
+**Melee** _+1 [frost](../../magicItems_dir/weapons#_weapons-frost) spear_ +21_dir/+16_dir/+11 (2d6+10_dir/×3 plus 1d6 cold plus slow), bite +14 (2d6+6), tail +14 (3d6+3 plus slow)
 
 **Space** 10 ft.; **Reach** 10 ft.
 
 **Spell-Like Abilities** (CL 13th)
 
-Constant—_ [fly](../spells_dir/fly)_
+Constant—_ [fly](../../spells_dir/fly)_
 
-At will—_ [cone of cold](../spells_dir/coneOfCold#_cone-of-cold) _(DC 20), _ [ice storm](../spells_dir/iceStorm#_ice-storm)_, _ [greater teleport](../spells_dir/teleport#_teleport-greater)_ (self plus 50 lbs. of objects only), _ [persistent image](../spells_dir/persistentImage#_persistent-image)_ (DC 20), _ [wall of ice](../spells_dir/wallOfIce#_wall-of-ice)_ (DC 19)
+At will—_ [cone of cold](../../spells_dir/coneOfCold#_cone-of-cold) _(DC 20), _ [ice storm](../../spells_dir/iceStorm#_ice-storm)_, _ [greater teleport](../../spells_dir/teleport#_teleport-greater)_ (self plus 50 lbs. of objects only), _ [persistent image](../../spells_dir/persistentImage#_persistent-image)_ (DC 20), _ [wall of ice](../../spells_dir/wallOfIce#_wall-of-ice)_ (DC 19)
 
-1_dir/day— [summon](universalMonsterRules#_summon) (level 4, 2 bone devils, 50%)
+1_dir/day— [summon](../universalMonsterRules#_summon) (level 4, 2 bone devils, 50%)
 
 **Statistics**
 
@@ -426,11 +426,11 @@ At will—_ [cone of cold](../spells_dir/coneOfCold#_cone-of-cold) _(DC 20), _ [
 
 **Base Atk** +14; **CMB** +21; **CMD** 36
 
-**Feats** [Alertness](../feats#_alertness), [Cleave](../feats#_cleave), [Combat Reflexes](../feats#_combat-reflexes), [Improved Initiative](../feats#_improved-initiative), [Iron Will](../feats#_iron-will), [Power Attack](../feats#_power-attack), [Weapon Focus](../feats#_weapon-focus) (spear)
+**Feats** [Alertness](../../feats#_alertness), [Cleave](../../feats#_cleave), [Combat Reflexes](../../feats#_combat-reflexes), [Improved Initiative](../../feats#_improved-initiative), [Iron Will](../../feats#_iron-will), [Power Attack](../../feats#_power-attack), [Weapon Focus](../../feats#_weapon-focus) (spear)
 
-**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +22, [Bluff](../skills_dir/bluff#_bluff) +22, [Diplomacy](../skills_dir/diplomacy#_diplomacy) +22, [Fly](../skills_dir/fly#_fly) +13, [Intimidate](../skills_dir/intimidate#_intimidate) +19, [Knowledge](../skills_dir/knowledge#_knowledge) (planes) +24, [Knowledge](../skills_dir/knowledge#_knowledge) (any three others) +21, [Perception](../skills_dir/perception#_perception) +27, [Sense Motive](../skills_dir/senseMotive#_sense-motive) +27, [Spellcraft](../skills_dir/spellcraft#_spellcraft) +21, [Stealth](../skills_dir/stealth#_stealth) +18, [Survival](../skills_dir/survival#_survival) +23
+**Skills** [Acrobatics](../../skills_dir/acrobatics#_acrobatics) +22, [Bluff](../../skills_dir/bluff#_bluff) +22, [Diplomacy](../../skills_dir/diplomacy#_diplomacy) +22, [Fly](../../skills_dir/fly#_fly) +13, [Intimidate](../../skills_dir/intimidate#_intimidate) +19, [Knowledge](../../skills_dir/knowledge#_knowledge) (planes) +24, [Knowledge](../../skills_dir/knowledge#_knowledge) (any three others) +21, [Perception](../../skills_dir/perception#_perception) +27, [Sense Motive](../../skills_dir/senseMotive#_sense-motive) +27, [Spellcraft](../../skills_dir/spellcraft#_spellcraft) +21, [Stealth](../../skills_dir/stealth#_stealth) +18, [Survival](../../skills_dir/survival#_survival) +23
 
-**Languages** Celestial, Common, Draconic, Infernal; [telepathy](universalMonsterRules#_telepathy) 100 ft.
+**Languages** Celestial, Common, Draconic, Infernal; [telepathy](../universalMonsterRules#_telepathy) 100 ft.
 
 **Ecology**
 
@@ -438,11 +438,11 @@ At will—_ [cone of cold](../spells_dir/coneOfCold#_cone-of-cold) _(DC 20), _ [
 
 **Organization** solitary, team (2–3), council (4–10), or contingent (1–3 ice devils, 2–6 horned devils, and 1–4 bone devils)
 
-**Treasure** standard (_+1 [frost](../magicItems_dir/weapons#_weapons-frost) spear_, other treasure)
+**Treasure** standard (_+1 [frost](../../magicItems_dir/weapons#_weapons-frost) spear_, other treasure)
 
 **Special Abilities**
 
-**Slow (Su)** A hit from an ice devil's tail or spear induces numbing cold. The opponent must succeed on a DC 23 Fortitude save or be affected as though by a _ [slow](../spells_dir/slow#_slow)_ spell for 1d6 rounds. This effect comes from the devil in the case of its weapon; it is not a quality possessed by the spear itself. The save DC is Constitution-based.
+**Slow (Su)** A hit from an ice devil's tail or spear induces numbing cold. The opponent must succeed on a DC 23 Fortitude save or be affected as though by a _ [slow](../../spells_dir/slow#_slow)_ spell for 1d6 rounds. This effect comes from the devil in the case of its weapon; it is not a quality possessed by the spear itself. The save DC is Constitution-based.
 
 It is said that each ice devil—known as gelugons among the ranks of devilkind—bears within its chest a stolen, frozen mortal heart, which allows it to make decisions free of all emotion. Born on the icy layer of Cocytus, Hell's seventh layer, most ice devils migrate to Caina, the eighth layer, where they plot world-damning machinations from courts of freezing steel. Although they are perhaps the most alien and monstrous in appearance of all devils, few breeds are accorded greater respect.
 
@@ -458,15 +458,15 @@ _Fiendish wings and a whipping scorpion-like tail lash behind this diminutive, r
 
 **XP 600**
 
-LE Tiny [outsider](creatureTypes#_outsider) ( [devil](creatureTypes#_devil-subtype), [evil](creatureTypes#_evil-subtype), [extraplanar](creatureTypes#_extraplanar-subtype), [lawful](creatureTypes#_lawful-subtype))
+LE Tiny [outsider](../creatureTypes#_outsider) ( [devil](../creatureTypes#_devil-subtype), [evil](../creatureTypes#_evil-subtype), [extraplanar](../creatureTypes#_extraplanar-subtype), [lawful](../creatureTypes#_lawful-subtype))
 
-**Init** +3; **Senses** darkvision 60 ft., _ [detect good](../spells_dir/detectGood#_detect-good), [detect magic](../spells_dir/detectMagic#_detect-magic), _see in darkness; [Perception](../skills_dir/perception#_perception) +7
+**Init** +3; **Senses** darkvision 60 ft., _ [detect good](../../spells_dir/detectGood#_detect-good), [detect magic](../../spells_dir/detectMagic#_detect-magic), _see in darkness; [Perception](../../skills_dir/perception#_perception) +7
 
 **Defense**
 
 **AC** 17, touch 16, flat-footed 13 (+3 Dex, +1 dodge, +1 natural, +2 size)
 
-**hp** 16 (3d10); [fast healing](universalMonsterRules#_fast-healing) 2
+**hp** 16 (3d10); [fast healing](../universalMonsterRules#_fast-healing) 2
 
 **Fort** +1, **Ref** +6, **Will** +4
 
@@ -476,19 +476,19 @@ LE Tiny [outsider](creatureTypes#_outsider) ( [devil](creatureTypes#_devil-subty
 
 **Speed** 20 ft., fly 50 ft. (perfect)
 
-**Melee** sting +8 (1d4 plus [poison](universalMonsterRules#_poison))
+**Melee** sting +8 (1d4 plus [poison](../universalMonsterRules#_poison))
 
 **Space** 2-1_dir/2 ft.; **Reach** 0 ft.
 
 **Spell-Like Abilities** (CL 6th)
 
-Constant—_ [detect good](../spells_dir/detectGood#_detect-good), [detect magic](../spells_dir/detectMagic#_detect-magic)_
+Constant—_ [detect good](../../spells_dir/detectGood#_detect-good), [detect magic](../../spells_dir/detectMagic#_detect-magic)_
 
-At will—_ [invisibility](../spells_dir/invisibility#_invisibility)_ (self only)
+At will—_ [invisibility](../../spells_dir/invisibility#_invisibility)_ (self only)
 
-1_dir/day—_ [augury](../spells_dir/augury#_augury),_ _ [suggestion](../spells_dir/suggestion#_suggestion)_ (DC 15)
+1_dir/day—_ [augury](../../spells_dir/augury#_augury),_ _ [suggestion](../../spells_dir/suggestion#_suggestion)_ (DC 15)
 
-1_dir/week—_ [commune](../spells_dir/commune#_commune)_ (6 questions, CL 12th)
+1_dir/week—_ [commune](../../spells_dir/commune#_commune)_ (6 questions, CL 12th)
 
 **Statistics**
 
@@ -496,13 +496,13 @@ At will—_ [invisibility](../spells_dir/invisibility#_invisibility)_ (self only
 
 **Base Atk** +3; **CMB** +1; **CMD** 15
 
-**Feats** [Dodge](../feats#_dodge), [Weapon Finesse](../feats#_weapon-finesse)
+**Feats** [Dodge](../../feats#_dodge), [Weapon Finesse](../../feats#_weapon-finesse)
 
-**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +9, [Bluff](../skills_dir/bluff#_bluff) +8, [Fly](../skills_dir/fly#_fly) +21, [Knowledge](../skills_dir/knowledge#_knowledge) (arcana) +7, [Knowledge](../skills_dir/knowledge#_knowledge) (planes) +7, [Perception](../skills_dir/perception#_perception) +7, [Spellcraft](../skills_dir/spellcraft#_spellcraft) +7
+**Skills** [Acrobatics](../../skills_dir/acrobatics#_acrobatics) +9, [Bluff](../../skills_dir/bluff#_bluff) +8, [Fly](../../skills_dir/fly#_fly) +21, [Knowledge](../../skills_dir/knowledge#_knowledge) (arcana) +7, [Knowledge](../../skills_dir/knowledge#_knowledge) (planes) +7, [Perception](../../skills_dir/perception#_perception) +7, [Spellcraft](../../skills_dir/spellcraft#_spellcraft) +7
 
 **Languages** Common, Infernal
 
-**SQ** [change shape](universalMonsterRules#_change-shape) (boar, giant spider, rat, or raven, _ [beast shape I](../spells_dir/beastShape#_beast-shape-i)_)
+**SQ** [change shape](../universalMonsterRules#_change-shape) (boar, giant spider, rat, or raven, _ [beast shape I](../../spells_dir/beastShape#_beast-shape-i)_)
 
 **Ecology**
 
@@ -520,7 +520,7 @@ Born directly from the pits of Hell, imps are among the least of the true devils
 
 Imps vary widely in appearance, ranging through a spectrum of bestial traits and grotesque body shapes, though most take the forms of red-skinned, winged humanoids with bulbous features. Such a typical imp stands a mere 2 feet tall, has a 3-foot wingspan, and weighs 10 pounds.
 
-One in every thousand imps possesses the ability to communicate telepathically with creatures within 50 feet and the power to change its form into that of any Small or Tiny animal, as per the spell _ [beast shape II](../spells_dir/beastShape#_beast-shape-ii)_. These imp consulars are highly prized by powerful devils, who send them to serve their favored minions or to corrupt mortals with great destinies. An imp consular can be summoned via the [Improved Familiar](../feats#_improved-familiar) feat, but only by a spellcaster of 8th level or higher. Diabolists tell of other breeds of imps with similarly specialized abilities, but if such creatures truly exist they are an especially rare lot.
+One in every thousand imps possesses the ability to communicate telepathically with creatures within 50 feet and the power to change its form into that of any Small or Tiny animal, as per the spell _ [beast shape II](../../spells_dir/beastShape#_beast-shape-ii)_. These imp consulars are highly prized by powerful devils, who send them to serve their favored minions or to corrupt mortals with great destinies. An imp consular can be summoned via the [Improved Familiar](../../feats#_improved-familiar) feat, but only by a spellcaster of 8th level or higher. Diabolists tell of other breeds of imps with similarly specialized abilities, but if such creatures truly exist they are an especially rare lot.
 
 Unlike most devils, imps often find themselves free and alone on the Material Plane, particularly after they've been summoned to serve as familiars and their masters have perished (often indirectly due to the machinations of the imp itself). With no way to return home, these imps, freed of their bonds to arcane masters, can become dangerous pests or even leaders of small tribes of savage humanoids like goblins or kobolds.
 
@@ -532,9 +532,9 @@ _A roiling wave of flesh gushes forward. Amid the fatty surge wriggle half-forme
 
 **XP 400**
 
-LE Medium [outsider](creatureTypes#_outsider) ( [devil](creatureTypes#_devil-subtype), [evil](creatureTypes#_evil-subtype), [extraplanar](creatureTypes#_extraplanar-subtype), [lawful](creatureTypes#_lawful-subtype))
+LE Medium [outsider](../creatureTypes#_outsider) ( [devil](../creatureTypes#_devil-subtype), [evil](../creatureTypes#_evil-subtype), [extraplanar](../creatureTypes#_extraplanar-subtype), [lawful](../creatureTypes#_lawful-subtype))
 
-**Init** +0; **Senses** darkvision 60 ft., see in darkness; [Perception](../skills_dir/perception#_perception) +0
+**Init** +0; **Senses** darkvision 60 ft., see in darkness; [Perception](../../skills_dir/perception#_perception) +0
 
 **Defense**
 
@@ -578,9 +578,9 @@ _A pair of gigantic, flame-seared wings and eyes smoldering like embers give thi
 
 **XP 307,200**
 
-LE Large [outsider](creatureTypes#_outsider) ( [devil](creatureTypes#_devil-subtype), [evil](creatureTypes#_evil-subtype), [extraplanar](creatureTypes#_extraplanar-subtype), [lawful](creatureTypes#_lawful-subtype))
+LE Large [outsider](../creatureTypes#_outsider) ( [devil](../creatureTypes#_devil-subtype), [evil](../creatureTypes#_evil-subtype), [extraplanar](../creatureTypes#_extraplanar-subtype), [lawful](../creatureTypes#_lawful-subtype))
 
-**Init** +13; **Senses** darkvision 60 ft., see in darkness; [Perception](../skills_dir/perception#_perception) +33
+**Init** +13; **Senses** darkvision 60 ft., see in darkness; [Perception](../../skills_dir/perception#_perception) +33
 
 **Aura** fear (20 ft., DC 23)
 
@@ -588,7 +588,7 @@ LE Large [outsider](creatureTypes#_outsider) ( [devil](creatureTypes#_devil-subt
 
 **AC** 38, touch 18, flat-footed 29 (+9 Dex, +20 natural, –1 size)
 
-**hp** 350 (20d10+240); [regeneration](universalMonsterRules#_regeneration) 5 (good weapons, good spells)
+**hp** 350 (20d10+240); [regeneration](../universalMonsterRules#_regeneration) 5 (good weapons, good spells)
 
 **Fort** +24, **Ref** +21, **Will** +18
 
@@ -598,21 +598,21 @@ LE Large [outsider](creatureTypes#_outsider) ( [devil](creatureTypes#_devil-subt
 
 **Speed** 40 ft., fly 60 ft. (average)
 
-**Melee** 2 claws +32 (2d8+13), 2 wings +30 (2d6+6), bite +32 (4d6+13 plus poison and disease), tail slap +30 (2d8+6 plus [grab](universalMonsterRules#_grab))
+**Melee** 2 claws +32 (2d8+13), 2 wings +30 (2d6+6), bite +32 (4d6+13 plus poison and disease), tail slap +30 (2d8+6 plus [grab](../universalMonsterRules#_grab))
 
 **Space** 10 ft., **Reach** 10 ft.
 
-**Special Attacks** [constrict](universalMonsterRules#_constrict) 2d8+19, devil shaping
+**Special Attacks** [constrict](../universalMonsterRules#_constrict) 2d8+19, devil shaping
 
 **Spell-Like Abilities** (CL 18th)
 
-At will—_ [blasphemy](../spells_dir/blasphemy#_blasphemy)_ (DC 25), _ [create undead](../spells_dir/createUndead#_create-undead), [fireball](../spells_dir/fireball#_fireball)_ (DC 21), _ [greater dispel magic](../spells_dir/dispelMagic#_dispel-magic-greater), [greater teleport](../spells_dir/teleport#_teleport-greater) _(self plus 50 lbs. of objects only), _ [greater scrying](../spells_dir/scrying#_scrying-greater)_ (DC 25), _ [invisibility](../spells_dir/invisibility#_invisibility), [magic circle against good](../spells_dir/magicCircleAgainstGood#_magic-circle-against-good), [mass hold monster](../spells_dir/holdMonster#_hold-monster-mass) _(DC 27), _ [persistent image](../spells_dir/persistentImage#_persistent-image) _(DC 23), _ [power word stun](../spells_dir/powerWordStun#_power-word-stun), [scorching ray](../spells_dir/scorchingRay#_scorching-ray)_, _ [trap the soul](../spells_dir/trapTheSoul#_trap-the-soul)_ (DC 26), _ [unholy aura](../spells_dir/unholyAura#_unholy-aura)_ (DC 26), _ [wall of fire](../spells_dir/wallOfFire#_wall-of-fire)_
+At will—_ [blasphemy](../../spells_dir/blasphemy#_blasphemy)_ (DC 25), _ [create undead](../../spells_dir/createUndead#_create-undead), [fireball](../../spells_dir/fireball#_fireball)_ (DC 21), _ [greater dispel magic](../../spells_dir/dispelMagic#_dispel-magic-greater), [greater teleport](../../spells_dir/teleport#_teleport-greater) _(self plus 50 lbs. of objects only), _ [greater scrying](../../spells_dir/scrying#_scrying-greater)_ (DC 25), _ [invisibility](../../spells_dir/invisibility#_invisibility), [magic circle against good](../../spells_dir/magicCircleAgainstGood#_magic-circle-against-good), [mass hold monster](../../spells_dir/holdMonster#_hold-monster-mass) _(DC 27), _ [persistent image](../../spells_dir/persistentImage#_persistent-image) _(DC 23), _ [power word stun](../../spells_dir/powerWordStun#_power-word-stun), [scorching ray](../../spells_dir/scorchingRay#_scorching-ray)_, _ [trap the soul](../../spells_dir/trapTheSoul#_trap-the-soul)_ (DC 26), _ [unholy aura](../../spells_dir/unholyAura#_unholy-aura)_ (DC 26), _ [wall of fire](../../spells_dir/wallOfFire#_wall-of-fire)_
 
-3_dir/day—quickened_ [fireball](../spells_dir/fireball#_fireball)_ (DC 21)
+3_dir/day—quickened_ [fireball](../../spells_dir/fireball#_fireball)_ (DC 21)
 
-1_dir/day—_ [meteor swarm](../spells_dir/meteorSwarm#_meteor-swarm), _ [summon](universalMonsterRules#_summon) (level 9, any 1 CR 19 or lower devil, 100%)
+1_dir/day—_ [meteor swarm](../../spells_dir/meteorSwarm#_meteor-swarm), _ [summon](../universalMonsterRules#_summon) (level 9, any 1 CR 19 or lower devil, 100%)
 
-1_dir/year—_ [wish](../spells_dir/wish#_wish)_
+1_dir/year—_ [wish](../../spells_dir/wish#_wish)_
 
 **Statistics**
 
@@ -620,11 +620,11 @@ At will—_ [blasphemy](../spells_dir/blasphemy#_blasphemy)_ (DC 25), _ [create 
 
 **Base Atk** +20; **CMB** +34 (+38 grapple); **CMD** 53
 
-**Feats** [Cleave](../feats#_cleave), [Great Cleave](../feats#_great-cleave), [Improved Initiative](../feats#_improved-initiative), [Improved Iron Will](../feats#_improved-iron-will), [Improved Vital Strike](../feats#_improved-vital-strike), [Iron Will](../feats#_iron-will), [Multiattack](monsterFeats#_multiattack), [Power Attack](../feats#_power-attack), [Quicken Spell-Like Ability](monsterFeats#_quicken-spell-like-ability) (_ [fireball](../spells_dir/fireball#_fireball)_), [Vital Strike](../feats#_vital-strike)
+**Feats** [Cleave](../../feats#_cleave), [Great Cleave](../../feats#_great-cleave), [Improved Initiative](../../feats#_improved-initiative), [Improved Iron Will](../../feats#_improved-iron-will), [Improved Vital Strike](../../feats#_improved-vital-strike), [Iron Will](../../feats#_iron-will), [Multiattack](../monsterFeats#_multiattack), [Power Attack](../../feats#_power-attack), [Quicken Spell-Like Ability](../monsterFeats#_quicken-spell-like-ability) (_ [fireball](../../spells_dir/fireball#_fireball)_), [Vital Strike](../../feats#_vital-strike)
 
-**Skills** [Appraise](../skills_dir/appraise#_appraise) +17, [Bluff](../skills_dir/bluff#_bluff) +31, [Diplomacy](../skills_dir/diplomacy#_diplomacy) +31, [Disguise](../skills_dir/disguise#_disguise) +27, [Fly](../skills_dir/fly#_fly) +30, [Intimidate](../skills_dir/intimidate#_intimidate) +31, [Knowledge](../skills_dir/knowledge#_knowledge) (arcana) +28, [Knowledge](../skills_dir/knowledge#_knowledge) (planes) +31, [Knowledge](../skills_dir/knowledge#_knowledge) (religion) +31, [Perception](../skills_dir/perception#_perception) +33, [Sense Motive](../skills_dir/senseMotive#_sense-motive) +33, [Spellcraft](../skills_dir/spellcraft#_spellcraft) +31, [Stealth](../skills_dir/stealth#_stealth) +28, [Survival](../skills_dir/survival#_survival) +22, [Use Magic Device](../skills_dir/useMagicDevice#_use-magic-device) +28
+**Skills** [Appraise](../../skills_dir/appraise#_appraise) +17, [Bluff](../../skills_dir/bluff#_bluff) +31, [Diplomacy](../../skills_dir/diplomacy#_diplomacy) +31, [Disguise](../../skills_dir/disguise#_disguise) +27, [Fly](../../skills_dir/fly#_fly) +30, [Intimidate](../../skills_dir/intimidate#_intimidate) +31, [Knowledge](../../skills_dir/knowledge#_knowledge) (arcana) +28, [Knowledge](../../skills_dir/knowledge#_knowledge) (planes) +31, [Knowledge](../../skills_dir/knowledge#_knowledge) (religion) +31, [Perception](../../skills_dir/perception#_perception) +33, [Sense Motive](../../skills_dir/senseMotive#_sense-motive) +33, [Spellcraft](../../skills_dir/spellcraft#_spellcraft) +31, [Stealth](../../skills_dir/stealth#_stealth) +28, [Survival](../../skills_dir/survival#_survival) +22, [Use Magic Device](../../skills_dir/useMagicDevice#_use-magic-device) +28
 
-**Languages** Celestial, Common, Draconic, Infernal; [telepathy](universalMonsterRules#_telepathy) 100 ft.
+**Languages** Celestial, Common, Draconic, Infernal; [telepathy](../universalMonsterRules#_telepathy) 100 ft.
 
 **Ecology**
 
@@ -638,9 +638,9 @@ At will—_ [blasphemy](../spells_dir/blasphemy#_blasphemy)_ (DC 25), _ [create 
 
 **Devil Shaping (Su)** Three times per day, a pit fiend can spend a minute to transform nearby lemures into other lesser devils. A pit fiend can transform one lemure for every Hit Die the pit fiend possesses. It can then reshape these lemures into a number of Hit Dice's worth of lesser devils equal to the number of lemures affected. For example, a typical 20 Hit Dice pit fiend could transform 20 lemures into two bone devils (10 HD each), or three bearded devils (6 HD each, leaving two lemures unchanged), or any other combination of lesser devils. Lemures to be reshaped must be within 50 feet of the pit fiend, becoming stationary and unable to move once the shaping begins. After a minute passes, the lemures reform into the shape of a new lesser devil ready to follow the orders of the pit fiend. Although pit fiends can, technically, elevate a mass of 20 lemures into a new pit fiend, most are hesitant to do so since they have no special control over a devil created in this manner.
 
-**Disease (Su)** _Devil Chills_: Bite—injury; _save_ Fort DC 32; _onset_ immediate; _frequency_ 1_dir/day; _effect_ 1d4 Str [damage](universalMonsterRules#_ability-damage-and-drain); _cure_ 3 consecutive saves. The save DC is Constitution-based.
+**Disease (Su)** _Devil Chills_: Bite—injury; _save_ Fort DC 32; _onset_ immediate; _frequency_ 1_dir/day; _effect_ 1d4 Str [damage](../universalMonsterRules#_ability-damage-and-drain); _cure_ 3 consecutive saves. The save DC is Constitution-based.
 
-**Poison (Ex)** Bite—injury; _save_ Fort DC 32; _frequency_ 1_dir/round for 10 rounds; _effect_ 1d6 Con [damage](universalMonsterRules#_ability-damage-and-drain); _cure_ 3 consecutive saves. The save DC is Constitution-based.
+**Poison (Ex)** Bite—injury; _save_ Fort DC 32; _frequency_ 1_dir/round for 10 rounds; _effect_ 1d6 Con [damage](../universalMonsterRules#_ability-damage-and-drain); _cure_ 3 consecutive saves. The save DC is Constitution-based.
 
 Rulers of infernal realms, generals of Hell's armies, and advisors to the archfiends, pit fiends embody the awesome and terrible pinnacle of devilkind. Massive, physically indomitable, and possessed of ingenious evil intellects, these diabolical tyrants hold great autonomy whether in their service to the archfiends, in their rule of vast infernal fiefdoms, or in subjugation of mortal worlds. Thick muscles cling to their gigantic frames, armored over by dense, bladed scales capable of deflecting all but the most potent assaults. Fangs as thick as daggers fill their maws, bestial visages disguising some of the most insidious minds in Hell. Born within the depths of Nessus, the ninth and deepest layer of Hell, pit fiends are raised from the ranks of cornugons and gelugons by the archdevils and their dukes alone. While many travel to higher layers and far from Hell to command infernal legions, most remain in Nessus serving in the courts of Hell's elite or in dark councils with unknowable purposes. Pit fiends always stand over 14 feet tall, with wingspans in excess of 20 feet and weights over 1,000 pounds.
 
@@ -656,5 +656,5 @@ The most powerful of pit fiends are lords in their own right—members of the el
 
 **Master of Magic (Su)** : The pit fiend duke has additional spell-like abilities (20 spell levels' worth of 1st–4th level spells usable at will and 20 spell levels' worth of 5th–8th level spells usable 3 times a day).
 
-**Hellfire Breath (Su)** : The pit fiend gains a devastating breath weapon that it can use once every 1d4 rounds. This breath weapon is a 60-foot cone of fire (10d10 fire damage and 10d10 unholy damage as per _ [flame strike](../spells_dir/flameStrike#_flame-strike)_, successful Reflex save [DC 10 + 1_dir/2 the pit fiend's racial HD + the pit fiend's Constitution modifier] half).
+**Hellfire Breath (Su)** : The pit fiend gains a devastating breath weapon that it can use once every 1d4 rounds. This breath weapon is a 60-foot cone of fire (10d10 fire damage and 10d10 unholy damage as per _ [flame strike](../../spells_dir/flameStrike#_flame-strike)_, successful Reflex save [DC 10 + 1_dir/2 the pit fiend's racial HD + the pit fiend's Constitution modifier] half).
 

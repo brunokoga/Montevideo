@@ -10,9 +10,9 @@ _Hunched and feral, this furred, hyena-headed humanoid stands slightly taller th
 
 **XP 400**
 
-CE Medium [humanoid](creatureTypes#_humanoid) (gnoll)
+CE Medium [humanoid](../creatureTypes#_humanoid) (gnoll)
 
-**Init** +0; **Senses** darkvision 60 ft.; [Perception](../skills_dir/perception#_perception) +2
+**Init** +0; **Senses** darkvision 60 ft.; [Perception](../../skills_dir/perception#_perception) +2
 
 **Defense**
 
@@ -36,9 +36,9 @@ CE Medium [humanoid](creatureTypes#_humanoid) (gnoll)
 
 **Base**  **Atk** +1; **CMB** +3; **CMD** 13
 
-**Feats** [Power Attack](../feats#_power-attack)
+**Feats** [Power Attack](../../feats#_power-attack)
 
-**Skills** [Perception](../skills_dir/perception#_perception) +2
+**Skills** [Perception](../../skills_dir/perception#_perception) +2
 
 **Languages** Gnoll
 

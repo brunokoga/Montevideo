@@ -16,11 +16,11 @@ title: spells_dir/modifyMemory
 
 **Duration** permanent
 
-**Saving Throw** [Will](../combat#_will) negates; **[Spell Resistance](../glossary#_spell-resistance)** yes
+**Saving Throw** [Will](../../combat#_will) negates; **[Spell Resistance](../../glossary#_spell-resistance)** yes
 
 You reach into the subject's mind and modify as many as 5 minutes of its memories in one of the following ways.
 
-- Eliminate all memory of an event the subject actually experienced. This spell cannot negate _charm, [geas_dir/quest](geasQuest#_geas-quest), [suggestion](suggestion#_suggestion), _or similar spells.
+- Eliminate all memory of an event the subject actually experienced. This spell cannot negate _charm, [geas_dir/quest](../geasQuest#_geas-quest), [suggestion](../suggestion#_suggestion), _or similar spells.
 - Allow the subject to recall with perfect clarity an event it actually experienced.
 - Change the details of an event the subject actually experienced.
 - Implant a memory of an event the subject never experienced.

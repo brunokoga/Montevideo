@@ -10,5 +10,5 @@ title: spells_dir/dazeMonster
 
 **Target** one living creature of 6 HD or less
 
-This spell functions like _ [daze](daze#_daze), _but it can affect any one living creature of any type. Creatures of 7 or more HD are not affected.
+This spell functions like _ [daze](../daze#_daze), _but it can affect any one living creature of any type. Creatures of 7 or more HD are not affected.
 

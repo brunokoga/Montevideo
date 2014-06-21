@@ -10,9 +10,9 @@ _This dry, hovering corpse's chest is a prison of jagged ribs, within which is t
 
 **XP 12,800**
 
-NE Large [undead](creatureTypes#_undead) ( [extraplanar](creatureTypes#_extraplanar-subtype))
+NE Large [undead](../creatureTypes#_undead) ( [extraplanar](../creatureTypes#_extraplanar-subtype))
 
-**Init** +7; **Senses** darkvision 60 ft.; [Perception](../skills_dir/perception#_perception) +20
+**Init** +7; **Senses** darkvision 60 ft.; [Perception](../../skills_dir/perception#_perception) +20
 
 **Defense**
 
@@ -22,21 +22,21 @@ NE Large [undead](creatureTypes#_undead) ( [extraplanar](creatureTypes#_extrapla
 
 **Fort** +9, **Ref** +7, **Will** +12
 
-**Defensive Abilities** spell deflection, [undead traits](universalMonsterRules#_undead-traits); **SR** 22
+**Defensive Abilities** spell deflection, [undead traits](../universalMonsterRules#_undead-traits); **SR** 22
 
 **Offense**
 
 **Speed** 30 ft., fly 20 ft. (perfect)
 
-**Melee** 2 claws +18 (1d8+9 plus [energy drain](universalMonsterRules#_energy-drain))
+**Melee** 2 claws +18 (1d8+9 plus [energy drain](../universalMonsterRules#_energy-drain))
 
 **Space** 10 ft.; **Reach** 10 ft.
 
-**Special Attacks** devour soul, [energy drain](universalMonsterRules#_energy-drain) (1 level, DC 20)
+**Special Attacks** devour soul, [energy drain](../universalMonsterRules#_energy-drain) (1 level, DC 20)
 
 **Spell-Like Abilities** (CL 18th)
 
-At will—_ [animate dead](../spells_dir/animateDead#_animate-dead)_⁴th_, [bestow curse](../spells_dir/bestowCurse#_bestow-curse)_⁴th (DC 19), _ [confusion](../spells_dir/confusion#_confusion)_⁴th (DC 19), _ [control undead](../spells_dir/controlUndead#_control-undead)_⁷th (DC 22), _ [death knell](../spells_dir/deathKnell#_death-knell)_⁲nd (DC 17)_, [ghoul touch](../spells_dir/ghoulTouch#_ghoul-touch)_⁲nd (DC 17), _ [inflict serious wounds](../spells_dir/inflictSeriousWounds#_inflict-serious-wounds)_⁳rd (DC 18), _ [lesser planar ally](../spells_dir/planarAlly#_planar-ally-lesser)_⁴th_, [ray of enfeeblement](../spells_dir/rayOfEnfeeblement#_ray-of-enfeeblement)_ⁱst_, [spectral hand](../spells_dir/spectralHand#_spectral-hand)_⁲nd_, [suggestion](../spells_dir/suggestion#_suggestion)_⁳rd (DC 18), _ [true seeing](../spells_dir/trueSeeing#_true-seeing)_⁶th_, [vampiric touch](../spells_dir/vampiricTouch#_vampiric-touch)_⁳rd (DC 18)
+At will—_ [animate dead](../../spells_dir/animateDead#_animate-dead)_⁴th_, [bestow curse](../../spells_dir/bestowCurse#_bestow-curse)_⁴th (DC 19), _ [confusion](../../spells_dir/confusion#_confusion)_⁴th (DC 19), _ [control undead](../../spells_dir/controlUndead#_control-undead)_⁷th (DC 22), _ [death knell](../../spells_dir/deathKnell#_death-knell)_⁲nd (DC 17)_, [ghoul touch](../../spells_dir/ghoulTouch#_ghoul-touch)_⁲nd (DC 17), _ [inflict serious wounds](../../spells_dir/inflictSeriousWounds#_inflict-serious-wounds)_⁳rd (DC 18), _ [lesser planar ally](../../spells_dir/planarAlly#_planar-ally-lesser)_⁴th_, [ray of enfeeblement](../../spells_dir/rayOfEnfeeblement#_ray-of-enfeeblement)_ⁱst_, [spectral hand](../../spells_dir/spectralHand#_spectral-hand)_⁲nd_, [suggestion](../../spells_dir/suggestion#_suggestion)_⁳rd (DC 18), _ [true seeing](../../spells_dir/trueSeeing#_true-seeing)_⁶th_, [vampiric touch](../../spells_dir/vampiricTouch#_vampiric-touch)_⁳rd (DC 18)
 
 **Statistics**
 
@@ -44,11 +44,11 @@ At will—_ [animate dead](../spells_dir/animateDead#_animate-dead)_⁴th_, [bes
 
 **Base Atk** +10; **CMB** +20; **CMD** 33
 
-**Feats** [Blind-Fight](../feats#_blind-fight), [Cleave](../feats#_cleave), [Combat Casting](../feats#_combat-casting), [Combat Expertise](../feats#_combat-expertise), [Improved Initiative](../feats#_improved-initiative), [Improved Sunder](../feats#_improved-sunder), [Power Attack](../feats#_power-attack)
+**Feats** [Blind-Fight](../../feats#_blind-fight), [Cleave](../../feats#_cleave), [Combat Casting](../../feats#_combat-casting), [Combat Expertise](../../feats#_combat-expertise), [Improved Initiative](../../feats#_improved-initiative), [Improved Sunder](../../feats#_improved-sunder), [Power Attack](../../feats#_power-attack)
 
-**Skills** [Bluff](../skills_dir/bluff#_bluff) +19, [Diplomacy](../skills_dir/diplomacy#_diplomacy) +14, [Fly](../skills_dir/fly#_fly) +19, [Intimidate](../skills_dir/intimidate#_intimidate) +19, [Knowledge](../skills_dir/knowledge#_knowledge) (arcana) +21, [Knowledge](../skills_dir/knowledge#_knowledge) (planes) +18, [Perception](../skills_dir/perception#_perception) +20, [Sense Motive](../skills_dir/senseMotive#_sense-motive) +17, [Spellcraft](../skills_dir/spellcraft#_spellcraft) +21, [Stealth](../skills_dir/stealth#_stealth) +6
+**Skills** [Bluff](../../skills_dir/bluff#_bluff) +19, [Diplomacy](../../skills_dir/diplomacy#_diplomacy) +14, [Fly](../../skills_dir/fly#_fly) +19, [Intimidate](../../skills_dir/intimidate#_intimidate) +19, [Knowledge](../../skills_dir/knowledge#_knowledge) (arcana) +21, [Knowledge](../../skills_dir/knowledge#_knowledge) (planes) +18, [Perception](../../skills_dir/perception#_perception) +20, [Sense Motive](../../skills_dir/senseMotive#_sense-motive) +17, [Spellcraft](../../skills_dir/spellcraft#_spellcraft) +21, [Stealth](../../skills_dir/stealth#_stealth) +6
 
-**Languages** Abyssal, Celestial, Common, Infernal; [telepathy](universalMonsterRules#_telepathy) 100 ft.
+**Languages** Abyssal, Celestial, Common, Infernal; [telepathy](../universalMonsterRules#_telepathy) 100 ft.
 
 **Ecology**
 
@@ -60,9 +60,9 @@ At will—_ [animate dead](../spells_dir/animateDead#_animate-dead)_⁴th_, [bes
 
 **Special Abilities**
 
-**Devour Soul (Su)** By making a touch attack as a standard action, a devourer can deal 12d6+18 points of damage as if using a _ [slay living](../spells_dir/slayLiving#_slay-living)_ spell. A DC 22 Fortitude save reduces this damage to 3d6+18. The soul of a creature slain by this attack becomes trapped within the devourer's chest. The creature cannot be brought back to life until the devourer's destruction (or a spell deflection—see below) releases its soul. A devourer can hold only one soul at a time. The trapped essence provides a devourer with 5 essence points for each Hit Die possessed by the soul. A devourer must expend essence points when it uses a spell-like ability equal to the spell's level (for sake of ease, spell levels for its spell-like abilities are included in its stats in superscript). At the start of an encounter, a devourer generally has 3d4+3 essence points available. The trapped essence gains one permanent negative level for every 5 points of essence drained—these negative levels remain if the creature is brought back to life (but they do not stack with any negative levels imparted by being brought back to life). A soul that is completely consumed may only be restored to life by a _ [miracle](../spells_dir/miracle#_miracle)_ or _ [wish](../spells_dir/wish#_wish)_. The save DC is Charisma-based.
+**Devour Soul (Su)** By making a touch attack as a standard action, a devourer can deal 12d6+18 points of damage as if using a _ [slay living](../../spells_dir/slayLiving#_slay-living)_ spell. A DC 22 Fortitude save reduces this damage to 3d6+18. The soul of a creature slain by this attack becomes trapped within the devourer's chest. The creature cannot be brought back to life until the devourer's destruction (or a spell deflection—see below) releases its soul. A devourer can hold only one soul at a time. The trapped essence provides a devourer with 5 essence points for each Hit Die possessed by the soul. A devourer must expend essence points when it uses a spell-like ability equal to the spell's level (for sake of ease, spell levels for its spell-like abilities are included in its stats in superscript). At the start of an encounter, a devourer generally has 3d4+3 essence points available. The trapped essence gains one permanent negative level for every 5 points of essence drained—these negative levels remain if the creature is brought back to life (but they do not stack with any negative levels imparted by being brought back to life). A soul that is completely consumed may only be restored to life by a _ [miracle](../../spells_dir/miracle#_miracle)_ or _ [wish](../../spells_dir/wish#_wish)_. The save DC is Charisma-based.
 
-**Spell Deflection (Su)** If any of the following spells are cast at the devourer and overcome its spell resistance, they instead affect a devoured soul: _ [banishment](../spells_dir/banishment#_banishment), [chaos hammer](../spells_dir/chaosHammer#_chaos-hammer), [confusion](../spells_dir/confusion#_confusion), [crushing despair](../spells_dir/crushingDespair#_crushing-despair), [detect thoughts](../spells_dir/detectThoughts#_detect-thoughts), [dispel evil](../spells_dir/dispelEvil#_dispel-evil), [dominate person](../spells_dir/dominatePerson#_dominate-person), [fear](../spells_dir/fear#_fear), [geas_dir/quest](../spells_dir/geasQuest#_geas-quest), [holy word](../spells_dir/holyWord#_holy-word), [hypnotism](../spells_dir/hypnotism#_hypnotism), [imprisonment](../spells_dir/imprisonment#_imprisonment), [magic jar](../spells_dir/magicJar#_magic-jar), [maze](../spells_dir/maze#_maze), [suggestion](../spells_dir/suggestion#_suggestion), [trap the soul](../spells_dir/trapTheSoul#_trap-the-soul)_, or any form of charm or compulsion. While none of these effects harms the soul, the caster makes a DC 25 caster level check when a spell is deflected—success indicates that the trapped soul is released from its prison and the creature whose body it belonged to can now be restored to life as normal.
+**Spell Deflection (Su)** If any of the following spells are cast at the devourer and overcome its spell resistance, they instead affect a devoured soul: _ [banishment](../../spells_dir/banishment#_banishment), [chaos hammer](../../spells_dir/chaosHammer#_chaos-hammer), [confusion](../../spells_dir/confusion#_confusion), [crushing despair](../../spells_dir/crushingDespair#_crushing-despair), [detect thoughts](../../spells_dir/detectThoughts#_detect-thoughts), [dispel evil](../../spells_dir/dispelEvil#_dispel-evil), [dominate person](../../spells_dir/dominatePerson#_dominate-person), [fear](../../spells_dir/fear#_fear), [geas_dir/quest](../../spells_dir/geasQuest#_geas-quest), [holy word](../../spells_dir/holyWord#_holy-word), [hypnotism](../../spells_dir/hypnotism#_hypnotism), [imprisonment](../../spells_dir/imprisonment#_imprisonment), [magic jar](../../spells_dir/magicJar#_magic-jar), [maze](../../spells_dir/maze#_maze), [suggestion](../../spells_dir/suggestion#_suggestion), [trap the soul](../../spells_dir/trapTheSoul#_trap-the-soul)_, or any form of charm or compulsion. While none of these effects harms the soul, the caster makes a DC 25 caster level check when a spell is deflected—success indicates that the trapped soul is released from its prison and the creature whose body it belonged to can now be restored to life as normal.
 
 Devourers are the undead remnants of fiends and evil spellcasters who became lost beyond the farthest reaches of the multiverse. Returning with warped bodies, alien sentience, and a hunger for life, devourers threaten all souls with a terrifying, tormented annihilation. These withered corpses stand 10 feet tall but weigh a mere 200 pounds.
 

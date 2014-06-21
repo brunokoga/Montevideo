@@ -10,15 +10,15 @@ _Clad in beautiful armor, this exotically garbed giant roars, its tusks glisteni
 
 **XP 4,800**
 
-LE Large [outsider](creatureTypes#_outsider) ( [giant](creatureTypes#_giant-type), [native](creatureTypes#_native-subtype), oni, [shapechanger](creatureTypes#_shapechanger-subtype))
+LE Large [outsider](../creatureTypes#_outsider) ( [giant](../creatureTypes#_giant-type), [native](../creatureTypes#_native-subtype), oni, [shapechanger](../creatureTypes#_shapechanger-subtype))
 
-**Init** +7; **Senses** darkvision 60 ft., low-light vision; [Perception](../skills_dir/perception#_perception) +13
+**Init** +7; **Senses** darkvision 60 ft., low-light vision; [Perception](../../skills_dir/perception#_perception) +13
 
 **Defense**
 
 **AC** 21, touch 12, flat-footed 18 (+4 armor, +3 Dex, +5 natural, –1 size)
 
-**hp** 92 (8d10+48); [regeneration](universalMonsterRules#_regeneration) 5 (fire or acid)
+**hp** 92 (8d10+48); [regeneration](../universalMonsterRules#_regeneration) 5 (fire or acid)
 
 **Fort** +12, **Ref** +5, **Will** +10
 
@@ -36,11 +36,11 @@ LE Large [outsider](creatureTypes#_outsider) ( [giant](creatureTypes#_giant-type
 
 **Spell-Like Abilities** (CL 9th)
 
-Constant—_ [fly](../spells_dir/fly)_
+Constant—_ [fly](../../spells_dir/fly)_
 
-At will—_ [darkness](../spells_dir/darkness#_darkness), [invisibility](../spells_dir/invisibility#_invisibility)_
+At will—_ [darkness](../../spells_dir/darkness#_darkness), [invisibility](../../spells_dir/invisibility#_invisibility)_
 
-1_dir/day—_ [charm monster](../spells_dir/charmMonster#_charm-monster)_ (DC 17), _ [cone of cold](../spells_dir/coneOfCold#_cone-of-cold)_ (DC 18), _ [gaseous form](../spells_dir/gaseousForm#_gaseous-form), [deep slumber](../spells_dir/deepSlumber#_deep-slumber)_ (DC 16)
+1_dir/day—_ [charm monster](../../spells_dir/charmMonster#_charm-monster)_ (DC 17), _ [cone of cold](../../spells_dir/coneOfCold#_cone-of-cold)_ (DC 18), _ [gaseous form](../../spells_dir/gaseousForm#_gaseous-form), [deep slumber](../../spells_dir/deepSlumber#_deep-slumber)_ (DC 16)
 
 **Statistics**
 
@@ -48,13 +48,13 @@ At will—_ [darkness](../spells_dir/darkness#_darkness), [invisibility](../spel
 
 **Base Atk** +8; **CMB** +16; **CMD** 29
 
-**Feats** [Combat Expertise](../feats#_combat-expertise), [Combat Reflexes](../feats#_combat-reflexes), [Improved Initiative](../feats#_improved-initiative), [Iron Will](../feats#_iron-will)
+**Feats** [Combat Expertise](../../feats#_combat-expertise), [Combat Reflexes](../../feats#_combat-reflexes), [Improved Initiative](../../feats#_improved-initiative), [Iron Will](../../feats#_iron-will)
 
-**Skills** [Bluff](../skills_dir/bluff#_bluff) +14, [Disguise](../skills_dir/disguise#_disguise) +14, [Fly](../skills_dir/fly#_fly) +5, [Intimidate](../skills_dir/intimidate#_intimidate) +14, [Knowledge](../skills_dir/knowledge#_knowledge) (arcana) +13, [Perception](../skills_dir/perception#_perception) +13, [Sense Motive](../skills_dir/senseMotive#_sense-motive) +13, [Spellcraft](../skills_dir/spellcraft#_spellcraft) +13, [Use Magic Device](../skills_dir/useMagicDevice#_use-magic-device) +14
+**Skills** [Bluff](../../skills_dir/bluff#_bluff) +14, [Disguise](../../skills_dir/disguise#_disguise) +14, [Fly](../../skills_dir/fly#_fly) +5, [Intimidate](../../skills_dir/intimidate#_intimidate) +14, [Knowledge](../../skills_dir/knowledge#_knowledge) (arcana) +13, [Perception](../../skills_dir/perception#_perception) +13, [Sense Motive](../../skills_dir/senseMotive#_sense-motive) +13, [Spellcraft](../../skills_dir/spellcraft#_spellcraft) +13, [Use Magic Device](../../skills_dir/useMagicDevice#_use-magic-device) +14
 
 **Languages** Common, Giant
 
-**SQ** [change shape](universalMonsterRules#_change-shape) (Small, Medium, or Large humanoid; _ [alter self](../spells_dir/alterSelf#_alter-self) or [giant form I](../spells_dir/giantForm#_giant-form-i)_), flight
+**SQ** [change shape](../universalMonsterRules#_change-shape) (Small, Medium, or Large humanoid; _ [alter self](../../spells_dir/alterSelf#_alter-self) or [giant form I](../../spells_dir/giantForm#_giant-form-i)_), flight
 
 **Ecology**
 

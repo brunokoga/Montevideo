@@ -16,7 +16,7 @@ title: spells_dir/acidFog
 
 **Duration** 1 round_dir/level
 
-**Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** no
+**Saving Throw** none; **[Spell Resistance](../../glossary#_spell-resistance)** no
 
-_Acid fog _creates a billowing mass of misty vapors like the _ [solid fog](solidFog#_solid-fog) _spell. In addition to slowing down creatures and obscuring sight, this spell's vapors are highly acidic. Each round on your turn, starting when you cast the spell, the fog deals 2d6 points of acid damage to each creature and object within it.
+_Acid fog _creates a billowing mass of misty vapors like the _ [solid fog](../solidFog#_solid-fog) _spell. In addition to slowing down creatures and obscuring sight, this spell's vapors are highly acidic. Each round on your turn, starting when you cast the spell, the fog deals 2d6 points of acid damage to each creature and object within it.
 

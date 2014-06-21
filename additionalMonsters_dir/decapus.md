@@ -10,9 +10,9 @@ This swollen cephalopod has ten writhing tentacles and a hideously monstrous fac
 
 **XP 1,200**
 
-CE Medium [aberration](monsters_dir/creatureTypes#_aberration)
+CE Medium [aberration](../monsters_dir/creatureTypes#_aberration)
 
-**Init** +1; **Senses** darkvision 60 ft.; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +11
+**Init** +1; **Senses** darkvision 60 ft.; [Perception](../additionalMonsters_dir/../skills_dir/perception#_perception) +11
 
 Defense
 
@@ -27,15 +27,15 @@ Offense
 **Speed** 10 ft., climb 30 ft.
 
 **Melee** bite +7 (1d6+3), tentacles +8 (2d4+3   
-plus [grab](monsters_dir/universalMonsterRules#_grab))
+plus [grab](../monsters_dir/universalMonsterRules#_grab))
 
 **Space** 5 ft.; **Reach** 5 ft.
 
-**Special Attacks** [constrict](monsters_dir/universalMonsterRules#_constrict) (2d4+4)
+**Special Attacks** [constrict](../monsters_dir/universalMonsterRules#_constrict) (2d4+4)
 
 **Spell-Like Abilities** (CL 6th; concentration +7)
 
-At will—_ [minor image](additionalMonsters_dir/../spells_dir/minorImage#_minor-image)_ (DC 13)
+At will—_ [minor image](../additionalMonsters_dir/../spells_dir/minorImage#_minor-image)_ (DC 13)
 
 Statistics
 
@@ -44,13 +44,13 @@ Statistics
 
 **Base Atk** +4; **CMB** +7 (+11 grapple); **CMD** 18 (can't be tripped)
 
-**Feats** [Skill Focus](additionalMonsters_dir/../feats#_skill-focus) ( [Bluff](additionalMonsters_dir/../skills_dir/bluff#_bluff)), [Toughness](additionalMonsters_dir/../feats#_toughness), [Weapon Focus](additionalMonsters_dir/../feats#_weapon-focus) (tentacles)
+**Feats** [Skill Focus](../additionalMonsters_dir/../feats#_skill-focus) ( [Bluff](../additionalMonsters_dir/../skills_dir/bluff#_bluff)), [Toughness](../additionalMonsters_dir/../feats#_toughness), [Weapon Focus](../additionalMonsters_dir/../feats#_weapon-focus) (tentacles)
 
-**Skills** [Acrobatics](additionalMonsters_dir/../skills_dir/acrobatics#_acrobatics) +7 (–1 jump), [Bluff](additionalMonsters_dir/../skills_dir/bluff#_bluff) +7, [Climb](additionalMonsters_dir/../skills_dir/climb#_climb) +16, [Escape Artist](additionalMonsters_dir/../skills_dir/escapeArtist#_escape-artist) +5, [Intimidate](additionalMonsters_dir/../skills_dir/intimidate#_intimidate) +7, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +11, [Spellcraft](additionalMonsters_dir/../skills_dir/spellcraft#_spellcraft) +6, [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) +9; **Racial Modifiers** +4 [Perception](additionalMonsters_dir/../skills_dir/perception#_perception)
+**Skills** [Acrobatics](../additionalMonsters_dir/../skills_dir/acrobatics#_acrobatics) +7 (–1 jump), [Bluff](../additionalMonsters_dir/../skills_dir/bluff#_bluff) +7, [Climb](../additionalMonsters_dir/../skills_dir/climb#_climb) +16, [Escape Artist](../additionalMonsters_dir/../skills_dir/escapeArtist#_escape-artist) +5, [Intimidate](../additionalMonsters_dir/../skills_dir/intimidate#_intimidate) +7, [Perception](../additionalMonsters_dir/../skills_dir/perception#_perception) +11, [Spellcraft](../additionalMonsters_dir/../skills_dir/spellcraft#_spellcraft) +6, [Stealth](../additionalMonsters_dir/../skills_dir/stealth#_stealth) +9; **Racial Modifiers** +4 [Perception](../additionalMonsters_dir/../skills_dir/perception#_perception)
 
 **Languages** Aklo
 
-**SQ** [sound mimicry](monsters_dir/universalMonsterRules#_sound-mimicry) (voices), tentacles
+**SQ** [sound mimicry](../monsters_dir/universalMonsterRules#_sound-mimicry) (voices), tentacles
 
 Ecology
 

@@ -10,9 +10,9 @@ _This slender, attractive woman has strangely glowing eyes and a full head of hi
 
 **XP 3,200**
 
-LE Medium [monstrous humanoid](creatureTypes#_monstrous-humanoid)
+LE Medium [monstrous humanoid](../creatureTypes#_monstrous-humanoid)
 
-**Init** +6; **Senses** all-around vision, darkvision 60 ft.; [Perception](../skills_dir/perception#_perception) +16
+**Init** +6; **Senses** all-around vision, darkvision 60 ft.; [Perception](../../skills_dir/perception#_perception) +16
 
 **Defense**
 
@@ -26,11 +26,11 @@ LE Medium [monstrous humanoid](creatureTypes#_monstrous-humanoid)
 
 **Speed** 30 ft.
 
-**Melee** dagger +10_dir/+5 (1d4_dir/19–20), snake bite +5 (1d4 plus [poison](universalMonsterRules#_poison))
+**Melee** dagger +10_dir/+5 (1d4_dir/19–20), snake bite +5 (1d4 plus [poison](../universalMonsterRules#_poison))
 
 **Ranged** mwk longbow +11_dir/+6 (1d8_dir/×3)
 
-**Special Attacks** petrifying [gaze](universalMonsterRules#_gaze)
+**Special Attacks** petrifying [gaze](../universalMonsterRules#_gaze)
 
 **Statistics**
 
@@ -38,9 +38,9 @@ LE Medium [monstrous humanoid](creatureTypes#_monstrous-humanoid)
 
 **Base**  **Atk** +8; **CMB** +8; **CMD** 20
 
-**Feats** [Improved Initiative](../feats#_improved-initiative), [Point-Blank Shot](../feats#_point-blank-shot), [Precise Shot](../feats#_precise-shot), [Weapon Finesse](../feats#_weapon-finesse)
+**Feats** [Improved Initiative](../../feats#_improved-initiative), [Point-Blank Shot](../../feats#_point-blank-shot), [Precise Shot](../../feats#_precise-shot), [Weapon Finesse](../../feats#_weapon-finesse)
 
-**Skills** [Bluff](../skills_dir/bluff#_bluff) +10, [Disguise](../skills_dir/disguise#_disguise) +10, [Intimidate](../skills_dir/intimidate#_intimidate) +13, [Perception](../skills_dir/perception#_perception) +16, [Stealth](../skills_dir/stealth#_stealth) +13; **Racial Modifiers** +4 [Perception](../skills_dir/perception#_perception)
+**Skills** [Bluff](../../skills_dir/bluff#_bluff) +10, [Disguise](../../skills_dir/disguise#_disguise) +10, [Intimidate](../../skills_dir/intimidate#_intimidate) +13, [Perception](../../skills_dir/perception#_perception) +16, [Stealth](../../skills_dir/stealth#_stealth) +13; **Racial Modifiers** +4 [Perception](../../skills_dir/perception#_perception)
 
 **Languages** Common
 
@@ -54,7 +54,7 @@ LE Medium [monstrous humanoid](creatureTypes#_monstrous-humanoid)
 
 **Special Abilities**
 
-**All-Around Vision (Ex)** A medusa's snake-hair allows her to see in all directions. Medusas gain a +4 racial bonus to [Perception](../skills_dir/perception#_perception) checks and cannot be flanked.
+**All-Around Vision (Ex)** A medusa's snake-hair allows her to see in all directions. Medusas gain a +4 racial bonus to [Perception](../../skills_dir/perception#_perception) checks and cannot be flanked.
 
 **Petrifying Gaze (Su)** Turn to stone permanently, 30 feet, Fortitude DC 16 negates. The save DC is Charisma-based.
 

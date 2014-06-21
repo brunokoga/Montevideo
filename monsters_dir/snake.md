@@ -10,9 +10,9 @@ _This large snake has a thick, muscular body and dull green scales decorated wit
 
 **XP 600**
 
-N Medium [animal](creatureTypes#_animal)
+N Medium [animal](../creatureTypes#_animal)
 
-**Init** +3; **Senses** scent; [Perception](../skills_dir/perception#_perception) +12
+**Init** +3; **Senses** scent; [Perception](../../skills_dir/perception#_perception) +12
 
 **Defense**
 
@@ -26,9 +26,9 @@ N Medium [animal](creatureTypes#_animal)
 
 **Speed** 20 ft., climb 20 ft., swim 20 ft.
 
-**Melee** bite +5 (1d4+4 plus [grab](universalMonsterRules#_grab))
+**Melee** bite +5 (1d4+4 plus [grab](../universalMonsterRules#_grab))
 
-**Special Attacks** [constrict](universalMonsterRules#_constrict) (1d4+4)
+**Special Attacks** [constrict](../universalMonsterRules#_constrict) (1d4+4)
 
 **Statistics**
 
@@ -36,9 +36,9 @@ N Medium [animal](creatureTypes#_animal)
 
 **Base Atk** +2; **CMB** +5 (+9 grapple); **CMD** 18 (can't be tripped)
 
-**Feats** [Skill Focus](../feats#_skill-focus) ( [Perception](../skills_dir/perception#_perception)), [Toughness](../feats#_toughness)
+**Feats** [Skill Focus](../../feats#_skill-focus) ( [Perception](../../skills_dir/perception#_perception)), [Toughness](../../feats#_toughness)
 
-**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +15, [Climb](../skills_dir/climb#_climb) +11, [Perception](../skills_dir/perception#_perception) +12, [Stealth](../skills_dir/stealth#_stealth) +11, [Swim](../skills_dir/swim#_swim) +11; **Racial Modifiers** +4 [Perception](../skills_dir/perception#_perception), +4 [Stealth](../skills_dir/stealth#_stealth),+8 [Acrobatics](../skills_dir/acrobatics#_acrobatics)
+**Skills** [Acrobatics](../../skills_dir/acrobatics#_acrobatics) +15, [Climb](../../skills_dir/climb#_climb) +11, [Perception](../../skills_dir/perception#_perception) +12, [Stealth](../../skills_dir/stealth#_stealth) +11, [Swim](../../skills_dir/swim#_swim) +11; **Racial Modifiers** +4 [Perception](../../skills_dir/perception#_perception), +4 [Stealth](../../skills_dir/stealth#_stealth),+8 [Acrobatics](../../skills_dir/acrobatics#_acrobatics)
 
 **Ecology**
 
@@ -60,9 +60,9 @@ _This brightly colored snake assumes an aggressive posture, its hissing mouth op
 
 **XP 400**
 
-N Medium [animal](creatureTypes#_animal)
+N Medium [animal](../creatureTypes#_animal)
 
-**Init** +5; **Senses** low-light vision, scent; [Perception](../skills_dir/perception#_perception) +9
+**Init** +5; **Senses** low-light vision, scent; [Perception](../../skills_dir/perception#_perception) +9
 
 **Defense**
 
@@ -76,7 +76,7 @@ N Medium [animal](creatureTypes#_animal)
 
 **Speed** 20 ft., climb 20 ft., swim 20 ft.
 
-**Melee** bite +2 (1d4–1 plus [poison](universalMonsterRules#_poison))
+**Melee** bite +2 (1d4–1 plus [poison](../universalMonsterRules#_poison))
 
 **Statistics**
 
@@ -84,9 +84,9 @@ N Medium [animal](creatureTypes#_animal)
 
 **Base Atk** +1; **CMB** +0; **CMD** 11 (can't be tripped)
 
-**Feats** [Improved Initiative](../feats#_improved-initiative), [Weapon Finesse](../feats#_weapon-finesse)B
+**Feats** [Improved Initiative](../../feats#_improved-initiative), [Weapon Finesse](../../feats#_weapon-finesse)B
 
-**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +9, [Climb](../skills_dir/climb#_climb) +9, [Perception](../skills_dir/perception#_perception) +9, [Stealth](../skills_dir/stealth#_stealth) +9, [Swim](../skills_dir/swim#_swim) +9; **Racial Modifiers** +4 [Perception](../skills_dir/perception#_perception), +4 [Stealth](../skills_dir/stealth#_stealth), +8 [Acrobatics](../skills_dir/acrobatics#_acrobatics); modifies [Climb](../skills_dir/climb#_climb) and [Swim](../skills_dir/swim#_swim) with Dexterity
+**Skills** [Acrobatics](../../skills_dir/acrobatics#_acrobatics) +9, [Climb](../../skills_dir/climb#_climb) +9, [Perception](../../skills_dir/perception#_perception) +9, [Stealth](../../skills_dir/stealth#_stealth) +9, [Swim](../../skills_dir/swim#_swim) +9; **Racial Modifiers** +4 [Perception](../../skills_dir/perception#_perception), +4 [Stealth](../../skills_dir/stealth#_stealth), +8 [Acrobatics](../../skills_dir/acrobatics#_acrobatics); modifies [Climb](../../skills_dir/climb#_climb) and [Swim](../../skills_dir/swim#_swim) with Dexterity
 
 **Ecology**
 

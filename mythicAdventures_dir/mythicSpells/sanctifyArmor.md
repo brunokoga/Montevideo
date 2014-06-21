@@ -4,7 +4,7 @@ title: mythicAdventures_dir/mythicSpells_dir/sanctifyArmor
 ---
 Sanctify Armor
 
-**Source** [_sanctify armor_](advanced_dir/spells_dir/sanctifyArmor#_sanctify-armor)
+**Source** [_sanctify armor_](../advanced_dir/spells_dir/sanctifyArmor#_sanctify-armor)
 
 You gain DR 5_dir/evil while wearing the target armor. While you're using your judgment or smite ability, this improves to DR 10_dir/evil.
 

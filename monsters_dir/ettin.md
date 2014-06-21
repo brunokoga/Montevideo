@@ -10,9 +10,9 @@ _This lumbering, filthy, two-headed giant wears tattered remnants of leather arm
 
 **XP 2,400**
 
-CE Large [humanoid](creatureTypes#_humanoid) ( [giant](creatureTypes#_giant-type))
+CE Large [humanoid](../creatureTypes#_humanoid) ( [giant](../creatureTypes#_giant-type))
 
-**Init** +3; **Senses** low-light vision; [Perception](../skills_dir/perception#_perception) +12
+**Init** +3; **Senses** low-light vision; [Perception](../../skills_dir/perception#_perception) +12
 
 **Defense**
 
@@ -40,9 +40,9 @@ CE Large [humanoid](creatureTypes#_humanoid) ( [giant](creatureTypes#_giant-type
 
 **Base**  **Atk** +7; **CMB** +14; **CMD** 23
 
-**Feats** [Cleave](../feats#_cleave), [Improved Initiative](../feats#_improved-initiative), [Improved Overrun](../feats#_improved-overrun), [Iron Will](../feats#_iron-will), [Power Attack](../feats#_power-attack)
+**Feats** [Cleave](../../feats#_cleave), [Improved Initiative](../../feats#_improved-initiative), [Improved Overrun](../../feats#_improved-overrun), [Iron Will](../../feats#_iron-will), [Power Attack](../../feats#_power-attack)
 
-**Skills** [Handle Animal](../skills_dir/handleAnimal#_handle-animal) +8, [Perception](../skills_dir/perception#_perception) +12; **Racial Modifiers** +4 on [Perception](../skills_dir/perception#_perception)
+**Skills** [Handle Animal](../../skills_dir/handleAnimal#_handle-animal) +8, [Perception](../../skills_dir/perception#_perception) +12; **Racial Modifiers** +4 on [Perception](../../skills_dir/perception#_perception)
 
 **Languages** pidgin of Giant, Goblin, and Orc
 
@@ -56,7 +56,7 @@ CE Large [humanoid](creatureTypes#_humanoid) ( [giant](creatureTypes#_giant-type
 
 **Special Abilities**
 
-**Superior [Two-Weapon Fighting](../feats#_two-weapon-fighting) (Ex)** An ettin fights with a flail or javelin in each hand. Because each of its two heads controls an arm, the ettin does not take a penalty on attack or damage rolls for attacking with two weapons.
+**Superior [Two-Weapon Fighting](../../feats#_two-weapon-fighting) (Ex)** An ettin fights with a flail or javelin in each hand. Because each of its two heads controls an arm, the ettin does not take a penalty on attack or damage rolls for attacking with two weapons.
 
 Ettins, or two-headed giants, are vicious and unpredictable hunters that stalk the night. Their two heads provide them with unparalleled powers of perception, making them excellent guards.
 

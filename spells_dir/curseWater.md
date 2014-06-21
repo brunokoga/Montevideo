@@ -16,7 +16,7 @@ title: spells_dir/curseWater
 
 **Duration** instantaneous
 
-**Saving Throw** [Will](../combat#_will) negates (object); **[Spell Resistance](../glossary#_spell-resistance)** yes (object)
+**Saving Throw** [Will](../../combat#_will) negates (object); **[Spell Resistance](../../glossary#_spell-resistance)** yes (object)
 
-This spell imbues a flask (1 pint) of water with negative energy, turning it into unholy water (see [Equipment](../equipment)). Unholy water damages good outsiders the way holy water damages undead and evil outsiders.
+This spell imbues a flask (1 pint) of water with negative energy, turning it into unholy water (see [Equipment](../../equipment)). Unholy water damages good outsiders the way holy water damages undead and evil outsiders.
 

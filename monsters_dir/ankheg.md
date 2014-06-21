@@ -10,9 +10,9 @@ _This burrowing, bug-like monster scuttles about on six legs, drooling noxious g
 
 **XP 800**
 
-N Large [magical beast](creatureTypes#_magical-beast)
+N Large [magical beast](../creatureTypes#_magical-beast)
 
-**Init** +0; **Senses** darkvision 60 ft., low-light vision, [tremorsense](universalMonsterRules#_tremorsense) 60 ft.; [Perception](../skills_dir/perception#_perception) +8
+**Init** +0; **Senses** darkvision 60 ft., low-light vision, [tremorsense](../universalMonsterRules#_tremorsense) 60 ft.; [Perception](../../skills_dir/perception#_perception) +8
 
 **DEFENSE**
 
@@ -26,7 +26,7 @@ N Large [magical beast](creatureTypes#_magical-beast)
 
 **Speed** 30 ft., burrow 20 ft.
 
-**Melee** bite +5 (2d6+4 plus 1d4 acid and [grab](universalMonsterRules#_grab))
+**Melee** bite +5 (2d6+4 plus 1d4 acid and [grab](../universalMonsterRules#_grab))
 
 **Space** 10 ft.; **Reach** 5 ft.
 
@@ -38,9 +38,9 @@ N Large [magical beast](creatureTypes#_magical-beast)
 
 **Base Atk** +3; **CMB** +7 (+11 grapple); **CMD** 17 (25 vs. trip)
 
-**Feats** [Skill Focus](../feats#_skill-focus) ( [Perception](../skills_dir/perception#_perception)), [Toughness](../feats#_toughness)
+**Feats** [Skill Focus](../../feats#_skill-focus) ( [Perception](../../skills_dir/perception#_perception)), [Toughness](../../feats#_toughness)
 
-**Skills** [Climb](../skills_dir/climb#_climb) +8, [Perception](../skills_dir/perception#_perception) +8
+**Skills** [Climb](../../skills_dir/climb#_climb) +8, [Perception](../../skills_dir/perception#_perception) +8
 
 **ECOLOGY**
 

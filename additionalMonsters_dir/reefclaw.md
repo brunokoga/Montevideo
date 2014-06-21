@@ -10,9 +10,9 @@ Blood-red spines run the length of this frightening creature, which resembles a 
 
 **XP 400**
 
-CN Small [aberration](monsters_dir/creatureTypes#_aberration) ( [aquatic](monsters_dir/creatureTypes#_aquatic-subtype))
+CN Small [aberration](../monsters_dir/creatureTypes#_aberration) ( [aquatic](../monsters_dir/creatureTypes#_aquatic-subtype))
 
-**Init** +5; **Senses** darkvision 60 ft., low-light vision; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +6
+**Init** +5; **Senses** darkvision 60 ft., low-light vision; [Perception](../additionalMonsters_dir/../skills_dir/perception#_perception) +6
 
 Defense
 
@@ -22,15 +22,15 @@ Defense
 
 **Fort** +2, **Ref** +1, **Will** +4
 
-**Defensive Abilities** ferocity; **Resist** [cold](monsters_dir/creatureTypes#_cold-subtype) 5
+**Defensive Abilities** ferocity; **Resist** [cold](../monsters_dir/creatureTypes#_cold-subtype) 5
 
 Offense
 
 **Speed** 5 ft., swim 40 ft.
 
-**Melee** 2 claws +2 (1d4 plus [grab](monsters_dir/universalMonsterRules#_grab) and [poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)))
+**Melee** 2 claws +2 (1d4 plus [grab](../monsters_dir/universalMonsterRules#_grab) and [poison](../monsters_dir/universalMonsterRules#_poison-(ex-or-su)))
 
-**Special Attacks** death frenzy, [constrict](monsters_dir/universalMonsterRules#_constrict) (1d4)
+**Special Attacks** death frenzy, [constrict](../monsters_dir/universalMonsterRules#_constrict) (1d4)
 
 Statistics
 
@@ -38,9 +38,9 @@ Statistics
 
 **Base Atk** +1; **CMB** +0 (+8 grapple); **CMD** 11 (can't be tripped)
 
-**Feats** [Improved Initiative](additionalMonsters_dir/../feats#_improved-initiative)
+**Feats** [Improved Initiative](../additionalMonsters_dir/../feats#_improved-initiative)
 
-**Skills** [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +6, [Swim](additionalMonsters_dir/../skills_dir/swim#_swim) +8
+**Skills** [Perception](../additionalMonsters_dir/../skills_dir/perception#_perception) +6, [Swim](../additionalMonsters_dir/../skills_dir/swim#_swim) +8
 
 **Languages** Common (can't speak)
 
@@ -58,9 +58,9 @@ Special Abilities
 
 **Death Frenzy (Su)** When a reefclaw is killed, its body spasms horrifically. Immediately upon dying, the reefclaw makes a full attack against a creature it threatens. If more than one creature is within reach, roll randomly for each attack to determine the target (which may be another reefclaw).
 
-**[Grab](monsters_dir/universalMonsterRules#_grab) (Ex)** A reefclaw can use its [grab](monsters_dir/universalMonsterRules#_grab) ability on a target of any size. Reefclaws have a +8 racial bonus on grapple checks; this bonus replaces the normal +4 bonus a creature with [grab](monsters_dir/universalMonsterRules#_grab) receives.
+**[Grab](../monsters_dir/universalMonsterRules#_grab) (Ex)** A reefclaw can use its [grab](../monsters_dir/universalMonsterRules#_grab) ability on a target of any size. Reefclaws have a +8 racial bonus on grapple checks; this bonus replaces the normal +4 bonus a creature with [grab](../monsters_dir/universalMonsterRules#_grab) receives.
 
-**[Poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)) (Ex)** Claw—injury; _save_ Fort DC 13; _frequency_ 1_dir/round for 4 rounds; _effect_ 1d2 Str; _cure_ 1 save. The save DC is Constitution-based.
+**[Poison](../monsters_dir/universalMonsterRules#_poison-(ex-or-su)) (Ex)** Claw—injury; _save_ Fort DC 13; _frequency_ 1_dir/round for 4 rounds; _effect_ 1d2 Str; _cure_ 1 save. The save DC is Constitution-based.
 
 Reefclaws are vicious predators. They possess greater intelligence than animals, but rely mainly on their strength and instincts to survive. They hunt fish, giant crabs, dolphins, and even land-dwelling creatures that come within a hundred paces of the water.
 

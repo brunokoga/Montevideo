@@ -4,7 +4,7 @@ title: skills_dir/fly
 ---
 # Fly
 
-## ( [Dex](../gettingStarted#_dexterity); Armor Check Penalty)
+## ( [Dex](../../gettingStarted#_dexterity); Armor Check Penalty)
 
 You are skilled at flying, through either the use of wings or magic, and can perform daring or complex maneuvers while airborne. Note that this skill does not give you the ability to fly.
 
@@ -39,7 +39,7 @@ _High Wind Speeds_: Flying in high winds adds penalties on your Fly checks as no
 
 **Action** : None. A Fly check doesn't require an action; it is made as part of another action or as a reaction to a situation.
 
-**Try Again** : Varies. You can attempt a Fly check to perform the same maneuver on subsequent rounds. If you are using wings and you fail a Fly check by 5 or more, you plummet to the ground, taking the appropriate falling damage (see [Environment](../environment)).
+**Try Again** : Varies. You can attempt a Fly check to perform the same maneuver on subsequent rounds. If you are using wings and you fail a Fly check by 5 or more, you plummet to the ground, taking the appropriate falling damage (see [Environment](../../environment)).
 
 **Special** : A spellcaster with a bat familiar gains a +3 bonus on Fly checks.
 
@@ -49,5 +49,5 @@ A creature larger or smaller than Medium takes a size bonus or penalty on Fly ch
 
 You cannot take ranks in this skill without a natural means of flight or gliding. Creatures can also take ranks in Fly if they possess a reliable means of flying every day (either through a spell or other special ability).
 
-If you have the [Acrobatic](../feats#_acrobatic) feat, you get a bonus on Fly checks (see [Feats](../feats)).
+If you have the [Acrobatic](../../feats#_acrobatic) feat, you get a bonus on Fly checks (see [Feats](../../feats)).
 

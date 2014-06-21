@@ -4,7 +4,7 @@ title: skills_dir/appraise
 ---
 # Appraise
 
-## ( [Int](../gettingStarted#_intelligence))
+## ( [Int](../../gettingStarted#_intelligence))
 
 You can evaluate the monetary value of an object.
 

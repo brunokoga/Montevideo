@@ -4,7 +4,7 @@ title: mythicAdventures_dir/mythicSpells_dir/enervation
 ---
 Enervation
 
-**Source** [_enervation_](spells_dir/enervation#_enervation)
+**Source** [_enervation_](../spells_dir/enervation#_enervation)
 
 The number of negative levels inflicted increases to 1d6, and the target is sickened for 24 hours. An undead creature struck by the ray gains 1d6 × 5 temporary hit points for a number of hours equal to your caster level.
 

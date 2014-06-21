@@ -10,9 +10,9 @@ _Eight tentacles, each adorned with rows of countless suckers, unfurl from the b
 
 **XP 400**
 
-N Small [animal](creatureTypes#_animal) ( [aquatic](creatureTypes#_aquatic-subtype))
+N Small [animal](../creatureTypes#_animal) ( [aquatic](../creatureTypes#_aquatic-subtype))
 
-**Init** +3; **Senses** low-light vision; [Perception](../skills_dir/perception#_perception) +1
+**Init** +3; **Senses** low-light vision; [Perception](../../skills_dir/perception#_perception) +1
 
 **Defense**
 
@@ -28,7 +28,7 @@ N Small [animal](creatureTypes#_animal) ( [aquatic](creatureTypes#_aquatic-subty
 
 **Speed** 20 ft., swim 30 ft., jet 200 ft.
 
-**Melee** bite +5 (1d3+1 plus [poison](universalMonsterRules#_poison)), tentacles +3 ( [grab](universalMonsterRules#_grab))
+**Melee** bite +5 (1d3+1 plus [poison](../universalMonsterRules#_poison)), tentacles +3 ( [grab](../universalMonsterRules#_grab))
 
 **Statistics**
 
@@ -36,9 +36,9 @@ N Small [animal](creatureTypes#_animal) ( [aquatic](creatureTypes#_aquatic-subty
 
 **Base Atk** +1; **CMB** +1 (+5 grapple); **CMD** 14 (can't be tripped)
 
-**Feats** [Multiattack](monsterFeats#_multiattack)B, [Weapon Finesse](../feats#_weapon-finesse)
+**Feats** [Multiattack](../monsterFeats#_multiattack)B, [Weapon Finesse](../../feats#_weapon-finesse)
 
-**Skills** [Escape Artist](../skills_dir/escapeArtist#_escape-artist) +13, [Stealth](../skills_dir/stealth#_stealth) +20, [Swim](../skills_dir/swim#_swim) +9; **Racial Modifiers** +8 [Stealth](../skills_dir/stealth#_stealth), +10 [Escape Artist](../skills_dir/escapeArtist#_escape-artist)
+**Skills** [Escape Artist](../../skills_dir/escapeArtist#_escape-artist) +13, [Stealth](../../skills_dir/stealth#_stealth) +20, [Swim](../../skills_dir/swim#_swim) +9; **Racial Modifiers** +8 [Stealth](../../skills_dir/stealth#_stealth), +10 [Escape Artist](../../skills_dir/escapeArtist#_escape-artist)
 
 **Ecology**
 
@@ -72,9 +72,9 @@ _A storm of tentacles, each twenty feet in length, flails with deadly precision 
 
 **XP 4,800**
 
-N Large [animal](creatureTypes#_animal) ( [aquatic](creatureTypes#_aquatic-subtype))
+N Large [animal](../creatureTypes#_animal) ( [aquatic](../creatureTypes#_aquatic-subtype))
 
-**Init** +6; **Senses** low-light vision; [Perception](../skills_dir/perception#_perception) +8
+**Init** +6; **Senses** low-light vision; [Perception](../../skills_dir/perception#_perception) +8
 
 **Defense**
 
@@ -90,11 +90,11 @@ N Large [animal](creatureTypes#_animal) ( [aquatic](creatureTypes#_aquatic-subty
 
 **Speed** 20 ft., swim 30 ft., jet 200 ft.
 
-**Melee** bite +13 (1d8+5 plus [poison](universalMonsterRules#_poison)), 8 tentacles +11 (1d4+2 plus [grab](universalMonsterRules#_grab))
+**Melee** bite +13 (1d8+5 plus [poison](../universalMonsterRules#_poison)), 8 tentacles +11 (1d4+2 plus [grab](../universalMonsterRules#_grab))
 
 **Space** 10 ft.; **Reach** 10 ft. (20 ft. with tentacle)
 
-**Special Attack** [constrict](universalMonsterRules#_constrict) (tentacle, 1d4+2)
+**Special Attack** [constrict](../universalMonsterRules#_constrict) (tentacle, 1d4+2)
 
 **Statistics**
 
@@ -102,9 +102,9 @@ N Large [animal](creatureTypes#_animal) ( [aquatic](creatureTypes#_aquatic-subty
 
 **Base Atk** +9; **CMB** +15 (+19 grapple); **CMD** 27 (can't be tripped)
 
-**Feats** [Combat Reflexes](../feats#_combat-reflexes), [Improved Initiative](../feats#_improved-initiative), [Iron Will](../feats#_iron-will), [Lightning Reflexes](../feats#_lightning-reflexes), [Multiattack](monsterFeats#_multiattack)B, [Skill Focus](../feats#_skill-focus) ( [Stealth](../skills_dir/stealth#_stealth)), [Stealthy](../feats#_stealthy)
+**Feats** [Combat Reflexes](../../feats#_combat-reflexes), [Improved Initiative](../../feats#_improved-initiative), [Iron Will](../../feats#_iron-will), [Lightning Reflexes](../../feats#_lightning-reflexes), [Multiattack](../monsterFeats#_multiattack)B, [Skill Focus](../../feats#_skill-focus) ( [Stealth](../../skills_dir/stealth#_stealth)), [Stealthy](../../feats#_stealthy)
 
-**Skills** [Escape Artist](../skills_dir/escapeArtist#_escape-artist) +18, [Perception](../skills_dir/perception#_perception) +8, [Stealth](../skills_dir/stealth#_stealth) +18, [Swim](../skills_dir/swim#_swim) +13; **Racial Modifiers** +10 [Escape Artist](../skills_dir/escapeArtist#_escape-artist), +8 [Stealth](../skills_dir/stealth#_stealth)
+**Skills** [Escape Artist](../../skills_dir/escapeArtist#_escape-artist) +18, [Perception](../../skills_dir/perception#_perception) +8, [Stealth](../../skills_dir/stealth#_stealth) +18, [Swim](../../skills_dir/swim#_swim) +13; **Racial Modifiers** +10 [Escape Artist](../../skills_dir/escapeArtist#_escape-artist), +8 [Stealth](../../skills_dir/stealth#_stealth)
 
 **Ecology**
 

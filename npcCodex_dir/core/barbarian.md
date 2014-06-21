@@ -32,9 +32,9 @@ Offense
 
 Tactics
 
-**During Combat** The barbarian favors her greatsword and [Power Attack](feats#_power-attack) when fighting monsters, but uses her flail against weapon-using foes to make disarm and trip combat maneuvers.
+**During Combat** The barbarian favors her greatsword and [Power Attack](../feats#_power-attack) when fighting monsters, but uses her flail against weapon-using foes to make disarm and trip combat maneuvers.
 
-**Base Statistics** When not raging, the barbarian's statistics are **AC** 17, touch 11, flat-footed 16; **hp** 15; **Fort** +4, **Will** +1; **Melee** greatsword +4 (2d6+4_dir/19–20) or heavy flail +4 (1d10+4_dir/19–20); **Ranged** sling +2 (1d4+3); **Str** 17, **Con** 14; **CMB** +4; **Skills** [Climb](skills_dir/climb#_climb) +3, [Swim](skills_dir/swim#_swim) +3.
+**Base Statistics** When not raging, the barbarian's statistics are **AC** 17, touch 11, flat-footed 16; **hp** 15; **Fort** +4, **Will** +1; **Melee** greatsword +4 (2d6+4_dir/19–20) or heavy flail +4 (1d10+4_dir/19–20); **Ranged** sling +2 (1d4+3); **Str** 17, **Con** 14; **CMB** +4; **Skills** [Climb](../skills_dir/climb#_climb) +3, [Swim](../skills_dir/swim#_swim) +3.
 
 statistics
 
@@ -42,15 +42,15 @@ statistics
 
 **Base Atk** +1; **CMB** +6; **CMD** 15
 
-**Feats** Cleave, [Power Attack](feats#_power-attack)
+**Feats** Cleave, [Power Attack](../feats#_power-attack)
 
-**Skills** [Climb](skills_dir/climb#_climb) +5, [Knowledge](skills_dir/knowledge#_knowledge) (nature) +4, Perception +5, [Survival](skills_dir/survival#_survival) +5, [Swim](skills_dir/swim#_swim) +5
+**Skills** [Climb](../skills_dir/climb#_climb) +5, [Knowledge](../skills_dir/knowledge#_knowledge) (nature) +4, Perception +5, [Survival](../skills_dir/survival#_survival) +5, [Swim](../skills_dir/swim#_swim) +5
 
 **Languages** Common
 
 **SQ** fast movement
 
-**Combat Gear** _potion of [cure light wounds](spells_dir/cureLightWounds#_cure-light-wounds)_, _potion of [remove fear](spells_dir/removeFear#_remove-fear)_, alchemist's fire; **Other Gear** breastplate, greatsword, heavy flail, sling with 10 bullets, 5 gp
+**Combat Gear** _potion of [cure light wounds](../spells_dir/cureLightWounds#_cure-light-wounds)_, _potion of [remove fear](../spells_dir/removeFear#_remove-fear)_, alchemist's fire; **Other Gear** breastplate, greatsword, heavy flail, sling with 10 bullets, 5 gp
 
 This cold, merciless barbarian fights for gold and glory.
 
@@ -92,7 +92,7 @@ Tactics
 
 **During Combat** The barbarian uses his shield primarily for defense.
 
-**Base Statistics** When not raging, the barbarian's statistics are **AC** 20, touch 12, flat-footed 18; **hp** 24; **Fort** +5, **Will** +2; **Melee** mwk dwarven waraxe +5 (1d10+2_dir/×3) or mwk dwarven waraxe +3 (1d10+2_dir/×3), armor spikes +2 (1d6+1) or spiked heavy shield +2 (1d8+2); **Ranged** throwing axe +4 (1d6+2); **Str** 14, **Con** 15; **CMB** +4; **Skills** [Climb](skills_dir/climb#_climb) +1.
+**Base Statistics** When not raging, the barbarian's statistics are **AC** 20, touch 12, flat-footed 18; **hp** 24; **Fort** +5, **Will** +2; **Melee** mwk dwarven waraxe +5 (1d10+2_dir/×3) or mwk dwarven waraxe +3 (1d10+2_dir/×3), armor spikes +2 (1d6+1) or spiked heavy shield +2 (1d8+2); **Ranged** throwing axe +4 (1d6+2); **Str** 14, **Con** 15; **CMB** +4; **Skills** [Climb](../skills_dir/climb#_climb) +1.
 
 statistics
 
@@ -100,9 +100,9 @@ statistics
 
 **Base Atk** +2; **CMB** +6; **CMD** 16 (20 vs. bull rush or trip)
 
-**Feats** [Two-Weapon Fighting](feats#_two-weapon-fighting)
+**Feats** [Two-Weapon Fighting](../feats#_two-weapon-fighting)
 
-**Skills** [Climb](skills_dir/climb#_climb) +3, [Knowledge](skills_dir/knowledge#_knowledge) (dungeoneering, engineering) +2, Perception +7 (+9 to notice unusual stonework), [Survival](skills_dir/survival#_survival) +6
+**Skills** [Climb](../skills_dir/climb#_climb) +3, [Knowledge](../skills_dir/knowledge#_knowledge) (dungeoneering, engineering) +2, Perception +7 (+9 to notice unusual stonework), [Survival](../skills_dir/survival#_survival) +6
 
 **Languages** Common, Dwarven
 
@@ -146,7 +146,7 @@ Tactics
 
 **During Combat** The barbarian uses intimidating glare each round, attacking first, then focusing her glare upon the uninjured.
 
-**Base Statistics** When not raging, the barbarian's statistics are **AC** 17, touch 11, flat-footed 16; **hp** 34; **Fort** +5, **Will** +1; **Melee** mwk greataxe +7 (1d12+4_dir/×3); **Ranged** mwk sling +5 (1d4+3); **Str** 17, **Con** 14; **CMB** +6; **Skills** [Climb](skills_dir/climb#_climb) +5, [Intimidate](skills_dir/intimidate#_intimidate) +12, [Swim](skills_dir/swim#_swim) +3.
+**Base Statistics** When not raging, the barbarian's statistics are **AC** 17, touch 11, flat-footed 16; **hp** 34; **Fort** +5, **Will** +1; **Melee** mwk greataxe +7 (1d12+4_dir/×3); **Ranged** mwk sling +5 (1d4+3); **Str** 17, **Con** 14; **CMB** +6; **Skills** [Climb](../skills_dir/climb#_climb) +5, [Intimidate](../skills_dir/intimidate#_intimidate) +12, [Swim](../skills_dir/swim#_swim) +3.
 
 statistics
 
@@ -154,15 +154,15 @@ statistics
 
 **Base Atk** +3; **CMB** +8; **CMD** 17
 
-**Feats** [Intimidating Prowess](feats#_intimidating-prowess), [Power Attack](feats#_power-attack)
+**Feats** [Intimidating Prowess](../feats#_intimidating-prowess), [Power Attack](../feats#_power-attack)
 
-**Skills** [Climb](skills_dir/climb#_climb) +7, [Intimidate](skills_dir/intimidate#_intimidate) +14, Perception +6, [Survival](skills_dir/survival#_survival) +4, [Swim](skills_dir/swim#_swim) +5
+**Skills** [Climb](../skills_dir/climb#_climb) +7, [Intimidate](../skills_dir/intimidate#_intimidate) +14, Perception +6, [Survival](../skills_dir/survival#_survival) +4, [Swim](../skills_dir/swim#_swim) +5
 
 **Languages** Common, Orc
 
 **SQ** fast movement, orc blood, weapon familiarity
 
-**Combat Gear** _potion of [cure light wounds](spells_dir/cureLightWounds#_cure-light-wounds)_, _potion of [lesser restoration](spells_dir/restoration#_restoration-lesser)_, _potion of [protection from good](spells_dir/protectionFromGood#_protection-from-good)_; **Other Gear** mwk chainmail, mwk greataxe, mwk sling with 10 bullets, climber's kit, 250 gp
+**Combat Gear** _potion of [cure light wounds](../spells_dir/cureLightWounds#_cure-light-wounds)_, _potion of [lesser restoration](../spells_dir/restoration#_restoration-lesser)_, _potion of [protection from good](../spells_dir/protectionFromGood#_protection-from-good)_; **Other Gear** mwk chainmail, mwk greataxe, mwk sling with 10 bullets, climber's kit, 250 gp
 
 Dog Rider CR 3
 
@@ -198,11 +198,11 @@ Offense
 
 Tactics
 
-**Before Combat** The barbarian applies _oil of [magic weapon](spells_dir/magicWeapon#_magic-weapon)_.
+**Before Combat** The barbarian applies _oil of [magic weapon](../spells_dir/magicWeapon#_magic-weapon)_.
 
 **During Combat** The barbarian keeps his distance, pelting enemies with bullets. If ranged attacks fail, he charges with his lance.
 
-**Base Statistics** When not raging and without _ [magic weapon](spells_dir/magicWeapon#_magic-weapon)_, the barbarian's statistics are **AC** 20, touch 14, flat-footed 17; **hp** 35; **Fort** +6, **Will** +3; Meleelance +7 (1d6+2_dir/×3); **Ranged** mwk halflingsling staff +10 (1d6+2_dir/×3); **Str** 14, **Con** 13; **CMB** +5; **Skills** [Climb](skills_dir/climb#_climb) +9, [Swim](skills_dir/swim#_swim) +5.
+**Base Statistics** When not raging and without _ [magic weapon](../spells_dir/magicWeapon#_magic-weapon)_, the barbarian's statistics are **AC** 20, touch 14, flat-footed 17; **hp** 35; **Fort** +6, **Will** +3; Meleelance +7 (1d6+2_dir/×3); **Ranged** mwk halflingsling staff +10 (1d6+2_dir/×3); **Str** 14, **Con** 13; **CMB** +5; **Skills** [Climb](../skills_dir/climb#_climb) +9, [Swim](../skills_dir/swim#_swim) +5.
 
 statistics
 
@@ -210,13 +210,13 @@ statistics
 
 **Base Atk** +4; **CMB** +7; **CMD** 18
 
-**Feats** [Deadly Aim](feats#_deadly-aim), [Weapon Focus](feats#_weapon-focus) (halfling sling staff)
+**Feats** [Deadly Aim](../feats#_deadly-aim), [Weapon Focus](../feats#_weapon-focus) (halfling sling staff)
 
-**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +11, [Handle Animal](skills_dir/handleAnimal#_handle-animal) +6, Perception +10, [Ride](skills_dir/ride#_ride) +9, [Stealth](skills_dir/stealth#_stealth) +10, [Survival](skills_dir/survival#_survival) +5
+**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +11, [Handle Animal](../skills_dir/handleAnimal#_handle-animal) +6, Perception +10, [Ride](../skills_dir/ride#_ride) +9, [Stealth](../skills_dir/stealth#_stealth) +10, [Survival](../skills_dir/survival#_survival) +5
 
 **SQ** fast movement
 
-**Combat Gear** _oils of [magic weapon](spells_dir/magicWeapon#_magic-weapon)_ (2), _potions of [cure light wounds](spells_dir/cureLightWounds#_cure-light-wounds) _(2); **Other Gear** _+1 chain shirt_, masterwork buckler, lance, masterwork halfling sling staff with 20 bullets, riding dog with riding saddle and leather barding, 55 gp
+**Combat Gear** _oils of [magic weapon](../spells_dir/magicWeapon#_magic-weapon)_ (2), _potions of [cure light wounds](../spells_dir/cureLightWounds#_cure-light-wounds) _(2); **Other Gear** _+1 chain shirt_, masterwork buckler, lance, masterwork halfling sling staff with 20 bullets, riding dog with riding saddle and leather barding, 55 gp
 
 Small and adept at skirmish maneuvers, a dog rider is a deadly and cautious warrior.
 
@@ -256,7 +256,7 @@ Tactics
 
 **During Combat** The barbarian makes charge attacks whenever possible. If prevented from charging, she maneuvers to maximize attacks of opportunity caused by her extended reach. Her armor spikes are a weapon of last resort.
 
-**Base Statistics** When not raging, the barbarian's statistics are **AC** 20, touch 11, flat-footed 19; **hp** 53; **Fort** +7, **Will** +3; no bonus vs. spells and spell-like or supernatural abilities; **Melee** mwk lance +10 (1d8+4_dir/×3) or armor spikes +9 (1d6+4); **Ranged** javelin +6 (1d6+4); **Str** 18, **Con** 14; **CMB** +9; **Skills** [Climb](skills_dir/climb#_climb) +10, [Swim](skills_dir/swim#_swim) +5.
+**Base Statistics** When not raging, the barbarian's statistics are **AC** 20, touch 11, flat-footed 19; **hp** 53; **Fort** +7, **Will** +3; no bonus vs. spells and spell-like or supernatural abilities; **Melee** mwk lance +10 (1d8+4_dir/×3) or armor spikes +9 (1d6+4); **Ranged** javelin +6 (1d6+4); **Str** 18, **Con** 14; **CMB** +9; **Skills** [Climb](../skills_dir/climb#_climb) +10, [Swim](../skills_dir/swim#_swim) +5.
 
 statistics
 
@@ -264,15 +264,15 @@ statistics
 
 **Base Atk** +5; **CMB** +11; **CMD** 20
 
-**Feats** [Mounted Combat](feats#_mounted-combat), Ride-By Attack, [Skill Focus](feats#_skill-focus) ( [Ride](skills_dir/ride#_ride)), Spirited Charge
+**Feats** [Mounted Combat](../feats#_mounted-combat), Ride-By Attack, [Skill Focus](../feats#_skill-focus) ( [Ride](../skills_dir/ride#_ride)), Spirited Charge
 
-**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +2, [Climb](skills_dir/climb#_climb) +12, Perception +11, [Ride](skills_dir/ride#_ride) +8, [Survival](skills_dir/survival#_survival) +5, [Swim](skills_dir/swim#_swim) +7
+**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +2, [Climb](../skills_dir/climb#_climb) +12, Perception +11, [Ride](../skills_dir/ride#_ride) +8, [Survival](../skills_dir/survival#_survival) +5, [Swim](../skills_dir/swim#_swim) +7
 
 **Languages** Common, Elven
 
 **SQ** elf blood, fast movement
 
-**Combat Gear** acid; **Other Gear** _+1 breastplate _with armor spikes, masterwork heavy wooden shield, javelins (5), masterwork lance, _ [cloak of resistance](magicItems_dir/wondrousItems#_cloak-of-resistance) +1_, heavy horse (combat trained) with military saddle and masterwork studded leather barding, 310 gp
+**Combat Gear** acid; **Other Gear** _+1 breastplate _with armor spikes, masterwork heavy wooden shield, javelins (5), masterwork lance, _ [cloak of resistance](../magicItems_dir/wondrousItems#_cloak-of-resistance) +1_, heavy horse (combat trained) with military saddle and masterwork studded leather barding, 310 gp
 
 Some barbarians are most at home on horseback.
 
@@ -310,7 +310,7 @@ Tactics
 
 **During Combat** The barbarian switches freely between bow and blade as the situation warrants.
 
-**Base Statistics** When not raging, the barbarian's statistics are **AC** 19, touch 14, flat-footed 15; **hp** 56; **Fort** +6, **Will** +3; **Melee** mwk elven curve blade +8_dir/+3 (1d10+1_dir/18–20); **Ranged** _+1 composite longbow_ +11_dir/+6 (1d8+2_dir/×3); **Str** 13, **Con** 12; **CMB** +7; **Skills** [Climb](skills_dir/climb#_climb) +8.
+**Base Statistics** When not raging, the barbarian's statistics are **AC** 19, touch 14, flat-footed 15; **hp** 56; **Fort** +6, **Will** +3; **Melee** mwk elven curve blade +8_dir/+3 (1d10+1_dir/18–20); **Ranged** _+1 composite longbow_ +11_dir/+6 (1d8+2_dir/×3); **Str** 13, **Con** 12; **CMB** +7; **Skills** [Climb](../skills_dir/climb#_climb) +8.
 
 Statistics
 
@@ -318,15 +318,15 @@ Statistics
 
 **Base Atk** +6; **CMB** +9; **CMD** 21
 
-**Feats** [Deadly Aim](feats#_deadly-aim), [Point-Blank Shot](feats#_point-blank-shot), [Power Attack](feats#_power-attack)
+**Feats** [Deadly Aim](../feats#_deadly-aim), [Point-Blank Shot](../feats#_point-blank-shot), [Power Attack](../feats#_power-attack)
 
-**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +12 (+20 when jumping), [Climb](skills_dir/climb#_climb) +10, [Craft](skills_dir/craft#_craft) (bows) +5, [Handle Animal](skills_dir/handleAnimal#_handle-animal) +5, [Knowledge](skills_dir/knowledge#_knowledge) (nature) +5, Perception +12, [Stealth](skills_dir/stealth#_stealth) +5, [Survival](skills_dir/survival#_survival) +5
+**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +12 (+20 when jumping), [Climb](../skills_dir/climb#_climb) +10, [Craft](../skills_dir/craft#_craft) (bows) +5, [Handle Animal](../skills_dir/handleAnimal#_handle-animal) +5, [Knowledge](../skills_dir/knowledge#_knowledge) (nature) +5, Perception +12, [Stealth](../skills_dir/stealth#_stealth) +5, [Survival](../skills_dir/survival#_survival) +5
 
 **Languages** Common, Elven
 
 **SQ** elven magic, fast movement, weapon familiarity
 
-**Combat Gear** _potions of [cure light wounds](spells_dir/cureLightWounds#_cure-light-wounds)_ (2), _potions of [longstrider](spells_dir/longstrider#_longstrider)_ (2), alchemist's fire (2); **Other Gear** _+1 chain shirt_, _+1 composite longbow_ (+3 Str) with 20 arrows, masterwork elven curve blade, climber's kit, 2 gp
+**Combat Gear** _potions of [cure light wounds](../spells_dir/cureLightWounds#_cure-light-wounds)_ (2), _potions of [longstrider](../spells_dir/longstrider#_longstrider)_ (2), alchemist's fire (2); **Other Gear** _+1 chain shirt_, _+1 composite longbow_ (+3 Str) with 20 arrows, masterwork elven curve blade, climber's kit, 2 gp
 
 This barbarian guards the fringes of wooded territories, protecting creatures and people from those who would despoil the land and steal from its inhabitants. They distrust all outsiders, but must also guard against their own kin.
 
@@ -364,7 +364,7 @@ Tactics
 
 **During Combat** The barbarian uses her guarded stance and alternates between dealing damage and sundering weapons.
 
-**Base Statistics** When not raging, the barbarian's statistics are **AC** 20, touch 11, flat-footed 19; **hp** 79; **Fort** +9, **Will** +5; **Melee** mwk adamantine greataxe +11_dir/+6 (1d12+4_dir/×3); **Ranged** light hammer +8 (1d4+3) or throwing axe +8 (1d6+3); **Str** 16, **Con** 16; **CMB** +10 (+14 sunder); **Skills** [Climb](skills_dir/climb#_climb) +8.
+**Base Statistics** When not raging, the barbarian's statistics are **AC** 20, touch 11, flat-footed 19; **hp** 79; **Fort** +9, **Will** +5; **Melee** mwk adamantine greataxe +11_dir/+6 (1d12+4_dir/×3); **Ranged** light hammer +8 (1d4+3) or throwing axe +8 (1d6+3); **Str** 16, **Con** 16; **CMB** +10 (+14 sunder); **Skills** [Climb](../skills_dir/climb#_climb) +8.
 
 statistics
 
@@ -372,15 +372,15 @@ statistics
 
 **Base Atk** +7; **CMB** +12 (+16 sunder); **CMD** 21 (25 vs. bull rush or trip, 23 vs. sunder)
 
-**Feats** Armor Proficiency (heavy), Greater Sunder, Improved Sunder, [Power Attack](feats#_power-attack)
+**Feats** Armor Proficiency (heavy), Greater Sunder, Improved Sunder, [Power Attack](../feats#_power-attack)
 
-**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +5 (+1 when jumping), [Climb](skills_dir/climb#_climb) +10, [Craft](skills_dir/craft#_craft) (weapons) +10, [Knowledge](skills_dir/knowledge#_knowledge) (dungeoneering) +5, Perception +12 (+14 to notice unusual stonework)
+**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +5 (+1 when jumping), [Climb](../skills_dir/climb#_climb) +10, [Craft](../skills_dir/craft#_craft) (weapons) +10, [Knowledge](../skills_dir/knowledge#_knowledge) (dungeoneering) +5, Perception +12 (+14 to notice unusual stonework)
 
 **Languages** Common, Dwarven
 
 **SQ** fast movement
 
-**Combat Gear** _oil of [magic weapon](spells_dir/magicWeapon#_magic-weapon)_,_ potion of [cure light wounds](spells_dir/cureLightWounds#_cure-light-wounds)_, _potion of [shield of faith](spells_dir/shieldOfFaith#_shield-of-faith)_, acid (3); **Other Gear** masterwork full plate, light hammer (2), masterwork adamantine greataxe, throwing axe (2), c_loak of [resistance](spells_dir/resistance#_resistance) +1_, climber's kit, masterwork artisan's tools, 2 gp
+**Combat Gear** _oil of [magic weapon](../spells_dir/magicWeapon#_magic-weapon)_,_ potion of [cure light wounds](../spells_dir/cureLightWounds#_cure-light-wounds)_, _potion of [shield of faith](../spells_dir/shieldOfFaith#_shield-of-faith)_, acid (3); **Other Gear** masterwork full plate, light hammer (2), masterwork adamantine greataxe, throwing axe (2), c_loak of [resistance](../spells_dir/resistance#_resistance) +1_, climber's kit, masterwork artisan's tools, 2 gp
 
 A sundering axe whittles away at her enemies' abilities to attack and defend themselves.
 
@@ -420,7 +420,7 @@ Tactics
 
 **During Combat** The barbarian leads with trip maneuvers, seeking to trigger attacks of opportunity. He uses knockback to force creatures to advance on him again through the threatened area of his glaive.
 
-**Base Statistics** When not raging, the barbarian's statistics are **AC** 19, touch 12, flat-footed 18; **hp** 89; **Fort** +10, **Will** +3; no bonus vs. spells and spell-like or supernatural abilities; **Melee** mwk cold iron glaive +13_dir/+8 (1d8+4_dir/×3) or kukri +12_dir/+7 (1d3+3_dir/18–20); **Ranged** mwk composite longbow +11_dir/+6 (1d6+3_dir/×3); **Str** 16, **Con** 16; **CMB** +10 (+14 trip); **Skills** [Climb](skills_dir/climb#_climb) +6, [Swim](skills_dir/swim#_swim) +8.
+**Base Statistics** When not raging, the barbarian's statistics are **AC** 19, touch 12, flat-footed 18; **hp** 89; **Fort** +10, **Will** +3; no bonus vs. spells and spell-like or supernatural abilities; **Melee** mwk cold iron glaive +13_dir/+8 (1d8+4_dir/×3) or kukri +12_dir/+7 (1d3+3_dir/18–20); **Ranged** mwk composite longbow +11_dir/+6 (1d6+3_dir/×3); **Str** 16, **Con** 16; **CMB** +10 (+14 trip); **Skills** [Climb](../skills_dir/climb#_climb) +6, [Swim](../skills_dir/swim#_swim) +8.
 
 Statistics
 
@@ -428,15 +428,15 @@ Statistics
 
 **Base Atk** +8; **CMB** +12 (+16 trip); **CMD** 21 (23 vs. trip)
 
-**Feats** [Combat Expertise](feats#_combat-expertise), Greater Trip, Improved Trip, [Power Attack](feats#_power-attack)
+**Feats** [Combat Expertise](../feats#_combat-expertise), Greater Trip, Improved Trip, [Power Attack](../feats#_power-attack)
 
-**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +5, [Climb](skills_dir/climb#_climb) +8, [Craft](skills_dir/craft#_craft) (ships) +5, [Intimidate](skills_dir/intimidate#_intimidate) +5, [Knowledge](skills_dir/knowledge#_knowledge) (nature) +10, [Linguistics](skills_dir/linguistics#_linguistics) +3, Perception +12, [Profession](skills_dir/profession#_profession) (sailor) +5, [Survival](skills_dir/survival#_survival) +10, [Swim](skills_dir/swim#_swim) +10
+**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +5, [Climb](../skills_dir/climb#_climb) +8, [Craft](../skills_dir/craft#_craft) (ships) +5, [Intimidate](../skills_dir/intimidate#_intimidate) +5, [Knowledge](../skills_dir/knowledge#_knowledge) (nature) +10, [Linguistics](../skills_dir/linguistics#_linguistics) +3, Perception +12, [Profession](../skills_dir/profession#_profession) (sailor) +5, [Survival](../skills_dir/survival#_survival) +10, [Swim](../skills_dir/swim#_swim) +10
 
 **Languages** Aquan, Auran, Common, Gnome, Sylvan
 
 **SQ** fast movement
 
-**Combat Gear** _oil of [magic weapon](spells_dir/magicWeapon#_magic-weapon)_,_potion of [cure light wounds](spells_dir/cureLightWounds#_cure-light-wounds)_; **Other Gear** _+1 breastplate_, kukri, masterwork cold iron glaive, masterwork composite longbow (+5 Str) with 20 arrows, _ [belt of giant strength](magicItems_dir/wondrousItems#_belt-of-giant-strength) +2_, _ [cloak of resistance](magicItems_dir/wondrousItems#_cloak-of-resistance) +1_, climber's kit, 50 gp
+**Combat Gear** _oil of [magic weapon](../spells_dir/magicWeapon#_magic-weapon)_,_potion of [cure light wounds](../spells_dir/cureLightWounds#_cure-light-wounds)_; **Other Gear** _+1 breastplate_, kukri, masterwork cold iron glaive, masterwork composite longbow (+5 Str) with 20 arrows, _ [belt of giant strength](../magicItems_dir/wondrousItems#_belt-of-giant-strength) +2_, _ [cloak of resistance](../magicItems_dir/wondrousItems#_cloak-of-resistance) +1_, climber's kit, 50 gp
 
 Raging Swimmer CR 8
 
@@ -472,9 +472,9 @@ Offense
 
 Tactics
 
-**During Combat** The barbarian prefers to fight in the water, outswimming foes or using the water for cover as she attacks landward opponents her bow or longspear (using [Lunge](feats#_lunge)). She eschews full attacks in favor of [Vital Strike](feats#_vital-strike) attacks against a lone target or Great Cleave attacks against groups. She forces enemies to approach through the guard of her longspear, provoking attacks of opportunity.
+**During Combat** The barbarian prefers to fight in the water, outswimming foes or using the water for cover as she attacks landward opponents her bow or longspear (using [Lunge](../feats#_lunge)). She eschews full attacks in favor of [Vital Strike](../feats#_vital-strike) attacks against a lone target or Great Cleave attacks against groups. She forces enemies to approach through the guard of her longspear, provoking attacks of opportunity.
 
-**Base Statistics** When not raging, the barbarian's statistics are **Senses** no scent; **AC** 16, touch 12, flat-footed 14; **hp** 91; **Fort** +9, **Will** +4; no bonus vs. spells and spell-like or supernatural abilities; **Melee** _+1 longspear_ +14_dir/+9 (2d4+7_dir/×3) or spiked gauntlet +13_dir/+8 (1d4+4); **Ranged** _+1 composite longbow_ +12_dir/+7 (1d8+5_dir/×3); **Str** 18, **Con** 14; **CMB** +13; **Skills** [Climb](skills_dir/climb#_climb) +8, [Swim](skills_dir/swim#_swim) +9.
+**Base Statistics** When not raging, the barbarian's statistics are **Senses** no scent; **AC** 16, touch 12, flat-footed 14; **hp** 91; **Fort** +9, **Will** +4; no bonus vs. spells and spell-like or supernatural abilities; **Melee** _+1 longspear_ +14_dir/+9 (2d4+7_dir/×3) or spiked gauntlet +13_dir/+8 (1d4+4); **Ranged** _+1 composite longbow_ +12_dir/+7 (1d8+5_dir/×3); **Str** 18, **Con** 14; **CMB** +13; **Skills** [Climb](../skills_dir/climb#_climb) +8, [Swim](../skills_dir/swim#_swim) +9.
 
 Statistics
 
@@ -482,15 +482,15 @@ Statistics
 
 **Base Atk** +9; **CMB** +15; **CMD** 25
 
-**Feats** Cleave, Great Cleave, [Lunge](feats#_lunge), [Power Attack](feats#_power-attack), [Skill Focus](feats#_skill-focus) ( [Acrobatics](skills_dir/acrobatics#_acrobatics)), [Vital Strike](feats#_vital-strike)
+**Feats** Cleave, Great Cleave, [Lunge](../feats#_lunge), [Power Attack](../feats#_power-attack), [Skill Focus](../feats#_skill-focus) ( [Acrobatics](../skills_dir/acrobatics#_acrobatics)), [Vital Strike](../feats#_vital-strike)
 
-**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +16 (+20 when jumping), [Climb](skills_dir/climb#_climb) +10, [Handle Animal](skills_dir/handleAnimal#_handle-animal) +10, [Knowledge](skills_dir/knowledge#_knowledge) (nature) +5, [Linguistics](skills_dir/linguistics#_linguistics) +3, Perception +19, [Ride](skills_dir/ride#_ride) +5, [Stealth](skills_dir/stealth#_stealth) +10, [Survival](skills_dir/survival#_survival) +4, [Swim](skills_dir/swim#_swim) +20
+**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +16 (+20 when jumping), [Climb](../skills_dir/climb#_climb) +10, [Handle Animal](../skills_dir/handleAnimal#_handle-animal) +10, [Knowledge](../skills_dir/knowledge#_knowledge) (nature) +5, [Linguistics](../skills_dir/linguistics#_linguistics) +3, Perception +19, [Ride](../skills_dir/ride#_ride) +5, [Stealth](../skills_dir/stealth#_stealth) +10, [Survival](../skills_dir/survival#_survival) +4, [Swim](../skills_dir/swim#_swim) +20
 
 **Languages** Aquan, Common, Elven, Sylvan
 
 **SQ** elf blood, fast movement
 
-**Combat Gear** _oil of [align weapon](spells_dir/alignWeapon#_align-weapon)_ (lawful),_ potion of [cure light wounds](spells_dir/cureLightWounds#_cure-light-wounds)_, _potion of [lesser restoration](spells_dir/restoration#_restoration-lesser), _alchemical silver arrows (10), cold iron arrows (10); **Other Gear** masterwork chain shirt, _+1 composite longbow_ (+6 Str) with 20 arrows, _+1 longspear_, masterwork longspear, spiked gauntlet, _ [cloak of resistance](magicItems_dir/wondrousItems#_cloak-of-resistance) +1_, _ [eyes of the eagle](magicItems_dir/wondrousItems#_eyes-of-the-eagle), _1 gp
+**Combat Gear** _oil of [align weapon](../spells_dir/alignWeapon#_align-weapon)_ (lawful),_ potion of [cure light wounds](../spells_dir/cureLightWounds#_cure-light-wounds)_, _potion of [lesser restoration](../spells_dir/restoration#_restoration-lesser), _alchemical silver arrows (10), cold iron arrows (10); **Other Gear** masterwork chain shirt, _+1 composite longbow_ (+6 Str) with 20 arrows, _+1 longspear_, masterwork longspear, spiked gauntlet, _ [cloak of resistance](../magicItems_dir/wondrousItems#_cloak-of-resistance) +1_, _ [eyes of the eagle](../magicItems_dir/wondrousItems#_eyes-of-the-eagle), _1 gp
 
 Adept at combat on land or in the water, the raging swimmer attacks foes when they are most vulnerable.
 
@@ -534,9 +534,9 @@ Offense
 
 Tactics
 
-**During Combat** The barbarian uses [Climb](skills_dir/climb#_climb) and [Acrobatics](skills_dir/acrobatics#_acrobatics) to rain death upon enemies from above. She snipes from cover or concealment to begin her attack, but after that is concerned solely with maximizing the intensity of her deadly barrage. She activates her rolling dodge to evade enemy counterfire.
+**During Combat** The barbarian uses [Climb](../skills_dir/climb#_climb) and [Acrobatics](../skills_dir/acrobatics#_acrobatics) to rain death upon enemies from above. She snipes from cover or concealment to begin her attack, but after that is concerned solely with maximizing the intensity of her deadly barrage. She activates her rolling dodge to evade enemy counterfire.
 
-**Base Statistics** When not raging, the barbarian's statistics are **AC** 23, touch 16, flat-footed 18; **hp** 100; **Fort** +11, **Will** +6; no bonus vs. spells and spell-like or supernatural abilities; **Immune** —; **Melee** mwk scimitar +13_dir/+8 (1d4+1_dir/18–20); **Ranged** _+1 composite longbow_ +15_dir/+15_dir/+10 (1d6+2_dir/19–20_dir/×3) or _+1 composite longbow_ +17_dir/+12 (1d6+2_dir/19–20_dir/×3); **Str** 12, **Con** 14; **CMB** +10; **Skills** [Climb](skills_dir/climb#_climb) +18, [Swim](skills_dir/swim#_swim) +5.
+**Base Statistics** When not raging, the barbarian's statistics are **AC** 23, touch 16, flat-footed 18; **hp** 100; **Fort** +11, **Will** +6; no bonus vs. spells and spell-like or supernatural abilities; **Immune** —; **Melee** mwk scimitar +13_dir/+8 (1d4+1_dir/18–20); **Ranged** _+1 composite longbow_ +15_dir/+15_dir/+10 (1d6+2_dir/19–20_dir/×3) or _+1 composite longbow_ +17_dir/+12 (1d6+2_dir/19–20_dir/×3); **Str** 12, **Con** 14; **CMB** +10; **Skills** [Climb](../skills_dir/climb#_climb) +18, [Swim](../skills_dir/swim#_swim) +5.
 
 Statistics
 
@@ -544,15 +544,15 @@ Statistics
 
 **Base Atk** +10; **CMB** +12; **CMD** 25
 
-**Feats** [Deadly Aim](feats#_deadly-aim), [Improved Critical](feats#_improved-critical) (composite longbow), Manyshot, [Point-Blank Shot](feats#_point-blank-shot), Rapid Shot
+**Feats** [Deadly Aim](../feats#_deadly-aim), [Improved Critical](../feats#_improved-critical) (composite longbow), Manyshot, [Point-Blank Shot](../feats#_point-blank-shot), Rapid Shot
 
-**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +20, [Climb](skills_dir/climb#_climb) +30, Perception +14, [Stealth](skills_dir/stealth#_stealth) +19, [Survival](skills_dir/survival#_survival) +5, [Swim](skills_dir/swim#_swim) +7
+**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +20, [Climb](../skills_dir/climb#_climb) +30, Perception +14, [Stealth](../skills_dir/stealth#_stealth) +19, [Survival](../skills_dir/survival#_survival) +5, [Swim](../skills_dir/swim#_swim) +7
 
 **Languages** Common, Halfling
 
 **SQ** fast movement
 
-**Combat Gear** _potions of [cure light wounds](spells_dir/cureLightWounds#_cure-light-wounds)_ (2), _potion of [protection from arrows](spells_dir/protectionFromArrows#_protection-from-arrows)_, _potion of [shield of faith](spells_dir/shieldOfFaith#_shield-of-faith)_, alchemical silver arrows (10), alchemist's fire (2), cold iron arrows (10), drow poison (3), tanglefoot bag; **Other Gear** _+1 mithral chain shirt_, _+1 buckler_, _+1 composite longbow_ (+3 Str) with 60 arrows, masterwork scimitar, _ [belt of incredible dexterity](magicItems_dir/wondrousItems#_belt-of-incredible-dexterity) +2_, _ [cloak of resistance](magicItems_dir/wondrousItems#_cloak-of-resistance) +1_, climber's kit, 300 gp
+**Combat Gear** _potions of [cure light wounds](../spells_dir/cureLightWounds#_cure-light-wounds)_ (2), _potion of [protection from arrows](../spells_dir/protectionFromArrows#_protection-from-arrows)_, _potion of [shield of faith](../spells_dir/shieldOfFaith#_shield-of-faith)_, alchemical silver arrows (10), alchemist's fire (2), cold iron arrows (10), drow poison (3), tanglefoot bag; **Other Gear** _+1 mithral chain shirt_, _+1 buckler_, _+1 composite longbow_ (+3 Str) with 60 arrows, masterwork scimitar, _ [belt of incredible dexterity](../magicItems_dir/wondrousItems#_belt-of-incredible-dexterity) +2_, _ [cloak of resistance](../magicItems_dir/wondrousItems#_cloak-of-resistance) +1_, climber's kit, 300 gp
 
 Rare tribes of halfling cannibals stalk deep jungles in search of sentient prey.
 
@@ -596,9 +596,9 @@ Offense
 
 Tactics
 
-**During Combat** The barbarian charges into the heart of battle, using one end of his double axe two-handed when charging or moving, and switching back to a double weapon grip when making full attacks. He uses his leaping and [Acrobatics](skills_dir/acrobatics#_acrobatics) to enter melee quickly, using his no escape ability to chase down cowards.
+**During Combat** The barbarian charges into the heart of battle, using one end of his double axe two-handed when charging or moving, and switching back to a double weapon grip when making full attacks. He uses his leaping and [Acrobatics](../skills_dir/acrobatics#_acrobatics) to enter melee quickly, using his no escape ability to chase down cowards.
 
-**Base Statistics** When not raging, the barbarian's statistics are **AC** 19, touch 14, flat-footed 15; **hp** 109; **Fort** +11, **Will** +6; no bonus vs. spells and spell-like or supernatural abilities; **DR** 2_dir/—; **Melee** _+1 orc double axe_ +16_dir/+11_dir/+6 (1d8+5_dir/19–20_dir/×3) or +1 orc double axe +14_dir/+9_dir/+4 (1d8+4_dir/19–20_dir/×3), +1 orc double axe +14_dir/+9 (1d8+4_dir/19–20_dir/×3), bite +9 (1d4+1); **Ranged** mwk composite longbow +16_dir/+11_dir/+6 (1d8+3_dir/×3); **Str** 16, **Con** 14; **CMB** +14; **CMD** 28; **Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +17 (+21 when jumping) [Climb](skills_dir/climb#_climb) +8, [Swim](skills_dir/swim#_swim) +8.
+**Base Statistics** When not raging, the barbarian's statistics are **AC** 19, touch 14, flat-footed 15; **hp** 109; **Fort** +11, **Will** +6; no bonus vs. spells and spell-like or supernatural abilities; **DR** 2_dir/—; **Melee** _+1 orc double axe_ +16_dir/+11_dir/+6 (1d8+5_dir/19–20_dir/×3) or +1 orc double axe +14_dir/+9_dir/+4 (1d8+4_dir/19–20_dir/×3), +1 orc double axe +14_dir/+9 (1d8+4_dir/19–20_dir/×3), bite +9 (1d4+1); **Ranged** mwk composite longbow +16_dir/+11_dir/+6 (1d8+3_dir/×3); **Str** 16, **Con** 14; **CMB** +14; **CMD** 28; **Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +17 (+21 when jumping) [Climb](../skills_dir/climb#_climb) +8, [Swim](../skills_dir/swim#_swim) +8.
 
 Statistics
 
@@ -606,13 +606,13 @@ Statistics
 
 **Base Atk** +11; **CMB** +17; **CMD** 29
 
-**Feats** Double Slice, [Improved Critical](feats#_improved-critical) (orc double axe), Improved [Two-Weapon Fighting](feats#_two-weapon-fighting), [Two-Weapon Fighting](feats#_two-weapon-fighting), Two-Weapon Rend, [Weapon Focus](feats#_weapon-focus) (orc double axe)
+**Feats** Double Slice, [Improved Critical](../feats#_improved-critical) (orc double axe), Improved [Two-Weapon Fighting](../feats#_two-weapon-fighting), [Two-Weapon Fighting](../feats#_two-weapon-fighting), Two-Weapon Rend, [Weapon Focus](../feats#_weapon-focus) (orc double axe)
 
-**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +17 (+32 when jumping), [Climb](skills_dir/climb#_climb) +11, [Intimidate](skills_dir/intimidate#_intimidate) +10, Perception +15, [Ride](skills_dir/ride#_ride) +7, [Stealth](skills_dir/stealth#_stealth) +14, [Survival](skills_dir/survival#_survival) +5, [Swim](skills_dir/swim#_swim) +11
+**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +17 (+32 when jumping), [Climb](../skills_dir/climb#_climb) +11, [Intimidate](../skills_dir/intimidate#_intimidate) +10, Perception +15, [Ride](../skills_dir/ride#_ride) +7, [Stealth](../skills_dir/stealth#_stealth) +14, [Survival](../skills_dir/survival#_survival) +5, [Swim](../skills_dir/swim#_swim) +11
 
 **SQ** fast movement, orc blood, weapon familiarity
 
-**Combat Gear** _potions of [blur](spells_dir/blur#_blur)_ (2), _potion of [fly](spells_dir/fly)_; **Other Gear** _+1 chain shirt_, _+1_dir/+1 orc double axe_, masterwork composite longbow (+7 Str) with 20 arrows, _ [belt of giant strength](magicItems_dir/wondrousItems#_belt-of-giant-strength) +2_,_ [cloak of resistance](magicItems_dir/wondrousItems#_cloak-of-resistance) +2_, climber's kit, 50 gp
+**Combat Gear** _potions of [blur](../spells_dir/blur#_blur)_ (2), _potion of [fly](../spells_dir/fly)_; **Other Gear** _+1 chain shirt_, _+1_dir/+1 orc double axe_, masterwork composite longbow (+7 Str) with 20 arrows, _ [belt of giant strength](../magicItems_dir/wondrousItems#_belt-of-giant-strength) +2_,_ [cloak of resistance](../magicItems_dir/wondrousItems#_cloak-of-resistance) +2_, climber's kit, 50 gp
 
 This half-orc barbarian savagely rips though weaker opponents with unquenchable bloodlust.
 
@@ -658,7 +658,7 @@ Tactics
 
 **During Combat** The barbarian switches from a one-handed to a two-handed grip on his axe as the situation demands. He uses his shield against multiple foes but keeps his bow in hand if in melee against a lone enemy. He uses his rolling dodge before exposing himself to missiles, especially giant-hurled boulders, and assumes his guarded stance in melee. He charges with Spring Attack to get close to his enemies, following it up with full attacks.
 
-**Base Statistics** When not raging, the barbarian's statistics are **AC** 25, touch 13, flat-footed 23; **hp** 155; **Fort** +14, **Will** +7; **Melee** _+1 giant-bane dwarven waraxe_ +16_dir/+11_dir/+6 (1d10+4_dir/×3); **Ranged** mwk composite longbow +14_dir/+9_dir/+4 (1d8+3_dir/×3); **Str** 16, **Con** 20; **CMB** +15; **CMD** 28 (32 vs. bull rush or trip); **Skills** [Climb](skills_dir/climb#_climb) +7, [Swim](skills_dir/swim#_swim) +7.
+**Base Statistics** When not raging, the barbarian's statistics are **AC** 25, touch 13, flat-footed 23; **hp** 155; **Fort** +14, **Will** +7; **Melee** _+1 giant-bane dwarven waraxe_ +16_dir/+11_dir/+6 (1d10+4_dir/×3); **Ranged** mwk composite longbow +14_dir/+9_dir/+4 (1d8+3_dir/×3); **Str** 16, **Con** 20; **CMB** +15; **CMD** 28 (32 vs. bull rush or trip); **Skills** [Climb](../skills_dir/climb#_climb) +7, [Swim](../skills_dir/swim#_swim) +7.
 
 Statistics
 
@@ -666,15 +666,15 @@ Statistics
 
 **Base Atk** +12; **CMB** +18; **CMD** 29 (33 vs. bull rush or trip)
 
-**Feats** , [Dodge](feats#_dodge), Heavy Armor Proficiency, Mobility, [Power Attack](feats#_power-attack), Spring Attack, [Vital Strike](feats#_vital-strike)
+**Feats** , [Dodge](../feats#_dodge), Heavy Armor Proficiency, Mobility, [Power Attack](../feats#_power-attack), Spring Attack, [Vital Strike](../feats#_vital-strike)
 
-**Skills** [Climb](skills_dir/climb#_climb) +10, [Heal](skills_dir/heal#_heal) +5, [Knowledge](skills_dir/knowledge#_knowledge) (nature) +5, [Linguistics](skills_dir/linguistics#_linguistics) +0, Perception +17 (+19 to notice unusual stonework), [Survival](skills_dir/survival#_survival) +10, [Swim](skills_dir/swim#_swim) +10
+**Skills** [Climb](../skills_dir/climb#_climb) +10, [Heal](../skills_dir/heal#_heal) +5, [Knowledge](../skills_dir/knowledge#_knowledge) (nature) +5, [Linguistics](../skills_dir/linguistics#_linguistics) +0, Perception +17 (+19 to notice unusual stonework), [Survival](../skills_dir/survival#_survival) +10, [Swim](../skills_dir/swim#_swim) +10
 
 **Languages** Common, Dwarven, Giant
 
 **SQ** fast movement
 
-**Combat Gear** _potions of [blur](spells_dir/blur#_blur)_ (2), _potions of [cure light wounds](spells_dir/cureLightWounds#_cure-light-wounds)_ (2), tanglefoot bags (3); **Other Gear** _+1 full plate_, _+1 buckler_, _+1 giant-bane dwarven waraxe_, mwk composite longbow (+6 Str) with 20 arrows, _ [belt of mighty constitution](magicItems_dir/wondrousItems#_belt-of-mighty-constitution) +2, [cloak of resistance](magicItems_dir/wondrousItems#_cloak-of-resistance) +1_, _ [ring of protection](magicItems_dir/rings#_ring-of-protection) +1_, 5 gp
+**Combat Gear** _potions of [blur](../spells_dir/blur#_blur)_ (2), _potions of [cure light wounds](../spells_dir/cureLightWounds#_cure-light-wounds)_ (2), tanglefoot bags (3); **Other Gear** _+1 full plate_, _+1 buckler_, _+1 giant-bane dwarven waraxe_, mwk composite longbow (+6 Str) with 20 arrows, _ [belt of mighty constitution](../magicItems_dir/wondrousItems#_belt-of-mighty-constitution) +2, [cloak of resistance](../magicItems_dir/wondrousItems#_cloak-of-resistance) +1_, _ [ring of protection](../magicItems_dir/rings#_ring-of-protection) +1_, 5 gp
 
 Giant slayers seek out giants and cut them down. Raging with enmity for their prey, they allow no other creatures to get between them and their hated foes.
 
@@ -720,11 +720,11 @@ Offense
 
 Tactics
 
-**Before Combat** The barbarian uses his warhorse for transportation, but if expecting combat, he retrieves an animal from his _ [bag of tricks](magicItems_dir/wondrousItems#_bag-of-tricks)_ and rides it instead.
+**Before Combat** The barbarian uses his warhorse for transportation, but if expecting combat, he retrieves an animal from his _ [bag of tricks](../magicItems_dir/wondrousItems#_bag-of-tricks)_ and rides it instead.
 
-**During Combat** The barbarian charges whenever possible, whether mounted or on foot, using [Mounted Combat](feats#_mounted-combat) and his _+1 [arrow catching](magicItems_dir/armor#_armor-arrow-catching) buckler_ to divert attacks made against his mount. If his mount is slain, he draws a replacement from his _ [bag of tricks](magicItems_dir/wondrousItems#_bag-of-tricks)_ and makes a fast mount. He uses guarded stance and rolling dodge as needed, often using them or renewed vigor after a ride-by charge while circling around into position for another charge.
+**During Combat** The barbarian charges whenever possible, whether mounted or on foot, using [Mounted Combat](../feats#_mounted-combat) and his _+1 [arrow catching](../magicItems_dir/armor#_armor-arrow-catching) buckler_ to divert attacks made against his mount. If his mount is slain, he draws a replacement from his _ [bag of tricks](../magicItems_dir/wondrousItems#_bag-of-tricks)_ and makes a fast mount. He uses guarded stance and rolling dodge as needed, often using them or renewed vigor after a ride-by charge while circling around into position for another charge.
 
-**Base Statistics** When not raging, the barbarian's statistics are **AC** 19, touch 11, flat-footed 18; **hp** 155; **Fort** +13, **Will** +6; no bonus vs. spells and spell-like or supernatural abilities; **Melee** _+1 lance_ +18_dir/+13_dir/+8 (1d8+5_dir/×3); **Ranged** mwk composite longbow +15_dir/+10_dir/+5 (1d8+4_dir/×3); **Str** 18, **Con** 18; **CMB** +17; **CMD** 28; **Skills** [Climb](skills_dir/climb#_climb) +7, [Swim](skills_dir/swim#_swim) +7.
+**Base Statistics** When not raging, the barbarian's statistics are **AC** 19, touch 11, flat-footed 18; **hp** 155; **Fort** +13, **Will** +6; no bonus vs. spells and spell-like or supernatural abilities; **Melee** _+1 lance_ +18_dir/+13_dir/+8 (1d8+5_dir/×3); **Ranged** mwk composite longbow +15_dir/+10_dir/+5 (1d8+4_dir/×3); **Str** 18, **Con** 18; **CMB** +17; **CMD** 28; **Skills** [Climb](../skills_dir/climb#_climb) +7, [Swim](../skills_dir/swim#_swim) +7.
 
 statistics
 
@@ -732,15 +732,15 @@ statistics
 
 **Base Atk** +13; **CMB** +20; **CMD** 29
 
-**Feats** [Animal Affinity](feats#_animal-affinity), Improved Bull Rush, [Mounted Combat](feats#_mounted-combat), [Power Attack](feats#_power-attack), Ride-By Attack, [Skill Focus](feats#_skill-focus) ( [Ride](skills_dir/ride#_ride)), Spirited Charge, Unseat
+**Feats** [Animal Affinity](../feats#_animal-affinity), Improved Bull Rush, [Mounted Combat](../feats#_mounted-combat), [Power Attack](../feats#_power-attack), Ride-By Attack, [Skill Focus](../feats#_skill-focus) ( [Ride](../skills_dir/ride#_ride)), Spirited Charge, Unseat
 
-**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +11, [Climb](skills_dir/climb#_climb) +10, [Handle Animal](skills_dir/handleAnimal#_handle-animal) +19, [Knowledge](skills_dir/knowledge#_knowledge) (nature) +10, Perception +17, [Ride](skills_dir/ride#_ride) +26, [Survival](skills_dir/survival#_survival) +13, [Swim](skills_dir/swim#_swim) +10
+**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +11, [Climb](../skills_dir/climb#_climb) +10, [Handle Animal](../skills_dir/handleAnimal#_handle-animal) +19, [Knowledge](../skills_dir/knowledge#_knowledge) (nature) +10, Perception +17, [Ride](../skills_dir/ride#_ride) +26, [Survival](../skills_dir/survival#_survival) +13, [Swim](../skills_dir/swim#_swim) +10
 
 **Languages** Common
 
 **SQ** fast movement
 
-**Combat Gear** _oil of [keen edge](spells_dir/keenEdge#_keen-edge)_, _potion of [cure light wounds](spells_dir/cureLightWounds#_cure-light-wounds)_; **Other Gear** _ rhino hide armor_, _+1 [arrow catching](magicItems_dir/armor#_armor-arrow-catching) buckler_, _+1 lance_, masterwork composite longbow (+7 Str) with 20 arrows, _ [bag of tricks](magicItems_dir/wondrousItems#_bag-of-tricks)_ (tan), _ [belt of mighty constitution](magicItems_dir/wondrousItems#_belt-of-mighty-constitution) +2_,_ [cloak of resistance](magicItems_dir/wondrousItems#_cloak-of-resistance) +1_, heavy warhorse with riding saddle and masterwork studded leather barding, 51 gp
+**Combat Gear** _oil of [keen edge](../spells_dir/keenEdge#_keen-edge)_, _potion of [cure light wounds](../spells_dir/cureLightWounds#_cure-light-wounds)_; **Other Gear** _ rhino hide armor_, _+1 [arrow catching](../magicItems_dir/armor#_armor-arrow-catching) buckler_, _+1 lance_, masterwork composite longbow (+7 Str) with 20 arrows, _ [bag of tricks](../magicItems_dir/wondrousItems#_bag-of-tricks)_ (tan), _ [belt of mighty constitution](../magicItems_dir/wondrousItems#_belt-of-mighty-constitution) +2_,_ [cloak of resistance](../magicItems_dir/wondrousItems#_cloak-of-resistance) +1_, heavy warhorse with riding saddle and masterwork studded leather barding, 51 gp
 
 Savage riders use a mix of magical and mundane mounts to make lightning-fast raids against their enemies.
 
@@ -776,7 +776,7 @@ Offense
 
 **Speed** 25 ft.
 
-**Melee** _+1 [thundering](magicItems_dir/weapons#_thundering) gnome hooked hammer_ +21_dir/+16_dir/+11 (1d4+8_dir/19–20_dir/×4) or _+1 [thundering](magicItems_dir/weapons#_thundering) gnome hooked hammer_ +19_dir/+14_dir/+9 (1d4+6_dir/19–20_dir/×4), _+1 gnome hooked hammer_ +19_dir/+14 (1d6+6_dir/19–20_dir/×3), bite +15 (1d3+2)
+**Melee** _+1 [thundering](../magicItems_dir/weapons#_thundering) gnome hooked hammer_ +21_dir/+16_dir/+11 (1d4+8_dir/19–20_dir/×4) or _+1 [thundering](../magicItems_dir/weapons#_thundering) gnome hooked hammer_ +19_dir/+14_dir/+9 (1d4+6_dir/19–20_dir/×4), _+1 gnome hooked hammer_ +19_dir/+14 (1d6+6_dir/19–20_dir/×3), bite +15 (1d3+2)
 
 **Ranged** mwk composite longbow +19_dir/+14_dir/+9 (1d6+5_dir/×3)
 
@@ -784,15 +784,15 @@ Offense
 
 **Gnome Spell-Like Abilities** (CL 14th; concentration +15)
 
-1_dir/day—_ [dancing lights](spells_dir/dancingLights#_dancing-lights)_, _ [ghost sound](spells_dir/ghostSound#_ghost-sound)_ (DC 11), _ [prestidigitation](spells_dir/prestidigitation#_prestidigitation)_, _ [speak with animals](spells_dir/speakWithAnimals#_speak-with-animals)_
+1_dir/day—_ [dancing lights](../spells_dir/dancingLights#_dancing-lights)_, _ [ghost sound](../spells_dir/ghostSound#_ghost-sound)_ (DC 11), _ [prestidigitation](../spells_dir/prestidigitation#_prestidigitation)_, _ [speak with animals](../spells_dir/speakWithAnimals#_speak-with-animals)_
 
 Tactics
 
-**Before Combat** The barbarian uses her _wand of [shield](spells_dir/shield#_shield)_ before most battles, but also uses her _wand of [mirror image](spells_dir/mirrorImage#_mirror-image)_ if she expects a difficult fight or a battle against a strong lone enemy.
+**Before Combat** The barbarian uses her _wand of [shield](../spells_dir/shield#_shield)_ before most battles, but also uses her _wand of [mirror image](../spells_dir/mirrorImage#_mirror-image)_ if she expects a difficult fight or a battle against a strong lone enemy.
 
-**During Combat** The barbarian closes quickly to make full attacks with her hooked hammer, using the _ [thundering](magicItems_dir/weapons#_thundering) pick_ end as her primary weapon and the hammer as her off-hand attack. If she has to charge or otherwise move between attacks, she makes a single two-handed [Power Attack](feats#_power-attack) with the pick end. She uses moment of clarity to trigger a wand or scroll if the situation demands, such as in an encounter with a flying or invisible foe. She prefers to reserve her _ [boots of speed](magicItems_dir/wondrousItems#_boots-of-speed)_ for when she is already in melee, to facilitate full attacks or to close the distance on faster enemies.
+**During Combat** The barbarian closes quickly to make full attacks with her hooked hammer, using the _ [thundering](../magicItems_dir/weapons#_thundering) pick_ end as her primary weapon and the hammer as her off-hand attack. If she has to charge or otherwise move between attacks, she makes a single two-handed [Power Attack](../feats#_power-attack) with the pick end. She uses moment of clarity to trigger a wand or scroll if the situation demands, such as in an encounter with a flying or invisible foe. She prefers to reserve her _ [boots of speed](../magicItems_dir/wondrousItems#_boots-of-speed)_ for when she is already in melee, to facilitate full attacks or to close the distance on faster enemies.
 
-**Base Statistics** When not raging, the barbarian's statistics are **AC** 21, touch 14, flat-footed 18; **hp** 149; **Fort** +13, **Will** +6; no bonus vs. enchantments; **Immune** —; **Melee** _+1 [thundering](magicItems_dir/weapons#_thundering) gnome hooked hammer_ +18_dir/+13_dir/+8 (1d4+4_dir/19–20_dir/×4) or _+1 [thundering](magicItems_dir/weapons#_thundering) gnome hooked hammer _+16_dir/+11_dir/+6 (1d4+3_dir/19–20_dir/×4), _+1 gnome hooked hammer_ +16_dir/+11 (1d6+3_dir/19–20_dir/×3); **Ranged** mwk composite longbow +19_dir/+14_dir/+9 (1d6+2_dir/×3); **Str** 14, **Con** 16; **CMB** +15; **CMD** 28; **Skills** [Climb](skills_dir/climb#_climb) +3.
+**Base Statistics** When not raging, the barbarian's statistics are **AC** 21, touch 14, flat-footed 18; **hp** 149; **Fort** +13, **Will** +6; no bonus vs. enchantments; **Immune** —; **Melee** _+1 [thundering](../magicItems_dir/weapons#_thundering) gnome hooked hammer_ +18_dir/+13_dir/+8 (1d4+4_dir/19–20_dir/×4) or _+1 [thundering](../magicItems_dir/weapons#_thundering) gnome hooked hammer _+16_dir/+11_dir/+6 (1d4+3_dir/19–20_dir/×4), _+1 gnome hooked hammer_ +16_dir/+11 (1d6+3_dir/19–20_dir/×3); **Ranged** mwk composite longbow +19_dir/+14_dir/+9 (1d6+2_dir/×3); **Str** 14, **Con** 16; **CMB** +15; **CMD** 28; **Skills** [Climb](../skills_dir/climb#_climb) +3.
 
 Statistics
 
@@ -800,15 +800,15 @@ Statistics
 
 **Base Atk** +14; **CMB** +18; **CMD** 29
 
-**Feats** Double Slice, [Improved Critical](feats#_improved-critical) (gnome hooked hammer), Improved [Two-Weapon Fighting](feats#_two-weapon-fighting), [Power Attack](feats#_power-attack), [Skill Focus](feats#_skill-focus) ( [Use Magic Device](skills_dir/useMagicDevice#_use-magic-device)), [Two-Weapon Fighting](feats#_two-weapon-fighting), Two-Weapon Rend
+**Feats** Double Slice, [Improved Critical](../feats#_improved-critical) (gnome hooked hammer), Improved [Two-Weapon Fighting](../feats#_two-weapon-fighting), [Power Attack](../feats#_power-attack), [Skill Focus](../feats#_skill-focus) ( [Use Magic Device](../skills_dir/useMagicDevice#_use-magic-device)), [Two-Weapon Fighting](../feats#_two-weapon-fighting), Two-Weapon Rend
 
-**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +17, [Climb](skills_dir/climb#_climb) +6, [Craft](skills_dir/craft#_craft) (alchemy) +5, [Knowledge](skills_dir/knowledge#_knowledge) (arcana) +0, Perception +20, [Spellcraft](skills_dir/spellcraft#_spellcraft) +0, [Stealth](skills_dir/stealth#_stealth) +5, [Survival](skills_dir/survival#_survival) +5, [Use Magic Device](skills_dir/useMagicDevice#_use-magic-device) +18
+**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +17, [Climb](../skills_dir/climb#_climb) +6, [Craft](../skills_dir/craft#_craft) (alchemy) +5, [Knowledge](../skills_dir/knowledge#_knowledge) (arcana) +0, Perception +20, [Spellcraft](../skills_dir/spellcraft#_spellcraft) +0, [Stealth](../skills_dir/stealth#_stealth) +5, [Survival](../skills_dir/survival#_survival) +5, [Use Magic Device](../skills_dir/useMagicDevice#_use-magic-device) +18
 
 **Languages** Common, Gnome, Sylvan
 
 **SQ** fast movement
 
-**Combat Gear** _scroll of [align weapon](spells_dir/alignWeapon#_align-weapon)_, _scroll of [cure light wounds](spells_dir/cureLightWounds#_cure-light-wounds)_, _scroll of [magic weapon](spells_dir/magicWeapon#_magic-weapon)_, _scroll of [protection from good](spells_dir/protectionFromGood#_protection-from-good)_, _scroll of [true strike](spells_dir/trueStrike#_true-strike)_, _wand of [fly](spells_dir/fly)_ (10 charges), _wand of [mirror image](spells_dir/mirrorImage#_mirror-image)_(10 charges), _wand of [see invisibility](spells_dir/seeInvisibility#_see-invisibility)_ (10 charges), _wand of [shield](spells_dir/shield#_shield)_ (40 charges), alchemical sliver arrows (10), cold iron arrows (20); **Other Gear** _+1 breastplate_, _+1 [thundering](magicItems_dir/weapons#_thundering)_dir/+1 gnome hooked hammer_, masterwork composite longbow (+5 Str), _ [belt of giant strength](magicItems_dir/wondrousItems#_belt-of-giant-strength) +2_, _ [boots of speed](magicItems_dir/wondrousItems#_boots-of-speed)_, _ [cloak of resistance](magicItems_dir/wondrousItems#_cloak-of-resistance) +1_, 8 gp
+**Combat Gear** _scroll of [align weapon](../spells_dir/alignWeapon#_align-weapon)_, _scroll of [cure light wounds](../spells_dir/cureLightWounds#_cure-light-wounds)_, _scroll of [magic weapon](../spells_dir/magicWeapon#_magic-weapon)_, _scroll of [protection from good](../spells_dir/protectionFromGood#_protection-from-good)_, _scroll of [true strike](../spells_dir/trueStrike#_true-strike)_, _wand of [fly](../spells_dir/fly)_ (10 charges), _wand of [mirror image](../spells_dir/mirrorImage#_mirror-image)_(10 charges), _wand of [see invisibility](../spells_dir/seeInvisibility#_see-invisibility)_ (10 charges), _wand of [shield](../spells_dir/shield#_shield)_ (40 charges), alchemical sliver arrows (10), cold iron arrows (20); **Other Gear** _+1 breastplate_, _+1 [thundering](../magicItems_dir/weapons#_thundering)_dir/+1 gnome hooked hammer_, masterwork composite longbow (+5 Str), _ [belt of giant strength](../magicItems_dir/wondrousItems#_belt-of-giant-strength) +2_, _ [boots of speed](../magicItems_dir/wondrousItems#_boots-of-speed)_, _ [cloak of resistance](../magicItems_dir/wondrousItems#_cloak-of-resistance) +1_, 8 gp
 
 An oddity among their kind, arcane experimenters use knowledge of magic to sow confusion on the battlefield.
 
@@ -844,7 +844,7 @@ Offense
 
 **Speed** 30 ft.
 
-**Melee** _ [nine lives stealer](magicItems_dir/weapons#_nine-lives-stealer) _+22_dir/+17_dir/+12 (1d8+7_dir/17–20) or armor spikes +20_dir/+15_dir/+10 (1d6+5)
+**Melee** _ [nine lives stealer](../magicItems_dir/weapons#_nine-lives-stealer) _+22_dir/+17_dir/+12 (1d8+7_dir/17–20) or armor spikes +20_dir/+15_dir/+10 (1d6+5)
 
 **Ranged** mwk composite longbow +19_dir/+14_dir/+9 (1d8+5_dir/×3)
 
@@ -852,11 +852,11 @@ Offense
 
 Tactics
 
-**Before Combat** The barbarian uses stealth and deception to get close to enemies without them noticing, and uses his _ [chime of opening](magicItems_dir/wondrousItems#_chime-of-opening)_ to break into locked strongholds.
+**Before Combat** The barbarian uses stealth and deception to get close to enemies without them noticing, and uses his _ [chime of opening](../magicItems_dir/wondrousItems#_chime-of-opening)_ to break into locked strongholds.
 
-**During Combat** The barbarian tries to disarm opponents at the beginning of combat, using poison against a target's weakest ability score if he knows his target in advance. He triggers his mighty swing on a sword critical that might slay his target, and uses his rage-enhanced senses to find creatures trying to hide or flee. He uses his buckler when faced with many foes, but against lone targets uses his _ [nine lives stealer](magicItems_dir/weapons#_nine-lives-stealer)_ for two-handed Power Attacks.
+**During Combat** The barbarian tries to disarm opponents at the beginning of combat, using poison against a target's weakest ability score if he knows his target in advance. He triggers his mighty swing on a sword critical that might slay his target, and uses his rage-enhanced senses to find creatures trying to hide or flee. He uses his buckler when faced with many foes, but against lone targets uses his _ [nine lives stealer](../magicItems_dir/weapons#_nine-lives-stealer)_ for two-handed Power Attacks.
 
-**Base Statistics** When not raging, the barbarian's statistics are **AC** 22, touch 13, flat-footed 19; **hp** 155; **Fort** +14, **Will** +7; no bonus vs. spells and spell-like or supernatural abilities, no bonus vs. enchantments; **Melee** _ [nine lives stealer](magicItems_dir/weapons#_nine-lives-stealer)_ +19_dir/+14_dir/+9 (1d8+4_dir/17–20) or armor spikes +17_dir/+12_dir/+7 (1d6+2); **Ranged** mwk composite longbow +19_dir/+14_dir/+9 (1d8+2_dir/×3); **Str** 15, **Con** 16; **CMB** +17; **CMD** 30; **Skills** [Climb](skills_dir/climb#_climb) +7, [Swim](skills_dir/swim#_swim) +3.
+**Base Statistics** When not raging, the barbarian's statistics are **AC** 22, touch 13, flat-footed 19; **hp** 155; **Fort** +14, **Will** +7; no bonus vs. spells and spell-like or supernatural abilities, no bonus vs. enchantments; **Melee** _ [nine lives stealer](../magicItems_dir/weapons#_nine-lives-stealer)_ +19_dir/+14_dir/+9 (1d8+4_dir/17–20) or armor spikes +17_dir/+12_dir/+7 (1d6+2); **Ranged** mwk composite longbow +19_dir/+14_dir/+9 (1d8+2_dir/×3); **Str** 15, **Con** 16; **CMB** +17; **CMD** 30; **Skills** [Climb](../skills_dir/climb#_climb) +7, [Swim](../skills_dir/swim#_swim) +3.
 
 statistics
 
@@ -864,15 +864,15 @@ statistics
 
 **Base Atk** +15; **CMB** +20; **CMD** 31
 
-**Feats** [Blind-Fight](feats#_blind-fight), [Combat Expertise](feats#_combat-expertise), [Deadly Aim](feats#_deadly-aim), [Deceitful](feats#_deceitful), Greater Disarm, [Improved Critical](feats#_improved-critical) (longsword), Improved Disarm, [Power Attack](feats#_power-attack), [Step Up](feats#_step-up)
+**Feats** [Blind-Fight](../feats#_blind-fight), [Combat Expertise](../feats#_combat-expertise), [Deadly Aim](../feats#_deadly-aim), [Deceitful](../feats#_deceitful), Greater Disarm, [Improved Critical](../feats#_improved-critical) (longsword), Improved Disarm, [Power Attack](../feats#_power-attack), [Step Up](../feats#_step-up)
 
-**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +18 (+22 when jumping), [Bluff](skills_dir/bluff#_bluff) +18, [Climb](skills_dir/climb#_climb) +10, [Craft](skills_dir/craft#_craft) (alchemy) +6, [Disguise](skills_dir/disguise#_disguise) +20 (+30 with _ [hat of disguise](magicItems_dir/wondrousItems#_hat-of-disguise)_), [Intimidate](skills_dir/intimidate#_intimidate) +15, [Knowledge](skills_dir/knowledge#_knowledge) (local, nobility) +5, [Linguistics](skills_dir/linguistics#_linguistics) +7, Perception +18, [Stealth](skills_dir/stealth#_stealth) +20, [Survival](skills_dir/survival#_survival) +10, [Swim](skills_dir/swim#_swim) +6
+**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +18 (+22 when jumping), [Bluff](../skills_dir/bluff#_bluff) +18, [Climb](../skills_dir/climb#_climb) +10, [Craft](../skills_dir/craft#_craft) (alchemy) +6, [Disguise](../skills_dir/disguise#_disguise) +20 (+30 with _ [hat of disguise](../magicItems_dir/wondrousItems#_hat-of-disguise)_), [Intimidate](../skills_dir/intimidate#_intimidate) +15, [Knowledge](../skills_dir/knowledge#_knowledge) (local, nobility) +5, [Linguistics](../skills_dir/linguistics#_linguistics) +7, Perception +18, [Stealth](../skills_dir/stealth#_stealth) +20, [Survival](../skills_dir/survival#_survival) +10, [Swim](../skills_dir/swim#_swim) +6
 
 **Languages** Common, Aklo, Draconic, Dwarven, Elven, Gnoll, Goblin, Orc
 
 **SQ** fast movement
 
-**Combat Gear** _potion of [cure light wounds](spells_dir/cureLightWounds#_cure-light-wounds)_, _potion of [invisibility](spells_dir/invisibility#_invisibility)_, _potions of [undetectable alignment](spells_dir/undetectableAlignment#_undetectable-alignment)_ (2), blue whinnis poison (2), giant wasp poison (2), purple worm poison; **Other Gear** _+1 [shadow](magicItems_dir/armor#_armor-shadow) breastplate _with armor spikes, _+1 buckler_, _ [nine lives stealer](magicItems_dir/weapons#_nine-lives-stealer)_, masterwork composite longbow (+5 Str) with 20 arrows, _ [belt of giant strength](magicItems_dir/wondrousItems#_belt-of-giant-strength) +2_, _ [chime of opening](magicItems_dir/wondrousItems#_chime-of-opening)_, _ [cloak of resistance](magicItems_dir/wondrousItems#_cloak-of-resistance) +2_, _ [hat of disguise](magicItems_dir/wondrousItems#_hat-of-disguise)_, disguise kit, 50 gp
+**Combat Gear** _potion of [cure light wounds](../spells_dir/cureLightWounds#_cure-light-wounds)_, _potion of [invisibility](../spells_dir/invisibility#_invisibility)_, _potions of [undetectable alignment](../spells_dir/undetectableAlignment#_undetectable-alignment)_ (2), blue whinnis poison (2), giant wasp poison (2), purple worm poison; **Other Gear** _+1 [shadow](../magicItems_dir/armor#_armor-shadow) breastplate _with armor spikes, _+1 buckler_, _ [nine lives stealer](../magicItems_dir/weapons#_nine-lives-stealer)_, masterwork composite longbow (+5 Str) with 20 arrows, _ [belt of giant strength](../magicItems_dir/wondrousItems#_belt-of-giant-strength) +2_, _ [chime of opening](../magicItems_dir/wondrousItems#_chime-of-opening)_, _ [cloak of resistance](../magicItems_dir/wondrousItems#_cloak-of-resistance) +2_, _ [hat of disguise](../magicItems_dir/wondrousItems#_hat-of-disguise)_, disguise kit, 50 gp
 
 Careful and cunning, life stealers often serve as assassins.
 
@@ -908,7 +908,7 @@ Offense
 
 **Speed** 30 ft.
 
-**Melee** _+1 [disruption](magicItems_dir/weapons#_weapons-disruption) heavy flail _+26_dir/+21_dir/+16_dir/+11 (1d10+13_dir/17–20) or _+1 [merciful](magicItems_dir/weapons#_weapons-merciful) heavy flail_ +26_dir/+21_dir/+16_dir/+11 (1d10+1d6+13 nonlethal_dir/17–20)
+**Melee** _+1 [disruption](../magicItems_dir/weapons#_weapons-disruption) heavy flail _+26_dir/+21_dir/+16_dir/+11 (1d10+13_dir/17–20) or _+1 [merciful](../magicItems_dir/weapons#_weapons-merciful) heavy flail_ +26_dir/+21_dir/+16_dir/+11 (1d10+1d6+13 nonlethal_dir/17–20)
 
 **Ranged** _+1 undead-bane composite longbow_ +18_dir/+13_dir/+8_dir/+3 (1d8+9_dir/×3)
 
@@ -916,9 +916,9 @@ Offense
 
 Tactics
 
-**During Combat** The barbarian hunts undead, using both his _+1 [disruption](magicItems_dir/weapons#_weapons-disruption) heavy flail_ and his bow. Against the living, he uses intimidating glare and terrifying howl, then switches to his_+1 [merciful](magicItems_dir/weapons#_weapons-merciful) heavy flail_ and utilizes Exhausting Criticals and trip maneuvers to take enemies out of the fight without killing them.
+**During Combat** The barbarian hunts undead, using both his _+1 [disruption](../magicItems_dir/weapons#_weapons-disruption) heavy flail_ and his bow. Against the living, he uses intimidating glare and terrifying howl, then switches to his_+1 [merciful](../magicItems_dir/weapons#_weapons-merciful) heavy flail_ and utilizes Exhausting Criticals and trip maneuvers to take enemies out of the fight without killing them.
 
-**Base Statistics** When not raging, the barbarian's statistics are **AC** 18, touch 11, flat-footed 17; **hp** 189; **Fort** +16, **Will** +8; no bonus vs. spells and spell-like or supernatural abilities, no bonus vs. enchantments; **Melee** _+1 [disruption](magicItems_dir/weapons#_weapons-disruption) heavy flail_ +23_dir/+18_dir/+13_dir/+8 (1d10+8_dir/17–20) or _+1 [merciful](magicItems_dir/weapons#_weapons-merciful) heavy flail_ +23_dir/+18_dir/+13_dir/+8 (1d10+1d6+8 nonlethal_dir/17–20); **Ranged** _+1 undead-bane composite longbow_ +18_dir/+13_dir/+8_dir/+3 (1d8+6_dir/×3); **Str** 20, **Con** 18; **CMB** +21 (+25 trip); **CMD** 32 (34 vs. trip); **Skills** [Climb](skills_dir/climb#_climb) +17, [Swim](skills_dir/swim#_swim) +7.
+**Base Statistics** When not raging, the barbarian's statistics are **AC** 18, touch 11, flat-footed 17; **hp** 189; **Fort** +16, **Will** +8; no bonus vs. spells and spell-like or supernatural abilities, no bonus vs. enchantments; **Melee** _+1 [disruption](../magicItems_dir/weapons#_weapons-disruption) heavy flail_ +23_dir/+18_dir/+13_dir/+8 (1d10+8_dir/17–20) or _+1 [merciful](../magicItems_dir/weapons#_weapons-merciful) heavy flail_ +23_dir/+18_dir/+13_dir/+8 (1d10+1d6+8 nonlethal_dir/17–20); **Ranged** _+1 undead-bane composite longbow_ +18_dir/+13_dir/+8_dir/+3 (1d8+6_dir/×3); **Str** 20, **Con** 18; **CMB** +21 (+25 trip); **CMD** 32 (34 vs. trip); **Skills** [Climb](../skills_dir/climb#_climb) +17, [Swim](../skills_dir/swim#_swim) +7.
 
 statistics
 
@@ -926,15 +926,15 @@ statistics
 
 **Base Atk** +16; **CMB** +24 (+28 trip); **CMD** 33 (35 vs. trip)
 
-**Feats** [Combat Expertise](feats#_combat-expertise), [Critical Focus](feats#_critical-focus), Exhausting Critical, Greater Trip, [Improved Critical](feats#_improved-critical) (heavy flail), Improved Trip, Tiring Critical, [Weapon Focus](feats#_weapon-focus) (heavy flail)
+**Feats** [Combat Expertise](../feats#_combat-expertise), [Critical Focus](../feats#_critical-focus), Exhausting Critical, Greater Trip, [Improved Critical](../feats#_improved-critical) (heavy flail), Improved Trip, Tiring Critical, [Weapon Focus](../feats#_weapon-focus) (heavy flail)
 
-**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +16 (+20 when jumping), [Climb](skills_dir/climb#_climb) +20, [Intimidate](skills_dir/intimidate#_intimidate) +20, [Knowledge](skills_dir/knowledge#_knowledge) (religion) +15, Perception +20, [Ride](skills_dir/ride#_ride) +1, [Stealth](skills_dir/stealth#_stealth) +11, [Survival](skills_dir/survival#_survival) +10, [Swim](skills_dir/swim#_swim) +10
+**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +16 (+20 when jumping), [Climb](../skills_dir/climb#_climb) +20, [Intimidate](../skills_dir/intimidate#_intimidate) +20, [Knowledge](../skills_dir/knowledge#_knowledge) (religion) +15, Perception +20, [Ride](../skills_dir/ride#_ride) +1, [Stealth](../skills_dir/stealth#_stealth) +11, [Survival](../skills_dir/survival#_survival) +10, [Swim](../skills_dir/swim#_swim) +10
 
 **Languages** Abyssal, Common, Draconic, Orc
 
 **SQ** fast movement, orc blood, weapon familiarity
 
-**Combat Gear** _potion of [cure serious wounds](spells_dir/cureSeriousWounds#_cure-serious-wounds)_, _potion of [lesser restoration](spells_dir/restoration#_restoration-lesser)_, _ [silversheen](magicItems_dir/wondrousItems#_silversheen), _alchemical silver arrows (20), cold iron arrows (20), holy water (2); **Other Gear** _+1 chainmail_, _+1 [disruption](magicItems_dir/weapons#_weapons-disruption) heavy flail_, _+1 [merciful](magicItems_dir/weapons#_weapons-merciful) heavy flail_, _+1 undead-bane composite longbow_ (+8 Str), _ [belt of physical perfection](magicItems_dir/wondrousItems#_belt-of-physical-perfection) +_2, _ [cloak of resistance](magicItems_dir/wondrousItems#_cloak-of-resistance) +2, _2 gp
+**Combat Gear** _potion of [cure serious wounds](../spells_dir/cureSeriousWounds#_cure-serious-wounds)_, _potion of [lesser restoration](../spells_dir/restoration#_restoration-lesser)_, _ [silversheen](../magicItems_dir/wondrousItems#_silversheen), _alchemical silver arrows (20), cold iron arrows (20), holy water (2); **Other Gear** _+1 chainmail_, _+1 [disruption](../magicItems_dir/weapons#_weapons-disruption) heavy flail_, _+1 [merciful](../magicItems_dir/weapons#_weapons-merciful) heavy flail_, _+1 undead-bane composite longbow_ (+8 Str), _ [belt of physical perfection](../magicItems_dir/wondrousItems#_belt-of-physical-perfection) +_2, _ [cloak of resistance](../magicItems_dir/wondrousItems#_cloak-of-resistance) +2, _2 gp
 
 Whether encountered alone or in a group of like-minded individuals, undead hunters let no one stand in the way of their grim work.
 
@@ -970,17 +970,17 @@ Offense
 
 **Speed** 40 ft.
 
-**Melee** _+1 [keen](magicItems_dir/weapons#_weapons-keen) [shocking burst](magicItems_dir/weapons#_weapons-shocking-burst) elven curve blade_ +25_dir/+20_dir/+15_dir/+10 (1d10+11_dir/15–20 plus 1d6 electricity)
+**Melee** _+1 [keen](../magicItems_dir/weapons#_weapons-keen) [shocking burst](../magicItems_dir/weapons#_weapons-shocking-burst) elven curve blade_ +25_dir/+20_dir/+15_dir/+10 (1d10+11_dir/15–20 plus 1d6 electricity)
 
-**Ranged** _+1 [seeking](magicItems_dir/weapons#_weapons-seeking) composite longbow_ +23_dir/+18_dir/+13_dir/+8 (1d8+8_dir/19–20_dir/×3)
+**Ranged** _+1 [seeking](../magicItems_dir/weapons#_weapons-seeking) composite longbow_ +23_dir/+18_dir/+13_dir/+8 (1d8+8_dir/19–20_dir/×3)
 
 **Special Attacks** greater rage (38 rounds_dir/day), rage powers (clear mind, mighty swing, no escape, powerful blow +5, raging leaper +17, strength surge +17, surprise accuracy +5, unexpected strike)
 
 Tactics
 
-**During Combat** The barbarian initially pelts enemies with arrows to deliver disabling critical hit effects, and dispatches any who survive with her flashing blade. In either case, she uses her speed to stay out of danger and her _ [boots of speed](magicItems_dir/wondrousItems#_boots-of-speed)_ to maximize movement or make full attacks in melee or at range.
+**During Combat** The barbarian initially pelts enemies with arrows to deliver disabling critical hit effects, and dispatches any who survive with her flashing blade. In either case, she uses her speed to stay out of danger and her _ [boots of speed](../magicItems_dir/wondrousItems#_boots-of-speed)_ to maximize movement or make full attacks in melee or at range.
 
-**Base Statistics** When not raging, the barbarian's statistics are **AC** 22, touch 15, flat-footed 17; **hp** 167; **Fort** +14, **Will** +8; **Melee** _+1 [keen](magicItems_dir/weapons#_weapons-keen) [shocking burst](magicItems_dir/weapons#_weapons-shocking-burst) elven curve blade_ +22_dir/+17_dir/+12_dir/+7 (1d10+7_dir/15–20 plus 1d6 electricity); **Ranged** _+1 [seeking](magicItems_dir/weapons#_weapons-seeking) composite longbow_ +23_dir/+18_dir/+13_dir/+8 (1d8+5_dir/19–20_dir/×3); **Str** 18, **Con** 14; **CMB** +21; **CMD** 36; **Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +24 (+28 when jumping), [Climb](skills_dir/climb#_climb) +7, [Swim](skills_dir/swim#_swim) +7.
+**Base Statistics** When not raging, the barbarian's statistics are **AC** 22, touch 15, flat-footed 17; **hp** 167; **Fort** +14, **Will** +8; **Melee** _+1 [keen](../magicItems_dir/weapons#_weapons-keen) [shocking burst](../magicItems_dir/weapons#_weapons-shocking-burst) elven curve blade_ +22_dir/+17_dir/+12_dir/+7 (1d10+7_dir/15–20 plus 1d6 electricity); **Ranged** _+1 [seeking](../magicItems_dir/weapons#_weapons-seeking) composite longbow_ +23_dir/+18_dir/+13_dir/+8 (1d8+5_dir/19–20_dir/×3); **Str** 18, **Con** 14; **CMB** +21; **CMD** 36; **Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +24 (+28 when jumping), [Climb](../skills_dir/climb#_climb) +7, [Swim](../skills_dir/swim#_swim) +7.
 
 statistics
 
@@ -988,15 +988,15 @@ statistics
 
 **Base Atk** +17; **CMB** +24; **CMD** 37
 
-**Feats** Bleeding Critical, [Critical Focus](feats#_critical-focus), [Improved Critical](feats#_improved-critical) (composite longbow), Manyshot, [Point-Blank Shot](feats#_point-blank-shot), [Power Attack](feats#_power-attack), Rapid Shot, Staggering Critical, Stunning Critical
+**Feats** Bleeding Critical, [Critical Focus](../feats#_critical-focus), [Improved Critical](../feats#_improved-critical) (composite longbow), Manyshot, [Point-Blank Shot](../feats#_point-blank-shot), [Power Attack](../feats#_power-attack), Rapid Shot, Staggering Critical, Stunning Critical
 
-**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +24 (+45 when jumping), [Climb](skills_dir/climb#_climb) +10, [Intimidate](skills_dir/intimidate#_intimidate) +16, [Knowledge](skills_dir/knowledge#_knowledge) (nature) +10, Perception +23, [Ride](skills_dir/ride#_ride) +14, [Stealth](skills_dir/stealth#_stealth) +20, [Survival](skills_dir/survival#_survival) +10, [Swim](skills_dir/swim#_swim) +10
+**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +24 (+45 when jumping), [Climb](../skills_dir/climb#_climb) +10, [Intimidate](../skills_dir/intimidate#_intimidate) +16, [Knowledge](../skills_dir/knowledge#_knowledge) (nature) +10, Perception +23, [Ride](../skills_dir/ride#_ride) +14, [Stealth](../skills_dir/stealth#_stealth) +20, [Survival](../skills_dir/survival#_survival) +10, [Swim](../skills_dir/swim#_swim) +10
 
 **Languages** Common, Elven
 
 **SQ** elven magic, fast movement, tireless rage, weapon familiarity
 
-**Combat Gear** _oil of [align weapon](spells_dir/alignWeapon#_align-weapon)_ (evil),_ oil of [flame arrow](spells_dir/flameArrow#_flame-arrow)_, _potions of [cure light wounds](spells_dir/cureLightWounds#_cure-light-wounds)_ (2), _potions of [jump](spells_dir/jump#_jump)_ (2), _potion of [spider climb](spells_dir/spiderClimb#_spider-climb)_, adamantine arrows (10), alchemical silver arrows (10) , tanglefoot bags (2); **Other Gear** _+1 mithral breastplate_, _+1 [keen](magicItems_dir/weapons#_weapons-keen) [shocking burst](magicItems_dir/weapons#_weapons-shocking-burst) elven curve blade_, _+1 [seeking](magicItems_dir/weapons#_weapons-seeking) composite longbow_ (+7 Str) with 40 cold iron arrows, _ [belt of physical perfection](magicItems_dir/wondrousItems#_belt-of-physical-perfection) +_2, _ [boots of speed](magicItems_dir/wondrousItems#_boots-of-speed)_, _ [cloak of resistance](magicItems_dir/wondrousItems#_cloak-of-resistance) +2_, 50 gp
+**Combat Gear** _oil of [align weapon](../spells_dir/alignWeapon#_align-weapon)_ (evil),_ oil of [flame arrow](../spells_dir/flameArrow#_flame-arrow)_, _potions of [cure light wounds](../spells_dir/cureLightWounds#_cure-light-wounds)_ (2), _potions of [jump](../spells_dir/jump#_jump)_ (2), _potion of [spider climb](../spells_dir/spiderClimb#_spider-climb)_, adamantine arrows (10), alchemical silver arrows (10) , tanglefoot bags (2); **Other Gear** _+1 mithral breastplate_, _+1 [keen](../magicItems_dir/weapons#_weapons-keen) [shocking burst](../magicItems_dir/weapons#_weapons-shocking-burst) elven curve blade_, _+1 [seeking](../magicItems_dir/weapons#_weapons-seeking) composite longbow_ (+7 Str) with 40 cold iron arrows, _ [belt of physical perfection](../magicItems_dir/wondrousItems#_belt-of-physical-perfection) +_2, _ [boots of speed](../magicItems_dir/wondrousItems#_boots-of-speed)_, _ [cloak of resistance](../magicItems_dir/wondrousItems#_cloak-of-resistance) +2_, 50 gp
 
 Graceful slayers stalk the wilderness and the far reaches of the world, protecting the denizens and environs from those who would seek to slay and destroy.
 
@@ -1042,11 +1042,11 @@ Offense
 
 Tactics
 
-**Before Combat** The barbarian drinks his _potion of [shield of faith](spells_dir/shieldOfFaith#_shield-of-faith)_ if he has time.
+**Before Combat** The barbarian drinks his _potion of [shield of faith](../spells_dir/shieldOfFaith#_shield-of-faith)_ if he has time.
 
-**During Combat** The barbarian plunges into battle using Spring Attack. Once in position, he uses Whirlwind Attack with [Lunge](feats#_lunge) and [Power Attack](feats#_power-attack), alternating regular ranseur attacks with trip, disarm, or sunder maneuvers (the latter against targets far enough away that they cannot make attacks of opportunity). He exits and re-enters rage whenever necessary to reactivate once-per-rage powers like mighty swing and unexpected strike.
+**During Combat** The barbarian plunges into battle using Spring Attack. Once in position, he uses Whirlwind Attack with [Lunge](../feats#_lunge) and [Power Attack](../feats#_power-attack), alternating regular ranseur attacks with trip, disarm, or sunder maneuvers (the latter against targets far enough away that they cannot make attacks of opportunity). He exits and re-enters rage whenever necessary to reactivate once-per-rage powers like mighty swing and unexpected strike.
 
-**Base Statistics** When not raging, the barbarian's statistics are **AC** 21, touch 14, flat-footed 17; **hp** 176; **Fort** +16, **Will** +9; no bonus vs. spells and spell-like or supernatural abilities, no bonus vs. enchantments; **Melee** _+3 adamantine ranseur_ +28_dir/+23_dir/+18_dir/+13 (2d4+13_dir/×3); **Ranged** _+1 composite longbow_ +22_dir/+17_dir/+12_dir/+7 (1d8+8_dir/×3); **Str** 24, **Con** 14; **CMB** +25; **CMD** 39; **Skills** [Climb](skills_dir/climb#_climb) +17, [Swim](skills_dir/swim#_swim) +17.
+**Base Statistics** When not raging, the barbarian's statistics are **AC** 21, touch 14, flat-footed 17; **hp** 176; **Fort** +16, **Will** +9; no bonus vs. spells and spell-like or supernatural abilities, no bonus vs. enchantments; **Melee** _+3 adamantine ranseur_ +28_dir/+23_dir/+18_dir/+13 (2d4+13_dir/×3); **Ranged** _+1 composite longbow_ +22_dir/+17_dir/+12_dir/+7 (1d8+8_dir/×3); **Str** 24, **Con** 14; **CMB** +25; **CMD** 39; **Skills** [Climb](../skills_dir/climb#_climb) +17, [Swim](../skills_dir/swim#_swim) +17.
 
 statistics
 
@@ -1054,15 +1054,15 @@ statistics
 
 **Base Atk** +18; **CMB** +28 (+32 trip); **CMD** 40 (42 vs. trip)
 
-**Feats** [Combat Expertise](feats#_combat-expertise), [Combat Reflexes](feats#_combat-reflexes), [Dodge](feats#_dodge), Greater Trip, Improved Trip, [Lunge](feats#_lunge), Mobility, [Power Attack](feats#_power-attack), Spring Attack, Whirlwind Attack
+**Feats** [Combat Expertise](../feats#_combat-expertise), [Combat Reflexes](../feats#_combat-reflexes), [Dodge](../feats#_dodge), Greater Trip, Improved Trip, [Lunge](../feats#_lunge), Mobility, [Power Attack](../feats#_power-attack), Spring Attack, Whirlwind Attack
 
-**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +21, [Climb](skills_dir/climb#_climb) +20, [Intimidate](skills_dir/intimidate#_intimidate) +20, [Knowledge](skills_dir/knowledge#_knowledge) (dungeoneering) +10, [Knowledge](skills_dir/knowledge#_knowledge) (geography) +10, [Knowledge](skills_dir/knowledge#_knowledge) (nature) +20, Perception +21, [Ride](skills_dir/ride#_ride) +7, [Survival](skills_dir/survival#_survival) +20, [Swim](skills_dir/swim#_swim) +20
+**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +21, [Climb](../skills_dir/climb#_climb) +20, [Intimidate](../skills_dir/intimidate#_intimidate) +20, [Knowledge](../skills_dir/knowledge#_knowledge) (dungeoneering) +10, [Knowledge](../skills_dir/knowledge#_knowledge) (geography) +10, [Knowledge](../skills_dir/knowledge#_knowledge) (nature) +20, Perception +21, [Ride](../skills_dir/ride#_ride) +7, [Survival](../skills_dir/survival#_survival) +20, [Swim](../skills_dir/swim#_swim) +20
 
 **Languages** Common
 
 **SQ** fast movement, tireless rage
 
-**Combat Gear** _oil of [align weapon](spells_dir/alignWeapon#_align-weapon) _(good), _potion of [cure light wounds](spells_dir/cureLightWounds#_cure-light-wounds)_, _potion of [fly](spells_dir/fly)_, _potion of [invisibility](spells_dir/invisibility#_invisibility)_, _potions of [shield of faith](spells_dir/shieldOfFaith#_shield-of-faith)_ (2); **Other Gear** _+1 moderate [fortification](magicItems_dir/armor#_armor-fortification) breastplate_, _+3 adamantine ranseur_, _+1 composite longbow_ (+10 Str) with 20 arrows, dagger, handaxe, _ [belt of giant strength](magicItems_dir/wondrousItems#_belt-of-giant-strength) +_6, _ [cloak of resistance](magicItems_dir/wondrousItems#_cloak-of-resistance) +3_, _pink rhomboid [ioun stone](magicItems_dir/wondrousItems#_ioun-stones), _43 gp
+**Combat Gear** _oil of [align weapon](../spells_dir/alignWeapon#_align-weapon) _(good), _potion of [cure light wounds](../spells_dir/cureLightWounds#_cure-light-wounds)_, _potion of [fly](../spells_dir/fly)_, _potion of [invisibility](../spells_dir/invisibility#_invisibility)_, _potions of [shield of faith](../spells_dir/shieldOfFaith#_shield-of-faith)_ (2); **Other Gear** _+1 moderate [fortification](../magicItems_dir/armor#_armor-fortification) breastplate_, _+3 adamantine ranseur_, _+1 composite longbow_ (+10 Str) with 20 arrows, dagger, handaxe, _ [belt of giant strength](../magicItems_dir/wondrousItems#_belt-of-giant-strength) +_6, _ [cloak of resistance](../magicItems_dir/wondrousItems#_cloak-of-resistance) +3_, _pink rhomboid [ioun stone](../magicItems_dir/wondrousItems#_ioun-stones), _43 gp
 
 Refined reavers mix their savage fury with more refined and civilized weapon attacks and maneuvers, dipping in and out of rage when it suits their purpose. They often work well with groups of allies.
 
@@ -1084,13 +1084,13 @@ Defense
 
 **Fort** +20, **Ref** +12, **Will** +13; +6 vs. spells and spell-like or supernatural abilities, +4 vs. enchantments
 
-**Defensive Abilities** _ [blink](spells_dir/blink#_blink)_, improved uncanny dodge, indomitable will, orc ferocity, trap sense +6; **DR** 5_dir/—
+**Defensive Abilities** _ [blink](../spells_dir/blink#_blink)_, improved uncanny dodge, indomitable will, orc ferocity, trap sense +6; **DR** 5_dir/—
 
 Offense
 
 **Speed** 40 ft., fly 60 ft. (good)
 
-**Melee** _+1 [unholy](magicItems_dir/weapons#_unholy) [ghost touch](magicItems_dir/weapons#_weapons-ghost-touch) adamantine scythe_ +31_dir/+26_dir/+21_dir/+16 (2d4+16_dir/19–20_dir/×4)
+**Melee** _+1 [unholy](../magicItems_dir/weapons#_unholy) [ghost touch](../magicItems_dir/weapons#_weapons-ghost-touch) adamantine scythe_ +31_dir/+26_dir/+21_dir/+16 (2d4+16_dir/19–20_dir/×4)
 
 **Ranged** mwk composite longbow +22_dir/+17_dir/+12_dir/+7 (1d8+10_dir/×3)
 
@@ -1098,11 +1098,11 @@ Offense
 
 Tactics
 
-**Before Combat** The barbarian uses potions if expecting a major confrontation. His _ [ring of blinking](magicItems_dir/rings#_ring-of-blinking)_ operates continuously.
+**Before Combat** The barbarian uses potions if expecting a major confrontation. His _ [ring of blinking](../magicItems_dir/rings#_ring-of-blinking)_ operates continuously.
 
-**During Combat** The barbarian begins combat with Dazzling Display and terrifying howl. Against a small group, he makes Flyby Attacks, using [Lunge](feats#_lunge) and _potions of [enlarge person](spells_dir/enlargePerson#_enlarge-person)_ to extend his reach and avoid attacks of opportunity, and Great Cleave against targets clustered together. In close combat, he uses intimidating glare along with Great Cleave attacks, using knockback to force enemies into close quarters. He relies on his _ [ring of blinking](magicItems_dir/rings#_ring-of-blinking)_ to avoid most attacks, and with his tireless rage he exits and re-enters rage whenever it's convenient to regain the use rage powers he can use only once per rage.
+**During Combat** The barbarian begins combat with Dazzling Display and terrifying howl. Against a small group, he makes Flyby Attacks, using [Lunge](../feats#_lunge) and _potions of [enlarge person](../spells_dir/enlargePerson#_enlarge-person)_ to extend his reach and avoid attacks of opportunity, and Great Cleave against targets clustered together. In close combat, he uses intimidating glare along with Great Cleave attacks, using knockback to force enemies into close quarters. He relies on his _ [ring of blinking](../magicItems_dir/rings#_ring-of-blinking)_ to avoid most attacks, and with his tireless rage he exits and re-enters rage whenever it's convenient to regain the use rage powers he can use only once per rage.
 
-**Base Statistics** When not raging, the barbarian's statistics are **AC** 15, touch 12, flat-footed 13; **hp** 186; **Fort** +17, **Will** +10; no bonus vs. spells and spell-like or supernatural abilities, no bonus vs. enchantments; **Melee** _+1 [unholy](magicItems_dir/weapons#_unholy) [ghost touch](magicItems_dir/weapons#_weapons-ghost-touch) adamantine scythe_ +28_dir/+23_dir/+18_dir/+13 (2d4+11_dir/19–20_dir/×4); **Ranged** mwk composite longbow +22_dir/+17_dir/+12_dir/+7 (1d8+7_dir/×3); **Str** 24, **Con** 14; **CMB** +26; **CMD** 38; **Skills** [Climb](skills_dir/climb#_climb) +11, [Intimidate](skills_dir/intimidate#_intimidate) +37, [Swim](skills_dir/swim#_swim) +11.
+**Base Statistics** When not raging, the barbarian's statistics are **AC** 15, touch 12, flat-footed 13; **hp** 186; **Fort** +17, **Will** +10; no bonus vs. spells and spell-like or supernatural abilities, no bonus vs. enchantments; **Melee** _+1 [unholy](../magicItems_dir/weapons#_unholy) [ghost touch](../magicItems_dir/weapons#_weapons-ghost-touch) adamantine scythe_ +28_dir/+23_dir/+18_dir/+13 (2d4+11_dir/19–20_dir/×4); **Ranged** mwk composite longbow +22_dir/+17_dir/+12_dir/+7 (1d8+7_dir/×3); **Str** 24, **Con** 14; **CMB** +26; **CMD** 38; **Skills** [Climb](../skills_dir/climb#_climb) +11, [Intimidate](../skills_dir/intimidate#_intimidate) +37, [Swim](../skills_dir/swim#_swim) +11.
 
 statistics
 
@@ -1110,15 +1110,15 @@ statistics
 
 **Base Atk** +19; **CMB** +29; **CMD** 39
 
-**Feats** Cleave, Dazzling Display, [Flyby Attack](monsters_dir/monsterFeats#flyby-attack), Great Cleave, [Improved Critical](feats#_improved-critical) (scythe), [Intimidating Prowess](feats#_intimidating-prowess), [Lunge](feats#_lunge), [Power Attack](feats#_power-attack), Shatter Defenses, [Weapon Focus](feats#_weapon-focus) (scythe)
+**Feats** Cleave, Dazzling Display, [Flyby Attack](../monsters_dir/monsterFeats#flyby-attack), Great Cleave, [Improved Critical](../feats#_improved-critical) (scythe), [Intimidating Prowess](../feats#_intimidating-prowess), [Lunge](../feats#_lunge), [Power Attack](../feats#_power-attack), Shatter Defenses, [Weapon Focus](../feats#_weapon-focus) (scythe)
 
-**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +11 (+15 when jumping), [Climb](skills_dir/climb#_climb) +14, [Fly](skills_dir/fly#_fly) +15, [Intimidate](skills_dir/intimidate#_intimidate) +40, Perception +27, [Survival](skills_dir/survival#_survival) +5, [Swim](skills_dir/swim#_swim) +14
+**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +11 (+15 when jumping), [Climb](../skills_dir/climb#_climb) +14, [Fly](../skills_dir/fly#_fly) +15, [Intimidate](../skills_dir/intimidate#_intimidate) +40, Perception +27, [Survival](../skills_dir/survival#_survival) +5, [Swim](../skills_dir/swim#_swim) +14
 
 **Languages** Common, Orc
 
 **SQ** fast movement, orc blood, tireless rage, weapon familiarity
 
-**Combat Gear** _oil of [magic weapon](spells_dir/magicWeapon#_magic-weapon), potion of [bear's endurance](spells_dir/bearSEndurance#_bear-s-endurance)_, _potion of [cat's grace](spells_dir/catSGrace#_cat-s-grace)_, _potions of [cure moderate wounds](spells_dir/cureModerateWounds#_cure-moderate-wounds)_ (2), _potions of [enlarge person](spells_dir/enlargePerson#_enlarge-person)_ (4), _ [silversheen](magicItems_dir/wondrousItems#_silversheen)_, tanglefoot bag; **Other Gear** masterwork studded leather, _+1 [unholy](magicItems_dir/weapons#_unholy) [ghost touch](magicItems_dir/weapons#_weapons-ghost-touch) adamantine scythe_, masterwork composite longbow (+10 Str) with 20 arrows, _ [belt of giant strength](magicItems_dir/wondrousItems#_belt-of-giant-strength) +4_, _ [cloak of resistance](magicItems_dir/wondrousItems#_cloak-of-resistance) +4_, _ [eyes of the eagle](magicItems_dir/wondrousItems#_eyes-of-the-eagle)_, _ [handy haversack](magicItems_dir/wondrousItems#_handy-haversack)_, _mask of intimidation_, _ [ring of blinking](magicItems_dir/rings#_ring-of-blinking)_, _ [ring of feather falling](magicItems_dir/rings#_ring-of-feather-falling)_, _winged boots_, 57 gp
+**Combat Gear** _oil of [magic weapon](../spells_dir/magicWeapon#_magic-weapon), potion of [bear's endurance](../spells_dir/bearSEndurance#_bear-s-endurance)_, _potion of [cat's grace](../spells_dir/catSGrace#_cat-s-grace)_, _potions of [cure moderate wounds](../spells_dir/cureModerateWounds#_cure-moderate-wounds)_ (2), _potions of [enlarge person](../spells_dir/enlargePerson#_enlarge-person)_ (4), _ [silversheen](../magicItems_dir/wondrousItems#_silversheen)_, tanglefoot bag; **Other Gear** masterwork studded leather, _+1 [unholy](../magicItems_dir/weapons#_unholy) [ghost touch](../magicItems_dir/weapons#_weapons-ghost-touch) adamantine scythe_, masterwork composite longbow (+10 Str) with 20 arrows, _ [belt of giant strength](../magicItems_dir/wondrousItems#_belt-of-giant-strength) +4_, _ [cloak of resistance](../magicItems_dir/wondrousItems#_cloak-of-resistance) +4_, _ [eyes of the eagle](../magicItems_dir/wondrousItems#_eyes-of-the-eagle)_, _ [handy haversack](../magicItems_dir/wondrousItems#_handy-haversack)_, _mask of intimidation_, _ [ring of blinking](../magicItems_dir/rings#_ring-of-blinking)_, _ [ring of feather falling](../magicItems_dir/rings#_ring-of-feather-falling)_, _winged boots_, 57 gp
 
 These fearsome killers seek to feed their dark gods with the souls of those they slice apart with their powerful scythes—weapons powerful enough to cut through both flesh and spirit.
 
@@ -1146,7 +1146,7 @@ Offense
 
 **Speed** 30 ft., fly 60 ft. (good)
 
-**Melee** _+5 [bashing](magicItems_dir/armor#_armor-bashing) spiked heavy [shield](spells_dir/shield#_shield)_ +31_dir/+26_dir/+21_dir/+16 (2d6+11) or _+5 [bashing](magicItems_dir/armor#_armor-bashing) spiked heavy [shield](spells_dir/shield#_shield)_ +29_dir/+24_dir/+19_dir/+14 (2d6+11), _+1 adamantine dwarven waraxe_ +25 (1d10+4_dir/×3)
+**Melee** _+5 [bashing](../magicItems_dir/armor#_armor-bashing) spiked heavy [shield](../spells_dir/shield#_shield)_ +31_dir/+26_dir/+21_dir/+16 (2d6+11) or _+5 [bashing](../magicItems_dir/armor#_armor-bashing) spiked heavy [shield](../spells_dir/shield#_shield)_ +29_dir/+24_dir/+19_dir/+14 (2d6+11), _+1 adamantine dwarven waraxe_ +25 (1d10+4_dir/×3)
 
 **Special Attacks** +1 on attack rolls against goblinoid and orc humanoids, mighty rage (50 rounds_dir/day), rage powers (clear mind, fearless rage, increased damage reduction +3, internal fortitude, knockback, mighty swing, strength surge +20, superstition +7)
 
@@ -1154,7 +1154,7 @@ Tactics
 
 **During Combat** The barbarian breaks up enemy positions with bull rush. He always includes knockback and Shield Slam, and adds strength surge against strong enemies.
 
-**Base Statistics** When not raging, the barbarian's statistics are **AC** 26, touch 12, flat-footed 24; **hp** 335; **Fort** +24, **Will** +14; +2 vs. poison, spells, and spell-like abilities, no bonus vs. supernatural abilities or enchantments; **DR** 5_dir/—; **Melee** _+5 [bashing](magicItems_dir/armor#_armor-bashing) spiked heavy [shield](spells_dir/shield#_shield)_ +27_dir/+22_dir/+17_dir/+12 (2d6+7) or _+5 [bashing](magicItems_dir/armor#_armor-bashing) spiked heavy [shield](spells_dir/shield#_shield)_ +25_dir/+20_dir/+15_dir/+10 (2d6+7), _+1 adamantine dwarven waraxe_ +21 (1d10+2_dir/×3); **Str** 14, **Con** 26; **CMB** +22; **CMD** 34; **Skills** [Climb](skills_dir/climb#_climb) +16.
+**Base Statistics** When not raging, the barbarian's statistics are **AC** 26, touch 12, flat-footed 24; **hp** 335; **Fort** +24, **Will** +14; +2 vs. poison, spells, and spell-like abilities, no bonus vs. supernatural abilities or enchantments; **DR** 5_dir/—; **Melee** _+5 [bashing](../magicItems_dir/armor#_armor-bashing) spiked heavy [shield](../spells_dir/shield#_shield)_ +27_dir/+22_dir/+17_dir/+12 (2d6+7) or _+5 [bashing](../magicItems_dir/armor#_armor-bashing) spiked heavy [shield](../spells_dir/shield#_shield)_ +25_dir/+20_dir/+15_dir/+10 (2d6+7), _+1 adamantine dwarven waraxe_ +21 (1d10+2_dir/×3); **Str** 14, **Con** 26; **CMB** +22; **CMD** 34; **Skills** [Climb](../skills_dir/climb#_climb) +16.
 
 statistics
 
@@ -1162,15 +1162,15 @@ statistics
 
 **Base Atk** +20; **CMB** +26 (+30 bull rush); **CMD** 36 (42 vs. bull rush, 40 vs. trip)
 
-**Feats** Greater Bull Rush, Improved Bull Rush, Improved Shield Bash, [Iron Will](feats#_iron-will), [Lunge](feats#_lunge), [Power Attack](feats#_power-attack), Shield Master, Shield Slam, [Toughness](feats#_toughness), [Two-Weapon Fighting](feats#_two-weapon-fighting)
+**Feats** Greater Bull Rush, Improved Bull Rush, Improved Shield Bash, [Iron Will](../feats#_iron-will), [Lunge](../feats#_lunge), [Power Attack](../feats#_power-attack), Shield Master, Shield Slam, [Toughness](../feats#_toughness), [Two-Weapon Fighting](../feats#_two-weapon-fighting)
 
-**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +22, [Climb](skills_dir/climb#_climb) +20, [Intimidate](skills_dir/intimidate#_intimidate) +20, [Linguistics](skills_dir/linguistics#_linguistics) +3, Perception +25 (+27 to notice unusual stonework), [Profession](skills_dir/profession#_profession) (miner) +5, [Survival](skills_dir/survival#_survival) +6
+**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +22, [Climb](../skills_dir/climb#_climb) +20, [Intimidate](../skills_dir/intimidate#_intimidate) +20, [Linguistics](../skills_dir/linguistics#_linguistics) +3, Perception +25 (+27 to notice unusual stonework), [Profession](../skills_dir/profession#_profession) (miner) +5, [Survival](../skills_dir/survival#_survival) +6
 
 **Languages** Common, Dwarven, Giant, Terran, Undercommon
 
 **SQ** fast movement, tireless rage
 
-**Combat Gear** _potion of [cure moderate wounds](spells_dir/cureModerateWounds#_cure-moderate-wounds)_, _potions of [haste](spells_dir/haste#_haste)_ (2); **Other Gear** _+1 heavy [fortification](magicItems_dir/armor#_armor-fortification) breastplate_, _+5 [bashing](magicItems_dir/armor#_armor-bashing) spiked heavy steel [shield](spells_dir/shield#_shield)_, _+1 adamantine dwarven waraxe_, _ [belt of mighty constitution](magicItems_dir/wondrousItems#_belt-of-mighty-constitution) +_6, _ [cloak of resistance](magicItems_dir/wondrousItems#_cloak-of-resistance) +4_, _ [necklace of adaptation](magicItems_dir/wondrousItems#_necklace-of-adaptation)_, _ [ring of feather falling](magicItems_dir/rings#_ring-of-feather-falling), winged boots, _150 gp
+**Combat Gear** _potion of [cure moderate wounds](../spells_dir/cureModerateWounds#_cure-moderate-wounds)_, _potions of [haste](../spells_dir/haste#_haste)_ (2); **Other Gear** _+1 heavy [fortification](../magicItems_dir/armor#_armor-fortification) breastplate_, _+5 [bashing](../magicItems_dir/armor#_armor-bashing) spiked heavy steel [shield](../spells_dir/shield#_shield)_, _+1 adamantine dwarven waraxe_, _ [belt of mighty constitution](../magicItems_dir/wondrousItems#_belt-of-mighty-constitution) +_6, _ [cloak of resistance](../magicItems_dir/wondrousItems#_cloak-of-resistance) +4_, _ [necklace of adaptation](../magicItems_dir/wondrousItems#_necklace-of-adaptation)_, _ [ring of feather falling](../magicItems_dir/rings#_ring-of-feather-falling), winged boots, _150 gp
 
 These barbarians are always scarred in some way, and wander the land in order to accomplish great deeds.
 

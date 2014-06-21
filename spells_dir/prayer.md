@@ -16,7 +16,7 @@ title: spells_dir/prayer
 
 **Duration** 1 round_dir/level
 
-**Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** yes
+**Saving Throw** none; **[Spell Resistance](../../glossary#_spell-resistance)** yes
 
 You bring special favor upon yourself and your allies while bringing disfavor to your enemies. You and each of your allies gain a +1 luck bonus on attack rolls, weapon damage rolls, saves, and skill checks, while each of your foes takes a –1 penalty on such rolls.
 

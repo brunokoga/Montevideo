@@ -10,9 +10,9 @@ _Its slime-drenched length coiled upon itself in a shuddering mountain, this hug
 
 **XP 51,200**
 
-CE Gargantuan [aberration](creatureTypes#_aberration)
+CE Gargantuan [aberration](../creatureTypes#_aberration)
 
-**Init** +2; **Senses** blindsight 100 ft., trace teleport 60 ft.; [Perception](../skills_dir/perception#_perception) +25
+**Init** +2; **Senses** blindsight 100 ft., trace teleport 60 ft.; [Perception](../../skills_dir/perception#_perception) +25
 
 **Defense**
 
@@ -28,19 +28,19 @@ CE Gargantuan [aberration](creatureTypes#_aberration)
 
 **Speed** 30 ft., fly 60 ft. (good)
 
-**Melee** 4 tongues +21 (3d6+10_dir/19–20 plus [grab](universalMonsterRules#_grab))
+**Melee** 4 tongues +21 (3d6+10_dir/19–20 plus [grab](../universalMonsterRules#_grab))
 
 **Space** 20 ft.; **Reach** 20 ft.
 
-**Special Attacks** [breath weapon](universalMonsterRules#_breath-weapon) (50-ft. cone, 14d10 acid, Reflex DC 27 half, once every 1d4 rounds), mind thrust, psychic crush, [swallow whole](universalMonsterRules#_swallow-whole) (2d6+10 plus 2d6 acid, AC 23, hp 23)
+**Special Attacks** [breath weapon](../universalMonsterRules#_breath-weapon) (50-ft. cone, 14d10 acid, Reflex DC 27 half, once every 1d4 rounds), mind thrust, psychic crush, [swallow whole](../universalMonsterRules#_swallow-whole) (2d6+10 plus 2d6 acid, AC 23, hp 23)
 
 **Spell-Like Abilities** (CL 20th)
 
-Constant—_ [fly](../spells_dir/fly)_
+Constant—_ [fly](../../spells_dir/fly)_
 
-At will—_ [detect thoughts](../spells_dir/detectThoughts#_detect-thoughts)_ (DC 17), _ [charm monster](../spells_dir/charmMonster#_charm-monster)_ (DC 19), _clairvoyance_dir/clairaudience, [suggestion](../spells_dir/suggestion#_suggestion)_ (DC 18), _ [telekinesis](../spells_dir/telekinesis#_telekinesis)_ (DC 20), _ [teleport](../spells_dir/teleport#_teleport), [poison](../spells_dir/poison#_poison)_ (DC 19)
+At will—_ [detect thoughts](../../spells_dir/detectThoughts#_detect-thoughts)_ (DC 17), _ [charm monster](../../spells_dir/charmMonster#_charm-monster)_ (DC 19), _clairvoyance_dir/clairaudience, [suggestion](../../spells_dir/suggestion#_suggestion)_ (DC 18), _ [telekinesis](../../spells_dir/telekinesis#_telekinesis)_ (DC 20), _ [teleport](../../spells_dir/teleport#_teleport), [poison](../../spells_dir/poison#_poison)_ (DC 19)
 
-3_dir/day—quickened _ [suggestion](../spells_dir/suggestion#_suggestion)_ (DC 18)
+3_dir/day—quickened _ [suggestion](../../spells_dir/suggestion#_suggestion)_ (DC 18)
 
 **Statistics**
 
@@ -48,11 +48,11 @@ At will—_ [detect thoughts](../spells_dir/detectThoughts#_detect-thoughts)_ (D
 
 **Base Atk** +15; **CMB** +29 (+33 grapple); **CMD** 37 (can't be tripped)
 
-**Feats** [Cleave](../feats#_cleave), [Great Cleave](../feats#_great-cleave), [Great Fortitude](../feats#_great-fortitude), [Improved Bull Rush](../feats#_improved-bull-rush), [Improved Critical](../feats#_improved-critical) (tongue), [Improved Initiative](../feats#_improved-initiative), [Improved Overrun](../feats#_improved-overrun), [Iron Will](../feats#_iron-will), [Power Attack](../feats#_power-attack), [Quicken Spell-Like Ability](monsterFeats#_quicken-spell-like-ability) (_ [suggestion](../spells_dir/suggestion#_suggestion)_)
+**Feats** [Cleave](../../feats#_cleave), [Great Cleave](../../feats#_great-cleave), [Great Fortitude](../../feats#_great-fortitude), [Improved Bull Rush](../../feats#_improved-bull-rush), [Improved Critical](../../feats#_improved-critical) (tongue), [Improved Initiative](../../feats#_improved-initiative), [Improved Overrun](../../feats#_improved-overrun), [Iron Will](../../feats#_iron-will), [Power Attack](../../feats#_power-attack), [Quicken Spell-Like Ability](../monsterFeats#_quicken-spell-like-ability) (_ [suggestion](../../spells_dir/suggestion#_suggestion)_)
 
-**Skills** [Bluff](../skills_dir/bluff#_bluff) +25, [Climb](../skills_dir/climb#_climb) +33, [Diplomacy](../skills_dir/diplomacy#_diplomacy) +25, [Fly](../skills_dir/fly#_fly) –4, [Intimidate](../skills_dir/intimidate#_intimidate) +28, [Knowledge](../skills_dir/knowledge#_knowledge) (arcana) +26, [Perception](../skills_dir/perception#_perception) +25, [Spellcraft](../skills_dir/spellcraft#_spellcraft) +26
+**Skills** [Bluff](../../skills_dir/bluff#_bluff) +25, [Climb](../../skills_dir/climb#_climb) +33, [Diplomacy](../../skills_dir/diplomacy#_diplomacy) +25, [Fly](../../skills_dir/fly#_fly) –4, [Intimidate](../../skills_dir/intimidate#_intimidate) +28, [Knowledge](../../skills_dir/knowledge#_knowledge) (arcana) +26, [Perception](../../skills_dir/perception#_perception) +25, [Spellcraft](../../skills_dir/spellcraft#_spellcraft) +26
 
-**Languages** Aklo, Terran, Undercommon; [telepathy](universalMonsterRules#_telepathy) 100 ft.
+**Languages** Aklo, Terran, Undercommon; [telepathy](../universalMonsterRules#_telepathy) 100 ft.
 
 **Ecology**
 

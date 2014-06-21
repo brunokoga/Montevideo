@@ -10,9 +10,9 @@ _This emaciated, hairless canine has a strange air of menace and cruelty about i
 
 **XP 800**
 
-NE Medium [outsider](creatureTypes#_outsider) ( [evil](creatureTypes#_evil-subtype), [extraplanar](creatureTypes#_extraplanar-subtype))
+NE Medium [outsider](../creatureTypes#_outsider) ( [evil](../creatureTypes#_evil-subtype), [extraplanar](../creatureTypes#_extraplanar-subtype))
 
-**Init** +6; **Senses** darkvision 60 ft., [scent](universalMonsterRules#_scent); [Perception](../skills_dir/perception#_perception) +9
+**Init** +6; **Senses** darkvision 60 ft., [scent](../universalMonsterRules#_scent); [Perception](../../skills_dir/perception#_perception) +9
 
 **Defense**
 
@@ -28,7 +28,7 @@ NE Medium [outsider](creatureTypes#_outsider) ( [evil](creatureTypes#_evil-subty
 
 **Speed** 40 ft., fly 60 ft. (good)
 
-**Melee** bite +7 (2d6+4 plus sinister bite and [trip](universalMonsterRules#_trip))
+**Melee** bite +7 (2d6+4 plus sinister bite and [trip](../universalMonsterRules#_trip))
 
 **Special Attacks** bay
 
@@ -38,9 +38,9 @@ NE Medium [outsider](creatureTypes#_outsider) ( [evil](creatureTypes#_evil-subty
 
 **Base**  **Atk** +4; **CMB** +7; **CMD** 19 (23 vs. trip)
 
-**Feats** [Improved Initiative](../feats#_improved-initiative), [Skill Focus](../feats#_skill-focus) ( [Fly](../skills_dir/fly#_fly))
+**Feats** [Improved Initiative](../../feats#_improved-initiative), [Skill Focus](../../feats#_skill-focus) ( [Fly](../../skills_dir/fly#_fly))
 
-**Skills** [Fly](../skills_dir/fly#_fly) +16, [Perception](../skills_dir/perception#_perception) +9, [Stealth](../skills_dir/stealth#_stealth) +9, [Survival](../skills_dir/survival#_survival) +9
+**Skills** [Fly](../../skills_dir/fly#_fly) +16, [Perception](../../skills_dir/perception#_perception) +9, [Stealth](../../skills_dir/stealth#_stealth) +9, [Survival](../../skills_dir/survival#_survival) +9
 
 **Languages** Abyssal or Infernal (cannot speak)
 

@@ -10,9 +10,9 @@ This long, lean fish has a muscular body and a head with long jaws filled with s
 
 **XP 400**
 
-N Medium [animal](monsters_dir/creatureTypes#_animal) ( [aquatic](monsters_dir/creatureTypes#_aquatic-subtype))
+N Medium [animal](../monsters_dir/creatureTypes#_animal) ( [aquatic](../monsters_dir/creatureTypes#_aquatic-subtype))
 
-**Init** +6; **Senses** low-light vision; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +6
+**Init** +6; **Senses** low-light vision; [Perception](../additionalMonsters_dir/../skills_dir/perception#_perception) +6
 
 Defense
 
@@ -26,7 +26,7 @@ Offense
 
 **Speed** swim 60 ft.
 
-**Melee** bite +3 (1d6+3 plus [grab](monsters_dir/universalMonsterRules#_grab))
+**Melee** bite +3 (1d6+3 plus [grab](../monsters_dir/universalMonsterRules#_grab))
 
 Statistics
 
@@ -34,9 +34,9 @@ Statistics
 
 **Base Atk** +1; **CMB** +3 (+7 grapple); **CMD** 15 (can't be tripped)
 
-**Feats** [Improved Initiative](additionalMonsters_dir/../feats#_improved-initiative)
+**Feats** [Improved Initiative](../additionalMonsters_dir/../feats#_improved-initiative)
 
-**Skills** [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +6, [Swim](additionalMonsters_dir/../skills_dir/swim#_swim) +10
+**Skills** [Perception](../additionalMonsters_dir/../skills_dir/perception#_perception) +6, [Swim](../additionalMonsters_dir/../skills_dir/swim#_swim) +10
 
 Ecology
 
@@ -62,9 +62,9 @@ Giant GarCR 6
 
 **XP 2,400**
 
-N Huge [animal](monsters_dir/creatureTypes#_animal) ( [aquatic](monsters_dir/creatureTypes#_aquatic-subtype))
+N Huge [animal](../monsters_dir/creatureTypes#_animal) ( [aquatic](../monsters_dir/creatureTypes#_aquatic-subtype))
 
-**Init** +4; **Senses** low-light vision; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +11
+**Init** +4; **Senses** low-light vision; [Perception](../additionalMonsters_dir/../skills_dir/perception#_perception) +11
 
 Defense
 
@@ -78,7 +78,7 @@ Offense
 
 **Speed** swim 60 ft.
 
-**Melee** bite +13 (2d6+15 plus [grab](monsters_dir/universalMonsterRules#_grab))
+**Melee** bite +13 (2d6+15 plus [grab](../monsters_dir/universalMonsterRules#_grab))
 
 **Space** 15 ft.; **Reach** 15 ft.
 
@@ -90,9 +90,9 @@ Statistics
 
 **Base Atk** +5; **CMB** +17 (+21 grapple); **CMD** 27 (can't be tripped)
 
-**Feats** [Improved Initiative](additionalMonsters_dir/../feats#_improved-initiative), [Iron Will](additionalMonsters_dir/../feats#_iron-will), [Lightning Reflexes](additionalMonsters_dir/../feats#_lightning-reflexes), [Power Attack](additionalMonsters_dir/../feats#_power-attack)
+**Feats** [Improved Initiative](../additionalMonsters_dir/../feats#_improved-initiative), [Iron Will](../additionalMonsters_dir/../feats#_iron-will), [Lightning Reflexes](../additionalMonsters_dir/../feats#_lightning-reflexes), [Power Attack](../additionalMonsters_dir/../feats#_power-attack)
 
-**Skills** [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +11, [Swim](additionalMonsters_dir/../skills_dir/swim#_swim) +18
+**Skills** [Perception](../additionalMonsters_dir/../skills_dir/perception#_perception) +11, [Swim](../additionalMonsters_dir/../skills_dir/swim#_swim) +18
 
 Ecology
 

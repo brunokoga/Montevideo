@@ -10,9 +10,9 @@ This fanged humanoid has hideously transparent skin, revealing the vivid colors 
 
 **XP 800**
 
-NE Medium [outsider](monsters_dir/creatureTypes#_outsider) ( [native](monsters_dir/creatureTypes#_native-subtype))
+NE Medium [outsider](../monsters_dir/creatureTypes#_outsider) ( [native](../monsters_dir/creatureTypes#_native-subtype))
 
-**Init** +1; **Senses** darkvision 120 ft.; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +7
+**Init** +1; **Senses** darkvision 120 ft.; [Perception](../additionalMonsters_dir/../skills_dir/perception#_perception) +7
 
 Defense
 
@@ -22,7 +22,7 @@ Defense
 
 **Fort** +6, **Ref** +4, **Will** +4
 
-**Defensive Abilities** [negative energy affinity](monsters_dir/universalMonsterRules#_negative-energy-affinity); **DR** 5_dir/good or silver; **Immune** death effects (see below), [disease](monsters_dir/universalMonsterRules#_disease-(ex-or-su)), [fear](monsters_dir/universalMonsterRules#_fear-(su-or-sp)), level drain; **Resist** acid 10; **SR** 14
+**Defensive Abilities** [negative energy affinity](../monsters_dir/universalMonsterRules#_negative-energy-affinity); **DR** 5_dir/good or silver; **Immune** death effects (see below), [disease](../monsters_dir/universalMonsterRules#_disease-(ex-or-su)), [fear](../monsters_dir/universalMonsterRules#_fear-(su-or-sp)), level drain; **Resist** acid 10; **SR** 14
 
 Offense
 
@@ -34,13 +34,13 @@ bite +7 (1d4+4 plus 2 Str)
 
 **Ranged** composite longbow +4 (1d8+4_dir/×3)
 
-**Special Attacks** [blood drain](monsters_dir/universalMonsterRules#_blood-drain) (1 Con)
+**Special Attacks** [blood drain](../monsters_dir/universalMonsterRules#_blood-drain) (1 Con)
 
 **Spell-Like Abilities** (CL 3rd; concentration +5)
 
-At will—_ [feather fall](additionalMonsters_dir/../spells_dir/featherFall#_feather-fall)_
+At will—_ [feather fall](../additionalMonsters_dir/../spells_dir/featherFall#_feather-fall)_
 
-3_dir/day—_ [align weapon](additionalMonsters_dir/../spells_dir/alignWeapon#_align-weapon)_, _ [death knell](additionalMonsters_dir/../spells_dir/deathKnell#_death-knell)_ (DC 14), _ [ray of enfeeblement](additionalMonsters_dir/../spells_dir/rayOfEnfeeblement#_ray-of-enfeeblement)_ (DC 13)
+3_dir/day—_ [align weapon](../additionalMonsters_dir/../spells_dir/alignWeapon#_align-weapon)_, _ [death knell](../additionalMonsters_dir/../spells_dir/deathKnell#_death-knell)_ (DC 14), _ [ray of enfeeblement](../additionalMonsters_dir/../spells_dir/rayOfEnfeeblement#_ray-of-enfeeblement)_ (DC 13)
 
 Statistics
 
@@ -48,9 +48,9 @@ Statistics
 
 **Base Atk** +3; **CMB** +7; **CMD** 18
 
-**Feats** [Iron Will](additionalMonsters_dir/../feats#_iron-will), [Weapon Focus](additionalMonsters_dir/../feats#_weapon-focus) (rhoka sword)
+**Feats** [Iron Will](../additionalMonsters_dir/../feats#_iron-will), [Weapon Focus](../additionalMonsters_dir/../feats#_weapon-focus) (rhoka sword)
 
-**Skills** [Intimidate](additionalMonsters_dir/../skills_dir/intimidate#_intimidate) +8, [Knowledge](additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (dungeoneering) +5, [Knowledge](additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (planes, religion) +8, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +7, [Ride](additionalMonsters_dir/../skills_dir/ride#_ride) +4, [Sense Motive](additionalMonsters_dir/../skills_dir/senseMotive#_sense-motive) +7, [Survival](additionalMonsters_dir/../skills_dir/survival#_survival) +7
+**Skills** [Intimidate](../additionalMonsters_dir/../skills_dir/intimidate#_intimidate) +8, [Knowledge](../additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (dungeoneering) +5, [Knowledge](../additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (planes, religion) +8, [Perception](../additionalMonsters_dir/../skills_dir/perception#_perception) +7, [Ride](../additionalMonsters_dir/../skills_dir/ride#_ride) +4, [Sense Motive](../additionalMonsters_dir/../skills_dir/senseMotive#_sense-motive) +7, [Survival](../additionalMonsters_dir/../skills_dir/survival#_survival) +7
 
 **Languages** Aklo, Undercommon
 

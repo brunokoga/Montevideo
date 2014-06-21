@@ -10,9 +10,9 @@ _This yellow-orange amoeboid creature slithers across the ground, pseudopods gra
 
 **XP 1,600**
 
-N Large [ooze](creatureTypes#_ooze)
+N Large [ooze](../creatureTypes#_ooze)
 
-**Init** –5; **Senses** blindsight 60 ft.; [Perception](../skills_dir/perception#_perception) –5
+**Init** –5; **Senses** blindsight 60 ft.; [Perception](../../skills_dir/perception#_perception) –5
 
 **Defense**
 
@@ -22,17 +22,17 @@ N Large [ooze](creatureTypes#_ooze)
 
 **Fort** +8, **Ref** –3, **Will** –3
 
-**Defensive Abilities** split; **Immune** electricity, mind-affecting effects, [ooze traits](creatureTypes#_ooze), slashing and piercing damage
+**Defensive Abilities** split; **Immune** electricity, mind-affecting effects, [ooze traits](../creatureTypes#_ooze), slashing and piercing damage
 
 **Offense**
 
 **Speed** 10 ft., climb 10 ft.
 
-**Melee** slam +5 (2d4+3 plus 1d4 acid and [grab](universalMonsterRules#_grab))
+**Melee** slam +5 (2d4+3 plus 1d4 acid and [grab](../universalMonsterRules#_grab))
 
 **Space** 10 ft.; **Reach** 5 ft.
 
-**Special Attacks** [constrict](universalMonsterRules#_constrict) (2d4+3 plus 1d4 acid)
+**Special Attacks** [constrict](../universalMonsterRules#_constrict) (2d4+3 plus 1d4 acid)
 
 **Statistics**
 
@@ -40,7 +40,7 @@ N Large [ooze](creatureTypes#_ooze)
 
 **Base**  **Atk** +4; **CMB** +7 (+11 grapple); **CMD** 12 (can't be tripped)
 
-**Skills** [Climb](../skills_dir/climb#_climb) +10
+**Skills** [Climb](../../skills_dir/climb#_climb) +10
 
 **Ecology**
 

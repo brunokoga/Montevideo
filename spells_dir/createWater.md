@@ -16,7 +16,7 @@ title: spells_dir/createWater
 
 **Duration** instantaneous
 
-**Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** no
+**Saving Throw** none; **[Spell Resistance](../../glossary#_spell-resistance)** no
 
 This spell generates wholesome, drinkable water, just like clean rain water. Water can be created in an area as small as will actually contain the liquid, or in an area three times as large—possibly creating a downpour or filling many small receptacles. This water disappears after 1 day if not consumed.
 

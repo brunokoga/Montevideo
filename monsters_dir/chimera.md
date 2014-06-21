@@ -10,9 +10,9 @@ _This winged monster has the body of a lion, though two more heads flank its cen
 
 **XP 3,200**
 
-CE Large [magical beast](creatureTypes#_magical-beast)
+CE Large [magical beast](../creatureTypes#_magical-beast)
 
-**Init** +5; **Senses** darkvision 60 ft., low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skills_dir/perception#_perception) +10
+**Init** +5; **Senses** darkvision 60 ft., low-light vision, [scent](../universalMonsterRules#_scent); [Perception](../../skills_dir/perception#_perception) +10
 
 **Defense**
 
@@ -30,7 +30,7 @@ CE Large [magical beast](creatureTypes#_magical-beast)
 
 **Space** 10 ft.; **Reach** 5 ft.
 
-**Special Attacks** [breath weapon](universalMonsterRules#_breath-weapon) (usable every 1d4 rounds)
+**Special Attacks** [breath weapon](../universalMonsterRules#_breath-weapon) (usable every 1d4 rounds)
 
 **Statistics**
 
@@ -38,9 +38,9 @@ CE Large [magical beast](creatureTypes#_magical-beast)
 
 **Base Atk** +9; **CMB** +14; **CMD** 25 (29 vs. trip)
 
-**Feats** [Hover](monsterFeats#_hover), [Improved Initiative](../feats#_improved-initiative), [Iron Will](../feats#_iron-will), [Skill Focus](../feats#_skill-focus) ( [Perception](../skills_dir/perception#_perception)), [Toughness](../feats#_toughness)
+**Feats** [Hover](../monsterFeats#_hover), [Improved Initiative](../../feats#_improved-initiative), [Iron Will](../../feats#_iron-will), [Skill Focus](../../feats#_skill-focus) ( [Perception](../../skills_dir/perception#_perception)), [Toughness](../../feats#_toughness)
 
-**Skills** [Fly](../skills_dir/fly#_fly) +2, [Perception](../skills_dir/perception#_perception) +10, [Stealth](../skills_dir/stealth#_stealth) +4 (+8 in scrubland or brush); **Racial Modifiers** +2 [Perception](../skills_dir/perception#_perception), +4 [Stealth](../skills_dir/stealth#_stealth) in scrubland or brush
+**Skills** [Fly](../../skills_dir/fly#_fly) +2, [Perception](../../skills_dir/perception#_perception) +10, [Stealth](../../skills_dir/stealth#_stealth) +4 (+8 in scrubland or brush); **Racial Modifiers** +2 [Perception](../../skills_dir/perception#_perception), +4 [Stealth](../../skills_dir/stealth#_stealth) in scrubland or brush
 
 **Languages** Draconic
 

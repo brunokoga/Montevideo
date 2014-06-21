@@ -4,7 +4,7 @@ title: mythicAdventures_dir/mythicSpells_dir/sacredBond
 ---
 Sacred Bond
 
-**Source** [_sacred bond_](advanced_dir/spells_dir/sacredBond#_sacred-bond)
+**Source** [_sacred bond_](../advanced_dir/spells_dir/sacredBond#_sacred-bond)
 
 The range at which you and the target can cast conjuration (healing) spells on each other increases to medium (100 feet + 10 feet per caster level). When you or the target uses the _sacred bond_ to cast a healing spell on the other, the caster also heals a number of hit points equal to the minimum amount the spell can heal.
 

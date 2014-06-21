@@ -18,5 +18,5 @@ Badger's Ferocity
 
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 
-This functions like _ [keen edge](spells_dir/keenEdge#_keen-edge)_, except it affects multiple weapons and requires your concentration. You select the weapons to be affected, and can only affect one weapon per creature. If a creature's weapon exceeds the spell's range, the spell ends for that weapon.
+This functions like _ [keen edge](../spells_dir/keenEdge#_keen-edge)_, except it affects multiple weapons and requires your concentration. You select the weapons to be affected, and can only affect one weapon per creature. If a creature's weapon exceeds the spell's range, the spell ends for that weapon.
 

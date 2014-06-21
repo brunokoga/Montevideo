@@ -16,7 +16,7 @@ title: spells_dir/flameStrike
 
 **Duration** instantaneous
 
-**Saving Throw** [Reflex](../combat#_reflex) half; **[Spell Resistance](../glossary#_spell-resistance)** yes
+**Saving Throw** [Reflex](../../combat#_reflex) half; **[Spell Resistance](../../glossary#_spell-resistance)** yes
 
 A _flame strike _evokes a vertical column of divine fire. The spell deals 1d6 points of damage per caster level (maximum 15d6). Half the damage is fire damage, but the other half results directly from divine power and is therefore not subject to being reduced by resistance to fire-based attacks.
 

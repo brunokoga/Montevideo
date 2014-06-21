@@ -16,7 +16,7 @@ title: spells_dir/blessWater
 
 **Duration** instantaneous
 
-**Saving Throw** [Will](../combat#_will) negates (object); **[Spell Resistance](../glossary#_spell-resistance)** yes (object)
+**Saving Throw** [Will](../../combat#_will) negates (object); **[Spell Resistance](../../glossary#_spell-resistance)** yes (object)
 
-This transmutation imbues a flask (1 pint) of water with positive energy, turning it into [holy water](../equipment#_special-substances-and-items).
+This transmutation imbues a flask (1 pint) of water with positive energy, turning it into [holy water](../../equipment#_special-substances-and-items).
 

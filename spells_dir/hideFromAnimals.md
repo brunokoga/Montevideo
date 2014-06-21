@@ -16,7 +16,7 @@ title: spells_dir/hideFromAnimals
 
 **Duration** 10 min._dir/level (D)
 
-**Saving Throw** [Will](../combat#_will) negates (harmless); **[Spell Resistance](../glossary#_spell-resistance)** yes
+**Saving Throw** [Will](../../combat#_will) negates (harmless); **[Spell Resistance](../../glossary#_spell-resistance)** yes
 
-Animals cannot sense the warded creatures. Even extraordinary or supernatural sensory capabilities, such as [blindsense](../glossary#_blindsight-and-blindsense), [blindsight](../glossary#_blindsight-and-blindsense), [scent](../glossary#_scent), and tremorsense, cannot detect or locate warded creatures. Animals simply act as though the warded creatures are not there. If a warded character touches an animal or attacks any creature, even with a spell, the spell ends for all recipients.
+Animals cannot sense the warded creatures. Even extraordinary or supernatural sensory capabilities, such as [blindsense](../../glossary#_blindsight-and-blindsense), [blindsight](../../glossary#_blindsight-and-blindsense), [scent](../../glossary#_scent), and tremorsense, cannot detect or locate warded creatures. Animals simply act as though the warded creatures are not there. If a warded character touches an animal or attacks any creature, even with a spell, the spell ends for all recipients.
 

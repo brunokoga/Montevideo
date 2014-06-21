@@ -18,9 +18,9 @@ title: spells_dir/continualFlame
 
 **Duration** permanent
 
-**Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** no
+**Saving Throw** none; **[Spell Resistance](../../glossary#_spell-resistance)** no
 
 A flame, equivalent in brightness to a torch, springs forth from an object that you touch. The effect looks like a regular flame, but it creates no heat and doesn't use oxygen. A _continual flame _can be covered and hidden but not smothered or quenched.
 
-Light spells counter and dispel [darkness](darkness#_darkness) spells of an equal or lower level.
+Light spells counter and dispel [darkness](../darkness#_darkness) spells of an equal or lower level.
 

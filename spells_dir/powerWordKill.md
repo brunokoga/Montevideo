@@ -16,7 +16,7 @@ title: spells_dir/powerWordKill
 
 **Duration** instantaneous
 
-**Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** yes
+**Saving Throw** none; **[Spell Resistance](../../glossary#_spell-resistance)** yes
 
 You utter a single word of power that instantly kills one creature of your choice, whether the creature can hear the word or not. Any creature that currently has 101 or more hit points is unaffected by _power word kill_.
 

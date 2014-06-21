@@ -18,5 +18,5 @@ Blessing of the Mole
 
 **Saving Throw** none (harmless); **Spell Resistance** yes (harmless)
 
-The targets gain darkvision 30 feet and a +2 competence bonus on [Stealth](skills_dir/stealth#_stealth) checks.
+The targets gain darkvision 30 feet and a +2 competence bonus on [Stealth](../skills_dir/stealth#_stealth) checks.
 

@@ -16,7 +16,7 @@ title: spells_dir/stabilize
 
 **Duration** instantaneous
 
-**Saving Throw** : [Will](../combat#_will) negates (harmless); **[Spell Resistance](../glossary#_spell-resistance)** : yes (harmless)
+**Saving Throw** : [Will](../../combat#_will) negates (harmless); **[Spell Resistance](../../glossary#_spell-resistance)** : yes (harmless)
 
-Upon casting this spell, you target a living creature that has –1 or fewer hit points. That creature is automatically stabilized and does not lose any further hit points. If the creature later takes damage, it continues [dying](../glossary#_dying) normally.
+Upon casting this spell, you target a living creature that has –1 or fewer hit points. That creature is automatically stabilized and does not lose any further hit points. If the creature later takes damage, it continues [dying](../../glossary#_dying) normally.
 

@@ -16,7 +16,7 @@ title: spells_dir/healMount
 
 **Duration** instantaneous
 
-**Saving Throw** [Will](../combat#_will) negates (harmless); **[Spell Resistance](../glossary#_spell-resistance)** yes (harmless)
+**Saving Throw** [Will](../../combat#_will) negates (harmless); **[Spell Resistance](../../glossary#_spell-resistance)** yes (harmless)
 
-This spell functions like _ [heal](heal#_heal), _but it affects only the paladin's special mount (typically a horse).
+This spell functions like _ [heal](../heal#_heal), _but it affects only the paladin's special mount (typically a horse).
 

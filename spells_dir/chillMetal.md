@@ -16,7 +16,7 @@ title: spells_dir/chillMetal
 
 **Duration** 7 rounds
 
-**Saving Throw** [Will](../combat#_will) negates (object); **[Spell Resistance](../glossary#_spell-resistance)** yes (object)
+**Saving Throw** [Will](../../combat#_will) negates (object); **[Spell Resistance](../../glossary#_spell-resistance)** yes (object)
 
 _Chill metal _makes metal extremely cold. Unattended, nonmagical metal gets no saving throw. Magical metal is allowed a saving throw against the spell. An item in a creature's possession uses the creature's saving throw bonus unless its own is higher.
 
@@ -34,5 +34,5 @@ On the first round of the spell, the metal becomes chilly and uncomfortable to t
 
 Any heat intense enough to damage the creature negates cold damage from the spell (and vice versa) on a point-for-point basis. Underwater, _chill metal _deals no damage, but ice immediately forms around the affected metal, making it float if unattended.
 
-_Chill metal _counters and dispels _ [heat metal](heatMetal#_heat-metal)_.
+_Chill metal _counters and dispels _ [heat metal](../heatMetal#_heat-metal)_.
 

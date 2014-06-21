@@ -16,7 +16,7 @@ title: spells_dir/aid
 
 **Duration** 1 min._dir/level
 
-**Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** yes (harmless)
+**Saving Throw** none; **[Spell Resistance](../../glossary#_spell-resistance)** yes (harmless)
 
 _Aid _grants the target a +1 morale bonus on attack rolls and saves against fear effects, plus temporary hit points equal to 1d8 + caster level (to a maximum of 1d8+10 temporary hit points at caster level 10th).
 

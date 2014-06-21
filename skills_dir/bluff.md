@@ -4,7 +4,7 @@ title: skills_dir/bluff
 ---
 # Bluff
 
-## ( [Cha](../gettingStarted#_charisma-new))
+## ( [Cha](../../gettingStarted#_charisma-new))
 
 You know how to tell a lie.
 
@@ -20,7 +20,7 @@ You know how to tell a lie.
 | The target is drunk or impaired | +5 |
 | You possess convincing proof | up to +10 |
 
-_Feint_: You can use Bluff to feint in combat, causing your opponent to be denied his [Dexterity](../gettingStarted#_dexterity) bonus to his [AC](../combat#_armor-class) against your next attack. The DC of this check is equal to 10 + your opponent's base attack bonus + your opponent's [Wisdom](../gettingStarted#_wisdom) modifier. If your opponent is trained in Sense Motive, the DC is instead equal to 10 + your opponent's Sense Motive bonus, if higher. For more information on feinting in combat, see [Combat](../combat).
+_Feint_: You can use Bluff to feint in combat, causing your opponent to be denied his [Dexterity](../../gettingStarted#_dexterity) bonus to his [AC](../../combat#_armor-class) against your next attack. The DC of this check is equal to 10 + your opponent's base attack bonus + your opponent's [Wisdom](../../gettingStarted#_wisdom) modifier. If your opponent is trained in Sense Motive, the DC is instead equal to 10 + your opponent's Sense Motive bonus, if higher. For more information on feinting in combat, see [Combat](../../combat).
 
 _Secret Messages_: You can use Bluff to pass hidden messages along to another character without others understanding your true meaning by using innuendo to cloak your actual message. The DC of this check is 15 for simple messages and 20 for complex messages. If you are successful, the target automatically understands you, assuming you are communicating in a language that it understands. If your check fails by 5 or more, you deliver the wrong message. Other creatures that receive the message can decipher it by succeeding at an opposed Sense Motive check against your Bluff result.
 
@@ -36,5 +36,5 @@ You can attempt to feint against someone again if you fail. Secret messages can 
 
 **Special** : A spellcaster with a viper familiar gains a +3 bonus on Bluff checks.
 
-If you have the [Deceitful](../feats#_deceitful) feat, you get a bonus on Bluff checks (see [Feats](../feats)).
+If you have the [Deceitful](../../feats#_deceitful) feat, you get a bonus on Bluff checks (see [Feats](../../feats)).
 

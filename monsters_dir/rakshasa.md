@@ -10,9 +10,9 @@ _This figure's backward-bending fingers and its bestial, snarling visage leave l
 
 **XP 9,600**
 
-LE Medium [outsider](creatureTypes#_outsider) ( [native](universalMonsterRules#_telepathy), [shapechanger](creatureTypes#_shapechanger-subtype))
+LE Medium [outsider](../creatureTypes#_outsider) ( [native](../universalMonsterRules#_telepathy), [shapechanger](../creatureTypes#_shapechanger-subtype))
 
-**Init** +9; **Senses** darkvision 60 ft.; [Perception](../skills_dir/perception#_perception) +14
+**Init** +9; **Senses** darkvision 60 ft.; [Perception](../../skills_dir/perception#_perception) +14
 
 **Defense**
 
@@ -34,13 +34,13 @@ LE Medium [outsider](creatureTypes#_outsider) ( [native](universalMonsterRules#_
 
 **Spells Known** (CL 7th)
 
-3rd (5_dir/day)—_ [lightning bolt](../spells_dir/lightningBolt#_lightning-bolt)_ (DC 16), _ [suggestion](../spells_dir/suggestion#_suggestion)_ (DC 16)
+3rd (5_dir/day)—_ [lightning bolt](../../spells_dir/lightningBolt#_lightning-bolt)_ (DC 16), _ [suggestion](../../spells_dir/suggestion#_suggestion)_ (DC 16)
 
-2nd (7_dir/day)—_ [acid arrow](../spells_dir/acidArrow#_acid-arrow), [invisibility](../spells_dir/invisibility#_invisibility), [minor image](../spells_dir/minorImage#_minor-image)_
+2nd (7_dir/day)—_ [acid arrow](../../spells_dir/acidArrow#_acid-arrow), [invisibility](../../spells_dir/invisibility#_invisibility), [minor image](../../spells_dir/minorImage#_minor-image)_
 
-1st (7_dir/day)—_ [charm person](../spells_dir/charmPerson#_charm-person)_ (DC 14), _ [mage armor](../spells_dir/mageArmor#_mage-armor), [magic missile](../spells_dir/magicMissile#_magic-missile), [shield](../spells_dir/shield#_shield), [silent image](../spells_dir/silentImage#_silent-image)_
+1st (7_dir/day)—_ [charm person](../../spells_dir/charmPerson#_charm-person)_ (DC 14), _ [mage armor](../../spells_dir/mageArmor#_mage-armor), [magic missile](../../spells_dir/magicMissile#_magic-missile), [shield](../../spells_dir/shield#_shield), [silent image](../../spells_dir/silentImage#_silent-image)_
 
-0—_ [dancing lights](../spells_dir/dancingLights#_dancing-lights), [detect magic](../spells_dir/detectMagic#_detect-magic), [ghost sound](../spells_dir/ghostSound#_ghost-sound)_ (DC 13), _ [mage hand](../spells_dir/mageHand#_mage-hand), [mending](../spells_dir/mending#_mending), [message](../spells_dir/message#_message), [prestidigitation](../spells_dir/prestidigitation#_prestidigitation)_
+0—_ [dancing lights](../../spells_dir/dancingLights#_dancing-lights), [detect magic](../../spells_dir/detectMagic#_detect-magic), [ghost sound](../../spells_dir/ghostSound#_ghost-sound)_ (DC 13), _ [mage hand](../../spells_dir/mageHand#_mage-hand), [mending](../../spells_dir/mending#_mending), [message](../../spells_dir/message#_message), [prestidigitation](../../spells_dir/prestidigitation#_prestidigitation)_
 
 **Statistics**
 
@@ -48,13 +48,13 @@ LE Medium [outsider](creatureTypes#_outsider) ( [native](universalMonsterRules#_
 
 **Base Atk** +10; **CMB** +13; **CMD** 29
 
-**Feats** [Combat Expertise](../feats#_combat-expertise), [Dodge](../feats#_dodge), [Improved Critical](../feats#_improved-critical) (kukri), [Improved Initiative](../feats#_improved-initiative), [Weapon Finesse](../feats#_weapon-finesse)
+**Feats** [Combat Expertise](../../feats#_combat-expertise), [Dodge](../../feats#_dodge), [Improved Critical](../../feats#_improved-critical) (kukri), [Improved Initiative](../../feats#_improved-initiative), [Weapon Finesse](../../feats#_weapon-finesse)
 
-**Skills** [Bluff](../skills_dir/bluff#_bluff) +20, [Diplomacy](../skills_dir/diplomacy#_diplomacy) +16, [Disguise](../skills_dir/disguise#_disguise) +24, [Perception](../skills_dir/perception#_perception) +14, [Perform](../skills_dir/perform#_perform) +16, [Sense Motive](../skills_dir/senseMotive#_sense-motive) +14, [Stealth](../skills_dir/stealth#_stealth) +18; **Racial Modifiers** +4 [Bluff](../skills_dir/bluff#_bluff), +8 [Disguise](../skills_dir/disguise#_disguise)
+**Skills** [Bluff](../../skills_dir/bluff#_bluff) +20, [Diplomacy](../../skills_dir/diplomacy#_diplomacy) +16, [Disguise](../../skills_dir/disguise#_disguise) +24, [Perception](../../skills_dir/perception#_perception) +14, [Perform](../../skills_dir/perform#_perform) +16, [Sense Motive](../../skills_dir/senseMotive#_sense-motive) +14, [Stealth](../../skills_dir/stealth#_stealth) +18; **Racial Modifiers** +4 [Bluff](../../skills_dir/bluff#_bluff), +8 [Disguise](../../skills_dir/disguise#_disguise)
 
 **Languages** Common, Infernal, Undercommon
 
-**SQ** [change shape](universalMonsterRules#_change-shape) (any humanoid, _ [alter self](../spells_dir/alterSelf#_alter-self)_)
+**SQ** [change shape](../universalMonsterRules#_change-shape) (any humanoid, _ [alter self](../../spells_dir/alterSelf#_alter-self)_)
 
 **Ecology**
 

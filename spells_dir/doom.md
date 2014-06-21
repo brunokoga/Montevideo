@@ -16,7 +16,7 @@ title: spells_dir/doom
 
 **Duration** 1 min._dir/level
 
-**Saving Throw** [Will](../combat#_will) negates; **[Spell Resistance](../glossary#_spell-resistance)** yes
+**Saving Throw** [Will](../../combat#_will) negates; **[Spell Resistance](../../glossary#_spell-resistance)** yes
 
-This spell fills a single subject with a feeling of horrible dread that causes it to become [shaken](../glossary#_shaken).
+This spell fills a single subject with a feeling of horrible dread that causes it to become [shaken](../../glossary#_shaken).
 

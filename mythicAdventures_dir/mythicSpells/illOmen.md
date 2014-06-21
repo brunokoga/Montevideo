@@ -4,7 +4,7 @@ title: mythicAdventures_dir/mythicSpells_dir/illOmen
 ---
 Ill Omen
 
-**Source** [_ill omen_](advanced_dir/spells_dir/illOmen#_ill-omen)
+**Source** [_ill omen_](../advanced_dir/spells_dir/illOmen#_ill-omen)
 
 For the target's unlucky d20 rolls, it must roll three times and take the lowest result. Spending a move action to utter a prayer or good luck charm allows the target to roll twice instead of three times.
 

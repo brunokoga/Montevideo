@@ -16,7 +16,7 @@ title: spells_dir/jump
 
 **Duration** 1 min._dir/level (D)
 
-**Saving Throw** [Will](../combat#_will) negates (harmless); **[Spell Resistance](../glossary#_spell-resistance)** yes
+**Saving Throw** [Will](../../combat#_will) negates (harmless); **[Spell Resistance](../../glossary#_spell-resistance)** yes
 
 The subject gets a +10 enhancement bonus on Acrobatics checks made to attempt high jumps or long jumps. The enhancement bonus increases to +20 at caster level 5th, and to +30 (the maximum) at caster level 9th.
 

@@ -10,9 +10,9 @@ Frost WormCR 12
 
 **XP 19,200**
 
-N Huge [magical beast](monsters_dir/creatureTypes#_magical-beast) ( [cold](monsters_dir/creatureTypes#_cold-subtype))
+N Huge [magical beast](../monsters_dir/creatureTypes#_magical-beast) ( [cold](../monsters_dir/creatureTypes#_cold-subtype))
 
-**Init** +7; **Senses** darkvision 60 ft., low-light vision; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +17
+**Init** +7; **Senses** darkvision 60 ft., low-light vision; [Perception](../additionalMonsters_dir/../skills_dir/perception#_perception) +17
 
 Defense
 
@@ -22,19 +22,19 @@ Defense
 
 **Fort** +15, **Ref** +13, **Will** +10
 
-**Immune** [cold](monsters_dir/creatureTypes#_cold-subtype)
+**Immune** [cold](../monsters_dir/creatureTypes#_cold-subtype)
 
-**Weaknesses** vulnerable to [fire](monsters_dir/creatureTypes#_fire-subtype)
+**Weaknesses** vulnerable to [fire](../monsters_dir/creatureTypes#_fire-subtype)
 
 Offense
 
 **Speed** 30 ft., burrow 10 ft.
 
-**Melee** bite +25 (4d10+15 plus 4d6 [cold](monsters_dir/creatureTypes#_cold-subtype))
+**Melee** bite +25 (4d10+15 plus 4d6 [cold](../monsters_dir/creatureTypes#_cold-subtype))
 
 **Space** 15 ft.; **Reach** 10 ft.
 
-**Special Attacks** [breath weapon](monsters_dir/universalMonsterRules#_breath-weapon) (60-ft. cone, 15d6 [cold](monsters_dir/creatureTypes#_cold-subtype) damage, Reflex DC 23 half, usable once per hour), death throes, trill
+**Special Attacks** [breath weapon](../monsters_dir/universalMonsterRules#_breath-weapon) (60-ft. cone, 15d6 [cold](../monsters_dir/creatureTypes#_cold-subtype) damage, Reflex DC 23 half, usable once per hour), death throes, trill
 
 Statistics
 
@@ -42,15 +42,15 @@ Statistics
 
 **Base Atk** +16; **CMB** +28; **CMD** 41 (can't be tripped)
 
-**Feats** [Cleave](additionalMonsters_dir/../feats#_cleave), [Combat Reflexes](additionalMonsters_dir/../feats#_combat-reflexes), [Improved Initiative](additionalMonsters_dir/../feats#_improved-initiative), [Iron Will](additionalMonsters_dir/../feats#_iron-will), [Power Attack](additionalMonsters_dir/../feats#_power-attack), [Skill Focus](additionalMonsters_dir/../feats#_skill-focus) ( [Perception](additionalMonsters_dir/../skills_dir/perception#_perception)), [Stand Still](additionalMonsters_dir/../feats#_stand-still), [Weapon Focus](additionalMonsters_dir/../feats#_weapon-focus) (bite)
+**Feats** [Cleave](../additionalMonsters_dir/../feats#_cleave), [Combat Reflexes](../additionalMonsters_dir/../feats#_combat-reflexes), [Improved Initiative](../additionalMonsters_dir/../feats#_improved-initiative), [Iron Will](../additionalMonsters_dir/../feats#_iron-will), [Power Attack](../additionalMonsters_dir/../feats#_power-attack), [Skill Focus](../additionalMonsters_dir/../feats#_skill-focus) ( [Perception](../additionalMonsters_dir/../skills_dir/perception#_perception)), [Stand Still](../additionalMonsters_dir/../feats#_stand-still), [Weapon Focus](../additionalMonsters_dir/../feats#_weapon-focus) (bite)
 
-**Skills** [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +17, [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) +6 (+14 in ice and snow); **Racial Modifiers** +8 [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) in ice and snow
+**Skills** [Perception](../additionalMonsters_dir/../skills_dir/perception#_perception) +17, [Stealth](../additionalMonsters_dir/../skills_dir/stealth#_stealth) +6 (+14 in ice and snow); **Racial Modifiers** +8 [Stealth](../additionalMonsters_dir/../skills_dir/stealth#_stealth) in ice and snow
 
-**SQ** [cold](monsters_dir/creatureTypes#_cold-subtype)
+**SQ** [cold](../monsters_dir/creatureTypes#_cold-subtype)
 
 Ecology
 
-**Environment** [cold](monsters_dir/creatureTypes#_cold-subtype) plains or mountains
+**Environment** [cold](../monsters_dir/creatureTypes#_cold-subtype) plains or mountains
 
 **Organization** solitary
 
@@ -58,9 +58,9 @@ Ecology
 
 Special Abilities
 
-**[Cold](monsters_dir/creatureTypes#_cold-subtype) (Su)** A frost worm's body generates intense [cold](monsters_dir/creatureTypes#_cold-subtype), allowing it to deal an additional 4d6 [cold](monsters_dir/creatureTypes#_cold-subtype) damage with its bite attack. Any creature that attacks a frost worm with an unarmed strike or a natural weapon takes 1d6 points of [cold](monsters_dir/creatureTypes#_cold-subtype) damage per successful hit. A creature that grapples or is grappled by a frost worm takes 4d6 points of [cold](monsters_dir/creatureTypes#_cold-subtype) damage per round the grapple is maintained.
+**[Cold](../monsters_dir/creatureTypes#_cold-subtype) (Su)** A frost worm's body generates intense [cold](../monsters_dir/creatureTypes#_cold-subtype), allowing it to deal an additional 4d6 [cold](../monsters_dir/creatureTypes#_cold-subtype) damage with its bite attack. Any creature that attacks a frost worm with an unarmed strike or a natural weapon takes 1d6 points of [cold](../monsters_dir/creatureTypes#_cold-subtype) damage per successful hit. A creature that grapples or is grappled by a frost worm takes 4d6 points of [cold](../monsters_dir/creatureTypes#_cold-subtype) damage per round the grapple is maintained.
 
-**Death Throes (Su)** When killed, a frost worm explodes in a 100-foot-radius burst that deals 12d6 [cold](monsters_dir/creatureTypes#_cold-subtype) damage and 8d6 piercing damage (DC 23 Reflex half). The save DC is Constitution-based.
+**Death Throes (Su)** When killed, a frost worm explodes in a 100-foot-radius burst that deals 12d6 [cold](../monsters_dir/creatureTypes#_cold-subtype) damage and 8d6 piercing damage (DC 23 Reflex half). The save DC is Constitution-based.
 
 **Trill (Su)** As a full-round action, a frost worm can emit a strange trilling sound that affects all creatures within a 100-foot radius. Creatures must succeed on a DC 18 Will save or be fascinated for as long as the worm continues to trill (the frost worm can maintain this trill by concentrating). Once a creature has resisted or broken the effect, it cannot be affected again by that same frost worm's trill for 24 hours. This is a sonic mind-affecting effect. The save DC is Charisma-based.
 

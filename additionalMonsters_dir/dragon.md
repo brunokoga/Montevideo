@@ -8,7 +8,7 @@ Though chromatic and metallic dragons are the most widely known, other categorie
 
 ## Primal Dragon Types
 
-[Brine](additionalMonsters_dir/#primal-dragon,-brine), [Cloud](additionalMonsters_dir/#primal-dragon,-cloud), [Crystal](additionalMonsters_dir/#primal-dragon,-crystal), [Magma](additionalMonsters_dir/#primal-dragon,-magma), [Umbral](additionalMonsters_dir/#primal-dragon,-umbral)
+[Brine](../additionalMonsters_dir/#primal-dragon,-brine), [Cloud](../additionalMonsters_dir/#primal-dragon,-cloud), [Crystal](../additionalMonsters_dir/#primal-dragon,-crystal), [Magma](../additionalMonsters_dir/#primal-dragon,-magma), [Umbral](../additionalMonsters_dir/#primal-dragon,-umbral)
 
 ## Age Categories
 
@@ -122,7 +122,7 @@ A blue-green neck frill sweeps back from the head of this dragon, leading to a b
 
 Brine Dragon
 
-LN [dragon](monsters_dir/creatureTypes#_dragon) ( [extraplanar](monsters_dir/creatureTypes#_extraplanar-subtype), [water](monsters_dir/creatureTypes#_water-subtype))
+LN [dragon](../monsters_dir/creatureTypes#_dragon) ( [extraplanar](../monsters_dir/creatureTypes#_extraplanar-subtype), [water](../monsters_dir/creatureTypes#_water-subtype))
 
 Base Statistics
 
@@ -130,13 +130,13 @@ Base Statistics
 
 **Speed** 60 ft., swim 60 ft.
 
-**Natural Armor** +3; **[Breath Weapon](monsters_dir/universalMonsterRules#_breath-weapon)** line, 2d6 acid
+**Natural Armor** +3; **[Breath Weapon](../monsters_dir/universalMonsterRules#_breath-weapon)** line, 2d6 acid
 
 **Str** 16, **Dex** 15, **Con** 11, **Int** 13, **Wis** 10, **Cha** 11
 
 Ecology
 
-**Environment** any [aquatic](monsters_dir/creatureTypes#_aquatic-subtype) (Plane of Water)
+**Environment** any [aquatic](../monsters_dir/creatureTypes#_aquatic-subtype) (Plane of Water)
 
 **Organization** solitary
 
@@ -144,29 +144,29 @@ Ecology
 
 Special Abilities
 
-**Capsize (Ex)** An old or older brine [dragon](monsters_dir/creatureTypes#_dragon) can attempt to capsize a boat or ship by ramming it as a charge attack and making a CMB check. The DC of this check is 25 or the result of the boat captain's [Profession](additionalMonsters_dir/../skills_dir/profession#_profession) (sailor) check, whichever is higher. For each size category larger the ship is than the brine [dragon](monsters_dir/creatureTypes#_dragon)'s size, the [dragon](monsters_dir/creatureTypes#_dragon) takes a cumulative –10 penalty on the check.
+**Capsize (Ex)** An old or older brine [dragon](../monsters_dir/creatureTypes#_dragon) can attempt to capsize a boat or ship by ramming it as a charge attack and making a CMB check. The DC of this check is 25 or the result of the boat captain's [Profession](../additionalMonsters_dir/../skills_dir/profession#_profession) (sailor) check, whichever is higher. For each size category larger the ship is than the brine [dragon](../monsters_dir/creatureTypes#_dragon)'s size, the [dragon](../monsters_dir/creatureTypes#_dragon) takes a cumulative –10 penalty on the check.
 
-**Desiccating Bite (Su)** An ancient brine [dragon](monsters_dir/creatureTypes#_dragon)'s bite causes weakness, dealing 1d2 points of Strength drain in addition to its normal damage. A great wyrm's bite deals 1d4 points of Strength drain. A Fortitude save (DC equals the [dragon](monsters_dir/creatureTypes#_dragon)'s [breath weapon](monsters_dir/universalMonsterRules#_breath-weapon) save DC) negates the Strength drain.
+**Desiccating Bite (Su)** An ancient brine [dragon](../monsters_dir/creatureTypes#_dragon)'s bite causes weakness, dealing 1d2 points of Strength drain in addition to its normal damage. A great wyrm's bite deals 1d4 points of Strength drain. A Fortitude save (DC equals the [dragon](../monsters_dir/creatureTypes#_dragon)'s [breath weapon](../monsters_dir/universalMonsterRules#_breath-weapon) save DC) negates the Strength drain.
 
-**Painful Strikes (Su)** A great wyrm brine [dragon](monsters_dir/creatureTypes#_dragon)'s natural attacks are so laden with salt and acidic crystals that every time it strikes a creature with one of these attacks, the target must make a Fortitude save (DC equals the [dragon](monsters_dir/creatureTypes#_dragon)'s [breath weapon](monsters_dir/universalMonsterRules#_breath-weapon) save DC) or be stunned for a round from the pain.
+**Painful Strikes (Su)** A great wyrm brine [dragon](../monsters_dir/creatureTypes#_dragon)'s natural attacks are so laden with salt and acidic crystals that every time it strikes a creature with one of these attacks, the target must make a Fortitude save (DC equals the [dragon](../monsters_dir/creatureTypes#_dragon)'s [breath weapon](../monsters_dir/universalMonsterRules#_breath-weapon) save DC) or be stunned for a round from the pain.
 
-**Spell-like Abilities (Sp)** A brine [dragon](monsters_dir/creatureTypes#_dragon) gains the following spell-like abilities, usable at will (unless indicated otherwise) at the listed age. Very young—_ [speak with animals](additionalMonsters_dir/../spells_dir/speakWithAnimals#_speak-with-animals)_ (fish only); Young—_ [obscuring mist](additionalMonsters_dir/../spells_dir/obscuringMist#_obscuring-mist)_; Juvenile—_ [water breathing](additionalMonsters_dir/../spells_dir/waterBreathing#_water-breathing)_; Adult—_ [control water](additionalMonsters_dir/../spells_dir/controlWater#_control-water)_; Ancient—_ [horrid wilting](additionalMonsters_dir/../spells_dir/horridWilting#_horrid-wilting)_ (3_dir/day); Great wyrm—_ [tsunami](additionalMonsters_dir/../advanced_dir/spells_dir/tsunami#_tsunami)_ (3_dir/day).
+**Spell-like Abilities (Sp)** A brine [dragon](../monsters_dir/creatureTypes#_dragon) gains the following spell-like abilities, usable at will (unless indicated otherwise) at the listed age. Very young—_ [speak with animals](../additionalMonsters_dir/../spells_dir/speakWithAnimals#_speak-with-animals)_ (fish only); Young—_ [obscuring mist](../additionalMonsters_dir/../spells_dir/obscuringMist#_obscuring-mist)_; Juvenile—_ [water breathing](../additionalMonsters_dir/../spells_dir/waterBreathing#_water-breathing)_; Adult—_ [control water](../additionalMonsters_dir/../spells_dir/controlWater#_control-water)_; Ancient—_ [horrid wilting](../additionalMonsters_dir/../spells_dir/horridWilting#_horrid-wilting)_ (3_dir/day); Great wyrm—_ [tsunami](../additionalMonsters_dir/../advanced_dir/spells_dir/tsunami#_tsunami)_ (3_dir/day).
 
 [Table: Brine Special Abilities]
 | Age Category | Special Abilities | Caster Level |
 | --- | --- | --- |
 | Wyrmling | Immunity to acid, water breathing | — |
-| Very young | _ [Speak with animals](additionalMonsters_dir/../spells_dir/speakWithAnimals#_speak-with-animals)_ (fish only) | — |
-| Young | _ [Obscuring mist](additionalMonsters_dir/../spells_dir/obscuringMist#_obscuring-mist)_ | 1st |
-| Juvenile | _ [Water breathing](additionalMonsters_dir/../spells_dir/waterBreathing#_water-breathing)_ | 3rd |
+| Very young | _ [Speak with animals](../additionalMonsters_dir/../spells_dir/speakWithAnimals#_speak-with-animals)_ (fish only) | — |
+| Young | _ [Obscuring mist](../additionalMonsters_dir/../spells_dir/obscuringMist#_obscuring-mist)_ | 1st |
+| Juvenile | _ [Water breathing](../additionalMonsters_dir/../spells_dir/waterBreathing#_water-breathing)_ | 3rd |
 | Young adult | DR 5_dir/magic, spell resistance | 5th |
-| Adult | Frightful presence, _ [control water](additionalMonsters_dir/../spells_dir/controlWater#_control-water)_ | 7th |
+| Adult | Frightful presence, _ [control water](../additionalMonsters_dir/../spells_dir/controlWater#_control-water)_ | 7th |
 | Mature adult | DR 10_dir/magic | 9th |
 | Old | Capsize | 11th |
 | Very old | DR 15_dir/magic | 13th |
-| Ancient | Desiccating bite, _ [horrid wilting](additionalMonsters_dir/../spells_dir/horridWilting#_horrid-wilting)_ | 15th |
+| Ancient | Desiccating bite, _ [horrid wilting](../additionalMonsters_dir/../spells_dir/horridWilting#_horrid-wilting)_ | 15th |
 | Wyrm | DR 20_dir/magic | 17th |
-| Great wyrm | Painful strikes, _ [tsunami](additionalMonsters_dir/../advanced_dir/spells_dir/tsunami#_tsunami)_ | 19th |
+| Great wyrm | Painful strikes, _ [tsunami](../additionalMonsters_dir/../advanced_dir/spells_dir/tsunami#_tsunami)_ | 19th |
 
   
   
@@ -175,9 +175,9 @@ Young Brine DragonCR 7
 
 **XP 3,200**
 
-LN Medium [dragon](monsters_dir/creatureTypes#_dragon) (extraplanar, water)
+LN Medium [dragon](../monsters_dir/creatureTypes#_dragon) (extraplanar, water)
 
-**Init** +5; **Senses** [dragon](monsters_dir/creatureTypes#_dragon) senses; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +12
+**Init** +5; **Senses** [dragon](../monsters_dir/creatureTypes#_dragon) senses; [Perception](../additionalMonsters_dir/../skills_dir/perception#_perception) +12
 
 Defense
 
@@ -195,17 +195,17 @@ Offense
 
 **Melee** bite +15 (1d8+10), 2 claws +15 (1d6+7), 2 wings +10 (1d4+3)
 
-**Special Attacks** [breath weapon](monsters_dir/universalMonsterRules#_breath-weapon) (60-ft. line, 6d6 acid, DC 16)
+**Special Attacks** [breath weapon](../monsters_dir/universalMonsterRules#_breath-weapon) (60-ft. line, 6d6 acid, DC 16)
 
 **Spell-Like Abilities** (CL 8th; concentration +9)
 
-At will—_ [obscuring mist](additionalMonsters_dir/../spells_dir/obscuringMist#_obscuring-mist), [speak with animals](additionalMonsters_dir/../spells_dir/speakWithAnimals#_speak-with-animals) _(fish only)
+At will—_ [obscuring mist](../additionalMonsters_dir/../spells_dir/obscuringMist#_obscuring-mist), [speak with animals](../additionalMonsters_dir/../spells_dir/speakWithAnimals#_speak-with-animals) _(fish only)
 
 **Spells Known** (CL 1st; concentration +2)
 
-1st (4_dir/day)—_ [color spray](additionalMonsters_dir/../spells_dir/colorSpray#_color-spray)_ (DC 12), _ [touch of the sea](additionalMonsters_dir/../advanced_dir/spells_dir/touchOfTheSea#_touch-of-the-sea)_
+1st (4_dir/day)—_ [color spray](../additionalMonsters_dir/../spells_dir/colorSpray#_color-spray)_ (DC 12), _ [touch of the sea](../additionalMonsters_dir/../advanced_dir/spells_dir/touchOfTheSea#_touch-of-the-sea)_
 
-0 (at will)—_ [detect magic](additionalMonsters_dir/../spells_dir/detectMagic#_detect-magic)_, _ [mage hand](additionalMonsters_dir/../spells_dir/mageHand#_mage-hand)_, _ [open_dir/close](additionalMonsters_dir/../spells_dir/openClose#_open-close)_, _ [prestidigitation](additionalMonsters_dir/../spells_dir/prestidigitation#_prestidigitation)_
+0 (at will)—_ [detect magic](../additionalMonsters_dir/../spells_dir/detectMagic#_detect-magic)_, _ [mage hand](../additionalMonsters_dir/../spells_dir/mageHand#_mage-hand)_, _ [open_dir/close](../additionalMonsters_dir/../spells_dir/openClose#_open-close)_, _ [prestidigitation](../additionalMonsters_dir/../spells_dir/prestidigitation#_prestidigitation)_
 
 Statistics
 
@@ -213,9 +213,9 @@ Statistics
 
 **Base Atk** +8; **CMB** +15; **CMD** 26 (30 vs. trip)
 
-**Feats** [Hover](additionalMonsters_dir/../monsters_dir/monsterFeats#_hover), [Improved Initiative](additionalMonsters_dir/../feats#_improved-initiative), [Power Attack](additionalMonsters_dir/../feats#_power-attack), [Skill Focus](additionalMonsters_dir/../feats#_skill-focus) (swim)
+**Feats** [Hover](../additionalMonsters_dir/../monsters_dir/monsterFeats#_hover), [Improved Initiative](../additionalMonsters_dir/../feats#_improved-initiative), [Power Attack](../additionalMonsters_dir/../feats#_power-attack), [Skill Focus](../additionalMonsters_dir/../feats#_skill-focus) (swim)
 
-**Skills** [Diplomacy](additionalMonsters_dir/../skills_dir/diplomacy#_diplomacy) +12, [Fly](additionalMonsters_dir/../skills_dir/fly#_fly) +12, [Heal](additionalMonsters_dir/../skills_dir/heal#_heal) +12, [Knowledge](additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (nature) +13, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +12, [Sense Motive](additionalMonsters_dir/../skills_dir/senseMotive#_sense-motive) +12, [Survival](additionalMonsters_dir/../skills_dir/survival#_survival) +12, [Swim](additionalMonsters_dir/../skills_dir/swim#_swim) +29
+**Skills** [Diplomacy](../additionalMonsters_dir/../skills_dir/diplomacy#_diplomacy) +12, [Fly](../additionalMonsters_dir/../skills_dir/fly#_fly) +12, [Heal](../additionalMonsters_dir/../skills_dir/heal#_heal) +12, [Knowledge](../additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (nature) +13, [Perception](../additionalMonsters_dir/../skills_dir/perception#_perception) +12, [Sense Motive](../additionalMonsters_dir/../skills_dir/senseMotive#_sense-motive) +12, [Survival](../additionalMonsters_dir/../skills_dir/survival#_survival) +12, [Swim](../additionalMonsters_dir/../skills_dir/swim#_swim) +29
 
 **Languages** Aquan, Common, Draconic
 
@@ -225,9 +225,9 @@ Adult Brine DragonCR 11
 
 **XP 12,800**
 
-LN Large [dragon](monsters_dir/creatureTypes#_dragon) (extraplanar, water)
+LN Large [dragon](../monsters_dir/creatureTypes#_dragon) (extraplanar, water)
 
-**Init** +4; **Senses** [dragon](monsters_dir/creatureTypes#_dragon) senses; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +20
+**Init** +4; **Senses** [dragon](../monsters_dir/creatureTypes#_dragon) senses; [Perception](../additionalMonsters_dir/../skills_dir/perception#_perception) +20
 
 **Aura** frightful presence (180 ft., DC 20)
 
@@ -249,21 +249,21 @@ Offense
 
 **Space** 10 ft.; **Reach** 5 ft. (10 ft. with bite)
 
-**Special Attacks** [breath weapon](monsters_dir/universalMonsterRules#_breath-weapon) (80-ft. line, 12d6 acid, DC 21)
+**Special Attacks** [breath weapon](../monsters_dir/universalMonsterRules#_breath-weapon) (80-ft. line, 12d6 acid, DC 21)
 
 **Spell-Like Abilities** (CL 14th; concentration +17)
 
-At will—_ [control water](additionalMonsters_dir/../spells_dir/controlWater#_control-water)_, _ [obscuring mist](additionalMonsters_dir/../spells_dir/obscuringMist#_obscuring-mist), [speak with animals](additionalMonsters_dir/../spells_dir/speakWithAnimals#_speak-with-animals)_ (fish only)_, [water breathing](additionalMonsters_dir/../spells_dir/waterBreathing#_water-breathing)_
+At will—_ [control water](../additionalMonsters_dir/../spells_dir/controlWater#_control-water)_, _ [obscuring mist](../additionalMonsters_dir/../spells_dir/obscuringMist#_obscuring-mist), [speak with animals](../additionalMonsters_dir/../spells_dir/speakWithAnimals#_speak-with-animals)_ (fish only)_, [water breathing](../additionalMonsters_dir/../spells_dir/waterBreathing#_water-breathing)_
 
 **Spells Known** (CL 7th; concentration +10)
 
-3rd (5_dir/day)—_ [aqueous orb](additionalMonsters_dir/../advanced_dir/spells_dir/aqueousOrb#_aqueous-orb)_ (DC 16), _ [sleet storm](additionalMonsters_dir/../spells_dir/sleetStorm#_sleet-storm)_ (DC 16)
+3rd (5_dir/day)—_ [aqueous orb](../additionalMonsters_dir/../advanced_dir/spells_dir/aqueousOrb#_aqueous-orb)_ (DC 16), _ [sleet storm](../additionalMonsters_dir/../spells_dir/sleetStorm#_sleet-storm)_ (DC 16)
 
-2nd (7_dir/day)—_ [alter self](additionalMonsters_dir/../spells_dir/alterSelf#_alter-self)_, _ [invisibility](additionalMonsters_dir/../spells_dir/invisibility#_invisibility)_, _ [slipstream](additionalMonsters_dir/../advanced_dir/spells_dir/slipstream#_slipstream)_
+2nd (7_dir/day)—_ [alter self](../additionalMonsters_dir/../spells_dir/alterSelf#_alter-self)_, _ [invisibility](../additionalMonsters_dir/../spells_dir/invisibility#_invisibility)_, _ [slipstream](../additionalMonsters_dir/../advanced_dir/spells_dir/slipstream#_slipstream)_
 
-1st (7_dir/day)—_ [color spray](additionalMonsters_dir/../spells_dir/colorSpray#_color-spray)_ (DC 14), _ [feather fall](additionalMonsters_dir/../spells_dir/featherFall#_feather-fall)_, _ [flare burst](additionalMonsters_dir/../advanced_dir/spells_dir/flareBurst#_flare-burst)_ (DC 14), _ [ray of enfeeblement](additionalMonsters_dir/../spells_dir/rayOfEnfeeblement#_ray-of-enfeeblement)_ (DC 14), _ [touch of the sea](additionalMonsters_dir/../advanced_dir/spells_dir/touchOfTheSea#_touch-of-the-sea)_
+1st (7_dir/day)—_ [color spray](../additionalMonsters_dir/../spells_dir/colorSpray#_color-spray)_ (DC 14), _ [feather fall](../additionalMonsters_dir/../spells_dir/featherFall#_feather-fall)_, _ [flare burst](../additionalMonsters_dir/../advanced_dir/spells_dir/flareBurst#_flare-burst)_ (DC 14), _ [ray of enfeeblement](../additionalMonsters_dir/../spells_dir/rayOfEnfeeblement#_ray-of-enfeeblement)_ (DC 14), _ [touch of the sea](../additionalMonsters_dir/../advanced_dir/spells_dir/touchOfTheSea#_touch-of-the-sea)_
 
-0 (at will)—_ [detect magic](additionalMonsters_dir/../spells_dir/detectMagic#_detect-magic)_, _ [detect poison](additionalMonsters_dir/../spells_dir/detectPoison#_detect-poison)_, _ [mage hand](additionalMonsters_dir/../spells_dir/mageHand#_mage-hand)_, _ [open_dir/close](additionalMonsters_dir/../spells_dir/openClose#_open-close)_, _ [prestidigitation](additionalMonsters_dir/../spells_dir/prestidigitation#_prestidigitation)_, _ [read magic](additionalMonsters_dir/../spells_dir/readMagic#_read-magic)_, _ [resistance](additionalMonsters_dir/../spells_dir/resistance#_resistance)_
+0 (at will)—_ [detect magic](../additionalMonsters_dir/../spells_dir/detectMagic#_detect-magic)_, _ [detect poison](../additionalMonsters_dir/../spells_dir/detectPoison#_detect-poison)_, _ [mage hand](../additionalMonsters_dir/../spells_dir/mageHand#_mage-hand)_, _ [open_dir/close](../additionalMonsters_dir/../spells_dir/openClose#_open-close)_, _ [prestidigitation](../additionalMonsters_dir/../spells_dir/prestidigitation#_prestidigitation)_, _ [read magic](../additionalMonsters_dir/../spells_dir/readMagic#_read-magic)_, _ [resistance](../additionalMonsters_dir/../spells_dir/resistance#_resistance)_
 
 Statistics
 
@@ -271,9 +271,9 @@ Statistics
 
 **Base Atk** +14; **CMB** +25; **CMD** 35 (39 vs. trip)
 
-**Feats** [Hover](additionalMonsters_dir/../monsters_dir/monsterFeats#_hover), [Improved Initiative](additionalMonsters_dir/../feats#_improved-initiative), [Improved Vital Strike](additionalMonsters_dir/../feats#_improved-vital-strike), [Lightning Reflexes](additionalMonsters_dir/../feats#_lightning-reflexes), [Power Attack](additionalMonsters_dir/../feats#_power-attack), [Skill Focus](additionalMonsters_dir/../feats#_skill-focus) (swim), [Vital Strike](additionalMonsters_dir/../feats#_vital-strike)
+**Feats** [Hover](../additionalMonsters_dir/../monsters_dir/monsterFeats#_hover), [Improved Initiative](../additionalMonsters_dir/../feats#_improved-initiative), [Improved Vital Strike](../additionalMonsters_dir/../feats#_improved-vital-strike), [Lightning Reflexes](../additionalMonsters_dir/../feats#_lightning-reflexes), [Power Attack](../additionalMonsters_dir/../feats#_power-attack), [Skill Focus](../additionalMonsters_dir/../feats#_skill-focus) (swim), [Vital Strike](../additionalMonsters_dir/../feats#_vital-strike)
 
-**Skills** [Bluff](additionalMonsters_dir/../skills_dir/bluff#_bluff) +20, [Diplomacy](additionalMonsters_dir/../skills_dir/diplomacy#_diplomacy) +20, [Fly](additionalMonsters_dir/../skills_dir/fly#_fly) +11, [Heal](additionalMonsters_dir/../skills_dir/heal#_heal) +20, [Knowledge](additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (arcana and nature) +21, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +20, [Sense Motive](additionalMonsters_dir/../skills_dir/senseMotive#_sense-motive) +20, [Survival](additionalMonsters_dir/../skills_dir/survival#_survival) +20, [Swim](additionalMonsters_dir/../skills_dir/swim#_swim) +41
+**Skills** [Bluff](../additionalMonsters_dir/../skills_dir/bluff#_bluff) +20, [Diplomacy](../additionalMonsters_dir/../skills_dir/diplomacy#_diplomacy) +20, [Fly](../additionalMonsters_dir/../skills_dir/fly#_fly) +11, [Heal](../additionalMonsters_dir/../skills_dir/heal#_heal) +20, [Knowledge](../additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (arcana and nature) +21, [Perception](../additionalMonsters_dir/../skills_dir/perception#_perception) +20, [Sense Motive](../additionalMonsters_dir/../skills_dir/senseMotive#_sense-motive) +20, [Survival](../additionalMonsters_dir/../skills_dir/survival#_survival) +20, [Swim](../additionalMonsters_dir/../skills_dir/swim#_swim) +41
 
 **Languages** Aquan, Common, Draconic, Elven, Halfling
 
@@ -283,9 +283,9 @@ Ancient Brine DragonCR 16
 
 **XP 76,800**
 
-LN Huge [dragon](monsters_dir/creatureTypes#_dragon) (extraplanar, water)
+LN Huge [dragon](../monsters_dir/creatureTypes#_dragon) (extraplanar, water)
 
-**Init** +3; **Senses** [dragon](monsters_dir/creatureTypes#_dragon) senses; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +30
+**Init** +3; **Senses** [dragon](../monsters_dir/creatureTypes#_dragon) senses; [Perception](../additionalMonsters_dir/../skills_dir/perception#_perception) +30
 
 **Aura** frightful presence (300 ft., DC 26)
 
@@ -307,31 +307,31 @@ Offense
 
 **Space** 15 ft.; **Reach** 10 ft. (15 ft. with bite)
 
-**Special Attacks** [breath weapon](monsters_dir/universalMonsterRules#_breath-weapon) (100-ft. line, 20d6 acid, DC 27), capsize, crush, desiccating bite
+**Special Attacks** [breath weapon](../monsters_dir/universalMonsterRules#_breath-weapon) (100-ft. line, 20d6 acid, DC 27), capsize, crush, desiccating bite
 
 **Spell-Like Abilities** (CL 22nd; concentration +27)
 
-At will—_ [control water](additionalMonsters_dir/../spells_dir/controlWater#_control-water)_, _ [obscuring mist](additionalMonsters_dir/../spells_dir/obscuringMist#_obscuring-mist)_, _ [speak with animals](additionalMonsters_dir/../spells_dir/speakWithAnimals#_speak-with-animals)_ (fish only)_, [water breathing](additionalMonsters_dir/../spells_dir/waterBreathing#_water-breathing)_
+At will—_ [control water](../additionalMonsters_dir/../spells_dir/controlWater#_control-water)_, _ [obscuring mist](../additionalMonsters_dir/../spells_dir/obscuringMist#_obscuring-mist)_, _ [speak with animals](../additionalMonsters_dir/../spells_dir/speakWithAnimals#_speak-with-animals)_ (fish only)_, [water breathing](../additionalMonsters_dir/../spells_dir/waterBreathing#_water-breathing)_
 
-3_dir/day—_ [horrid wilting](additionalMonsters_dir/../spells_dir/horridWilting#_horrid-wilting)_ (DC 23)
+3_dir/day—_ [horrid wilting](../additionalMonsters_dir/../spells_dir/horridWilting#_horrid-wilting)_ (DC 23)
 
 **Spells Known** (CL 15th; concentration +20)
 
-7th (4_dir/day)—_ [control weather](additionalMonsters_dir/../spells_dir/controlWeather#_control-weather)_, _ [mass fly](additionalMonsters_dir/../advanced_dir/spells_dir/fly#_fly,-mass)_
+7th (4_dir/day)—_ [control weather](../additionalMonsters_dir/../spells_dir/controlWeather#_control-weather)_, _ [mass fly](../additionalMonsters_dir/../advanced_dir/spells_dir/fly#_fly,-mass)_
 
-6th (6_dir/day)—_ [fluid form](additionalMonsters_dir/../advanced_dir/spells_dir/fluidForm#_fluid-form)_, _ [true seeing](additionalMonsters_dir/../spells_dir/trueSeeing#_true-seeing)_, _ [transformation](additionalMonsters_dir/../spells_dir/transformation#_transformation)_
+6th (6_dir/day)—_ [fluid form](../additionalMonsters_dir/../advanced_dir/spells_dir/fluidForm#_fluid-form)_, _ [true seeing](../additionalMonsters_dir/../spells_dir/trueSeeing#_true-seeing)_, _ [transformation](../additionalMonsters_dir/../spells_dir/transformation#_transformation)_
 
-5th (7_dir/day)—_ [break enchantment](additionalMonsters_dir/../spells_dir/breakEnchantment#_break-enchantment)_, _ [dismissal](additionalMonsters_dir/../spells_dir/dismissal#_dismissal)_, _ [teleport](additionalMonsters_dir/../spells_dir/teleport#_teleport), [wall of force](additionalMonsters_dir/../spells_dir/wallOfForce#_wall-of-force)_
+5th (7_dir/day)—_ [break enchantment](../additionalMonsters_dir/../spells_dir/breakEnchantment#_break-enchantment)_, _ [dismissal](../additionalMonsters_dir/../spells_dir/dismissal#_dismissal)_, _ [teleport](../additionalMonsters_dir/../spells_dir/teleport#_teleport), [wall of force](../additionalMonsters_dir/../spells_dir/wallOfForce#_wall-of-force)_
 
-4th (7_dir/day)—_ [ball lightning](additionalMonsters_dir/../advanced_dir/spells_dir/ballLightning#_ball-lightning)_ (DC 19), _ [ice storm](additionalMonsters_dir/../spells_dir/iceStorm#_ice-storm)_, _ [greater invisibility](additionalMonsters_dir/../spells_dir/invisibility#_invisibility-greater)_, _ [solid fog](additionalMonsters_dir/../spells_dir/solidFog#_solid-fog)_
+4th (7_dir/day)—_ [ball lightning](../additionalMonsters_dir/../advanced_dir/spells_dir/ballLightning#_ball-lightning)_ (DC 19), _ [ice storm](../additionalMonsters_dir/../spells_dir/iceStorm#_ice-storm)_, _ [greater invisibility](../additionalMonsters_dir/../spells_dir/invisibility#_invisibility-greater)_, _ [solid fog](../additionalMonsters_dir/../spells_dir/solidFog#_solid-fog)_
 
-3rd (7_dir/day)—_ [aqueous orb](additionalMonsters_dir/../advanced_dir/spells_dir/aqueousOrb#_aqueous-orb)_ (DC 18), _ [deep slumber](additionalMonsters_dir/../spells_dir/deepSlumber#_deep-slumber)_ (DC 18), _ [dispel magic](additionalMonsters_dir/../spells_dir/dispelMagic#_dispel-magic)_, _ [sleet storm](additionalMonsters_dir/../spells_dir/sleetStorm#_sleet-storm)_ (DC 18)
+3rd (7_dir/day)—_ [aqueous orb](../additionalMonsters_dir/../advanced_dir/spells_dir/aqueousOrb#_aqueous-orb)_ (DC 18), _ [deep slumber](../additionalMonsters_dir/../spells_dir/deepSlumber#_deep-slumber)_ (DC 18), _ [dispel magic](../additionalMonsters_dir/../spells_dir/dispelMagic#_dispel-magic)_, _ [sleet storm](../additionalMonsters_dir/../spells_dir/sleetStorm#_sleet-storm)_ (DC 18)
 
-2nd (7_dir/day)—_ [alter self](additionalMonsters_dir/../spells_dir/alterSelf#_alter-self)_, _ [detect thoughts](additionalMonsters_dir/../spells_dir/detectThoughts#_detect-thoughts)_ (DC 17), _ [invisibility](additionalMonsters_dir/../spells_dir/invisibility#_invisibility)_, _ [make whole](additionalMonsters_dir/../spells_dir/makeWhole#_make-whole)_, _ [slipstream](additionalMonsters_dir/../advanced_dir/spells_dir/slipstream#_slipstream)_
+2nd (7_dir/day)—_ [alter self](../additionalMonsters_dir/../spells_dir/alterSelf#_alter-self)_, _ [detect thoughts](../additionalMonsters_dir/../spells_dir/detectThoughts#_detect-thoughts)_ (DC 17), _ [invisibility](../additionalMonsters_dir/../spells_dir/invisibility#_invisibility)_, _ [make whole](../additionalMonsters_dir/../spells_dir/makeWhole#_make-whole)_, _ [slipstream](../additionalMonsters_dir/../advanced_dir/spells_dir/slipstream#_slipstream)_
 
-1st (8_dir/day)—_ [color spray](additionalMonsters_dir/../spells_dir/colorSpray#_color-spray)_ (DC 16), _ [feather fall](additionalMonsters_dir/../spells_dir/featherFall#_feather-fall)_, _ [flare burst](additionalMonsters_dir/../advanced_dir/spells_dir/flareBurst#_flare-burst)_ (DC 16), _ [ray of enfeeblement](additionalMonsters_dir/../spells_dir/rayOfEnfeeblement#_ray-of-enfeeblement)_, _ [touch of the sea](additionalMonsters_dir/../advanced_dir/spells_dir/touchOfTheSea#_touch-of-the-sea)_
+1st (8_dir/day)—_ [color spray](../additionalMonsters_dir/../spells_dir/colorSpray#_color-spray)_ (DC 16), _ [feather fall](../additionalMonsters_dir/../spells_dir/featherFall#_feather-fall)_, _ [flare burst](../additionalMonsters_dir/../advanced_dir/spells_dir/flareBurst#_flare-burst)_ (DC 16), _ [ray of enfeeblement](../additionalMonsters_dir/../spells_dir/rayOfEnfeeblement#_ray-of-enfeeblement)_, _ [touch of the sea](../additionalMonsters_dir/../advanced_dir/spells_dir/touchOfTheSea#_touch-of-the-sea)_
 
-0 (at will)—_ [arcane mark](additionalMonsters_dir/../spells_dir/arcaneMark#_arcane-mark)_, _ [detect magic](additionalMonsters_dir/../spells_dir/detectMagic#_detect-magic)_, _ [detect poison](additionalMonsters_dir/../spells_dir/detectPoison#_detect-poison)_, _ [mage hand](additionalMonsters_dir/../spells_dir/mageHand#_mage-hand)_, _ [message](additionalMonsters_dir/../spells_dir/message#_message)_, _ [open_dir/close](additionalMonsters_dir/../spells_dir/openClose#_open-close)_, _ [prestidigitation](additionalMonsters_dir/../spells_dir/prestidigitation#_prestidigitation)_, _ [read magic](additionalMonsters_dir/../spells_dir/readMagic#_read-magic)_, _ [resistance](additionalMonsters_dir/../spells_dir/resistance#_resistance)_
+0 (at will)—_ [arcane mark](../additionalMonsters_dir/../spells_dir/arcaneMark#_arcane-mark)_, _ [detect magic](../additionalMonsters_dir/../spells_dir/detectMagic#_detect-magic)_, _ [detect poison](../additionalMonsters_dir/../spells_dir/detectPoison#_detect-poison)_, _ [mage hand](../additionalMonsters_dir/../spells_dir/mageHand#_mage-hand)_, _ [message](../additionalMonsters_dir/../spells_dir/message#_message)_, _ [open_dir/close](../additionalMonsters_dir/../spells_dir/openClose#_open-close)_, _ [prestidigitation](../additionalMonsters_dir/../spells_dir/prestidigitation#_prestidigitation)_, _ [read magic](../additionalMonsters_dir/../spells_dir/readMagic#_read-magic)_, _ [resistance](../additionalMonsters_dir/../spells_dir/resistance#_resistance)_
 
 Statistics
 
@@ -339,11 +339,11 @@ Statistics
 
 **Base Atk** +22; **CMB** +38; **CMD** 47 (51 vs. trip)
 
-**Feats** [Awesome Blow](additionalMonsters_dir/../monsters_dir/monsterFeats#_awesome-blow), [Greater Vital Strike](additionalMonsters_dir/../feats#_greater-vital-strike), [Hover](additionalMonsters_dir/../monsters_dir/monsterFeats#_hover), [Improved Bull Rush](additionalMonsters_dir/../feats#_improved-bull-rush), [Improved Initiative](additionalMonsters_dir/../feats#_improved-initiative), [Improved Vital Strike](additionalMonsters_dir/../feats#_improved-vital-strike), [Lightning Reflexes](additionalMonsters_dir/../feats#_lightning-reflexes), [Power Attack](additionalMonsters_dir/../feats#_power-attack), [Skill Focus](additionalMonsters_dir/../feats#_skill-focus) ( [Swim](additionalMonsters_dir/../skills_dir/swim#_swim)), [Vital Strike](additionalMonsters_dir/../feats#_vital-strike), [Wingover](additionalMonsters_dir/../monsters_dir/monsterFeats#_wingover)
+**Feats** [Awesome Blow](../additionalMonsters_dir/../monsters_dir/monsterFeats#_awesome-blow), [Greater Vital Strike](../additionalMonsters_dir/../feats#_greater-vital-strike), [Hover](../additionalMonsters_dir/../monsters_dir/monsterFeats#_hover), [Improved Bull Rush](../additionalMonsters_dir/../feats#_improved-bull-rush), [Improved Initiative](../additionalMonsters_dir/../feats#_improved-initiative), [Improved Vital Strike](../additionalMonsters_dir/../feats#_improved-vital-strike), [Lightning Reflexes](../additionalMonsters_dir/../feats#_lightning-reflexes), [Power Attack](../additionalMonsters_dir/../feats#_power-attack), [Skill Focus](../additionalMonsters_dir/../feats#_skill-focus) ( [Swim](../additionalMonsters_dir/../skills_dir/swim#_swim)), [Vital Strike](../additionalMonsters_dir/../feats#_vital-strike), [Wingover](../additionalMonsters_dir/../monsters_dir/monsterFeats#_wingover)
 
-**Skills** [Bluff](additionalMonsters_dir/../skills_dir/bluff#_bluff) +30, [Diplomacy](additionalMonsters_dir/../skills_dir/diplomacy#_diplomacy) +30, [Fly](additionalMonsters_dir/../skills_dir/fly#_fly) +16, [Heal](additionalMonsters_dir/../skills_dir/heal#_heal) +30, [Knowledge](additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (arcana, geography, nature) +31, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +30, [Sense Motive](additionalMonsters_dir/../skills_dir/senseMotive#_sense-motive) +30, [Survival](additionalMonsters_dir/../skills_dir/survival#_survival) +30, [Swim](additionalMonsters_dir/../skills_dir/swim#_swim) +53, [Use Magic Device](additionalMonsters_dir/../skills_dir/useMagicDevice#_use-magic-device) +30
+**Skills** [Bluff](../additionalMonsters_dir/../skills_dir/bluff#_bluff) +30, [Diplomacy](../additionalMonsters_dir/../skills_dir/diplomacy#_diplomacy) +30, [Fly](../additionalMonsters_dir/../skills_dir/fly#_fly) +16, [Heal](../additionalMonsters_dir/../skills_dir/heal#_heal) +30, [Knowledge](../additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (arcana, geography, nature) +31, [Perception](../additionalMonsters_dir/../skills_dir/perception#_perception) +30, [Sense Motive](../additionalMonsters_dir/../skills_dir/senseMotive#_sense-motive) +30, [Survival](../additionalMonsters_dir/../skills_dir/survival#_survival) +30, [Swim](../additionalMonsters_dir/../skills_dir/swim#_swim) +53, [Use Magic Device](../additionalMonsters_dir/../skills_dir/useMagicDevice#_use-magic-device) +30
 
-**Languages** Aquan, Common, Draconic, Dwarven, Elven, [Gnome](monsters_dir/creatureTypes#_gnome-subtype), Halfling
+**Languages** Aquan, Common, Draconic, Dwarven, Elven, [Gnome](../monsters_dir/creatureTypes#_gnome-subtype), Halfling
 
 **SQ** water breathing
 
@@ -355,7 +355,7 @@ The blue-white scales of this four-horned dragon exude wisps of fog. The dragon'
 
 Cloud Dragon
 
-CN [dragon](monsters_dir/creatureTypes#_dragon) ( [air](monsters_dir/creatureTypes#_air-subtype), [extraplanar](monsters_dir/creatureTypes#_extraplanar-subtype))
+CN [dragon](../monsters_dir/creatureTypes#_dragon) ( [air](../monsters_dir/creatureTypes#_air-subtype), [extraplanar](../monsters_dir/creatureTypes#_extraplanar-subtype))
 
 Base Statistics
 
@@ -363,13 +363,13 @@ Base Statistics
 
 **Speed** 40 ft., swim 40 ft.
 
-**Natural Armor** +5; **[Breath Weapon](monsters_dir/universalMonsterRules#_breath-weapon)** cone, 2d8 electricity
+**Natural Armor** +5; **[Breath Weapon](../monsters_dir/universalMonsterRules#_breath-weapon)** cone, 2d8 electricity
 
 **Str** 10, **Dex** 13, **Con** 13, **Int** 10, **Wis** 14, **Cha** 13
 
 Ecology
 
-**Environment** any sky (Plane of [Air](monsters_dir/creatureTypes#_air-subtype))
+**Environment** any sky (Plane of [Air](../monsters_dir/creatureTypes#_air-subtype))
 
 **Organization** solitary
 
@@ -377,31 +377,31 @@ Ecology
 
 Special Abilities
 
-**Cloud Form (Su)** An adult or older cloud [dragon](monsters_dir/creatureTypes#_dragon) can change itself into a cloudy vapor as a swift action for a number of rounds per day equal to its Hit Dice. This ability functions as _ [gaseous form](additionalMonsters_dir/../spells_dir/gaseousForm#_gaseous-form)_ but the [dragon](monsters_dir/creatureTypes#_dragon)'s fly speed is unchanged.
+**Cloud Form (Su)** An adult or older cloud [dragon](../monsters_dir/creatureTypes#_dragon) can change itself into a cloudy vapor as a swift action for a number of rounds per day equal to its Hit Dice. This ability functions as _ [gaseous form](../additionalMonsters_dir/../spells_dir/gaseousForm#_gaseous-form)_ but the [dragon](../monsters_dir/creatureTypes#_dragon)'s fly speed is unchanged.
 
-**Cloud Breath (Su)** A great wyrm cloud [dragon](monsters_dir/creatureTypes#_dragon)'s [breath weapon](monsters_dir/universalMonsterRules#_breath-weapon) creates a cloud that persists in its cone shape for 1d4 rounds. Treat this cloud as a _ [fog cloud](additionalMonsters_dir/../spells_dir/fogCloud)_ that deals electricity damage equal to half the [dragon](monsters_dir/creatureTypes#_dragon)'s [breath weapon](monsters_dir/universalMonsterRules#_breath-weapon) damage to any creature that ends its turn still within the cloud (Reflex save halves the damage—DC equals the [dragon](monsters_dir/creatureTypes#_dragon)'s [breath weapon](monsters_dir/universalMonsterRules#_breath-weapon) save DC).
+**Cloud Breath (Su)** A great wyrm cloud [dragon](../monsters_dir/creatureTypes#_dragon)'s [breath weapon](../monsters_dir/universalMonsterRules#_breath-weapon) creates a cloud that persists in its cone shape for 1d4 rounds. Treat this cloud as a _ [fog cloud](../additionalMonsters_dir/../spells_dir/fogCloud)_ that deals electricity damage equal to half the [dragon](../monsters_dir/creatureTypes#_dragon)'s [breath weapon](../monsters_dir/universalMonsterRules#_breath-weapon) damage to any creature that ends its turn still within the cloud (Reflex save halves the damage—DC equals the [dragon](../monsters_dir/creatureTypes#_dragon)'s [breath weapon](../monsters_dir/universalMonsterRules#_breath-weapon) save DC).
 
-**Mist Vision (Su)** A cloud [dragon](monsters_dir/creatureTypes#_dragon) can see through fog, clouds, and similar obscuring effects with perfect clarity.
+**Mist Vision (Su)** A cloud [dragon](../monsters_dir/creatureTypes#_dragon) can see through fog, clouds, and similar obscuring effects with perfect clarity.
 
-**Spell-Like Abilities (Sp)** A cloud [dragon](monsters_dir/creatureTypes#_dragon) gains the following spell-like abilities, usable at will (unless indicated otherwise) on reaching the listed age category. Very young—_ [obscuring mist](additionalMonsters_dir/../spells_dir/obscuringMist#_obscuring-mist)_; Young—_ [fog cloud](additionalMonsters_dir/../spells_dir/fogCloud)_; Adult—_ [solid fog](additionalMonsters_dir/../spells_dir/solidFog#_solid-fog)_; Old—_ [cloudkill](additionalMonsters_dir/../spells_dir/cloudkill#_cloudkill)_ (3_dir/day); Ancient—_ [wind walk](additionalMonsters_dir/../spells_dir/windWalk#_wind-walk)_; Great wyrm—_ [storm of vengeance](additionalMonsters_dir/../spells_dir/stormOfVengeance#_storm-of-vengeance) _(1_dir/day).
+**Spell-Like Abilities (Sp)** A cloud [dragon](../monsters_dir/creatureTypes#_dragon) gains the following spell-like abilities, usable at will (unless indicated otherwise) on reaching the listed age category. Very young—_ [obscuring mist](../additionalMonsters_dir/../spells_dir/obscuringMist#_obscuring-mist)_; Young—_ [fog cloud](../additionalMonsters_dir/../spells_dir/fogCloud)_; Adult—_ [solid fog](../additionalMonsters_dir/../spells_dir/solidFog#_solid-fog)_; Old—_ [cloudkill](../additionalMonsters_dir/../spells_dir/cloudkill#_cloudkill)_ (3_dir/day); Ancient—_ [wind walk](../additionalMonsters_dir/../spells_dir/windWalk#_wind-walk)_; Great wyrm—_ [storm of vengeance](../additionalMonsters_dir/../spells_dir/stormOfVengeance#_storm-of-vengeance) _(1_dir/day).
 
-**Thundering Bite (Su)** An ancient or older cloud [dragon](monsters_dir/creatureTypes#_dragon)'s bite makes a thundering crash whenever it attacks, dealing an additional 2d6 points of sonic damage. A great wyrm's thundering bite deals an additional 4d6 sonic damage.
+**Thundering Bite (Su)** An ancient or older cloud [dragon](../monsters_dir/creatureTypes#_dragon)'s bite makes a thundering crash whenever it attacks, dealing an additional 2d6 points of sonic damage. A great wyrm's thundering bite deals an additional 4d6 sonic damage.
 
 [Table: Cloud Special Abilities]
 | Age Category | Special Abilities | Caster Level |
 | --- | --- | --- |
 | Wyrmling | Immune to electricity, mist vision | — |
-| Very young | _ [Obscuring mist](additionalMonsters_dir/../spells_dir/obscuringMist#_obscuring-mist)_ | — |
-| Young | _ [Fog cloud](additionalMonsters_dir/../spells_dir/fogCloud)_ | — |
+| Very young | _ [Obscuring mist](../additionalMonsters_dir/../spells_dir/obscuringMist#_obscuring-mist)_ | — |
+| Young | _ [Fog cloud](../additionalMonsters_dir/../spells_dir/fogCloud)_ | — |
 | Juvenile | Frightful presence | 1st |
 | Young adult | DR 5_dir/magic, spell resistance | 3rd |
-| Adult | Cloud form, _ [solid fog](additionalMonsters_dir/../spells_dir/solidFog#_solid-fog)_ | 5th |
+| Adult | Cloud form, _ [solid fog](../additionalMonsters_dir/../spells_dir/solidFog#_solid-fog)_ | 5th |
 | Mature adult | DR 10_dir/magicv | 7th |
-| Old | _ [Cloudkill](additionalMonsters_dir/../spells_dir/cloudkill#_cloudkill)_ | 9th |
+| Old | _ [Cloudkill](../additionalMonsters_dir/../spells_dir/cloudkill#_cloudkill)_ | 9th |
 | Very old | DR 15_dir/magic | 11th |
-| Ancient | Thundering bite, _ [wind walk](additionalMonsters_dir/../spells_dir/windWalk#_wind-walk)_ | 13th |
+| Ancient | Thundering bite, _ [wind walk](../additionalMonsters_dir/../spells_dir/windWalk#_wind-walk)_ | 13th |
 | Wyrm | DR 20_dir/magic | 15th |
-| Great wyrm | Cloud breath, _ [storm of vengeance](additionalMonsters_dir/../spells_dir/stormOfVengeance#_storm-of-vengeance)_ | 17th |
+| Great wyrm | Cloud breath, _ [storm of vengeance](../additionalMonsters_dir/../spells_dir/stormOfVengeance#_storm-of-vengeance)_ | 17th |
 
   
   
@@ -410,9 +410,9 @@ Young Cloud DragonCR 9
 
 **XP 6,400**
 
-CN Large [dragon](monsters_dir/creatureTypes#_dragon) ( [air](monsters_dir/creatureTypes#_air-subtype), extraplanar)
+CN Large [dragon](../monsters_dir/creatureTypes#_dragon) ( [air](../monsters_dir/creatureTypes#_air-subtype), extraplanar)
 
-**Init** +0; **Senses** [dragon](monsters_dir/creatureTypes#_dragon) senses, mist vision; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +16
+**Init** +0; **Senses** [dragon](../monsters_dir/creatureTypes#_dragon) senses, mist vision; [Perception](../additionalMonsters_dir/../skills_dir/perception#_perception) +16
 
 Defense
 
@@ -430,11 +430,11 @@ Offense
 
 **Melee** bite +13 (2d6+6), 2 claws +14 (1d8+4), 2 wings +11 (1d6+2), tail slap +11 (1d8+6)
 
-**Special Attacks** [breath weapon](monsters_dir/universalMonsterRules#_breath-weapon) (40-ft. cone, 6d8 electricity, DC 18)
+**Special Attacks** [breath weapon](../monsters_dir/universalMonsterRules#_breath-weapon) (40-ft. cone, 6d8 electricity, DC 18)
 
 **Spell-Like Abilities** (CL 10th; concentration +12)
 
-At will—_ [fog cloud](additionalMonsters_dir/../spells_dir/fogCloud), [obscuring mist](additionalMonsters_dir/../spells_dir/obscuringMist#_obscuring-mist)_
+At will—_ [fog cloud](../additionalMonsters_dir/../spells_dir/fogCloud), [obscuring mist](../additionalMonsters_dir/../spells_dir/obscuringMist#_obscuring-mist)_
 
 Statistics
 
@@ -442,9 +442,9 @@ Statistics
 
 **Base Atk** +10; **CMB** +15; **CMD** 25 (29 vs. trip)
 
-**Feats** [Dazzling Display](additionalMonsters_dir/../feats#_dazzling-display), [Multiattack](additionalMonsters_dir/../monsters_dir/monsterFeats#_multiattack), [Power Attack](additionalMonsters_dir/../feats#_power-attack), [Skill Focus](additionalMonsters_dir/../feats#_skill-focus) ( [Diplomacy](additionalMonsters_dir/../skills_dir/diplomacy#_diplomacy)), [Weapon Focus](additionalMonsters_dir/../feats#_weapon-focus) (claws)
+**Feats** [Dazzling Display](../additionalMonsters_dir/../feats#_dazzling-display), [Multiattack](../additionalMonsters_dir/../monsters_dir/monsterFeats#_multiattack), [Power Attack](../additionalMonsters_dir/../feats#_power-attack), [Skill Focus](../additionalMonsters_dir/../feats#_skill-focus) ( [Diplomacy](../additionalMonsters_dir/../skills_dir/diplomacy#_diplomacy)), [Weapon Focus](../additionalMonsters_dir/../feats#_weapon-focus) (claws)
 
-**Skills** [Appraise](additionalMonsters_dir/../skills_dir/appraise#_appraise) +14, [Diplomacy](additionalMonsters_dir/../skills_dir/diplomacy#_diplomacy) +21, [Fly](additionalMonsters_dir/../skills_dir/fly#_fly) +7, [Intimidate](additionalMonsters_dir/../skills_dir/intimidate#_intimidate) +15, [Knowledge](additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (planes) +14, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +16, [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) +9, [Swim](additionalMonsters_dir/../skills_dir/swim#_swim) +12
+**Skills** [Appraise](../additionalMonsters_dir/../skills_dir/appraise#_appraise) +14, [Diplomacy](../additionalMonsters_dir/../skills_dir/diplomacy#_diplomacy) +21, [Fly](../additionalMonsters_dir/../skills_dir/fly#_fly) +7, [Intimidate](../additionalMonsters_dir/../skills_dir/intimidate#_intimidate) +15, [Knowledge](../additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (planes) +14, [Perception](../additionalMonsters_dir/../skills_dir/perception#_perception) +16, [Stealth](../additionalMonsters_dir/../skills_dir/stealth#_stealth) +9, [Swim](../additionalMonsters_dir/../skills_dir/swim#_swim) +12
 
 **Languages** Auran, Draconic
 
@@ -452,9 +452,9 @@ Adult Cloud DragonCR 13
 
 **XP 25,600**
 
-CN Huge [dragon](monsters_dir/creatureTypes#_dragon) ( [air](monsters_dir/creatureTypes#_air-subtype), extraplanar)
+CN Huge [dragon](../monsters_dir/creatureTypes#_dragon) ( [air](../monsters_dir/creatureTypes#_air-subtype), extraplanar)
 
-**Init** +3; **Senses** [dragon](monsters_dir/creatureTypes#_dragon) senses, mist vision; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +24
+**Init** +3; **Senses** [dragon](../monsters_dir/creatureTypes#_dragon) senses, mist vision; [Perception](../additionalMonsters_dir/../skills_dir/perception#_perception) +24
 
 **Aura** frightful presence (180 ft., DC 22)
 
@@ -476,19 +476,19 @@ Offense
 
 **Space** 15 ft.; **Reach** 10 ft. (15 ft. with bite)
 
-**Special Attacks** [breath weapon](monsters_dir/universalMonsterRules#_breath-weapon) (50-ft. cone, 12d8 electricity, DC 23), crush
+**Special Attacks** [breath weapon](../monsters_dir/universalMonsterRules#_breath-weapon) (50-ft. cone, 12d8 electricity, DC 23), crush
 
 **Spell-Like Abilities** (CL 16th; concentration +20)
 
-At will—_ [fog cloud](additionalMonsters_dir/../spells_dir/fogCloud)_, _ [obscuring mist](additionalMonsters_dir/../spells_dir/obscuringMist#_obscuring-mist), [solid fog](additionalMonsters_dir/../spells_dir/solidFog#_solid-fog)_
+At will—_ [fog cloud](../additionalMonsters_dir/../spells_dir/fogCloud)_, _ [obscuring mist](../additionalMonsters_dir/../spells_dir/obscuringMist#_obscuring-mist), [solid fog](../additionalMonsters_dir/../spells_dir/solidFog#_solid-fog)_
 
 **Spells Known** (CL 5th; concentration +9)
 
-2nd (5_dir/day)—_ [blur](additionalMonsters_dir/../spells_dir/blur#_blur)_, _ [see invisibility](additionalMonsters_dir/../spells_dir/seeInvisibility#_see-invisibility)_
+2nd (5_dir/day)—_ [blur](../additionalMonsters_dir/../spells_dir/blur#_blur)_, _ [see invisibility](../additionalMonsters_dir/../spells_dir/seeInvisibility#_see-invisibility)_
 
-1st (7_dir/day)—_ [charm person](additionalMonsters_dir/../spells_dir/charmPerson#_charm-person)_ (DC 15), _ [detect secret doors](additionalMonsters_dir/../spells_dir/detectSecretDoors#_detect-secret-doors)_, _ [shield](additionalMonsters_dir/../spells_dir/shield#_shield)_, _ [true strike](additionalMonsters_dir/../spells_dir/trueStrike#_true-strike)_
+1st (7_dir/day)—_ [charm person](../additionalMonsters_dir/../spells_dir/charmPerson#_charm-person)_ (DC 15), _ [detect secret doors](../additionalMonsters_dir/../spells_dir/detectSecretDoors#_detect-secret-doors)_, _ [shield](../additionalMonsters_dir/../spells_dir/shield#_shield)_, _ [true strike](../additionalMonsters_dir/../spells_dir/trueStrike#_true-strike)_
 
-0 (at will)—_ [dancing lights](additionalMonsters_dir/../spells_dir/dancingLights#_dancing-lights)_, _ [detect poison](additionalMonsters_dir/../spells_dir/detectPoison#_detect-poison)_, _ [light](additionalMonsters_dir/../spells_dir/light#_light)_, _ [message](additionalMonsters_dir/../spells_dir/message#_message)_, _ [prestidigitation](additionalMonsters_dir/../spells_dir/prestidigitation#_prestidigitation)_, _ [read magic](additionalMonsters_dir/../spells_dir/readMagic#_read-magic)_
+0 (at will)—_ [dancing lights](../additionalMonsters_dir/../spells_dir/dancingLights#_dancing-lights)_, _ [detect poison](../additionalMonsters_dir/../spells_dir/detectPoison#_detect-poison)_, _ [light](../additionalMonsters_dir/../spells_dir/light#_light)_, _ [message](../additionalMonsters_dir/../spells_dir/message#_message)_, _ [prestidigitation](../additionalMonsters_dir/../spells_dir/prestidigitation#_prestidigitation)_, _ [read magic](../additionalMonsters_dir/../spells_dir/readMagic#_read-magic)_
 
 Statistics
 
@@ -496,9 +496,9 @@ Statistics
 
 **Base Atk** +16; **CMB** +25; **CMD** 34 (38 vs. trip)
 
-**Feats** [Critical Focus](additionalMonsters_dir/../feats#_critical-focus), [Improved Critical](additionalMonsters_dir/../feats#_improved-critical) (bite), [Improved Initiative](additionalMonsters_dir/../feats#_improved-initiative), [Multiattack](additionalMonsters_dir/../monsters_dir/monsterFeats#_multiattack), [Power Attack](additionalMonsters_dir/../feats#_power-attack), [Skill Focus](additionalMonsters_dir/../feats#_skill-focus) ( [Diplomacy](additionalMonsters_dir/../skills_dir/diplomacy#_diplomacy)), [Weapon Focus](additionalMonsters_dir/../feats#_weapon-focus) (bite, claws)
+**Feats** [Critical Focus](../additionalMonsters_dir/../feats#_critical-focus), [Improved Critical](../additionalMonsters_dir/../feats#_improved-critical) (bite), [Improved Initiative](../additionalMonsters_dir/../feats#_improved-initiative), [Multiattack](../additionalMonsters_dir/../monsters_dir/monsterFeats#_multiattack), [Power Attack](../additionalMonsters_dir/../feats#_power-attack), [Skill Focus](../additionalMonsters_dir/../feats#_skill-focus) ( [Diplomacy](../additionalMonsters_dir/../skills_dir/diplomacy#_diplomacy)), [Weapon Focus](../additionalMonsters_dir/../feats#_weapon-focus) (bite, claws)
 
-**Skills** [Appraise](additionalMonsters_dir/../skills_dir/appraise#_appraise) +22, [Diplomacy](additionalMonsters_dir/../skills_dir/diplomacy#_diplomacy) +29, [Fly](additionalMonsters_dir/../skills_dir/fly#_fly) +10, [Intimidate](additionalMonsters_dir/../skills_dir/intimidate#_intimidate) +23, [Knowledge](additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (planes) +22, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +24, [Sense Motive](additionalMonsters_dir/../skills_dir/senseMotive#_sense-motive) +24, [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) +10, [Survival](additionalMonsters_dir/../skills_dir/survival#_survival) +24, [Swim](additionalMonsters_dir/../skills_dir/swim#_swim) +15
+**Skills** [Appraise](../additionalMonsters_dir/../skills_dir/appraise#_appraise) +22, [Diplomacy](../additionalMonsters_dir/../skills_dir/diplomacy#_diplomacy) +29, [Fly](../additionalMonsters_dir/../skills_dir/fly#_fly) +10, [Intimidate](../additionalMonsters_dir/../skills_dir/intimidate#_intimidate) +23, [Knowledge](../additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (planes) +22, [Perception](../additionalMonsters_dir/../skills_dir/perception#_perception) +24, [Sense Motive](../additionalMonsters_dir/../skills_dir/senseMotive#_sense-motive) +24, [Stealth](../additionalMonsters_dir/../skills_dir/stealth#_stealth) +10, [Survival](../additionalMonsters_dir/../skills_dir/survival#_survival) +24, [Swim](../additionalMonsters_dir/../skills_dir/swim#_swim) +15
 
 **Languages** Auran, Common, Draconic, Elven
 
@@ -508,9 +508,9 @@ Ancient Cloud Dragon CR 18
 
 **XP 153,600**
 
-CN Gargantuan [dragon](monsters_dir/creatureTypes#_dragon) ( [air](monsters_dir/creatureTypes#_air-subtype), extraplanar)
+CN Gargantuan [dragon](../monsters_dir/creatureTypes#_dragon) ( [air](../monsters_dir/creatureTypes#_air-subtype), extraplanar)
 
-**Init** +2; **Senses** [dragon](monsters_dir/creatureTypes#_dragon) senses, mist vision; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +34
+**Init** +2; **Senses** [dragon](../monsters_dir/creatureTypes#_dragon) senses, mist vision; [Perception](../additionalMonsters_dir/../skills_dir/perception#_perception) +34
 
 **Aura** frightful presence (300 ft., DC 28)
 
@@ -532,29 +532,29 @@ Offense
 
 **Space** 20 ft.; **Reach** 15 ft. (20 ft. with bite)
 
-**Special Attacks** [breath weapon](monsters_dir/universalMonsterRules#_breath-weapon) (60-ft. cone, 20d8 electricity, DC 29), crush, tail sweep
+**Special Attacks** [breath weapon](../monsters_dir/universalMonsterRules#_breath-weapon) (60-ft. cone, 20d8 electricity, DC 29), crush, tail sweep
 
 **Spell-Like Abilities** (CL 24th; concentration +30)
 
-At will—_ [fog cloud](additionalMonsters_dir/../spells_dir/fogCloud)_, _ [obscuring mist](additionalMonsters_dir/../spells_dir/obscuringMist#_obscuring-mist), [solid fog](additionalMonsters_dir/../spells_dir/solidFog#_solid-fog), [wind walk](additionalMonsters_dir/../spells_dir/windWalk#_wind-walk)_
+At will—_ [fog cloud](../additionalMonsters_dir/../spells_dir/fogCloud)_, _ [obscuring mist](../additionalMonsters_dir/../spells_dir/obscuringMist#_obscuring-mist), [solid fog](../additionalMonsters_dir/../spells_dir/solidFog#_solid-fog), [wind walk](../additionalMonsters_dir/../spells_dir/windWalk#_wind-walk)_
 
-3_dir/day—_ [cloudkill](additionalMonsters_dir/../spells_dir/cloudkill#_cloudkill)_ (DC 21)
+3_dir/day—_ [cloudkill](../additionalMonsters_dir/../spells_dir/cloudkill#_cloudkill)_ (DC 21)
 
 **Spells Known** (CL 13th; concentration +19)
 
-6th (5_dir/day)—_ [chain lightning](additionalMonsters_dir/../spells_dir/chainLightning#_chain-lightning)_ (DC 22), _ [greater dispel magic](additionalMonsters_dir/../spells_dir/dispelMagic#_dispel-magic-greater)_
+6th (5_dir/day)—_ [chain lightning](../additionalMonsters_dir/../spells_dir/chainLightning#_chain-lightning)_ (DC 22), _ [greater dispel magic](../additionalMonsters_dir/../spells_dir/dispelMagic#_dispel-magic-greater)_
 
-5th (7_dir/day)—_ [cone of cold](additionalMonsters_dir/../spells_dir/coneOfCold#_cone-of-cold)_ (DC 21), _ [dismissal](additionalMonsters_dir/../spells_dir/dismissal#_dismissal)_ (DC 21), _ [teleport](additionalMonsters_dir/../spells_dir/teleport#_teleport)_
+5th (7_dir/day)—_ [cone of cold](../additionalMonsters_dir/../spells_dir/coneOfCold#_cone-of-cold)_ (DC 21), _ [dismissal](../additionalMonsters_dir/../spells_dir/dismissal#_dismissal)_ (DC 21), _ [teleport](../additionalMonsters_dir/../spells_dir/teleport#_teleport)_
 
-4th (7_dir/day)—_elemental body I_, _ [ice storm](additionalMonsters_dir/../spells_dir/iceStorm#_ice-storm)_, _ [lesser geas](additionalMonsters_dir/../spells_dir/geasQuest#_geas-lesser)_ (DC 20), _ [river of wind](additionalMonsters_dir/../advanced_dir/spells_dir/riverOfWind#_river-of-wind)_
+4th (7_dir/day)—_elemental body I_, _ [ice storm](../additionalMonsters_dir/../spells_dir/iceStorm#_ice-storm)_, _ [lesser geas](../additionalMonsters_dir/../spells_dir/geasQuest#_geas-lesser)_ (DC 20), _ [river of wind](../additionalMonsters_dir/../advanced_dir/spells_dir/riverOfWind#_river-of-wind)_
 
-3rd (7_dir/day)—_ [arcane sight](additionalMonsters_dir/../spells_dir/arcaneSight#_arcane-sight)_, _ [cloak of winds](additionalMonsters_dir/../advanced_dir/spells_dir/cloakOfWinds#_cloak-of-winds)_, _ [stinking cloud](additionalMonsters_dir/../spells_dir/stinkingCloud#_stinking-cloud)_ (DC 19), _ [suggestion](additionalMonsters_dir/../spells_dir/suggestion#_suggestion)_ (DC 19)
+3rd (7_dir/day)—_ [arcane sight](../additionalMonsters_dir/../spells_dir/arcaneSight#_arcane-sight)_, _ [cloak of winds](../additionalMonsters_dir/../advanced_dir/spells_dir/cloakOfWinds#_cloak-of-winds)_, _ [stinking cloud](../additionalMonsters_dir/../spells_dir/stinkingCloud#_stinking-cloud)_ (DC 19), _ [suggestion](../additionalMonsters_dir/../spells_dir/suggestion#_suggestion)_ (DC 19)
 
-2nd (8_dir/day)—_ [eagle's splendor](additionalMonsters_dir/../spells_dir/eagleSSplendor#_eagle-s-splendor)_, _ [glitterdust](additionalMonsters_dir/../spells_dir/glitterdust#_glitterdust)_ (DC 18), _ [gust of wind](additionalMonsters_dir/../spells_dir/gustOfWind#_gust-of-wind)_, _ [locate object](additionalMonsters_dir/../spells_dir/locateObject#_locate-object)_, _ [see invisibility](additionalMonsters_dir/../spells_dir/seeInvisibility#_see-invisibility)_
+2nd (8_dir/day)—_ [eagle's splendor](../additionalMonsters_dir/../spells_dir/eagleSSplendor#_eagle-s-splendor)_, _ [glitterdust](../additionalMonsters_dir/../spells_dir/glitterdust#_glitterdust)_ (DC 18), _ [gust of wind](../additionalMonsters_dir/../spells_dir/gustOfWind#_gust-of-wind)_, _ [locate object](../additionalMonsters_dir/../spells_dir/locateObject#_locate-object)_, _ [see invisibility](../additionalMonsters_dir/../spells_dir/seeInvisibility#_see-invisibility)_
 
-1st (8_dir/day)—_ [alter winds](additionalMonsters_dir/../advanced_dir/spells_dir/alterWinds#_alter-winds)_, _ [charm person](additionalMonsters_dir/../spells_dir/charmPerson#_charm-person)_ (DC 17), _ [detect secret doors](additionalMonsters_dir/../spells_dir/detectSecretDoors#_detect-secret-doors)_, _ [erase](additionalMonsters_dir/../spells_dir/erase#_erase)_, _ [true strike](additionalMonsters_dir/../spells_dir/trueStrike#_true-strike)_
+1st (8_dir/day)—_ [alter winds](../additionalMonsters_dir/../advanced_dir/spells_dir/alterWinds#_alter-winds)_, _ [charm person](../additionalMonsters_dir/../spells_dir/charmPerson#_charm-person)_ (DC 17), _ [detect secret doors](../additionalMonsters_dir/../spells_dir/detectSecretDoors#_detect-secret-doors)_, _ [erase](../additionalMonsters_dir/../spells_dir/erase#_erase)_, _ [true strike](../additionalMonsters_dir/../spells_dir/trueStrike#_true-strike)_
 
-0 (at will)—_ [dancing lights](additionalMonsters_dir/../spells_dir/dancingLights#_dancing-lights)_, _ [detect poison](additionalMonsters_dir/../spells_dir/detectPoison#_detect-poison)_, _ [light](additionalMonsters_dir/../spells_dir/light#_light)_, _ [mage hand](additionalMonsters_dir/../spells_dir/mageHand#_mage-hand)_, _ [message](additionalMonsters_dir/../spells_dir/message#_message)_, _ [prestidigitation](additionalMonsters_dir/../spells_dir/prestidigitation#_prestidigitation)_, _ [read magic](additionalMonsters_dir/../spells_dir/readMagic#_read-magic)_, _ [resistance](additionalMonsters_dir/../spells_dir/resistance#_resistance)_, _ [touch of fatigue](additionalMonsters_dir/../spells_dir/touchOfFatigue#_touch-of-fatigue)_
+0 (at will)—_ [dancing lights](../additionalMonsters_dir/../spells_dir/dancingLights#_dancing-lights)_, _ [detect poison](../additionalMonsters_dir/../spells_dir/detectPoison#_detect-poison)_, _ [light](../additionalMonsters_dir/../spells_dir/light#_light)_, _ [mage hand](../additionalMonsters_dir/../spells_dir/mageHand#_mage-hand)_, _ [message](../additionalMonsters_dir/../spells_dir/message#_message)_, _ [prestidigitation](../additionalMonsters_dir/../spells_dir/prestidigitation#_prestidigitation)_, _ [read magic](../additionalMonsters_dir/../spells_dir/readMagic#_read-magic)_, _ [resistance](../additionalMonsters_dir/../spells_dir/resistance#_resistance)_, _ [touch of fatigue](../additionalMonsters_dir/../spells_dir/touchOfFatigue#_touch-of-fatigue)_
 
 This spell is from the_ Pathfinder RPG Advanced Player's Guide_.
 
@@ -564,9 +564,9 @@ Statistics
 
 **Base Atk** +24; **CMB** +39; **CMD** 47 (51 vs. trip)
 
-**Feats** [Critical Focus](additionalMonsters_dir/../feats#_critical-focus), [Dazzling Display](additionalMonsters_dir/../feats#_dazzling-display), [Flyby Attack](additionalMonsters_dir/../monsters_dir/monsterFeats#_flyby-attack), [Improved Critical](additionalMonsters_dir/../feats#_improved-critical) (bite), [Improved Initiative](additionalMonsters_dir/../feats#_improved-initiative), [Multiattack](additionalMonsters_dir/../monsters_dir/monsterFeats#_multiattack), [Power Attack](additionalMonsters_dir/../feats#_power-attack), [Skill Focus](additionalMonsters_dir/../feats#_skill-focus) ( [Diplomacy](additionalMonsters_dir/../skills_dir/diplomacy#_diplomacy)), [Snatch](additionalMonsters_dir/../monsters_dir/monsterFeats#_snatch), [Staggering Critical](additionalMonsters_dir/../feats#_staggering-critical), [Weapon Focus](additionalMonsters_dir/../feats#_weapon-focus) (bite, claws)
+**Feats** [Critical Focus](../additionalMonsters_dir/../feats#_critical-focus), [Dazzling Display](../additionalMonsters_dir/../feats#_dazzling-display), [Flyby Attack](../additionalMonsters_dir/../monsters_dir/monsterFeats#_flyby-attack), [Improved Critical](../additionalMonsters_dir/../feats#_improved-critical) (bite), [Improved Initiative](../additionalMonsters_dir/../feats#_improved-initiative), [Multiattack](../additionalMonsters_dir/../monsters_dir/monsterFeats#_multiattack), [Power Attack](../additionalMonsters_dir/../feats#_power-attack), [Skill Focus](../additionalMonsters_dir/../feats#_skill-focus) ( [Diplomacy](../additionalMonsters_dir/../skills_dir/diplomacy#_diplomacy)), [Snatch](../additionalMonsters_dir/../monsters_dir/monsterFeats#_snatch), [Staggering Critical](../additionalMonsters_dir/../feats#_staggering-critical), [Weapon Focus](../additionalMonsters_dir/../feats#_weapon-focus) (bite, claws)
 
-**Skills** [Appraise](additionalMonsters_dir/../skills_dir/appraise#_appraise) +32, [Diplomacy](additionalMonsters_dir/../skills_dir/diplomacy#_diplomacy) +39, [Fly](additionalMonsters_dir/../skills_dir/fly#_fly) +11, [Intimidate](additionalMonsters_dir/../skills_dir/intimidate#_intimidate) +33, [Knowledge](additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (local) +32, [Knowledge](additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (planes) +32, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +34, [Sense Motive](additionalMonsters_dir/../skills_dir/senseMotive#_sense-motive) +34, [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) +13, [Survival](additionalMonsters_dir/../skills_dir/survival#_survival) +34, [Swim](additionalMonsters_dir/../skills_dir/swim#_swim) +46
+**Skills** [Appraise](../additionalMonsters_dir/../skills_dir/appraise#_appraise) +32, [Diplomacy](../additionalMonsters_dir/../skills_dir/diplomacy#_diplomacy) +39, [Fly](../additionalMonsters_dir/../skills_dir/fly#_fly) +11, [Intimidate](../additionalMonsters_dir/../skills_dir/intimidate#_intimidate) +33, [Knowledge](../additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (local) +32, [Knowledge](../additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (planes) +32, [Perception](../additionalMonsters_dir/../skills_dir/perception#_perception) +34, [Sense Motive](../additionalMonsters_dir/../skills_dir/senseMotive#_sense-motive) +34, [Stealth](../additionalMonsters_dir/../skills_dir/stealth#_stealth) +13, [Survival](../additionalMonsters_dir/../skills_dir/survival#_survival) +34, [Swim](../additionalMonsters_dir/../skills_dir/swim#_swim) +46
 
 **Languages** Auran, Common, Draconic, Elven
 
@@ -580,7 +580,7 @@ This brilliantly colored dragon has scales, teeth, and claws made of multicolore
 
 Crystal Dragon
 
-CG [dragon](monsters_dir/creatureTypes#_dragon) ( [earth](monsters_dir/creatureTypes#_earth-subtype), [extraplanar](monsters_dir/creatureTypes#_extraplanar-subtype))
+CG [dragon](../monsters_dir/creatureTypes#_dragon) ( [earth](../monsters_dir/creatureTypes#_earth-subtype), [extraplanar](../monsters_dir/creatureTypes#_extraplanar-subtype))
 
 Base Statistics
 
@@ -588,13 +588,13 @@ Base Statistics
 
 **Speed** 60 ft., burrow 30 ft., climb 30 ft.
 
-**Natural Armor** +2; **[Breath Weapon](monsters_dir/universalMonsterRules#_breath-weapon)** cone, 2d4 sonic
+**Natural Armor** +2; **[Breath Weapon](../monsters_dir/universalMonsterRules#_breath-weapon)** cone, 2d4 sonic
 
 **Str** 9, **Dex** 16, **Con** 13, **Int** 10, **Wis** 11, **Cha** 16
 
 Ecology
 
-**Environment** any underground (Plane of [Earth](monsters_dir/creatureTypes#_earth-subtype))
+**Environment** any underground (Plane of [Earth](../monsters_dir/creatureTypes#_earth-subtype))
 
 **Organization** solitary
 
@@ -602,13 +602,13 @@ Ecology
 
 Special Abilities
 
-**Razor Sharp (Sp)** All of a crystal [dragon](monsters_dir/creatureTypes#_dragon)'s natural attacks deal slashing damage.
+**Razor Sharp (Sp)** All of a crystal [dragon](../monsters_dir/creatureTypes#_dragon)'s natural attacks deal slashing damage.
 
-**Ray Reflection (Ex)** An ancient crystal [dragon](monsters_dir/creatureTypes#_dragon)'s scales reflect ray spells back upon the ray's source if the ray fails to overcome the [dragon](monsters_dir/creatureTypes#_dragon)'s spell [resistance](monsters_dir/universalMonsterRules#_resistance).
+**Ray Reflection (Ex)** An ancient crystal [dragon](../monsters_dir/creatureTypes#_dragon)'s scales reflect ray spells back upon the ray's source if the ray fails to overcome the [dragon](../monsters_dir/creatureTypes#_dragon)'s spell [resistance](../monsters_dir/universalMonsterRules#_resistance).
 
-**Scintillating Aura (Su)** A great wyrm crystal [dragon](monsters_dir/creatureTypes#_dragon) radiates an aura of scintillating color from its jeweled scales to a radius of 60 feet. All within this area must make a Will save each round to avoid being stunned (if the victim has 15 or fewer Hit Dice) or confused (if the victim has more than 15 Hit Dice) for 1 round. The save DC is equal to the [dragon](monsters_dir/creatureTypes#_dragon)'s [breath weapon](monsters_dir/universalMonsterRules#_breath-weapon) save DC. This is a mind-affecting effect. The [dragon](monsters_dir/creatureTypes#_dragon) can activate or suppress this aura as a free action.
+**Scintillating Aura (Su)** A great wyrm crystal [dragon](../monsters_dir/creatureTypes#_dragon) radiates an aura of scintillating color from its jeweled scales to a radius of 60 feet. All within this area must make a Will save each round to avoid being stunned (if the victim has 15 or fewer Hit Dice) or confused (if the victim has more than 15 Hit Dice) for 1 round. The save DC is equal to the [dragon](../monsters_dir/creatureTypes#_dragon)'s [breath weapon](../monsters_dir/universalMonsterRules#_breath-weapon) save DC. This is a mind-affecting effect. The [dragon](../monsters_dir/creatureTypes#_dragon) can activate or suppress this aura as a free action.
 
-**Spell-Like Abilities (Sp)** A crystal [dragon](monsters_dir/creatureTypes#_dragon) gains the following spell-like abilities, usable at will (unless indicated otherwise) upon reaching the listed age category. Very young—_ [color spray](additionalMonsters_dir/../spells_dir/colorSpray#_color-spray)_; Juvenile—_ [glitterdust](additionalMonsters_dir/../spells_dir/glitterdust#_glitterdust)_; Adult—_ [rainbow pattern](additionalMonsters_dir/../spells_dir/rainbowPattern#_rainbow-pattern)_; Old—_ [stone to flesh](additionalMonsters_dir/../spells_dir/stoneToFlesh#_stone-to-flesh)_ (3_dir/day); Ancient—_ [prismatic spray](additionalMonsters_dir/../spells_dir/prismaticSpray#_prismatic-spray) _(3_dir/day); Great wyrm—_ [imprisonment](additionalMonsters_dir/../spells_dir/imprisonment#_imprisonment)_ (1_dir/day).
+**Spell-Like Abilities (Sp)** A crystal [dragon](../monsters_dir/creatureTypes#_dragon) gains the following spell-like abilities, usable at will (unless indicated otherwise) upon reaching the listed age category. Very young—_ [color spray](../additionalMonsters_dir/../spells_dir/colorSpray#_color-spray)_; Juvenile—_ [glitterdust](../additionalMonsters_dir/../spells_dir/glitterdust#_glitterdust)_; Adult—_ [rainbow pattern](../additionalMonsters_dir/../spells_dir/rainbowPattern#_rainbow-pattern)_; Old—_ [stone to flesh](../additionalMonsters_dir/../spells_dir/stoneToFlesh#_stone-to-flesh)_ (3_dir/day); Ancient—_ [prismatic spray](../additionalMonsters_dir/../spells_dir/prismaticSpray#_prismatic-spray) _(3_dir/day); Great wyrm—_ [imprisonment](../additionalMonsters_dir/../spells_dir/imprisonment#_imprisonment)_ (1_dir/day).
 
 **Tremorsense (Ex)** Crystal dragons do not gain tremorsense until juvenile age (30 ft.), improving at adult (60 ft.) and old (120 ft.).
 
@@ -616,17 +616,17 @@ Special Abilities
 | Age Category | Special Abilities | Caster Level |
 | --- | --- | --- |
 | Wyrmling | Immunity to sonic, razor sharp | — |
-| Very young | _ [Color spray](additionalMonsters_dir/../spells_dir/colorSpray#_color-spray)_ | — |
+| Very young | _ [Color spray](../additionalMonsters_dir/../spells_dir/colorSpray#_color-spray)_ | — |
 | Young | Tremorsense | — |
-| Juvenile | _ [Glitterdust](additionalMonsters_dir/../spells_dir/glitterdust#_glitterdust)_ | — |
+| Juvenile | _ [Glitterdust](../additionalMonsters_dir/../spells_dir/glitterdust#_glitterdust)_ | — |
 | Young adult | DR 5_dir/magic, spell resistance | — |
-| Adult | Frightful presence, _ [rainbow pattern](additionalMonsters_dir/../spells_dir/rainbowPattern#_rainbow-pattern)_ | 1st |
+| Adult | Frightful presence, _ [rainbow pattern](../additionalMonsters_dir/../spells_dir/rainbowPattern#_rainbow-pattern)_ | 1st |
 | Mature adult | DR 10_dir/magic | 3rd |
-| Old | _ [Stone to flesh](additionalMonsters_dir/../spells_dir/stoneToFlesh#_stone-to-flesh)_ | 5th |
+| Old | _ [Stone to flesh](../additionalMonsters_dir/../spells_dir/stoneToFlesh#_stone-to-flesh)_ | 5th |
 | Very old | DR 15_dir/magic | 7th |
-| Ancient | Ray reflection, _ [prismatic spray](additionalMonsters_dir/../spells_dir/prismaticSpray#_prismatic-spray)_ | 9th |
+| Ancient | Ray reflection, _ [prismatic spray](../additionalMonsters_dir/../spells_dir/prismaticSpray#_prismatic-spray)_ | 9th |
 | Wyrm | DR 20_dir/magic | 11th |
-| Great wyrm | _ [Imprisonment](additionalMonsters_dir/../spells_dir/imprisonment#_imprisonment), s_cintillating aura | 13th |
+| Great wyrm | _ [Imprisonment](../additionalMonsters_dir/../spells_dir/imprisonment#_imprisonment), s_cintillating aura | 13th |
 
   
   
@@ -635,9 +635,9 @@ Young Crystal DragonCR 6
 
 **XP 2,400**
 
-CG Medium [dragon](monsters_dir/creatureTypes#_dragon) ( [earth](monsters_dir/creatureTypes#_earth-subtype), extraplanar)
+CG Medium [dragon](../monsters_dir/creatureTypes#_dragon) ( [earth](../monsters_dir/creatureTypes#_earth-subtype), extraplanar)
 
-**Init** +2; **Senses** [dragon](monsters_dir/creatureTypes#_dragon) senses, tremorsense 30 ft.; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +11
+**Init** +2; **Senses** [dragon](../monsters_dir/creatureTypes#_dragon) senses, tremorsense 30 ft.; [Perception](../additionalMonsters_dir/../skills_dir/perception#_perception) +11
 
 Defense
 
@@ -657,11 +657,11 @@ Offense
 
 **Space** 5 ft.; **Reach** 5 ft. (10 ft. with bite)
 
-**Special Attacks** [breath weapon](monsters_dir/universalMonsterRules#_breath-weapon) (30-ft. cone, 6d4 sonic, DC 16)
+**Special Attacks** [breath weapon](../monsters_dir/universalMonsterRules#_breath-weapon) (30-ft. cone, 6d4 sonic, DC 16)
 
 **Spell-Like Abilities** (CL 7th; concentration +11)
 
-At will—_ [color spray](additionalMonsters_dir/../spells_dir/colorSpray#_color-spray)_ (DC 15)
+At will—_ [color spray](../additionalMonsters_dir/../spells_dir/colorSpray#_color-spray)_ (DC 15)
 
 Statistics
 
@@ -669,9 +669,9 @@ Statistics
 
 **Base Atk** +7; **CMB** +10; **CMD** 22 (26 vs. trip)
 
-**Feats** [Deceitful](additionalMonsters_dir/../feats#_deceitful), [Great Fortitude](additionalMonsters_dir/../feats#_great-fortitude), [Lightning Reflexes](additionalMonsters_dir/../feats#_lightning-reflexes), [Power Attack](additionalMonsters_dir/../feats#_power-attack)
+**Feats** [Deceitful](../additionalMonsters_dir/../feats#_deceitful), [Great Fortitude](../additionalMonsters_dir/../feats#_great-fortitude), [Lightning Reflexes](../additionalMonsters_dir/../feats#_lightning-reflexes), [Power Attack](../additionalMonsters_dir/../feats#_power-attack)
 
-**Skills** [Bluff](additionalMonsters_dir/../skills_dir/bluff#_bluff) +16, [Climb](additionalMonsters_dir/../skills_dir/climb#_climb) +21, [Disguise](additionalMonsters_dir/../skills_dir/disguise#_disguise) +6, [Fly](additionalMonsters_dir/../skills_dir/fly#_fly) +12, [Intimidate](additionalMonsters_dir/../skills_dir/intimidate#_intimidate) +14, [Knowledge](additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (dungeoneering) +11, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +11, [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) +12
+**Skills** [Bluff](../additionalMonsters_dir/../skills_dir/bluff#_bluff) +16, [Climb](../additionalMonsters_dir/../skills_dir/climb#_climb) +21, [Disguise](../additionalMonsters_dir/../skills_dir/disguise#_disguise) +6, [Fly](../additionalMonsters_dir/../skills_dir/fly#_fly) +12, [Intimidate](../additionalMonsters_dir/../skills_dir/intimidate#_intimidate) +14, [Knowledge](../additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (dungeoneering) +11, [Perception](../additionalMonsters_dir/../skills_dir/perception#_perception) +11, [Stealth](../additionalMonsters_dir/../skills_dir/stealth#_stealth) +12
 
 **Languages** Draconic, Undercommon
 
@@ -681,9 +681,9 @@ Adult Crystal DragonCR 10
 
 **XP 9,600**
 
-CG Large [dragon](monsters_dir/creatureTypes#_dragon) ( [earth](monsters_dir/creatureTypes#_earth-subtype), extraplanar)
+CG Large [dragon](../monsters_dir/creatureTypes#_dragon) ( [earth](../monsters_dir/creatureTypes#_earth-subtype), extraplanar)
 
-**Init** +1; **Senses** [dragon](monsters_dir/creatureTypes#_dragon) senses, tremorsense 60 ft.; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +19
+**Init** +1; **Senses** [dragon](../monsters_dir/creatureTypes#_dragon) senses, tremorsense 60 ft.; [Perception](../additionalMonsters_dir/../skills_dir/perception#_perception) +19
 
 **Aura** frightful presence (180 ft., DC 22)
 
@@ -705,17 +705,17 @@ Offense
 
 **Space** 10 ft.; **Reach** 5 ft. (10 ft. with bite)
 
-**Special Attacks** [breath weapon](monsters_dir/universalMonsterRules#_breath-weapon) (40-ft. cone, 12d4 sonic, DC 21)
+**Special Attacks** [breath weapon](../monsters_dir/universalMonsterRules#_breath-weapon) (40-ft. cone, 12d4 sonic, DC 21)
 
 **Spell-Like Abilities** (CL 13th; concentration +18)
 
-At will—_ [color spray](additionalMonsters_dir/../spells_dir/colorSpray#_color-spray)_ (DC 17), _ [glitterdust](additionalMonsters_dir/../spells_dir/glitterdust#_glitterdust)_ (DC 18), _ [rainbow pattern](additionalMonsters_dir/../spells_dir/rainbowPattern#_rainbow-pattern)_ (DC 20)
+At will—_ [color spray](../additionalMonsters_dir/../spells_dir/colorSpray#_color-spray)_ (DC 17), _ [glitterdust](../additionalMonsters_dir/../spells_dir/glitterdust#_glitterdust)_ (DC 18), _ [rainbow pattern](../additionalMonsters_dir/../spells_dir/rainbowPattern#_rainbow-pattern)_ (DC 20)
 
 **Spells Known** (CL 1st; concentration +7)
 
-1st (5_dir/day)—_ [shield](additionalMonsters_dir/../spells_dir/shield#_shield)_, _ [unseen servant](additionalMonsters_dir/../spells_dir/unseenServant#_unseen-servant)_
+1st (5_dir/day)—_ [shield](../additionalMonsters_dir/../spells_dir/shield#_shield)_, _ [unseen servant](../additionalMonsters_dir/../spells_dir/unseenServant#_unseen-servant)_
 
-0 (at will)—_ [acid splash](additionalMonsters_dir/../spells_dir/acidSplash#_acid-splash)_, _ [detect magic](additionalMonsters_dir/../spells_dir/detectMagic#_detect-magic)_, _ [ghost sound](additionalMonsters_dir/../spells_dir/ghostSound#_ghost-sound)_, _ [read magic](additionalMonsters_dir/../spells_dir/readMagic#_read-magic)_
+0 (at will)—_ [acid splash](../additionalMonsters_dir/../spells_dir/acidSplash#_acid-splash)_, _ [detect magic](../additionalMonsters_dir/../spells_dir/detectMagic#_detect-magic)_, _ [ghost sound](../additionalMonsters_dir/../spells_dir/ghostSound#_ghost-sound)_, _ [read magic](../additionalMonsters_dir/../spells_dir/readMagic#_read-magic)_
 
 Statistics
 
@@ -723,9 +723,9 @@ Statistics
 
 **Base Atk** +13; **CMB** +20; **CMD** 31 (35 vs. trip)
 
-**Feats** [Deceitful](additionalMonsters_dir/../feats#_deceitful), [Great Fortitude](additionalMonsters_dir/../feats#_great-fortitude), [Improved Critical](additionalMonsters_dir/../feats#_improved-critical) (bite), [Lightning Reflexes](additionalMonsters_dir/../feats#_lightning-reflexes), [Multiattack](additionalMonsters_dir/../monsters_dir/monsterFeats#_multiattack), [Power Attack](additionalMonsters_dir/../feats#_power-attack), [Weapon Focus](additionalMonsters_dir/../feats#_weapon-focus) (bite)
+**Feats** [Deceitful](../additionalMonsters_dir/../feats#_deceitful), [Great Fortitude](../additionalMonsters_dir/../feats#_great-fortitude), [Improved Critical](../additionalMonsters_dir/../feats#_improved-critical) (bite), [Lightning Reflexes](../additionalMonsters_dir/../feats#_lightning-reflexes), [Multiattack](../additionalMonsters_dir/../monsters_dir/monsterFeats#_multiattack), [Power Attack](../additionalMonsters_dir/../feats#_power-attack), [Weapon Focus](../additionalMonsters_dir/../feats#_weapon-focus) (bite)
 
-**Skills** [Bluff](additionalMonsters_dir/../skills_dir/bluff#_bluff) +26, [Climb](additionalMonsters_dir/../skills_dir/climb#_climb) +30, [Disguise](additionalMonsters_dir/../skills_dir/disguise#_disguise) +23, [Fly](additionalMonsters_dir/../skills_dir/fly#_fly) +11, [Intimidate](additionalMonsters_dir/../skills_dir/intimidate#_intimidate) +22, [Knowledge](additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (dungeoneering) +19, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +19, [Sense Motive](additionalMonsters_dir/../skills_dir/senseMotive#_sense-motive) +19, [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) +13
+**Skills** [Bluff](../additionalMonsters_dir/../skills_dir/bluff#_bluff) +26, [Climb](../additionalMonsters_dir/../skills_dir/climb#_climb) +30, [Disguise](../additionalMonsters_dir/../skills_dir/disguise#_disguise) +23, [Fly](../additionalMonsters_dir/../skills_dir/fly#_fly) +11, [Intimidate](../additionalMonsters_dir/../skills_dir/intimidate#_intimidate) +22, [Knowledge](../additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (dungeoneering) +19, [Perception](../additionalMonsters_dir/../skills_dir/perception#_perception) +19, [Sense Motive](../additionalMonsters_dir/../skills_dir/senseMotive#_sense-motive) +19, [Stealth](../additionalMonsters_dir/../skills_dir/stealth#_stealth) +13
 
 **Languages** Common, Draconic, Terran, Undercommon
 
@@ -735,9 +735,9 @@ Ancient Crystal DragonCR 15
 
 **XP 51,200**
 
-CG Huge [dragon](monsters_dir/creatureTypes#_dragon) ( [earth](monsters_dir/creatureTypes#_earth-subtype), extraplanar)
+CG Huge [dragon](../monsters_dir/creatureTypes#_dragon) ( [earth](../monsters_dir/creatureTypes#_earth-subtype), extraplanar)
 
-**Init** +4; **Senses** [dragon](monsters_dir/creatureTypes#_dragon) senses, tremorsense 120 ft.; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +29
+**Init** +4; **Senses** [dragon](../monsters_dir/creatureTypes#_dragon) senses, tremorsense 120 ft.; [Perception](../additionalMonsters_dir/../skills_dir/perception#_perception) +29
 
 **Aura** frightful presence (300 ft., DC 28)
 
@@ -759,25 +759,25 @@ Offense
 
 **Space** 10 ft.; **Reach** 5 ft. (10 ft. with bite)
 
-**Special Attacks** [breath weapon](monsters_dir/universalMonsterRules#_breath-weapon) (50-ft. cone, DC 27, 20d4 sonic, DC 27), crush
+**Special Attacks** [breath weapon](../monsters_dir/universalMonsterRules#_breath-weapon) (50-ft. cone, DC 27, 20d4 sonic, DC 27), crush
 
 **Spell-Like Abilities** (CL 21th; concentration +29)
 
-At will—_ [color spray](additionalMonsters_dir/../spells_dir/colorSpray#_color-spray)_ (DC 19), _ [glitterdust](additionalMonsters_dir/../spells_dir/glitterdust#_glitterdust)_ (DC 20), _ [rainbow pattern](additionalMonsters_dir/../spells_dir/rainbowPattern#_rainbow-pattern)_ (DC 22)
+At will—_ [color spray](../additionalMonsters_dir/../spells_dir/colorSpray#_color-spray)_ (DC 19), _ [glitterdust](../additionalMonsters_dir/../spells_dir/glitterdust#_glitterdust)_ (DC 20), _ [rainbow pattern](../additionalMonsters_dir/../spells_dir/rainbowPattern#_rainbow-pattern)_ (DC 22)
 
-3_dir/day—_ [prismatic spray](additionalMonsters_dir/../spells_dir/prismaticSpray#_prismatic-spray)_ (DC 25), _ [stone to flesh](additionalMonsters_dir/../spells_dir/stoneToFlesh#_stone-to-flesh)_ (DC 24)
+3_dir/day—_ [prismatic spray](../additionalMonsters_dir/../spells_dir/prismaticSpray#_prismatic-spray)_ (DC 25), _ [stone to flesh](../additionalMonsters_dir/../spells_dir/stoneToFlesh#_stone-to-flesh)_ (DC 24)
 
 **Spells Known** (CL 9th; concentration +17)
 
-4th (6_dir/day)—_ [dimension door](additionalMonsters_dir/../spells_dir/dimensionDoor#_dimension-door)_, _ [phantasmal killer](additionalMonsters_dir/../spells_dir/phantasmalKiller#_phantasmal-killer)_ (DC 22)
+4th (6_dir/day)—_ [dimension door](../additionalMonsters_dir/../spells_dir/dimensionDoor#_dimension-door)_, _ [phantasmal killer](../additionalMonsters_dir/../spells_dir/phantasmalKiller#_phantasmal-killer)_ (DC 22)
 
-3rd (8_dir/day)—_ [displacement](additionalMonsters_dir/../spells_dir/displacement#_displacement)_, _ [lightning bolt](additionalMonsters_dir/../spells_dir/lightningBolt#_lightning-bolt) _(DC 21), _ [major image](additionalMonsters_dir/../spells_dir/majorImage#_major-image)_ (DC 21)
+3rd (8_dir/day)—_ [displacement](../additionalMonsters_dir/../spells_dir/displacement#_displacement)_, _ [lightning bolt](../additionalMonsters_dir/../spells_dir/lightningBolt#_lightning-bolt) _(DC 21), _ [major image](../additionalMonsters_dir/../spells_dir/majorImage#_major-image)_ (DC 21)
 
-2nd (8_dir/day)—_ [blindness_dir/deafness](additionalMonsters_dir/../spells_dir/blindnessDeafness#_blindness-deafness) _(DC 20), _ [invisibility](additionalMonsters_dir/../spells_dir/invisibility#_invisibility)_, _ [minor image](additionalMonsters_dir/../spells_dir/minorImage#_minor-image)_ (DC 20), _ [mirror image](additionalMonsters_dir/../spells_dir/mirrorImage#_mirror-image)_
+2nd (8_dir/day)—_ [blindness_dir/deafness](../additionalMonsters_dir/../spells_dir/blindnessDeafness#_blindness-deafness) _(DC 20), _ [invisibility](../additionalMonsters_dir/../spells_dir/invisibility#_invisibility)_, _ [minor image](../additionalMonsters_dir/../spells_dir/minorImage#_minor-image)_ (DC 20), _ [mirror image](../additionalMonsters_dir/../spells_dir/mirrorImage#_mirror-image)_
 
-1st (8_dir/day)—_ [alarm](additionalMonsters_dir/../spells_dir/alarm#_alarm)_, _ [feather fall](additionalMonsters_dir/../spells_dir/featherFall#_feather-fall)_, _ [magic aura](additionalMonsters_dir/../spells_dir/magicAura#_magic-aura)_, _ [silent image](additionalMonsters_dir/../spells_dir/silentImage#_silent-image) _(DC 19), _ [unseen servant](additionalMonsters_dir/../spells_dir/unseenServant#_unseen-servant)_
+1st (8_dir/day)—_ [alarm](../additionalMonsters_dir/../spells_dir/alarm#_alarm)_, _ [feather fall](../additionalMonsters_dir/../spells_dir/featherFall#_feather-fall)_, _ [magic aura](../additionalMonsters_dir/../spells_dir/magicAura#_magic-aura)_, _ [silent image](../additionalMonsters_dir/../spells_dir/silentImage#_silent-image) _(DC 19), _ [unseen servant](../additionalMonsters_dir/../spells_dir/unseenServant#_unseen-servant)_
 
-0 (at will)—_ [acid splash](additionalMonsters_dir/../spells_dir/acidSplash#_acid-splash)_, _ [detect magic](additionalMonsters_dir/../spells_dir/detectMagic#_detect-magic)_, _ [detect poison](additionalMonsters_dir/../spells_dir/detectPoison#_detect-poison)_, _ [ghost sound](additionalMonsters_dir/../spells_dir/ghostSound#_ghost-sound)_, _ [mage hand](additionalMonsters_dir/../spells_dir/mageHand#_mage-hand)_, _ [message](additionalMonsters_dir/../spells_dir/message#_message)_, _ [read magic](additionalMonsters_dir/../spells_dir/readMagic#_read-magic)_, _ [touch of fatigue](additionalMonsters_dir/../spells_dir/touchOfFatigue#_touch-of-fatigue)_
+0 (at will)—_ [acid splash](../additionalMonsters_dir/../spells_dir/acidSplash#_acid-splash)_, _ [detect magic](../additionalMonsters_dir/../spells_dir/detectMagic#_detect-magic)_, _ [detect poison](../additionalMonsters_dir/../spells_dir/detectPoison#_detect-poison)_, _ [ghost sound](../additionalMonsters_dir/../spells_dir/ghostSound#_ghost-sound)_, _ [mage hand](../additionalMonsters_dir/../spells_dir/mageHand#_mage-hand)_, _ [message](../additionalMonsters_dir/../spells_dir/message#_message)_, _ [read magic](../additionalMonsters_dir/../spells_dir/readMagic#_read-magic)_, _ [touch of fatigue](../additionalMonsters_dir/../spells_dir/touchOfFatigue#_touch-of-fatigue)_
 
 Statistics
 
@@ -785,9 +785,9 @@ Statistics
 
 **Base Atk** +21; **CMB** +33; **CMD** 43 (47 vs. trip)
 
-**Feats** [Deceitful](additionalMonsters_dir/../feats#_deceitful), [Great Fortitude](additionalMonsters_dir/../feats#_great-fortitude), [Greater Vital Strike](additionalMonsters_dir/../feats#_greater-vital-strike), [Improved Critical](additionalMonsters_dir/../feats#_improved-critical) (bite), [Improved Initiative](additionalMonsters_dir/../feats#_improved-initiative), [Improved Vital Strike](additionalMonsters_dir/../feats#_improved-vital-strike), [Lightning Reflexes](additionalMonsters_dir/../feats#_lightning-reflexes), [Multiattack](additionalMonsters_dir/../monsters_dir/monsterFeats#_multiattack), [Power Attack](additionalMonsters_dir/../feats#_power-attack), [Vital Strike](additionalMonsters_dir/../feats#_vital-strike), [Weapon Focus](additionalMonsters_dir/../feats#_weapon-focus) (bite)
+**Feats** [Deceitful](../additionalMonsters_dir/../feats#_deceitful), [Great Fortitude](../additionalMonsters_dir/../feats#_great-fortitude), [Greater Vital Strike](../additionalMonsters_dir/../feats#_greater-vital-strike), [Improved Critical](../additionalMonsters_dir/../feats#_improved-critical) (bite), [Improved Initiative](../additionalMonsters_dir/../feats#_improved-initiative), [Improved Vital Strike](../additionalMonsters_dir/../feats#_improved-vital-strike), [Lightning Reflexes](../additionalMonsters_dir/../feats#_lightning-reflexes), [Multiattack](../additionalMonsters_dir/../monsters_dir/monsterFeats#_multiattack), [Power Attack](../additionalMonsters_dir/../feats#_power-attack), [Vital Strike](../additionalMonsters_dir/../feats#_vital-strike), [Weapon Focus](../additionalMonsters_dir/../feats#_weapon-focus) (bite)
 
-**Skills** [Bluff](additionalMonsters_dir/../skills_dir/bluff#_bluff) +36, [Climb](additionalMonsters_dir/../skills_dir/climb#_climb) +42, [Disguise](additionalMonsters_dir/../skills_dir/disguise#_disguise) +33, [Fly](additionalMonsters_dir/../skills_dir/fly#_fly) +16, [Intimidate](additionalMonsters_dir/../skills_dir/intimidate#_intimidate) +32, [Knowledge](additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (dungeoneering, geography) +29, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +29, [Sense Motive](additionalMonsters_dir/../skills_dir/senseMotive#_sense-motive) +29, [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) +16, [Survival](additionalMonsters_dir/../skills_dir/survival#_survival) +29
+**Skills** [Bluff](../additionalMonsters_dir/../skills_dir/bluff#_bluff) +36, [Climb](../additionalMonsters_dir/../skills_dir/climb#_climb) +42, [Disguise](../additionalMonsters_dir/../skills_dir/disguise#_disguise) +33, [Fly](../additionalMonsters_dir/../skills_dir/fly#_fly) +16, [Intimidate](../additionalMonsters_dir/../skills_dir/intimidate#_intimidate) +32, [Knowledge](../additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (dungeoneering, geography) +29, [Perception](../additionalMonsters_dir/../skills_dir/perception#_perception) +29, [Sense Motive](../additionalMonsters_dir/../skills_dir/senseMotive#_sense-motive) +29, [Stealth](../additionalMonsters_dir/../skills_dir/stealth#_stealth) +16, [Survival](../additionalMonsters_dir/../skills_dir/survival#_survival) +29
 
 **Languages** Common, Draconic, Dwarven, Elven, Terran, Undercommon
 
@@ -803,7 +803,7 @@ Between this dragon's jet-black scales run glowing rivulets of lava, and veins a
 
 Magma Dragon
 
-CN [dragon](monsters_dir/creatureTypes#_dragon) ( [extraplanar](monsters_dir/creatureTypes#_extraplanar-subtype), [fire](monsters_dir/creatureTypes#_fire-subtype))
+CN [dragon](../monsters_dir/creatureTypes#_dragon) ( [extraplanar](../monsters_dir/creatureTypes#_extraplanar-subtype), [fire](../monsters_dir/creatureTypes#_fire-subtype))
 
 Base Statistics
 
@@ -811,13 +811,13 @@ Base Statistics
 
 **Speed** 40 ft.
 
-**Natural Armor** +4; **[Breath Weapon](monsters_dir/universalMonsterRules#_breath-weapon)** cone, 2d6 [fire](monsters_dir/creatureTypes#_fire-subtype)
+**Natural Armor** +4; **[Breath Weapon](../monsters_dir/universalMonsterRules#_breath-weapon)** cone, 2d6 [fire](../monsters_dir/creatureTypes#_fire-subtype)
 
 **Str** 13, **Dex** 16, **Con** 13, **Int** 12, **Wis** 12, **Cha** 11
 
 Ecology
 
-**Environment** any mountains or underground (Plane of [Fire](monsters_dir/creatureTypes#_fire-subtype))
+**Environment** any mountains or underground (Plane of [Fire](../monsters_dir/creatureTypes#_fire-subtype))
 
 **Organization** solitary
 
@@ -825,29 +825,29 @@ Ecology
 
 Special Abilities
 
-**Magma Tomb (Su)** Once per day, a great wyrm magma [dragon](monsters_dir/creatureTypes#_dragon) can spit lava onto a target within 120 feet, dealing damage normally for its [breath weapon](monsters_dir/universalMonsterRules#_breath-weapon). This magma cools instantly—it does not continue doing damage at this point but does [entrap](monsters_dir/universalMonsterRules#_entrap-(ex-or-su)) the victim (see universal monster rules in appendix; DC equals the [dragon](monsters_dir/creatureTypes#_dragon)'s [breath weapon](monsters_dir/universalMonsterRules#_breath-weapon) save DC, 3d6 minutes, hardness 8, hp 45).
+**Magma Tomb (Su)** Once per day, a great wyrm magma [dragon](../monsters_dir/creatureTypes#_dragon) can spit lava onto a target within 120 feet, dealing damage normally for its [breath weapon](../monsters_dir/universalMonsterRules#_breath-weapon). This magma cools instantly—it does not continue doing damage at this point but does [entrap](../monsters_dir/universalMonsterRules#_entrap-(ex-or-su)) the victim (see universal monster rules in appendix; DC equals the [dragon](../monsters_dir/creatureTypes#_dragon)'s [breath weapon](../monsters_dir/universalMonsterRules#_breath-weapon) save DC, 3d6 minutes, hardness 8, hp 45).
 
-**Magma Breath (Su)** Three times per day, an ancient or older magma [dragon](monsters_dir/creatureTypes#_dragon) can breathe a cone of lava instead of [fire](monsters_dir/creatureTypes#_fire-subtype). The damage is unchanged, but the magma clings to those it damages, dealing half damage each round thereafter for 1d3 rounds. After this magma cools, it crumbles to dust.
+**Magma Breath (Su)** Three times per day, an ancient or older magma [dragon](../monsters_dir/creatureTypes#_dragon) can breathe a cone of lava instead of [fire](../monsters_dir/creatureTypes#_fire-subtype). The damage is unchanged, but the magma clings to those it damages, dealing half damage each round thereafter for 1d3 rounds. After this magma cools, it crumbles to dust.
 
-**Spell-Like Abilities (Sp)** A magma [dragon](monsters_dir/creatureTypes#_dragon) gains the following spell-like abilities, usable at will (unless indicated otherwise) on reaching the listed age category. Very young—_ [burning hands](additionalMonsters_dir/../spells_dir/burningHands#_burning-hands)_; Juvenile—_ [scorching ray](additionalMonsters_dir/../spells_dir/scorchingRay#_scorching-ray)_; Adult—_ [wall of fire](additionalMonsters_dir/../spells_dir/wallOfFire#_wall-of-fire)_; Old—_ [fire shield](additionalMonsters_dir/../spells_dir/fireShield#_fire-shield) _(warm shield, constant); Ancient—_ [delayed blast fireball](additionalMonsters_dir/../spells_dir/delayedBlastFireball#_delayed-blast-fireball)_ (3_dir/day); Great wyrm—_ [wall of lava](additionalMonsters_dir/../advanced_dir/spells_dir/wallOfLava#_wall-of-lava)_.
+**Spell-Like Abilities (Sp)** A magma [dragon](../monsters_dir/creatureTypes#_dragon) gains the following spell-like abilities, usable at will (unless indicated otherwise) on reaching the listed age category. Very young—_ [burning hands](../additionalMonsters_dir/../spells_dir/burningHands#_burning-hands)_; Juvenile—_ [scorching ray](../additionalMonsters_dir/../spells_dir/scorchingRay#_scorching-ray)_; Adult—_ [wall of fire](../additionalMonsters_dir/../spells_dir/wallOfFire#_wall-of-fire)_; Old—_ [fire shield](../additionalMonsters_dir/../spells_dir/fireShield#_fire-shield) _(warm shield, constant); Ancient—_ [delayed blast fireball](../additionalMonsters_dir/../spells_dir/delayedBlastFireball#_delayed-blast-fireball)_ (3_dir/day); Great wyrm—_ [wall of lava](../additionalMonsters_dir/../advanced_dir/spells_dir/wallOfLava#_wall-of-lava)_.
 
-**Superheated (Su)** At young age and older, a magma [dragon](monsters_dir/creatureTypes#_dragon)'s bite attack deals additional [fire](monsters_dir/creatureTypes#_fire-subtype) damage equal to its age category.
+**Superheated (Su)** At young age and older, a magma [dragon](../monsters_dir/creatureTypes#_dragon)'s bite attack deals additional [fire](../monsters_dir/creatureTypes#_fire-subtype) damage equal to its age category.
 
 [Table: Magma Special Abilities]
 | Age Category | Special Abilities | Caster Level |
 | --- | --- | --- |
 | Wyrmling | Immune to fire, vulnerable to cold | — |
-| Very young | _ [Burning hands](additionalMonsters_dir/../spells_dir/burningHands#_burning-hands)_ | — |
+| Very young | _ [Burning hands](../additionalMonsters_dir/../spells_dir/burningHands#_burning-hands)_ | — |
 | Young | Superheated | 1st |
-| Juvenile | _ [Scorching ray](additionalMonsters_dir/../spells_dir/scorchingRay#_scorching-ray)_ | 3rd |
+| Juvenile | _ [Scorching ray](../additionalMonsters_dir/../spells_dir/scorchingRay#_scorching-ray)_ | 3rd |
 | Young adult | DR 5_dir/magic, spell resistance | 5th |
-| Adult | Frightful presence, _ [wall of fire](additionalMonsters_dir/../spells_dir/wallOfFire#_wall-of-fire)_ | 7th |
+| Adult | Frightful presence, _ [wall of fire](../additionalMonsters_dir/../spells_dir/wallOfFire#_wall-of-fire)_ | 7th |
 | Mature adult | DR 10_dir/magic | 9th |
-| Old | _ [Fire shield](additionalMonsters_dir/../spells_dir/fireShield#_fire-shield)_ | 11th |
+| Old | _ [Fire shield](../additionalMonsters_dir/../spells_dir/fireShield#_fire-shield)_ | 11th |
 | Very old | DR 15_dir/magic | 13th |
-| Ancient | Magma breath, _ [delayed blast fireball](additionalMonsters_dir/../spells_dir/delayedBlastFireball#_delayed-blast-fireball)_ | 15th |
+| Ancient | Magma breath, _ [delayed blast fireball](../additionalMonsters_dir/../spells_dir/delayedBlastFireball#_delayed-blast-fireball)_ | 15th |
 | Wyrm | DR 20_dir/magic | 17th |
-| Great wyrm | Magma tomb, _ [wall of lava](additionalMonsters_dir/../advanced_dir/spells_dir/wallOfLava#_wall-of-lava)_ | 19th |
+| Great wyrm | Magma tomb, _ [wall of lava](../additionalMonsters_dir/../advanced_dir/spells_dir/wallOfLava#_wall-of-lava)_ | 19th |
 
   
   
@@ -856,9 +856,9 @@ Young Magma DragonCR 8
 
 **XP 4,800**
 
-CN Medium [dragon](monsters_dir/creatureTypes#_dragon) (extraplanar, [fire](monsters_dir/creatureTypes#_fire-subtype))
+CN Medium [dragon](../monsters_dir/creatureTypes#_dragon) (extraplanar, [fire](../monsters_dir/creatureTypes#_fire-subtype))
 
-**Init** +6; **Senses** [dragon](monsters_dir/creatureTypes#_dragon) senses; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +14
+**Init** +6; **Senses** [dragon](../monsters_dir/creatureTypes#_dragon) senses; [Perception](../additionalMonsters_dir/../skills_dir/perception#_perception) +14
 
 Defense
 
@@ -868,27 +868,27 @@ Defense
 
 **Fort** +11, **Ref** +8, **Will** +10
 
-**Immune** [fire](monsters_dir/creatureTypes#_fire-subtype), paralysis, sleep
+**Immune** [fire](../monsters_dir/creatureTypes#_fire-subtype), paralysis, sleep
 
-**Weaknesses** vulnerable to [cold](monsters_dir/creatureTypes#_cold-subtype)
+**Weaknesses** vulnerable to [cold](../monsters_dir/creatureTypes#_cold-subtype)
 
 Offense
 
 **Speed** 40 ft., fly 150 ft. (average)
 
-**Melee** bite +17 (1d8+12 plus 3 [fire](monsters_dir/creatureTypes#_fire-subtype)), 2 claws +17 (1d6+8), 2 wings +12 (1d4+4)
+**Melee** bite +17 (1d8+12 plus 3 [fire](../monsters_dir/creatureTypes#_fire-subtype)), 2 claws +17 (1d6+8), 2 wings +12 (1d4+4)
 
-**Special Attacks** [breath weapon](monsters_dir/universalMonsterRules#_breath-weapon) (30-ft. cone, 6d6 [fire](monsters_dir/creatureTypes#_fire-subtype), DC 17)
+**Special Attacks** [breath weapon](../monsters_dir/universalMonsterRules#_breath-weapon) (30-ft. cone, 6d6 [fire](../monsters_dir/creatureTypes#_fire-subtype), DC 17)
 
 **Spell-Like Abilities** (CL 9th; concentration +10)
 
-At will—_ [burning hands](additionalMonsters_dir/../spells_dir/burningHands#_burning-hands)_ (DC 12)
+At will—_ [burning hands](../additionalMonsters_dir/../spells_dir/burningHands#_burning-hands)_ (DC 12)
 
 **Spells Known** (CL 1st; concentration +2)
 
-1st (4_dir/day)—_ [flare burst](additionalMonsters_dir/../advanced_dir/spells_dir/flareBurst#_flare-burst)_ (DC 12), _ [grease](additionalMonsters_dir/../spells_dir/grease#_grease)_ (DC 12)
+1st (4_dir/day)—_ [flare burst](../additionalMonsters_dir/../advanced_dir/spells_dir/flareBurst#_flare-burst)_ (DC 12), _ [grease](../additionalMonsters_dir/../spells_dir/grease#_grease)_ (DC 12)
 
-0 (at will)—_ [bleed](additionalMonsters_dir/../spells_dir/bleed#_bleed)_ (DC 11), _ [detect magic](additionalMonsters_dir/../spells_dir/detectMagic#_detect-magic)_, _ [open_dir/close](additionalMonsters_dir/../spells_dir/openClose#_open-close)_, _ [spark](additionalMonsters_dir/../advanced_dir/spells_dir/spark#_spark-)_
+0 (at will)—_ [bleed](../additionalMonsters_dir/../spells_dir/bleed#_bleed)_ (DC 11), _ [detect magic](../additionalMonsters_dir/../spells_dir/detectMagic#_detect-magic)_, _ [open_dir/close](../additionalMonsters_dir/../spells_dir/openClose#_open-close)_, _ [spark](../additionalMonsters_dir/../advanced_dir/spells_dir/spark#_spark-)_
 
 Statistics
 
@@ -896,9 +896,9 @@ Statistics
 
 **Base Atk** +9; **CMB** +14; **CMD** 26 (30 vs. trip)
 
-**Feats** [Great Fortitude](additionalMonsters_dir/../feats#_great-fortitude), [Improved Initiative](additionalMonsters_dir/../feats#_improved-initiative), [Iron Will](additionalMonsters_dir/../feats#_iron-will), [Power Attack](additionalMonsters_dir/../feats#_power-attack), [Vital Strike](additionalMonsters_dir/../feats#_vital-strike)
+**Feats** [Great Fortitude](../additionalMonsters_dir/../feats#_great-fortitude), [Improved Initiative](../additionalMonsters_dir/../feats#_improved-initiative), [Iron Will](../additionalMonsters_dir/../feats#_iron-will), [Power Attack](../additionalMonsters_dir/../feats#_power-attack), [Vital Strike](../additionalMonsters_dir/../feats#_vital-strike)
 
-**Skills** [Acrobatics](additionalMonsters_dir/../skills_dir/acrobatics#_acrobatics) +11 (+15 jump), [Climb](additionalMonsters_dir/../skills_dir/climb#_climb) +17, [Fly](additionalMonsters_dir/../skills_dir/fly#_fly) +14, [Intimidate](additionalMonsters_dir/../skills_dir/intimidate#_intimidate) +13, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +14, [Sense Motive](additionalMonsters_dir/../skills_dir/senseMotive#_sense-motive) +14, [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) +14, [Swim](additionalMonsters_dir/../skills_dir/swim#_swim) +17
+**Skills** [Acrobatics](../additionalMonsters_dir/../skills_dir/acrobatics#_acrobatics) +11 (+15 jump), [Climb](../additionalMonsters_dir/../skills_dir/climb#_climb) +17, [Fly](../additionalMonsters_dir/../skills_dir/fly#_fly) +14, [Intimidate](../additionalMonsters_dir/../skills_dir/intimidate#_intimidate) +13, [Perception](../additionalMonsters_dir/../skills_dir/perception#_perception) +14, [Sense Motive](../additionalMonsters_dir/../skills_dir/senseMotive#_sense-motive) +14, [Stealth](../additionalMonsters_dir/../skills_dir/stealth#_stealth) +14, [Swim](../additionalMonsters_dir/../skills_dir/swim#_swim) +17
 
 **Languages** Common, Draconic, Ignan
 
@@ -908,9 +908,9 @@ Adult Magma DragonCR 12
 
 **XP 19,200**
 
-CN Large [dragon](monsters_dir/creatureTypes#_dragon) (extraplanar, [fire](monsters_dir/creatureTypes#_fire-subtype))
+CN Large [dragon](../monsters_dir/creatureTypes#_dragon) (extraplanar, [fire](../monsters_dir/creatureTypes#_fire-subtype))
 
-**Init** +5; **Senses** [dragon](monsters_dir/creatureTypes#_dragon) senses; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +22
+**Init** +5; **Senses** [dragon](../monsters_dir/creatureTypes#_dragon) senses; [Perception](../additionalMonsters_dir/../skills_dir/perception#_perception) +22
 
 **Aura** frightful presence (180 ft., DC 20)
 
@@ -922,33 +922,33 @@ Defense
 
 **Fort** +16, **Ref** +10, **Will** +15
 
-**DR** 5_dir/magic; **Immune** [fire](monsters_dir/creatureTypes#_fire-subtype), paralysis, sleep; **SR** 23
+**DR** 5_dir/magic; **Immune** [fire](../monsters_dir/creatureTypes#_fire-subtype), paralysis, sleep; **SR** 23
 
-**Weaknesses** vulnerable to [cold](monsters_dir/creatureTypes#_cold-subtype)
+**Weaknesses** vulnerable to [cold](../monsters_dir/creatureTypes#_cold-subtype)
 
 Offense
 
 **Speed** 40 ft., fly 200 ft. (poor)
 
-**Melee** bite +22 (2d6+12_dir/19–20 plus 6 [fire](monsters_dir/creatureTypes#_fire-subtype)), 2 claws +22 (1d8+8_dir/19–20), tail slap +17 (1d8+12), 2 wings +17 (1d6+4)
+**Melee** bite +22 (2d6+12_dir/19–20 plus 6 [fire](../monsters_dir/creatureTypes#_fire-subtype)), 2 claws +22 (1d8+8_dir/19–20), tail slap +17 (1d8+12), 2 wings +17 (1d6+4)
 
 **Space** 10 ft.; **Reach** 5 ft. (10 ft. with bite)
 
-**Special Attacks** [breath weapon](monsters_dir/universalMonsterRules#_breath-weapon) (40-ft. cone, 12d6 [fire](monsters_dir/creatureTypes#_fire-subtype), DC 22)
+**Special Attacks** [breath weapon](../monsters_dir/universalMonsterRules#_breath-weapon) (40-ft. cone, 12d6 [fire](../monsters_dir/creatureTypes#_fire-subtype), DC 22)
 
 **Spell-Like Abilities** (CL 15th; concentration +18)
 
-At will—_ [burning hands](additionalMonsters_dir/../spells_dir/burningHands#_burning-hands)_ (DC 14), _ [scorching ray](additionalMonsters_dir/../spells_dir/scorchingRay#_scorching-ray)_, _ [wall of fire](additionalMonsters_dir/../spells_dir/wallOfFire#_wall-of-fire)_
+At will—_ [burning hands](../additionalMonsters_dir/../spells_dir/burningHands#_burning-hands)_ (DC 14), _ [scorching ray](../additionalMonsters_dir/../spells_dir/scorchingRay#_scorching-ray)_, _ [wall of fire](../additionalMonsters_dir/../spells_dir/wallOfFire#_wall-of-fire)_
 
 **Spells Known** (CL 7th; concentration +10)
 
-3rd (5_dir/day)—_ [dispel magic](additionalMonsters_dir/../spells_dir/dispelMagic#_dispel-magic)_, _ [fireball](additionalMonsters_dir/../spells_dir/fireball#_fireball)_ (DC 16)
+3rd (5_dir/day)—_ [dispel magic](../additionalMonsters_dir/../spells_dir/dispelMagic#_dispel-magic)_, _ [fireball](../additionalMonsters_dir/../spells_dir/fireball#_fireball)_ (DC 16)
 
-2nd (7_dir/day)—_ [dust of twilight](additionalMonsters_dir/../advanced_dir/spells_dir/dustOfTwilight#_dust-of-twilight)_, _ [flaming sphere](additionalMonsters_dir/../spells_dir/flamingSphere#_flaming-sphere)_ (DC 15), _ [glitterdust](additionalMonsters_dir/../spells_dir/glitterdust#_glitterdust)_ (DC 15), _pyrotechnics_ (DC 15)
+2nd (7_dir/day)—_ [dust of twilight](../additionalMonsters_dir/../advanced_dir/spells_dir/dustOfTwilight#_dust-of-twilight)_, _ [flaming sphere](../additionalMonsters_dir/../spells_dir/flamingSphere#_flaming-sphere)_ (DC 15), _ [glitterdust](../additionalMonsters_dir/../spells_dir/glitterdust#_glitterdust)_ (DC 15), _pyrotechnics_ (DC 15)
 
-1st (7_dir/day)—_ [feather fall](additionalMonsters_dir/../spells_dir/featherFall#_feather-fall)_, _ [flare burst](additionalMonsters_dir/../advanced_dir/spells_dir/flareBurst#_flare-burst)_ (DC 14), _ [grease](additionalMonsters_dir/../spells_dir/grease#_grease)_ (DC 14), _ [shield](additionalMonsters_dir/../spells_dir/shield#_shield)_, _ [true strike](additionalMonsters_dir/../spells_dir/trueStrike#_true-strike)_
+1st (7_dir/day)—_ [feather fall](../additionalMonsters_dir/../spells_dir/featherFall#_feather-fall)_, _ [flare burst](../additionalMonsters_dir/../advanced_dir/spells_dir/flareBurst#_flare-burst)_ (DC 14), _ [grease](../additionalMonsters_dir/../spells_dir/grease#_grease)_ (DC 14), _ [shield](../additionalMonsters_dir/../spells_dir/shield#_shield)_, _ [true strike](../additionalMonsters_dir/../spells_dir/trueStrike#_true-strike)_
 
-0 (at will)—_ [bleed](additionalMonsters_dir/../spells_dir/bleed#_bleed)_ (DC 13), _ [detect magic](additionalMonsters_dir/../spells_dir/detectMagic#_detect-magic)_, _ [detect poison](additionalMonsters_dir/../spells_dir/detectPoison#_detect-poison)_, _ [open_dir/close](additionalMonsters_dir/../spells_dir/openClose#_open-close)_, _ [read magic](additionalMonsters_dir/../spells_dir/readMagic#_read-magic)_, _ [spark](additionalMonsters_dir/../advanced_dir/spells_dir/spark#_spark-)_, _ [touch of fatigue](additionalMonsters_dir/../spells_dir/touchOfFatigue#_touch-of-fatigue)_
+0 (at will)—_ [bleed](../additionalMonsters_dir/../spells_dir/bleed#_bleed)_ (DC 13), _ [detect magic](../additionalMonsters_dir/../spells_dir/detectMagic#_detect-magic)_, _ [detect poison](../additionalMonsters_dir/../spells_dir/detectPoison#_detect-poison)_, _ [open_dir/close](../additionalMonsters_dir/../spells_dir/openClose#_open-close)_, _ [read magic](../additionalMonsters_dir/../spells_dir/readMagic#_read-magic)_, _ [spark](../additionalMonsters_dir/../advanced_dir/spells_dir/spark#_spark-)_, _ [touch of fatigue](../additionalMonsters_dir/../spells_dir/touchOfFatigue#_touch-of-fatigue)_
 
 Statistics
 
@@ -956,9 +956,9 @@ Statistics
 
 **Base Atk** +15; **CMB** +24; **CMD** 35 (39 vs. trip)
 
-**Feats** [Great Fortitude](additionalMonsters_dir/../feats#_great-fortitude), [Improved Critical](additionalMonsters_dir/../feats#_improved-critical) (bite), [Improved Critical](additionalMonsters_dir/../feats#_improved-critical) (claws), [Improved Initiative](additionalMonsters_dir/../feats#_improved-initiative), [Improved Vital Strike](additionalMonsters_dir/../feats#_improved-vital-strike), [Iron Will](additionalMonsters_dir/../feats#_iron-will), [Power Attack](additionalMonsters_dir/../feats#_power-attack), [Vital Strike](additionalMonsters_dir/../feats#_vital-strike)
+**Feats** [Great Fortitude](../additionalMonsters_dir/../feats#_great-fortitude), [Improved Critical](../additionalMonsters_dir/../feats#_improved-critical) (bite), [Improved Critical](../additionalMonsters_dir/../feats#_improved-critical) (claws), [Improved Initiative](../additionalMonsters_dir/../feats#_improved-initiative), [Improved Vital Strike](../additionalMonsters_dir/../feats#_improved-vital-strike), [Iron Will](../additionalMonsters_dir/../feats#_iron-will), [Power Attack](../additionalMonsters_dir/../feats#_power-attack), [Vital Strike](../additionalMonsters_dir/../feats#_vital-strike)
 
-**Skills** [Acrobatics](additionalMonsters_dir/../skills_dir/acrobatics#_acrobatics) +16 (+20 jump), [Climb](additionalMonsters_dir/../skills_dir/climb#_climb) +26, [Escape Artist](additionalMonsters_dir/../skills_dir/escapeArtist#_escape-artist) +16, [Fly](additionalMonsters_dir/../skills_dir/fly#_fly) +13, [Intimidate](additionalMonsters_dir/../skills_dir/intimidate#_intimidate) +21, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +22, [Sense Motive](additionalMonsters_dir/../skills_dir/senseMotive#_sense-motive) +22, [Sleight of Hand](additionalMonsters_dir/../skills_dir/sleightOfHand#_sleight-of-hand) +16, [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) +15, [Swim](additionalMonsters_dir/../skills_dir/swim#_swim) +26
+**Skills** [Acrobatics](../additionalMonsters_dir/../skills_dir/acrobatics#_acrobatics) +16 (+20 jump), [Climb](../additionalMonsters_dir/../skills_dir/climb#_climb) +26, [Escape Artist](../additionalMonsters_dir/../skills_dir/escapeArtist#_escape-artist) +16, [Fly](../additionalMonsters_dir/../skills_dir/fly#_fly) +13, [Intimidate](../additionalMonsters_dir/../skills_dir/intimidate#_intimidate) +21, [Perception](../additionalMonsters_dir/../skills_dir/perception#_perception) +22, [Sense Motive](../additionalMonsters_dir/../skills_dir/senseMotive#_sense-motive) +22, [Sleight of Hand](../additionalMonsters_dir/../skills_dir/sleightOfHand#_sleight-of-hand) +16, [Stealth](../additionalMonsters_dir/../skills_dir/stealth#_stealth) +15, [Swim](../additionalMonsters_dir/../skills_dir/swim#_swim) +26
 
 **Languages** Common, Draconic, Dwarven, Elven, Ignan
 
@@ -968,9 +968,9 @@ Ancient Magma DragonCR 17
 
 **XP 102,400**
 
-CN Huge [dragon](monsters_dir/creatureTypes#_dragon) (extraplanar, [fire](monsters_dir/creatureTypes#_fire-subtype))
+CN Huge [dragon](../monsters_dir/creatureTypes#_dragon) (extraplanar, [fire](../monsters_dir/creatureTypes#_fire-subtype))
 
-**Init** +4; **Senses** [dragon](monsters_dir/creatureTypes#_dragon) senses; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +32
+**Init** +4; **Senses** [dragon](../monsters_dir/creatureTypes#_dragon) senses; [Perception](../additionalMonsters_dir/../skills_dir/perception#_perception) +32
 
 **Aura** frightful presence (300 ft., DC 26)
 
@@ -982,45 +982,45 @@ Defense
 
 **Fort** +22, **Ref** +13, **Will** +21
 
-**DR** 15_dir/magic; **Immune** [fire](monsters_dir/creatureTypes#_fire-subtype), paralysis, sleep; **SR** 28
+**DR** 15_dir/magic; **Immune** [fire](../monsters_dir/creatureTypes#_fire-subtype), paralysis, sleep; **SR** 28
 
-**Weaknesses** vulnerable to [cold](monsters_dir/creatureTypes#_cold-subtype)
+**Weaknesses** vulnerable to [cold](../monsters_dir/creatureTypes#_cold-subtype)
 
 Offense
 
 **Speed** 40 ft., fly 200 ft. (poor)
 
-**Melee** bite +33 (2d8+18_dir/19–20 plus 10 [fire](monsters_dir/creatureTypes#_fire-subtype)), 2 claws +33 (2d6+12_dir/19–20), tail slap +31 (2d6+18), 2 wings +31 (1d8+6)
+**Melee** bite +33 (2d8+18_dir/19–20 plus 10 [fire](../monsters_dir/creatureTypes#_fire-subtype)), 2 claws +33 (2d6+12_dir/19–20), tail slap +31 (2d6+18), 2 wings +31 (1d8+6)
 
 **Space** 15 ft.; **Reach** 10 ft. (15 ft. with bite)
 
-**Special Attacks** [breath weapon](monsters_dir/universalMonsterRules#_breath-weapon) (50-ft. cone, DC 28, 20d6 [fire](monsters_dir/creatureTypes#_fire-subtype) plus special), crush, magma breath
+**Special Attacks** [breath weapon](../monsters_dir/universalMonsterRules#_breath-weapon) (50-ft. cone, DC 28, 20d6 [fire](../monsters_dir/creatureTypes#_fire-subtype) plus special), crush, magma breath
 
 **Spell-Like Abilities** (CL 23rd; concentration +28)
 
-Constant—_ [fire shield](additionalMonsters_dir/../spells_dir/fireShield#_fire-shield)_ (warm)
+Constant—_ [fire shield](../additionalMonsters_dir/../spells_dir/fireShield#_fire-shield)_ (warm)
 
-At will—_ [burning hands](additionalMonsters_dir/../spells_dir/burningHands#_burning-hands)_ (DC 16), _ [scorching ray](additionalMonsters_dir/../spells_dir/scorchingRay#_scorching-ray)_, _ [wall of fire](additionalMonsters_dir/../spells_dir/wallOfFire#_wall-of-fire)_
+At will—_ [burning hands](../additionalMonsters_dir/../spells_dir/burningHands#_burning-hands)_ (DC 16), _ [scorching ray](../additionalMonsters_dir/../spells_dir/scorchingRay#_scorching-ray)_, _ [wall of fire](../additionalMonsters_dir/../spells_dir/wallOfFire#_wall-of-fire)_
 
-3_dir/day—_ [delayed blast fireball](additionalMonsters_dir/../spells_dir/delayedBlastFireball#_delayed-blast-fireball)_ (DC 22)
+3_dir/day—_ [delayed blast fireball](../additionalMonsters_dir/../spells_dir/delayedBlastFireball#_delayed-blast-fireball)_ (DC 22)
 
 **Spells Known** (CL 15th; concentration +20)
 
-7th (4_dir/day)—_ [greater polymorph](additionalMonsters_dir/../spells_dir/polymorph#_polymorph-greater), [prismatic spray](additionalMonsters_dir/../spells_dir/prismaticSpray#_prismatic-spray)_ (DC 22)
+7th (4_dir/day)—_ [greater polymorph](../additionalMonsters_dir/../spells_dir/polymorph#_polymorph-greater), [prismatic spray](../additionalMonsters_dir/../spells_dir/prismaticSpray#_prismatic-spray)_ (DC 22)
 
-6th (6_dir/day)—_ [chain lightning](additionalMonsters_dir/../spells_dir/chainLightning#_chain-lightning)_ (DC 21), _ [contagious flame](additionalMonsters_dir/../advanced_dir/spells_dir/contagiousFlame#_contagious-flame)_ (DC 21), _ [eyebite](additionalMonsters_dir/../spells_dir/eyebite#_eyebite)_ (DC 21)
+6th (6_dir/day)—_ [chain lightning](../additionalMonsters_dir/../spells_dir/chainLightning#_chain-lightning)_ (DC 21), _ [contagious flame](../additionalMonsters_dir/../advanced_dir/spells_dir/contagiousFlame#_contagious-flame)_ (DC 21), _ [eyebite](../additionalMonsters_dir/../spells_dir/eyebite#_eyebite)_ (DC 21)
 
-5th (7_dir/day)—_ [hungry pit](additionalMonsters_dir/../advanced_dir/spells_dir/hungryPit#_hungry-pit-)_ (DC 20), _ [polymorph](additionalMonsters_dir/../spells_dir/polymorph#_polymorph)_, _ [teleport](additionalMonsters_dir/../spells_dir/teleport#_teleport)_, _ [wall of force](additionalMonsters_dir/../spells_dir/wallOfForce#_wall-of-force)_
+5th (7_dir/day)—_ [hungry pit](../additionalMonsters_dir/../advanced_dir/spells_dir/hungryPit#_hungry-pit-)_ (DC 20), _ [polymorph](../additionalMonsters_dir/../spells_dir/polymorph#_polymorph)_, _ [teleport](../additionalMonsters_dir/../spells_dir/teleport#_teleport)_, _ [wall of force](../additionalMonsters_dir/../spells_dir/wallOfForce#_wall-of-force)_
 
-4th (7_dir/day)—_confusion_ (DC 19), _ [acid pit](additionalMonsters_dir/../advanced_dir/spells_dir/acidPit#_acid-pit-)_ (DC 19), _ [dimensional anchor](additionalMonsters_dir/../spells_dir/dimensionalAnchor#_dimensional)_, _ [fire shield](additionalMonsters_dir/../spells_dir/fireShield#_fire-shield)_
+4th (7_dir/day)—_confusion_ (DC 19), _ [acid pit](../additionalMonsters_dir/../advanced_dir/spells_dir/acidPit#_acid-pit-)_ (DC 19), _ [dimensional anchor](../additionalMonsters_dir/../spells_dir/dimensionalAnchor#_dimensional)_, _ [fire shield](../additionalMonsters_dir/../spells_dir/fireShield#_fire-shield)_
 
-3rd (7_dir/day)—_ [displacement](additionalMonsters_dir/../spells_dir/displacement#_displacement)_, _ [dispel magic](additionalMonsters_dir/../spells_dir/dispelMagic#_dispel-magic)_, _ [fireball](additionalMonsters_dir/../spells_dir/fireball#_fireball)_ (DC 18), _ [wind wall](additionalMonsters_dir/../spells_dir/windWall#_wind-wall)_
+3rd (7_dir/day)—_ [displacement](../additionalMonsters_dir/../spells_dir/displacement#_displacement)_, _ [dispel magic](../additionalMonsters_dir/../spells_dir/dispelMagic#_dispel-magic)_, _ [fireball](../additionalMonsters_dir/../spells_dir/fireball#_fireball)_ (DC 18), _ [wind wall](../additionalMonsters_dir/../spells_dir/windWall#_wind-wall)_
 
-2nd (7_dir/day)—_ [darkness](additionalMonsters_dir/../spells_dir/darkness#_darkness)_, _ [dust of twilight](additionalMonsters_dir/../advanced_dir/spells_dir/dustOfTwilight#_dust-of-twilight)_, _ [flaming sphere](additionalMonsters_dir/../spells_dir/flamingSphere#_flaming-sphere)_ (DC 17), _ [glitterdust](additionalMonsters_dir/../spells_dir/glitterdust#_glitterdust)_ (DC 17), _pyrotechnics_ (DC 17)
+2nd (7_dir/day)—_ [darkness](../additionalMonsters_dir/../spells_dir/darkness#_darkness)_, _ [dust of twilight](../additionalMonsters_dir/../advanced_dir/spells_dir/dustOfTwilight#_dust-of-twilight)_, _ [flaming sphere](../additionalMonsters_dir/../spells_dir/flamingSphere#_flaming-sphere)_ (DC 17), _ [glitterdust](../additionalMonsters_dir/../spells_dir/glitterdust#_glitterdust)_ (DC 17), _pyrotechnics_ (DC 17)
 
-1st (8_dir/day)—_ [feather fall](additionalMonsters_dir/../spells_dir/featherFall#_feather-fall)_, _ [flare burst](additionalMonsters_dir/../advanced_dir/spells_dir/flareBurst#_flare-burst)_ (DC 16), _ [grease](additionalMonsters_dir/../spells_dir/grease#_grease)_ (DC 16), _ [shield](additionalMonsters_dir/../spells_dir/shield#_shield)_, _ [true strike](additionalMonsters_dir/../spells_dir/trueStrike#_true-strike)_
+1st (8_dir/day)—_ [feather fall](../additionalMonsters_dir/../spells_dir/featherFall#_feather-fall)_, _ [flare burst](../additionalMonsters_dir/../advanced_dir/spells_dir/flareBurst#_flare-burst)_ (DC 16), _ [grease](../additionalMonsters_dir/../spells_dir/grease#_grease)_ (DC 16), _ [shield](../additionalMonsters_dir/../spells_dir/shield#_shield)_, _ [true strike](../additionalMonsters_dir/../spells_dir/trueStrike#_true-strike)_
 
-0 (at will)—_ [bleed](additionalMonsters_dir/../spells_dir/bleed#_bleed)_ (DC 15), _ [detect magic](additionalMonsters_dir/../spells_dir/detectMagic#_detect-magic)_, _ [detect poison](additionalMonsters_dir/../spells_dir/detectPoison#_detect-poison)_, _ [ghost sound](additionalMonsters_dir/../spells_dir/ghostSound#_ghost-sound)_, _ [light](additionalMonsters_dir/../spells_dir/light#_light)_, _ [open_dir/close](additionalMonsters_dir/../spells_dir/openClose#_open-close)_, _ [read magic](additionalMonsters_dir/../spells_dir/readMagic#_read-magic)_, _ [spark](additionalMonsters_dir/../advanced_dir/spells_dir/spark#_spark-)_, _ [touch of fatigue](additionalMonsters_dir/../spells_dir/touchOfFatigue#_touch-of-fatigue)_
+0 (at will)—_ [bleed](../additionalMonsters_dir/../spells_dir/bleed#_bleed)_ (DC 15), _ [detect magic](../additionalMonsters_dir/../spells_dir/detectMagic#_detect-magic)_, _ [detect poison](../additionalMonsters_dir/../spells_dir/detectPoison#_detect-poison)_, _ [ghost sound](../additionalMonsters_dir/../spells_dir/ghostSound#_ghost-sound)_, _ [light](../additionalMonsters_dir/../spells_dir/light#_light)_, _ [open_dir/close](../additionalMonsters_dir/../spells_dir/openClose#_open-close)_, _ [read magic](../additionalMonsters_dir/../spells_dir/readMagic#_read-magic)_, _ [spark](../additionalMonsters_dir/../advanced_dir/spells_dir/spark#_spark-)_, _ [touch of fatigue](../additionalMonsters_dir/../spells_dir/touchOfFatigue#_touch-of-fatigue)_
 
 Statistics
 
@@ -1028,11 +1028,11 @@ Statistics
 
 **Base Atk** +23; **CMB** +37; **CMD** 47 (51 vs. trip)
 
-**Feats** [Flyby Attack](additionalMonsters_dir/../monsters_dir/monsterFeats#_flyby-attack), [Great Fortitude](additionalMonsters_dir/../feats#_great-fortitude), [Greater Vital Strike](additionalMonsters_dir/../feats#_greater-vital-strike), [Improved Bull Rush](additionalMonsters_dir/../feats#_improved-bull-rush), [Improved Critical](additionalMonsters_dir/../feats#_improved-critical) (bite), [Improved Critical](additionalMonsters_dir/../feats#_improved-critical) (claws), [Improved Initiative](additionalMonsters_dir/../feats#_improved-initiative), [Improved Vital Strike](additionalMonsters_dir/../feats#_improved-vital-strike), [Iron Will](additionalMonsters_dir/../feats#_iron-will), [Multiattack](additionalMonsters_dir/../monsters_dir/monsterFeats#_multiattack), [Power Attack](additionalMonsters_dir/../feats#_power-attack), [Vital Strike](additionalMonsters_dir/../feats#_vital-strike)
+**Feats** [Flyby Attack](../additionalMonsters_dir/../monsters_dir/monsterFeats#_flyby-attack), [Great Fortitude](../additionalMonsters_dir/../feats#_great-fortitude), [Greater Vital Strike](../additionalMonsters_dir/../feats#_greater-vital-strike), [Improved Bull Rush](../additionalMonsters_dir/../feats#_improved-bull-rush), [Improved Critical](../additionalMonsters_dir/../feats#_improved-critical) (bite), [Improved Critical](../additionalMonsters_dir/../feats#_improved-critical) (claws), [Improved Initiative](../additionalMonsters_dir/../feats#_improved-initiative), [Improved Vital Strike](../additionalMonsters_dir/../feats#_improved-vital-strike), [Iron Will](../additionalMonsters_dir/../feats#_iron-will), [Multiattack](../additionalMonsters_dir/../monsters_dir/monsterFeats#_multiattack), [Power Attack](../additionalMonsters_dir/../feats#_power-attack), [Vital Strike](../additionalMonsters_dir/../feats#_vital-strike)
 
-**Skills** [Acrobatics](additionalMonsters_dir/../skills_dir/acrobatics#_acrobatics) +23 (+27 jump), [Climb](additionalMonsters_dir/../skills_dir/climb#_climb) +38, [Escape Artist](additionalMonsters_dir/../skills_dir/escapeArtist#_escape-artist) +23, [Fly](additionalMonsters_dir/../skills_dir/fly#_fly) +18, [Intimidate](additionalMonsters_dir/../skills_dir/intimidate#_intimidate) +31, [Knowledge](additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (planes) +32, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +32, [Sense Motive](additionalMonsters_dir/../skills_dir/senseMotive#_sense-motive) +32, [Sleight of Hand](additionalMonsters_dir/../skills_dir/sleightOfHand#_sleight-of-hand) +23, [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) +18, [Survival](additionalMonsters_dir/../skills_dir/survival#_survival) +32, [Swim](additionalMonsters_dir/../skills_dir/swim#_swim) +38
+**Skills** [Acrobatics](../additionalMonsters_dir/../skills_dir/acrobatics#_acrobatics) +23 (+27 jump), [Climb](../additionalMonsters_dir/../skills_dir/climb#_climb) +38, [Escape Artist](../additionalMonsters_dir/../skills_dir/escapeArtist#_escape-artist) +23, [Fly](../additionalMonsters_dir/../skills_dir/fly#_fly) +18, [Intimidate](../additionalMonsters_dir/../skills_dir/intimidate#_intimidate) +31, [Knowledge](../additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (planes) +32, [Perception](../additionalMonsters_dir/../skills_dir/perception#_perception) +32, [Sense Motive](../additionalMonsters_dir/../skills_dir/senseMotive#_sense-motive) +32, [Sleight of Hand](../additionalMonsters_dir/../skills_dir/sleightOfHand#_sleight-of-hand) +23, [Stealth](../additionalMonsters_dir/../skills_dir/stealth#_stealth) +18, [Survival](../additionalMonsters_dir/../skills_dir/survival#_survival) +32, [Swim](../additionalMonsters_dir/../skills_dir/swim#_swim) +38
 
-**Languages** Common, Draconic, Dwarven, Elven, [Gnome](monsters_dir/creatureTypes#_gnome-subtype), Halfling, Ignan
+**Languages** Common, Draconic, Dwarven, Elven, [Gnome](../monsters_dir/creatureTypes#_gnome-subtype), Halfling, Ignan
 
 **SQ** superheated
 
@@ -1044,7 +1044,7 @@ This sleek, dark dragon moves with a disturbing, serpentine grace, its eyes glow
 
 Umbral Dragon
 
-CE [dragon](monsters_dir/creatureTypes#_dragon) ( [extraplanar](monsters_dir/creatureTypes#_extraplanar-subtype))
+CE [dragon](../monsters_dir/creatureTypes#_dragon) ( [extraplanar](../monsters_dir/creatureTypes#_extraplanar-subtype))
 
 Base Statistics
 
@@ -1052,7 +1052,7 @@ Base Statistics
 
 **Speed** 40 ft.
 
-**Natural Armor** +6; **[Breath Weapon](monsters_dir/universalMonsterRules#_breath-weapon)** cone, 2d8 negative energy
+**Natural Armor** +6; **[Breath Weapon](../monsters_dir/universalMonsterRules#_breath-weapon)** cone, 2d8 negative energy
 
 **Str** 13, **Dex** 14, **Con** 13, **Int** 14, **Wis** 15, **Cha** 14
 
@@ -1066,35 +1066,35 @@ Ecology
 
 Special Abilities
 
-**[Breath Weapon](monsters_dir/universalMonsterRules#_breath-weapon) (Su)** Although it deals negative energy damage, an umbral [dragon](monsters_dir/creatureTypes#_dragon)'s [breath weapon](monsters_dir/universalMonsterRules#_breath-weapon) does not heal [undead](monsters_dir/creatureTypes#_undead) creatures.
+**[Breath Weapon](../monsters_dir/universalMonsterRules#_breath-weapon) (Su)** Although it deals negative energy damage, an umbral [dragon](../monsters_dir/creatureTypes#_dragon)'s [breath weapon](../monsters_dir/universalMonsterRules#_breath-weapon) does not heal [undead](../monsters_dir/creatureTypes#_undead) creatures.
 
-**Create Shadows (Su)** Any creature slain by an ancient or older umbral [dragon](monsters_dir/creatureTypes#_dragon) rises as a shadow (if 8 HD or less) or greater shadow (if above 8 HD) under the umbral [dragon](monsters_dir/creatureTypes#_dragon)'s control 1d4 rounds later.
+**Create Shadows (Su)** Any creature slain by an ancient or older umbral [dragon](../monsters_dir/creatureTypes#_dragon) rises as a shadow (if 8 HD or less) or greater shadow (if above 8 HD) under the umbral [dragon](../monsters_dir/creatureTypes#_dragon)'s control 1d4 rounds later.
 
-**Energy Drain (Su)** A great wyrm umbral [dragon](monsters_dir/creatureTypes#_dragon) deals 1 negative level with each successful bite or claw attack (1 level, DC 32).
+**Energy Drain (Su)** A great wyrm umbral [dragon](../monsters_dir/creatureTypes#_dragon) deals 1 negative level with each successful bite or claw attack (1 level, DC 32).
 
-**Ghost Bane (Su)** A young or older umbral [dragon](monsters_dir/creatureTypes#_dragon)'s physical attacks deal damage to [incorporeal](monsters_dir/creatureTypes#_incorporeal-subtype) creatures normally.
+**Ghost Bane (Su)** A young or older umbral [dragon](../monsters_dir/creatureTypes#_dragon)'s physical attacks deal damage to [incorporeal](../monsters_dir/creatureTypes#_incorporeal-subtype) creatures normally.
 
-**Umbral Scion (Ex)** Umbral dragons have [negative energy affinity](monsters_dir/universalMonsterRules#_negative-energy-affinity) and are immune to energy drain and death effects.
+**Umbral Scion (Ex)** Umbral dragons have [negative energy affinity](../monsters_dir/universalMonsterRules#_negative-energy-affinity) and are immune to energy drain and death effects.
 
-**Shadow Breath (Su)** Three times per day, an adult or older umbral [dragon](monsters_dir/creatureTypes#_dragon) can breathe a cone of shadows. Creatures who fail a Fortitude save are blinded for 1d4 rounds and take 1 point of Str drain per age category possessed by the [dragon](monsters_dir/creatureTypes#_dragon). A successful save negates the blindness and reduces Str drain to 1d4 points.
+**Shadow Breath (Su)** Three times per day, an adult or older umbral [dragon](../monsters_dir/creatureTypes#_dragon) can breathe a cone of shadows. Creatures who fail a Fortitude save are blinded for 1d4 rounds and take 1 point of Str drain per age category possessed by the [dragon](../monsters_dir/creatureTypes#_dragon). A successful save negates the blindness and reduces Str drain to 1d4 points.
 
-**Spell-Like Abilities (Sp)** An umbral [dragon](monsters_dir/creatureTypes#_dragon) gains the following spell-like abilities, usable at will (unless indicated otherwise) on reaching the listed age category. Young—_ [darkness](additionalMonsters_dir/../spells_dir/darkness#_darkness)_; Juvenile—_ [vampiric touch](additionalMonsters_dir/../spells_dir/vampiricTouch#_vampiric-touch)_; Adult—_ [shadow walk](additionalMonsters_dir/../spells_dir/shadowWalk#_shadow-walk)_; Old—_ [project image](additionalMonsters_dir/../spells_dir/projectImage#_project-image)_; Ancient—_ [finger of death](additionalMonsters_dir/../spells_dir/fingerOfDeath#_finger-of-death)_ (3_dir/day), Great wyrm—_ [shades](additionalMonsters_dir/../spells_dir/shades#_shades)_. An umbral dragon can cast cleric spells as arcane spells.
+**Spell-Like Abilities (Sp)** An umbral [dragon](../monsters_dir/creatureTypes#_dragon) gains the following spell-like abilities, usable at will (unless indicated otherwise) on reaching the listed age category. Young—_ [darkness](../additionalMonsters_dir/../spells_dir/darkness#_darkness)_; Juvenile—_ [vampiric touch](../additionalMonsters_dir/../spells_dir/vampiricTouch#_vampiric-touch)_; Adult—_ [shadow walk](../additionalMonsters_dir/../spells_dir/shadowWalk#_shadow-walk)_; Old—_ [project image](../additionalMonsters_dir/../spells_dir/projectImage#_project-image)_; Ancient—_ [finger of death](../additionalMonsters_dir/../spells_dir/fingerOfDeath#_finger-of-death)_ (3_dir/day), Great wyrm—_ [shades](../additionalMonsters_dir/../spells_dir/shades#_shades)_. An umbral dragon can cast cleric spells as arcane spells.
 
 [Table: Umbral Special Abilities]
 | Age Category | Special Abilities | Caster Level |
 | --- | --- | --- |
 | Wyrmling | Umbral scion, immune to cold | — |
-| Very young | _ [Darkness](additionalMonsters_dir/../spells_dir/darkness#_darkness)_ | — |
+| Very young | _ [Darkness](../additionalMonsters_dir/../spells_dir/darkness#_darkness)_ | — |
 | Young | Ghost bane | 1st |
-| Juvenile | Frightful presence, _ [vampiric touch](additionalMonsters_dir/../spells_dir/vampiricTouch#_vampiric-touch)_ | 3rd |
+| Juvenile | Frightful presence, _ [vampiric touch](../additionalMonsters_dir/../spells_dir/vampiricTouch#_vampiric-touch)_ | 3rd |
 | Young adult | DR 5_dir/magic, spell resistance | 5th |
-| Adult | Shadow breath, _ [shadow walk](additionalMonsters_dir/../spells_dir/shadowWalk#_shadow-walk)_ | 7th |
+| Adult | Shadow breath, _ [shadow walk](../additionalMonsters_dir/../spells_dir/shadowWalk#_shadow-walk)_ | 7th |
 | Mature adult | DR 10_dir/magic | 9th |
-| Old | _ [Project image](additionalMonsters_dir/../spells_dir/projectImage#_project-image)_ | 11th |
+| Old | _ [Project image](../additionalMonsters_dir/../spells_dir/projectImage#_project-image)_ | 11th |
 | Very old | DR 15_dir/magic | 13th |
-| Ancient | Create shadows, _ [finger of death](additionalMonsters_dir/../spells_dir/fingerOfDeath#_finger-of-death)_ | 15th |
+| Ancient | Create shadows, _ [finger of death](../additionalMonsters_dir/../spells_dir/fingerOfDeath#_finger-of-death)_ | 15th |
 | Wyrm | DR 20_dir/magic | 17th |
-| Great wyrm | Energy drain, _ [shades](additionalMonsters_dir/../spells_dir/shades#_shades)_ | 19th |
+| Great wyrm | Energy drain, _ [shades](../additionalMonsters_dir/../spells_dir/shades#_shades)_ | 19th |
 
   
   
@@ -1103,9 +1103,9 @@ Young Umbral DragonCR 10
 
 **XP 9,600**
 
-CE Large [dragon](monsters_dir/creatureTypes#_dragon) ( [extraplanar](monsters_dir/creatureTypes#_extraplanar-subtype))
+CE Large [dragon](../monsters_dir/creatureTypes#_dragon) ( [extraplanar](../monsters_dir/creatureTypes#_extraplanar-subtype))
 
-**Init** +5; **Senses** [dragon](monsters_dir/creatureTypes#_dragon) senses; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +17
+**Init** +5; **Senses** [dragon](../monsters_dir/creatureTypes#_dragon) senses; [Perception](../additionalMonsters_dir/../skills_dir/perception#_perception) +17
 
 Defense
 
@@ -1115,7 +1115,7 @@ Defense
 
 **Fort** +10, **Ref** +8, **Will** +10
 
-**Immune** [cold](monsters_dir/creatureTypes#_cold-subtype), death effects, energy drain, paralysis, sleep
+**Immune** [cold](../monsters_dir/creatureTypes#_cold-subtype), death effects, energy drain, paralysis, sleep
 
 Offense
 
@@ -1125,17 +1125,17 @@ Offense
 
 **Space** 10 ft.; **Reach** 5 ft. (10 ft. with bite)
 
-**Special Attacks** [breath weapon](monsters_dir/universalMonsterRules#_breath-weapon) (40-ft. cone, 6d8 neg. energy, DC 18)
+**Special Attacks** [breath weapon](../monsters_dir/universalMonsterRules#_breath-weapon) (40-ft. cone, 6d8 neg. energy, DC 18)
 
 **Spell-Like Abilities** (CL 11th; concentration +14)
 
-At will—_ [darkness](additionalMonsters_dir/../spells_dir/darkness#_darkness)_
+At will—_ [darkness](../additionalMonsters_dir/../spells_dir/darkness#_darkness)_
 
 **Spells Known** (CL 1st; concentration +4)
 
-1st (4_dir/day)—_ [inflict light wounds](additionalMonsters_dir/../spells_dir/inflictLightWounds#_inflict-light-wounds) _(DC 14)_, [shield](additionalMonsters_dir/../spells_dir/shield#_shield)_
+1st (4_dir/day)—_ [inflict light wounds](../additionalMonsters_dir/../spells_dir/inflictLightWounds#_inflict-light-wounds) _(DC 14)_, [shield](../additionalMonsters_dir/../spells_dir/shield#_shield)_
 
-0 (at will)—_ [bleed](additionalMonsters_dir/../spells_dir/bleed#_bleed)_ (DC 13), _ [detect magic](additionalMonsters_dir/../spells_dir/detectMagic#_detect-magic), [detect poison](additionalMonsters_dir/../spells_dir/detectPoison#_detect-poison), [read magic](additionalMonsters_dir/../spells_dir/readMagic#_read-magic)_
+0 (at will)—_ [bleed](../additionalMonsters_dir/../spells_dir/bleed#_bleed)_ (DC 13), _ [detect magic](../additionalMonsters_dir/../spells_dir/detectMagic#_detect-magic), [detect poison](../additionalMonsters_dir/../spells_dir/detectPoison#_detect-poison), [read magic](../additionalMonsters_dir/../spells_dir/readMagic#_read-magic)_
 
 Statistics
 
@@ -1143,9 +1143,9 @@ Statistics
 
 **Base Atk** +11; **CMB** +17; **CMD** 28 (32 vs. trip)
 
-**Feats** [Hover](additionalMonsters_dir/../monsters_dir/monsterFeats#_hover), [Improved Critical](additionalMonsters_dir/../feats#_improved-critical) (bite), [Improved Initiative](additionalMonsters_dir/../feats#_improved-initiative), [Multiattack](additionalMonsters_dir/../monsters_dir/monsterFeats#_multiattack), [Power Attack](additionalMonsters_dir/../feats#_power-attack), [Vital Strike](additionalMonsters_dir/../feats#_vital-strike)
+**Feats** [Hover](../additionalMonsters_dir/../monsters_dir/monsterFeats#_hover), [Improved Critical](../additionalMonsters_dir/../feats#_improved-critical) (bite), [Improved Initiative](../additionalMonsters_dir/../feats#_improved-initiative), [Multiattack](../additionalMonsters_dir/../monsters_dir/monsterFeats#_multiattack), [Power Attack](../additionalMonsters_dir/../feats#_power-attack), [Vital Strike](../additionalMonsters_dir/../feats#_vital-strike)
 
-**Skills** [Bluff](additionalMonsters_dir/../skills_dir/bluff#_bluff) +17, [Diplomacy](additionalMonsters_dir/../skills_dir/diplomacy#_diplomacy) +17, [Fly](additionalMonsters_dir/../skills_dir/fly#_fly) +9, [Knowledge](additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (arcana, local, planes) +17, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +17, [Sense Motive](additionalMonsters_dir/../skills_dir/senseMotive#_sense-motive) +17, [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) +11
+**Skills** [Bluff](../additionalMonsters_dir/../skills_dir/bluff#_bluff) +17, [Diplomacy](../additionalMonsters_dir/../skills_dir/diplomacy#_diplomacy) +17, [Fly](../additionalMonsters_dir/../skills_dir/fly#_fly) +9, [Knowledge](../additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (arcana, local, planes) +17, [Perception](../additionalMonsters_dir/../skills_dir/perception#_perception) +17, [Sense Motive](../additionalMonsters_dir/../skills_dir/senseMotive#_sense-motive) +17, [Stealth](../additionalMonsters_dir/../skills_dir/stealth#_stealth) +11
 
 **Languages** Abyssal, Common, Draconic, Undercommon
 
@@ -1155,9 +1155,9 @@ Adult Umbral DragonCR 14
 
 **XP 38,400**
 
-CE Huge [dragon](monsters_dir/creatureTypes#_dragon) ( [extraplanar](monsters_dir/creatureTypes#_extraplanar-subtype))
+CE Huge [dragon](../monsters_dir/creatureTypes#_dragon) ( [extraplanar](../monsters_dir/creatureTypes#_extraplanar-subtype))
 
-**Init** +4; **Senses** [dragon](monsters_dir/creatureTypes#_dragon) senses; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +25
+**Init** +4; **Senses** [dragon](../monsters_dir/creatureTypes#_dragon) senses; [Perception](../additionalMonsters_dir/../skills_dir/perception#_perception) +25
 
 **Aura** frightful presence (180 ft., DC 23)
 
@@ -1169,7 +1169,7 @@ Defense
 
 **Fort** +15, **Ref** +10, **Will** +15
 
-**DR** 5_dir/magic; **Immune** [cold](monsters_dir/creatureTypes#_cold-subtype), death effects, energy drain, paralysis, sleep; **SR** 25
+**DR** 5_dir/magic; **Immune** [cold](../monsters_dir/creatureTypes#_cold-subtype), death effects, energy drain, paralysis, sleep; **SR** 25
 
 Offense
 
@@ -1179,21 +1179,21 @@ Offense
 
 **Space** 15 ft.; **Reach** 10 ft. (15 ft. with bite)
 
-**Special Attacks** [breath weapon](monsters_dir/universalMonsterRules#_breath-weapon) (50-ft. cone, DC 23, 12d8 negative energy, DC 23), crush, shadow breath (6 Str)
+**Special Attacks** [breath weapon](../monsters_dir/universalMonsterRules#_breath-weapon) (50-ft. cone, DC 23, 12d8 negative energy, DC 23), crush, shadow breath (6 Str)
 
 **Spell-Like Abilities** (CL 17th; concentration +22)
 
-At will—_ [darkness](additionalMonsters_dir/../spells_dir/darkness#_darkness), [shadow walk](additionalMonsters_dir/../spells_dir/shadowWalk#_shadow-walk), [vampiric touch](additionalMonsters_dir/../spells_dir/vampiricTouch#_vampiric-touch)_
+At will—_ [darkness](../additionalMonsters_dir/../spells_dir/darkness#_darkness), [shadow walk](../additionalMonsters_dir/../spells_dir/shadowWalk#_shadow-walk), [vampiric touch](../additionalMonsters_dir/../spells_dir/vampiricTouch#_vampiric-touch)_
 
 **Spells Known** (CL 7th; concentration +12)
 
-3rd (5_dir/day)—_ [dispel magic](additionalMonsters_dir/../spells_dir/dispelMagic#_dispel-magic), [inflict serious wounds](additionalMonsters_dir/../spells_dir/inflictSeriousWounds#_inflict-serious-wounds) _(DC 18)
+3rd (5_dir/day)—_ [dispel magic](../additionalMonsters_dir/../spells_dir/dispelMagic#_dispel-magic), [inflict serious wounds](../additionalMonsters_dir/../spells_dir/inflictSeriousWounds#_inflict-serious-wounds) _(DC 18)
 
-2nd (7_dir/day)—_ [command undead](additionalMonsters_dir/../spells_dir/commandUndead#_command-undead)_ (DC 17)_, [invisibility](additionalMonsters_dir/../spells_dir/invisibility#_invisibility), [web](additionalMonsters_dir/../spells_dir/web#_web)_ (DC 17)
+2nd (7_dir/day)—_ [command undead](../additionalMonsters_dir/../spells_dir/commandUndead#_command-undead)_ (DC 17)_, [invisibility](../additionalMonsters_dir/../spells_dir/invisibility#_invisibility), [web](../additionalMonsters_dir/../spells_dir/web#_web)_ (DC 17)
 
-1st (8_dir/day)—_ [grease](additionalMonsters_dir/../spells_dir/grease#_grease)_ (DC 16), _ [inflict light wounds](additionalMonsters_dir/../spells_dir/inflictLightWounds#_inflict-light-wounds) _(DC 16), _ [magic missile](additionalMonsters_dir/../spells_dir/magicMissile#_magic-missile), [reduce person](additionalMonsters_dir/../spells_dir/reducePerson#_reduce-person)_ (DC 16), _ [shield](additionalMonsters_dir/../spells_dir/shield#_shield)_
+1st (8_dir/day)—_ [grease](../additionalMonsters_dir/../spells_dir/grease#_grease)_ (DC 16), _ [inflict light wounds](../additionalMonsters_dir/../spells_dir/inflictLightWounds#_inflict-light-wounds) _(DC 16), _ [magic missile](../additionalMonsters_dir/../spells_dir/magicMissile#_magic-missile), [reduce person](../additionalMonsters_dir/../spells_dir/reducePerson#_reduce-person)_ (DC 16), _ [shield](../additionalMonsters_dir/../spells_dir/shield#_shield)_
 
-0 (at will)—_ [bleed](additionalMonsters_dir/../spells_dir/bleed#_bleed)_ (DC 15), _ [detect magic](additionalMonsters_dir/../spells_dir/detectMagic#_detect-magic), [detect poison](additionalMonsters_dir/../spells_dir/detectPoison#_detect-poison), [disrupt undead](additionalMonsters_dir/../spells_dir/disruptUndead#_disrupt-undead)_ (DC 15), _ [mage hand](additionalMonsters_dir/../spells_dir/mageHand#_mage-hand), [ray of frost](additionalMonsters_dir/../spells_dir/rayOfFrost#_ray-of-frost), [read magic](additionalMonsters_dir/../spells_dir/readMagic#_read-magic)_
+0 (at will)—_ [bleed](../additionalMonsters_dir/../spells_dir/bleed#_bleed)_ (DC 15), _ [detect magic](../additionalMonsters_dir/../spells_dir/detectMagic#_detect-magic), [detect poison](../additionalMonsters_dir/../spells_dir/detectPoison#_detect-poison), [disrupt undead](../additionalMonsters_dir/../spells_dir/disruptUndead#_disrupt-undead)_ (DC 15), _ [mage hand](../additionalMonsters_dir/../spells_dir/mageHand#_mage-hand), [ray of frost](../additionalMonsters_dir/../spells_dir/rayOfFrost#_ray-of-frost), [read magic](../additionalMonsters_dir/../spells_dir/readMagic#_read-magic)_
 
 Statistics
 
@@ -1201,9 +1201,9 @@ Statistics
 
 **Base Atk** +17; **CMB** +27; **CMD** 37 (41 vs. trip)
 
-**Feats** [Hover](additionalMonsters_dir/../monsters_dir/monsterFeats#_hover), Imp. Critical (bite), Imp. Initiative, Imp. [Vital Strike](additionalMonsters_dir/../feats#_vital-strike), [Multiattack](additionalMonsters_dir/../monsters_dir/monsterFeats#_multiattack), [Power Attack](additionalMonsters_dir/../feats#_power-attack), [Skill Focus](additionalMonsters_dir/../feats#_skill-focus) ( [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth)), [Snatch](additionalMonsters_dir/../monsters_dir/monsterFeats#_snatch), [Vital Strike](additionalMonsters_dir/../feats#_vital-strike)
+**Feats** [Hover](../additionalMonsters_dir/../monsters_dir/monsterFeats#_hover), Imp. Critical (bite), Imp. Initiative, Imp. [Vital Strike](../additionalMonsters_dir/../feats#_vital-strike), [Multiattack](../additionalMonsters_dir/../monsters_dir/monsterFeats#_multiattack), [Power Attack](../additionalMonsters_dir/../feats#_power-attack), [Skill Focus](../additionalMonsters_dir/../feats#_skill-focus) ( [Stealth](../additionalMonsters_dir/../skills_dir/stealth#_stealth)), [Snatch](../additionalMonsters_dir/../monsters_dir/monsterFeats#_snatch), [Vital Strike](../additionalMonsters_dir/../feats#_vital-strike)
 
-**Skills** [Bluff](additionalMonsters_dir/../skills_dir/bluff#_bluff) +25, [Diplomacy](additionalMonsters_dir/../skills_dir/diplomacy#_diplomacy) +25, [Fly](additionalMonsters_dir/../skills_dir/fly#_fly) +16, Knowledge (arcana, local, planes) +25, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +25, [Sense Motive](additionalMonsters_dir/../skills_dir/senseMotive#_sense-motive) +25, [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) +18, [Survival](additionalMonsters_dir/../skills_dir/survival#_survival) +25
+**Skills** [Bluff](../additionalMonsters_dir/../skills_dir/bluff#_bluff) +25, [Diplomacy](../additionalMonsters_dir/../skills_dir/diplomacy#_diplomacy) +25, [Fly](../additionalMonsters_dir/../skills_dir/fly#_fly) +16, Knowledge (arcana, local, planes) +25, [Perception](../additionalMonsters_dir/../skills_dir/perception#_perception) +25, [Sense Motive](../additionalMonsters_dir/../skills_dir/senseMotive#_sense-motive) +25, [Stealth](../additionalMonsters_dir/../skills_dir/stealth#_stealth) +18, [Survival](../additionalMonsters_dir/../skills_dir/survival#_survival) +25
 
 **Languages** Abyssal, Common, Draconic, Undercommon, 2 more
 
@@ -1213,9 +1213,9 @@ Ancient Umbral DragonCR 19
 
 **XP 204,800**
 
-CE Gargantuan [dragon](monsters_dir/creatureTypes#_dragon) ( [extraplanar](monsters_dir/creatureTypes#_extraplanar-subtype))
+CE Gargantuan [dragon](../monsters_dir/creatureTypes#_dragon) ( [extraplanar](../monsters_dir/creatureTypes#_extraplanar-subtype))
 
-**Init** +3; **Senses** [dragon](monsters_dir/creatureTypes#_dragon) senses; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +35
+**Init** +3; **Senses** [dragon](../monsters_dir/creatureTypes#_dragon) senses; [Perception](../additionalMonsters_dir/../skills_dir/perception#_perception) +35
 
 **Aura** frightful presence (300 ft., DC 29)
 
@@ -1237,31 +1237,31 @@ Offense
 
 **Space** 20 ft.; **Reach** 15 ft. (20 ft. with bite)
 
-**Special Attacks** [breath weapon](monsters_dir/universalMonsterRules#_breath-weapon) (60-ft. cone, 20d8 neg. energy, DC 29), create shadows, crush, shadow breath (10 Str), tail sweep
+**Special Attacks** [breath weapon](../monsters_dir/universalMonsterRules#_breath-weapon) (60-ft. cone, 20d8 neg. energy, DC 29), create shadows, crush, shadow breath (10 Str), tail sweep
 
 **Spell-Like Abilities** (CL 25th; concentration +32)
 
-At will—_ [darkness](additionalMonsters_dir/../spells_dir/darkness#_darkness), [project image](additionalMonsters_dir/../spells_dir/projectImage#_project-image), [shadow walk](additionalMonsters_dir/../spells_dir/shadowWalk#_shadow-walk), [vampiric touch](additionalMonsters_dir/../spells_dir/vampiricTouch#_vampiric-touch)_
+At will—_ [darkness](../additionalMonsters_dir/../spells_dir/darkness#_darkness), [project image](../additionalMonsters_dir/../spells_dir/projectImage#_project-image), [shadow walk](../additionalMonsters_dir/../spells_dir/shadowWalk#_shadow-walk), [vampiric touch](../additionalMonsters_dir/../spells_dir/vampiricTouch#_vampiric-touch)_
 
-3_dir/day—_ [finger of death](additionalMonsters_dir/../spells_dir/fingerOfDeath#_finger-of-death)_ (DC 24)
+3_dir/day—_ [finger of death](../additionalMonsters_dir/../spells_dir/fingerOfDeath#_finger-of-death)_ (DC 24)
 
 **Spells Known** (CL 15th; concentration +22)
 
-7th (5_dir/day)—_ [destruction](additionalMonsters_dir/../spells_dir/destruction#_destruction)_ (DC 24), _ [limited wish](additionalMonsters_dir/../spells_dir/limitedWish#_limited-wish)_
+7th (5_dir/day)—_ [destruction](../additionalMonsters_dir/../spells_dir/destruction#_destruction)_ (DC 24), _ [limited wish](../additionalMonsters_dir/../spells_dir/limitedWish#_limited-wish)_
 
-6th (7_dir/day)—_ [harm](additionalMonsters_dir/../spells_dir/harm#_harm)_ (DC 23), _ [mislead](additionalMonsters_dir/../spells_dir/mislead#_mislead)_, _ [veil](additionalMonsters_dir/../spells_dir/veil#_veil)_ (DC 23)
+6th (7_dir/day)—_ [harm](../additionalMonsters_dir/../spells_dir/harm#_harm)_ (DC 23), _ [mislead](../additionalMonsters_dir/../spells_dir/mislead#_mislead)_, _ [veil](../additionalMonsters_dir/../spells_dir/veil#_veil)_ (DC 23)
 
-5th (7_dir/day)—_ [greater command](additionalMonsters_dir/../spells_dir/command#_command-greater)_ (DC 22), _ [slay living](additionalMonsters_dir/../spells_dir/slayLiving#_slay-living)_ (DC 22), _ [teleport](additionalMonsters_dir/../spells_dir/teleport#_teleport)_, _ [unhallow](additionalMonsters_dir/../spells_dir/unhallow#_unhallow)_
+5th (7_dir/day)—_ [greater command](../additionalMonsters_dir/../spells_dir/command#_command-greater)_ (DC 22), _ [slay living](../additionalMonsters_dir/../spells_dir/slayLiving#_slay-living)_ (DC 22), _ [teleport](../additionalMonsters_dir/../spells_dir/teleport#_teleport)_, _ [unhallow](../additionalMonsters_dir/../spells_dir/unhallow#_unhallow)_
 
-4th (7_dir/day)—_ [enervation](additionalMonsters_dir/../spells_dir/enervation#_enervation), inflict crit. wounds_ (DC 21), _ [phantasmal killer](additionalMonsters_dir/../spells_dir/phantasmalKiller#_phantasmal-killer)_ (DC 21), _ [unholy blight](additionalMonsters_dir/../spells_dir/unholyBlight#_unholy-blight)_ (DC 21)
+4th (7_dir/day)—_ [enervation](../additionalMonsters_dir/../spells_dir/enervation#_enervation), inflict crit. wounds_ (DC 21), _ [phantasmal killer](../additionalMonsters_dir/../spells_dir/phantasmalKiller#_phantasmal-killer)_ (DC 21), _ [unholy blight](../additionalMonsters_dir/../spells_dir/unholyBlight#_unholy-blight)_ (DC 21)
 
-3rd (8_dir/day)—_ [dispel magic](additionalMonsters_dir/../spells_dir/dispelMagic#_dispel-magic), [haste](additionalMonsters_dir/../spells_dir/haste#_haste), [inflict serious wounds](additionalMonsters_dir/../spells_dir/inflictSeriousWounds#_inflict-serious-wounds) _(DC 20), _ [lightning bolt](additionalMonsters_dir/../spells_dir/lightningBolt#_lightning-bolt)_ (DC 20)
+3rd (8_dir/day)—_ [dispel magic](../additionalMonsters_dir/../spells_dir/dispelMagic#_dispel-magic), [haste](../additionalMonsters_dir/../spells_dir/haste#_haste), [inflict serious wounds](../additionalMonsters_dir/../spells_dir/inflictSeriousWounds#_inflict-serious-wounds) _(DC 20), _ [lightning bolt](../additionalMonsters_dir/../spells_dir/lightningBolt#_lightning-bolt)_ (DC 20)
 
-2nd (8_dir/day)—_ [alter self](additionalMonsters_dir/../spells_dir/alterSelf#_alter-self), [blur](additionalMonsters_dir/../spells_dir/blur#_blur), [command undead](additionalMonsters_dir/../spells_dir/commandUndead#_command-undead)_ (DC 19), _ [invisibility](additionalMonsters_dir/../spells_dir/invisibility#_invisibility), [web](additionalMonsters_dir/../spells_dir/web#_web)_ (DC 17)
+2nd (8_dir/day)—_ [alter self](../additionalMonsters_dir/../spells_dir/alterSelf#_alter-self), [blur](../additionalMonsters_dir/../spells_dir/blur#_blur), [command undead](../additionalMonsters_dir/../spells_dir/commandUndead#_command-undead)_ (DC 19), _ [invisibility](../additionalMonsters_dir/../spells_dir/invisibility#_invisibility), [web](../additionalMonsters_dir/../spells_dir/web#_web)_ (DC 17)
 
-1st (8_dir/day)—_ [inflict light wounds](additionalMonsters_dir/../spells_dir/inflictLightWounds#_inflict-light-wounds)_ (DC 18), _ [grease](additionalMonsters_dir/../spells_dir/grease#_grease) _(DC 18), _ [magic missile](additionalMonsters_dir/../spells_dir/magicMissile#_magic-missile), [reduce person](additionalMonsters_dir/../spells_dir/reducePerson#_reduce-person) _(DC 18), _ [shield](additionalMonsters_dir/../spells_dir/shield#_shield)_
+1st (8_dir/day)—_ [inflict light wounds](../additionalMonsters_dir/../spells_dir/inflictLightWounds#_inflict-light-wounds)_ (DC 18), _ [grease](../additionalMonsters_dir/../spells_dir/grease#_grease) _(DC 18), _ [magic missile](../additionalMonsters_dir/../spells_dir/magicMissile#_magic-missile), [reduce person](../additionalMonsters_dir/../spells_dir/reducePerson#_reduce-person) _(DC 18), _ [shield](../additionalMonsters_dir/../spells_dir/shield#_shield)_
 
-0 (at will)—_ [acid splash](additionalMonsters_dir/../spells_dir/acidSplash#_acid-splash), [bleed](additionalMonsters_dir/../spells_dir/bleed#_bleed)_ (DC 17), _ [detect magic](additionalMonsters_dir/../spells_dir/detectMagic#_detect-magic), [detect poison](additionalMonsters_dir/../spells_dir/detectPoison#_detect-poison), [disrupt undead](additionalMonsters_dir/../spells_dir/disruptUndead#_disrupt-undead) _(DC 17), _ [ghost sound](additionalMonsters_dir/../spells_dir/ghostSound#_ghost-sound), [mage hand](additionalMonsters_dir/../spells_dir/mageHand#_mage-hand), [ray of frost](additionalMonsters_dir/../spells_dir/rayOfFrost#_ray-of-frost), [read magic](additionalMonsters_dir/../spells_dir/readMagic#_read-magic)_
+0 (at will)—_ [acid splash](../additionalMonsters_dir/../spells_dir/acidSplash#_acid-splash), [bleed](../additionalMonsters_dir/../spells_dir/bleed#_bleed)_ (DC 17), _ [detect magic](../additionalMonsters_dir/../spells_dir/detectMagic#_detect-magic), [detect poison](../additionalMonsters_dir/../spells_dir/detectPoison#_detect-poison), [disrupt undead](../additionalMonsters_dir/../spells_dir/disruptUndead#_disrupt-undead) _(DC 17), _ [ghost sound](../additionalMonsters_dir/../spells_dir/ghostSound#_ghost-sound), [mage hand](../additionalMonsters_dir/../spells_dir/mageHand#_mage-hand), [ray of frost](../additionalMonsters_dir/../spells_dir/rayOfFrost#_ray-of-frost), [read magic](../additionalMonsters_dir/../spells_dir/readMagic#_read-magic)_
 
 Statistics
 
@@ -1269,9 +1269,9 @@ Statistics
 
 **Base Atk** +25; **CMB** +41; **CMD** 50 (54 vs. trip)
 
-**Feats** [Bleeding Critical](additionalMonsters_dir/../feats#_bleeding-critical), [Critical Focus](additionalMonsters_dir/../feats#_critical-focus), [Flyby Attack](additionalMonsters_dir/../monsters_dir/monsterFeats#_flyby-attack), [Greater Vital Strike](additionalMonsters_dir/../feats#_greater-vital-strike), [Hover](additionalMonsters_dir/../monsters_dir/monsterFeats#_hover), Imp. Critical (bite), Imp. Initiative, Imp. [Vital Strike](additionalMonsters_dir/../feats#_vital-strike), [Multiattack](additionalMonsters_dir/../monsters_dir/monsterFeats#_multiattack), [Power Attack](additionalMonsters_dir/../feats#_power-attack), [Skill Focus](additionalMonsters_dir/../feats#_skill-focus) ( [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth)), [Snatch](additionalMonsters_dir/../monsters_dir/monsterFeats#_snatch), [Vital Strike](additionalMonsters_dir/../feats#_vital-strike)
+**Feats** [Bleeding Critical](../additionalMonsters_dir/../feats#_bleeding-critical), [Critical Focus](../additionalMonsters_dir/../feats#_critical-focus), [Flyby Attack](../additionalMonsters_dir/../monsters_dir/monsterFeats#_flyby-attack), [Greater Vital Strike](../additionalMonsters_dir/../feats#_greater-vital-strike), [Hover](../additionalMonsters_dir/../monsters_dir/monsterFeats#_hover), Imp. Critical (bite), Imp. Initiative, Imp. [Vital Strike](../additionalMonsters_dir/../feats#_vital-strike), [Multiattack](../additionalMonsters_dir/../monsters_dir/monsterFeats#_multiattack), [Power Attack](../additionalMonsters_dir/../feats#_power-attack), [Skill Focus](../additionalMonsters_dir/../feats#_skill-focus) ( [Stealth](../additionalMonsters_dir/../skills_dir/stealth#_stealth)), [Snatch](../additionalMonsters_dir/../monsters_dir/monsterFeats#_snatch), [Vital Strike](../additionalMonsters_dir/../feats#_vital-strike)
 
-**Skills** [Appraise](additionalMonsters_dir/../skills_dir/appraise#_appraise) +35, [Bluff](additionalMonsters_dir/../skills_dir/bluff#_bluff) +35, [Diplomacy](additionalMonsters_dir/../skills_dir/diplomacy#_diplomacy) +35, [Fly](additionalMonsters_dir/../skills_dir/fly#_fly) +13, [Knowledge](additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (arcana, local, planes, religion) +35, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +35, [Sense Motive](additionalMonsters_dir/../skills_dir/senseMotive#_sense-motive) +35, [Spellcraft](additionalMonsters_dir/../skills_dir/spellcraft#_spellcraft) +35, [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) +21, [Survival](additionalMonsters_dir/../skills_dir/survival#_survival) +35
+**Skills** [Appraise](../additionalMonsters_dir/../skills_dir/appraise#_appraise) +35, [Bluff](../additionalMonsters_dir/../skills_dir/bluff#_bluff) +35, [Diplomacy](../additionalMonsters_dir/../skills_dir/diplomacy#_diplomacy) +35, [Fly](../additionalMonsters_dir/../skills_dir/fly#_fly) +13, [Knowledge](../additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (arcana, local, planes, religion) +35, [Perception](../additionalMonsters_dir/../skills_dir/perception#_perception) +35, [Sense Motive](../additionalMonsters_dir/../skills_dir/senseMotive#_sense-motive) +35, [Spellcraft](../additionalMonsters_dir/../skills_dir/spellcraft#_spellcraft) +35, [Stealth](../additionalMonsters_dir/../skills_dir/stealth#_stealth) +21, [Survival](../additionalMonsters_dir/../skills_dir/survival#_survival) +35
 
 **Languages** Abyssal, Common, Draconic, Undercommon, 4 more
 

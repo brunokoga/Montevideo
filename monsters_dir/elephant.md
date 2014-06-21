@@ -10,9 +10,9 @@ _These thick-skinned animals bear large ivory tusks flanking a long, prehensile 
 
 **XP 3,200**
 
-N Huge [animal](creatureTypes#_animal)
+N Huge [animal](../creatureTypes#_animal)
 
-**Init** +0; **Senses** low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skills_dir/perception#_perception) +21
+**Init** +0; **Senses** low-light vision, [scent](../universalMonsterRules#_scent); [Perception](../../skills_dir/perception#_perception) +21
 
 **Defense**
 
@@ -30,7 +30,7 @@ N Huge [animal](creatureTypes#_animal)
 
 **Space** 15 ft.; **Reach** 10 ft.
 
-**Special Attacks** [trample](universalMonsterRules#_trample) (2d8+15; DC 25)
+**Special Attacks** [trample](../universalMonsterRules#_trample) (2d8+15; DC 25)
 
 **Statistics**
 
@@ -38,9 +38,9 @@ N Huge [animal](creatureTypes#_animal)
 
 **Base**  **Atk** +8; **CMB** +20; **CMD** 30 (34 vs. trip)
 
-**Feats** [Endurance](../feats#_endurance), [Great Fortitude](../feats#_great-fortitude), [Improved Bull Rush](../feats#_improved-bull-rush), [Iron Will](../feats#_iron-will), [Power Attack](../feats#_power-attack), [Skill Focus](../feats#_skill-focus) ( [Perception](../skills_dir/perception#_perception))
+**Feats** [Endurance](../../feats#_endurance), [Great Fortitude](../../feats#_great-fortitude), [Improved Bull Rush](../../feats#_improved-bull-rush), [Iron Will](../../feats#_iron-will), [Power Attack](../../feats#_power-attack), [Skill Focus](../../feats#_skill-focus) ( [Perception](../../skills_dir/perception#_perception))
 
-**Skills** [Perception](../skills_dir/perception#_perception) +21
+**Skills** [Perception](../../skills_dir/perception#_perception) +21
 
 **Ecology**
 
@@ -60,9 +60,9 @@ _This creature is larger than a normal elephant, with enormous sweeping tusks an
 
 **XP 6,400**
 
-N Huge [animal](creatureTypes#_animal)
+N Huge [animal](../creatureTypes#_animal)
 
-**Init** +1; **Senses** low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skills_dir/perception#_perception) +24
+**Init** +1; **Senses** low-light vision, [scent](../universalMonsterRules#_scent); [Perception](../../skills_dir/perception#_perception) +24
 
 **Defense**
 
@@ -80,7 +80,7 @@ N Huge [animal](creatureTypes#_animal)
 
 **Space** 15 ft.; **Reach** 15 ft.
 
-**Special Attacks** [trample](universalMonsterRules#_trample) (2d8+18, DC 29)
+**Special Attacks** [trample](../universalMonsterRules#_trample) (2d8+18, DC 29)
 
 **Statistics**
 
@@ -88,9 +88,9 @@ N Huge [animal](creatureTypes#_animal)
 
 **Base**  **Atk** +10; **CMB** +24, **CMD** 35 (39 vs. trip)
 
-**Feats** [Endurance](../feats#_endurance), [Improved Bull Rush](../feats#_improved-bull-rush), [Improved Iron Will](../feats#_improved-iron-will), [Iron Will](../feats#_iron-will), [Power Attack](../feats#_power-attack), [Skill Focus](../feats#_skill-focus) ( [Perception](../skills_dir/perception#_perception)), [Weapon Focus](../feats#_weapon-focus) (gore)
+**Feats** [Endurance](../../feats#_endurance), [Improved Bull Rush](../../feats#_improved-bull-rush), [Improved Iron Will](../../feats#_improved-iron-will), [Iron Will](../../feats#_iron-will), [Power Attack](../../feats#_power-attack), [Skill Focus](../../feats#_skill-focus) ( [Perception](../../skills_dir/perception#_perception)), [Weapon Focus](../../feats#_weapon-focus) (gore)
 
-**Skills** [Perception](../skills_dir/perception#_perception) +24
+**Skills** [Perception](../../skills_dir/perception#_perception) +24
 
 **Ecology**
 

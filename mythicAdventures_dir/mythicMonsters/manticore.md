@@ -10,9 +10,9 @@ Mythic Manticore CR 6_dir/MR 2
 
 XP 2,400
 
-LE Large magical beast ( [mythic](mythicAdventures_dir/mythicMonsters#_mythic-subtype))
+LE Large magical beast ( [mythic](../mythicAdventures_dir/mythicMonsters#_mythic-subtype))
 
-**Init** +2; **Senses** darkvision 60 ft., [low-light vision](monsters_dir/universalMonsterRules#_low-light-vision), [scent](monsters_dir/universalMonsterRules#_scent); [Perception](skills_dir/perception#_perception) +9
+**Init** +2; **Senses** darkvision 60 ft., [low-light vision](../monsters_dir/universalMonsterRules#_low-light-vision), [scent](../monsters_dir/universalMonsterRules#_scent); [Perception](../skills_dir/perception#_perception) +9
 
 Defense
 
@@ -30,11 +30,11 @@ Offense
 
 **Melee** bite +11 (1d8+6), 2 claws +11 (2d4+6)
 
-**Ranged** 4 spikes +9 (1d6+6 plus [poison](monsters_dir/universalMonsterRules#_poison))
+**Ranged** 4 spikes +9 (1d6+6 plus [poison](../monsters_dir/universalMonsterRules#_poison))
 
 **Space** 10 ft.; **Reach** 5 ft.
 
-**Special Attacks** mythic power (2_dir/day, surge +1d6), [poison](monsters_dir/universalMonsterRules#_poison), [pounce](monsters_dir/universalMonsterRules#_pounce), skewer
+**Special Attacks** mythic power (2_dir/day, surge +1d6), [poison](../monsters_dir/universalMonsterRules#_poison), [pounce](../monsters_dir/universalMonsterRules#_pounce), skewer
 
 Statistics
 
@@ -42,9 +42,9 @@ Statistics
 
 **Base Atk** +6; **CMB** +13; **CMD** 25 (29 vs. trip)
 
-**Feats** [Flyby Attack](monsters_dir/monsterFeats#_flyby-attack), [Hover](monsters_dir/monsterFeats#_hover), [Weapon Focus](feats#_weapon-focus) (spikes)M
+**Feats** [Flyby Attack](../monsters_dir/monsterFeats#_flyby-attack), [Hover](../monsters_dir/monsterFeats#_hover), [Weapon Focus](../feats#_weapon-focus) (spikes)M
 
-**Skills** [Fly](skills_dir/fly#_fly) –3, [Perception](skills_dir/perception#_perception) +9, [Survival](skills_dir/survival#_survival) +4 (+8 when tracking); **Racial Modifiers** +4 [Perception](skills_dir/perception#_perception), +4 [Survival](skills_dir/survival#_survival) when tracking
+**Skills** [Fly](../skills_dir/fly#_fly) –3, [Perception](../skills_dir/perception#_perception) +9, [Survival](../skills_dir/survival#_survival) +4 (+8 when tracking); **Racial Modifiers** +4 [Perception](../skills_dir/perception#_perception), +4 [Survival](../skills_dir/survival#_survival) when tracking
 
 **Languages** Common
 

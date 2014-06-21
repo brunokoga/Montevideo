@@ -10,9 +10,9 @@ GrindylowCR 1_dir/2
 
 **XP 200**
 
-CE Small [aberration](monsters_dir/creatureTypes#_aberration) ( [aquatic](monsters_dir/creatureTypes#_aquatic-subtype))
+CE Small [aberration](../monsters_dir/creatureTypes#_aberration) ( [aquatic](../monsters_dir/creatureTypes#_aquatic-subtype))
 
-**Init** +2; **Senses** darkvision 60 ft.; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +4
+**Init** +2; **Senses** darkvision 60 ft.; [Perception](../additionalMonsters_dir/../skills_dir/perception#_perception) +4
 
 Defense
 
@@ -24,7 +24,7 @@ Defense
 
 Offense
 
-**Speed** 15 ft., swim 30 ft., [jet](monsters_dir/universalMonsterRules#_jet) 200 ft.
+**Speed** 15 ft., swim 30 ft., [jet](../monsters_dir/universalMonsterRules#_jet) 200 ft.
 
 **Melee** spear +2 (1d6+1_dir/×3), bite –2 (1d3)
 
@@ -38,9 +38,9 @@ Statistics
 
 **Base Atk** +0; **CMB** +0; **CMD** 12 (18 vs. trip)
 
-**Feats** [Weapon Finesse](additionalMonsters_dir/../feats#_weapon-finesse)
+**Feats** [Weapon Finesse](../additionalMonsters_dir/../feats#_weapon-finesse)
 
-**Skills** [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +4, [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) +14, [Swim](additionalMonsters_dir/../skills_dir/swim#_swim) +13; **Racial Modifiers** +4 [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth)
+**Skills** [Perception](../additionalMonsters_dir/../skills_dir/perception#_perception) +4, [Stealth](../additionalMonsters_dir/../skills_dir/stealth#_stealth) +14, [Swim](../additionalMonsters_dir/../skills_dir/swim#_swim) +13; **Racial Modifiers** +4 [Stealth](../additionalMonsters_dir/../skills_dir/stealth#_stealth)
 
 **Languages** Aquan
 

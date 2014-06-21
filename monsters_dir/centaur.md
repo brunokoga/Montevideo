@@ -10,9 +10,9 @@ _This creature has the sun-bronzed upper body of a seasoned warrior and the lowe
 
 **XP 800**
 
-N Large [monstrous humanoid](creatureTypes#_monstrous-humanoid)
+N Large [monstrous humanoid](../creatureTypes#_monstrous-humanoid)
 
-**Init** +6; **Senses** darkvision 60 ft.; [Perception](../skills_dir/perception#_perception) +7
+**Init** +6; **Senses** darkvision 60 ft.; [Perception](../../skills_dir/perception#_perception) +7
 
 **Defense**
 
@@ -38,9 +38,9 @@ N Large [monstrous humanoid](creatureTypes#_monstrous-humanoid)
 
 **Base Atk** +4; **CMB** +7; **CMD** 19 (23 vs. trip)
 
-**Feats** [Improved Initiative](../feats#_improved-initiative), [Run](../feats#_run)
+**Feats** [Improved Initiative](../../feats#_improved-initiative), [Run](../../feats#_run)
 
-**Skills** [Diplomacy](../skills_dir/diplomacy#_diplomacy) +5, [Intimidate](../skills_dir/intimidate#_intimidate) +6, [Knowledge](../skills_dir/knowledge#_knowledge) (nature) +4, [Perception](../skills_dir/perception#_perception) +7, [Survival](../skills_dir/survival#_survival) +9
+**Skills** [Diplomacy](../../skills_dir/diplomacy#_diplomacy) +5, [Intimidate](../../skills_dir/intimidate#_intimidate) +6, [Knowledge](../../skills_dir/knowledge#_knowledge) (nature) +4, [Perception](../../skills_dir/perception#_perception) +7, [Survival](../../skills_dir/survival#_survival) +9
 
 **Languages** Common, Elven, Sylvan
 

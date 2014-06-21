@@ -12,7 +12,7 @@ XP 800
 
 NE Medium monstrous humanoid
 
-**Init** +2; **Senses** darkvision 60 ft., low-light vision; [Perception](skills_dir/perception#_perception) +10
+**Init** +2; **Senses** darkvision 60 ft., low-light vision; [Perception](../skills_dir/perception#_perception) +10
 
 Defense
 
@@ -34,7 +34,7 @@ Offense
 
 **Spell-Like Abilities** (CL 4th; concentration +4)
 
-Constant—_ [pass without trace](spells_dir/passWithoutTrace#_pass-without-trace)_
+Constant—_ [pass without trace](../spells_dir/passWithoutTrace#_pass-without-trace)_
 
 Statistics
 
@@ -42,9 +42,9 @@ Statistics
 
 **Base Atk** +4; **CMB** +5; **CMD** 18
 
-**Feats** [Dodge](feats#_dodge), [Mobility](feats#_mobility)
+**Feats** [Dodge](../feats#_dodge), [Mobility](../feats#_mobility)
 
-**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +9 (+13 when jumping), [Climb](skills_dir/climb#_climb) +16, [Perception](skills_dir/perception#_perception) +10, [Stealth](skills_dir/stealth#_stealth) +13 (+19 in forests and jungles); **Racial Modifiers** +2 [Perception](skills_dir/perception#_perception), +4 [Stealth](skills_dir/stealth#_stealth) (+10 in forests and jungles)
+**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +9 (+13 when jumping), [Climb](../skills_dir/climb#_climb) +16, [Perception](../skills_dir/perception#_perception) +10, [Stealth](../skills_dir/stealth#_stealth) +13 (+19 in forests and jungles); **Racial Modifiers** +2 [Perception](../skills_dir/perception#_perception), +4 [Stealth](../skills_dir/stealth#_stealth) (+10 in forests and jungles)
 
 **Languages** Kech
 

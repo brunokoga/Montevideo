@@ -10,9 +10,9 @@ This earless, panther-like beast snarls as the skin of its face twitches, then p
 
 **XP 400**
 
-N Medium [magical beast](monsters_dir/creatureTypes#_magical-beast)
+N Medium [magical beast](../monsters_dir/creatureTypes#_magical-beast)
 
-**Init** +6; **Senses** darkvision 60 ft., low-light vision, [scent](monsters_dir/universalMonsterRules#_scent); [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +5
+**Init** +6; **Senses** darkvision 60 ft., low-light vision, [scent](../monsters_dir/universalMonsterRules#_scent); [Perception](../additionalMonsters_dir/../skills_dir/perception#_perception) +5
 
 Defense
 
@@ -36,9 +36,9 @@ Statistics
 
 **Base Atk** +2; **CMB** +2; **CMD** 14 (18 vs. trip)
 
-**Feats** [Improved Initiative](additionalMonsters_dir/../feats#_improved-initiative)
+**Feats** [Improved Initiative](../additionalMonsters_dir/../feats#_improved-initiative)
 
-**Skills** [Intimidate](additionalMonsters_dir/../skills_dir/intimidate#_intimidate) +1 (+5 to demoralize), [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +5, [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) +10; **Racial Modifiers** +4 [Intimidate](additionalMonsters_dir/../skills_dir/intimidate#_intimidate) to demoralize, +4 [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth)
+**Skills** [Intimidate](../additionalMonsters_dir/../skills_dir/intimidate#_intimidate) +1 (+5 to demoralize), [Perception](../additionalMonsters_dir/../skills_dir/perception#_perception) +5, [Stealth](../additionalMonsters_dir/../skills_dir/stealth#_stealth) +10; **Racial Modifiers** +4 [Intimidate](../additionalMonsters_dir/../skills_dir/intimidate#_intimidate) to demoralize, +4 [Stealth](../additionalMonsters_dir/../skills_dir/stealth#_stealth)
 
 **Languages** Sylvan (can't speak)
 
@@ -52,7 +52,7 @@ Ecology
 
 Special Abilities
 
-**Skullface (Su)** As a standard action, a krenshar can pull the skin back from its face, revealing the musculature and bony structures of its skull. This counts as using [Intimidate](additionalMonsters_dir/../skills_dir/intimidate#_intimidate) to demoralize an opponent, and is an extraordinary ability. The krenshar can emit a loud screech while peeling back its skin, causing potent [fear](monsters_dir/universalMonsterRules#_fear-(su-or-sp)) in a single creature within 100 feet that can see the krenshar. The targeted creature must make a DC 12 Will save or become frightened (if the target has 6 or fewer Hit Dice) or shaken (if the target has more than 6 Hit Dice) for 1d4 rounds. A creature that successfully saves cannot be affected again by the same krenshar's skullface ability for 24 hours. This is a sonic, mind-affecting [fear](monsters_dir/universalMonsterRules#_fear-(su-or-sp)) effect. The save DC is Charisma-based.
+**Skullface (Su)** As a standard action, a krenshar can pull the skin back from its face, revealing the musculature and bony structures of its skull. This counts as using [Intimidate](../additionalMonsters_dir/../skills_dir/intimidate#_intimidate) to demoralize an opponent, and is an extraordinary ability. The krenshar can emit a loud screech while peeling back its skin, causing potent [fear](../monsters_dir/universalMonsterRules#_fear-(su-or-sp)) in a single creature within 100 feet that can see the krenshar. The targeted creature must make a DC 12 Will save or become frightened (if the target has 6 or fewer Hit Dice) or shaken (if the target has more than 6 Hit Dice) for 1d4 rounds. A creature that successfully saves cannot be affected again by the same krenshar's skullface ability for 24 hours. This is a sonic, mind-affecting [fear](../monsters_dir/universalMonsterRules#_fear-(su-or-sp)) effect. The save DC is Charisma-based.
 
 The krenshar is a strange creature that resembles a large but earless hunting cat, save that it can retract the fur and skin on its face to reveal the glistening skull and musculature underneath. Combined with its strange, keening wail, this horrifying display is enough to paralyze prey and send formidable opponents running.
 

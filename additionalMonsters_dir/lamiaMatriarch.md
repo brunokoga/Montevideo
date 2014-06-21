@@ -10,9 +10,9 @@ Lamia MatriarchCR 8
 
 **XP 4,800**
 
-CE Large [monstrous humanoid](monsters_dir/creatureTypes#_monstrous-humanoid) ( [shapechanger](monsters_dir/creatureTypes#_shapechanger-subtype))
+CE Large [monstrous humanoid](../monsters_dir/creatureTypes#_monstrous-humanoid) ( [shapechanger](../monsters_dir/creatureTypes#_shapechanger-subtype))
 
-**Init** +4; **Senses** darkvision 60 ft., low-light vision; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +3
+**Init** +4; **Senses** darkvision 60 ft., low-light vision; [Perception](../additionalMonsters_dir/../skills_dir/perception#_perception) +3
 
 Defense
 
@@ -38,19 +38,19 @@ touch +16 (1d4 Wisdom drain)
 
 **Spell-Like Abilities** (CL 12th; concentration +17)
 
-At will—_ [charm monster](additionalMonsters_dir/../spells_dir/charmMonster#_charm-monster)_ (DC 19), _ [ventriloquism](additionalMonsters_dir/../spells_dir/ventriloquism#_ventriloquism)_ (DC 16)
+At will—_ [charm monster](../additionalMonsters_dir/../spells_dir/charmMonster#_charm-monster)_ (DC 19), _ [ventriloquism](../additionalMonsters_dir/../spells_dir/ventriloquism#_ventriloquism)_ (DC 16)
 
-3_dir/day—_ [deep slumber](additionalMonsters_dir/../spells_dir/deepSlumber#_deep-slumber)_ (DC 18), _ [dream](additionalMonsters_dir/../spells_dir/dream#_dream)_, _ [major image](additionalMonsters_dir/../spells_dir/majorImage#_major-image)_ (DC 18), _ [mirror image](additionalMonsters_dir/../spells_dir/mirrorImage#_mirror-image)_, _ [suggestion](additionalMonsters_dir/../spells_dir/suggestion#_suggestion)_ (DC 18)
+3_dir/day—_ [deep slumber](../additionalMonsters_dir/../spells_dir/deepSlumber#_deep-slumber)_ (DC 18), _ [dream](../additionalMonsters_dir/../spells_dir/dream#_dream)_, _ [major image](../additionalMonsters_dir/../spells_dir/majorImage#_major-image)_ (DC 18), _ [mirror image](../additionalMonsters_dir/../spells_dir/mirrorImage#_mirror-image)_, _ [suggestion](../additionalMonsters_dir/../spells_dir/suggestion#_suggestion)_ (DC 18)
 
 **Spells Known** (CL 6th; concentration +11)
 
-3rd (4_dir/day)—_ [haste](additionalMonsters_dir/../spells_dir/haste#_haste)_
+3rd (4_dir/day)—_ [haste](../additionalMonsters_dir/../spells_dir/haste#_haste)_
 
-2nd (6_dir/day)—_ [death knell](additionalMonsters_dir/../spells_dir/deathKnell#_death-knell)_ (DC 17), _ [invisibility](additionalMonsters_dir/../spells_dir/invisibility#_invisibility)_
+2nd (6_dir/day)—_ [death knell](../additionalMonsters_dir/../spells_dir/deathKnell#_death-knell)_ (DC 17), _ [invisibility](../additionalMonsters_dir/../spells_dir/invisibility#_invisibility)_
 
-1st (8_dir/day)—_ [cure light wounds](additionalMonsters_dir/../spells_dir/cureLightWounds#_cure-light-wounds)_, _ [divine favor](additionalMonsters_dir/../spells_dir/divineFavor#_divine-favor)_, _ [mage armor](additionalMonsters_dir/../spells_dir/mageArmor#_mage-armor)_, _ [magic missile](additionalMonsters_dir/../spells_dir/magicMissile#_magic-missile)_
+1st (8_dir/day)—_ [cure light wounds](../additionalMonsters_dir/../spells_dir/cureLightWounds#_cure-light-wounds)_, _ [divine favor](../additionalMonsters_dir/../spells_dir/divineFavor#_divine-favor)_, _ [mage armor](../additionalMonsters_dir/../spells_dir/mageArmor#_mage-armor)_, _ [magic missile](../additionalMonsters_dir/../spells_dir/magicMissile#_magic-missile)_
 
-0 (at will)—_ [dancing lights](additionalMonsters_dir/../spells_dir/dancingLights#_dancing-lights)_, _ [daze](additionalMonsters_dir/../spells_dir/daze#_daze)_ (DC 15), _ [detect magic](additionalMonsters_dir/../spells_dir/detectMagic#_detect-magic)_, _ [ghost sound](additionalMonsters_dir/../spells_dir/ghostSound#_ghost-sound)_ (DC 15), _ [mage hand](additionalMonsters_dir/../spells_dir/mageHand#_mage-hand)_, _ [mending](additionalMonsters_dir/../spells_dir/mending#_mending)_, _ [prestidigitation](additionalMonsters_dir/../spells_dir/prestidigitation#_prestidigitation)_
+0 (at will)—_ [dancing lights](../additionalMonsters_dir/../spells_dir/dancingLights#_dancing-lights)_, _ [daze](../additionalMonsters_dir/../spells_dir/daze#_daze)_ (DC 15), _ [detect magic](../additionalMonsters_dir/../spells_dir/detectMagic#_detect-magic)_, _ [ghost sound](../additionalMonsters_dir/../spells_dir/ghostSound#_ghost-sound)_ (DC 15), _ [mage hand](../additionalMonsters_dir/../spells_dir/mageHand#_mage-hand)_, _ [mending](../additionalMonsters_dir/../spells_dir/mending#_mending)_, _ [prestidigitation](../additionalMonsters_dir/../spells_dir/prestidigitation#_prestidigitation)_
 
 Statistics
 
@@ -58,13 +58,13 @@ Statistics
 
 **Base Atk** +12; **CMB** +18; **CMD** 32 (can't be tripped)
 
-**Feats** [Double Slice](additionalMonsters_dir/../feats#_double-slice), [Extend Spell](additionalMonsters_dir/../feats#_extend-spell), [Improved Critical](additionalMonsters_dir/../feats#_improved-critical) (scimitar), [Improved Two-Weapon Fighting](additionalMonsters_dir/../feats#_improved-two-weapon-fighting), [Two-Weapon Fighting](additionalMonsters_dir/../feats#_two-weapon-fighting), [Weapon Focus](additionalMonsters_dir/../feats#_weapon-focus) (scimitar)
+**Feats** [Double Slice](../additionalMonsters_dir/../feats#_double-slice), [Extend Spell](../additionalMonsters_dir/../feats#_extend-spell), [Improved Critical](../additionalMonsters_dir/../feats#_improved-critical) (scimitar), [Improved Two-Weapon Fighting](../additionalMonsters_dir/../feats#_improved-two-weapon-fighting), [Two-Weapon Fighting](../additionalMonsters_dir/../feats#_two-weapon-fighting), [Weapon Focus](../additionalMonsters_dir/../feats#_weapon-focus) (scimitar)
 
-**Skills** [Acrobatics](additionalMonsters_dir/../skills_dir/acrobatics#_acrobatics) +8 (+12 jump), [Bluff](additionalMonsters_dir/../skills_dir/bluff#_bluff) +21, [Climb](additionalMonsters_dir/../skills_dir/climb#_climb) +13, [Diplomacy](additionalMonsters_dir/../skills_dir/diplomacy#_diplomacy) +11, [Disguise](additionalMonsters_dir/../skills_dir/disguise#_disguise) +11, [Intimidate](additionalMonsters_dir/../skills_dir/intimidate#_intimidate) +20, [Knowledge](additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (any one) +15, [Knowledge](additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (arcana) +15, [Spellcraft](additionalMonsters_dir/../skills_dir/spellcraft#_spellcraft) +15, [Swim](additionalMonsters_dir/../skills_dir/swim#_swim) +13, [Use Magic Device](additionalMonsters_dir/../skills_dir/useMagicDevice#_use-magic-device) +21; **Racial Modifiers** +4 Acrobatics, +4 [Bluff](additionalMonsters_dir/../skills_dir/bluff#_bluff), +4 [Use Magic Device](additionalMonsters_dir/../skills_dir/useMagicDevice#_use-magic-device)
+**Skills** [Acrobatics](../additionalMonsters_dir/../skills_dir/acrobatics#_acrobatics) +8 (+12 jump), [Bluff](../additionalMonsters_dir/../skills_dir/bluff#_bluff) +21, [Climb](../additionalMonsters_dir/../skills_dir/climb#_climb) +13, [Diplomacy](../additionalMonsters_dir/../skills_dir/diplomacy#_diplomacy) +11, [Disguise](../additionalMonsters_dir/../skills_dir/disguise#_disguise) +11, [Intimidate](../additionalMonsters_dir/../skills_dir/intimidate#_intimidate) +20, [Knowledge](../additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (any one) +15, [Knowledge](../additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (arcana) +15, [Spellcraft](../additionalMonsters_dir/../skills_dir/spellcraft#_spellcraft) +15, [Swim](../additionalMonsters_dir/../skills_dir/swim#_swim) +13, [Use Magic Device](../additionalMonsters_dir/../skills_dir/useMagicDevice#_use-magic-device) +21; **Racial Modifiers** +4 Acrobatics, +4 [Bluff](../additionalMonsters_dir/../skills_dir/bluff#_bluff), +4 [Use Magic Device](../additionalMonsters_dir/../skills_dir/useMagicDevice#_use-magic-device)
 
 **Languages** Abyssal, Common, Draconic
 
-**SQ** [change shape](monsters_dir/universalMonsterRules#_change-shape) (fixed Medium [humanoid](monsters_dir/creatureTypes#_humanoid) form, _ [alter self](additionalMonsters_dir/../spells_dir/alterSelf#_alter-self)_), [undersized weapons](monsters_dir/universalMonsterRules#_undersized-weapons)
+**SQ** [change shape](../monsters_dir/universalMonsterRules#_change-shape) (fixed Medium [humanoid](../monsters_dir/creatureTypes#_humanoid) form, _ [alter self](../additionalMonsters_dir/../spells_dir/alterSelf#_alter-self)_), [undersized weapons](../monsters_dir/universalMonsterRules#_undersized-weapons)
 
 Ecology
 

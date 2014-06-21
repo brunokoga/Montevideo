@@ -10,9 +10,9 @@ This large snake has two heads, one at each end of its long, coiling body. Both 
 
 **XP 1,200**
 
-N Large [magical beast](monsters_dir/creatureTypes#_magical-beast)
+N Large [magical beast](../monsters_dir/creatureTypes#_magical-beast)
 
-**Init** +2; **Senses** [all-around vision](monsters_dir/universalMonsterRules#_all-around-vision), darkvision 60 ft., low-light vision, [scent](monsters_dir/universalMonsterRules#_scent); [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +11
+**Init** +2; **Senses** [all-around vision](../monsters_dir/universalMonsterRules#_all-around-vision), darkvision 60 ft., low-light vision, [scent](../monsters_dir/universalMonsterRules#_scent); [Perception](../additionalMonsters_dir/../skills_dir/perception#_perception) +11
 
 Defense
 
@@ -22,13 +22,13 @@ Defense
 
 **Fort** +6, **Ref** +7, **Will** +3
 
-**Defensive Abilities** [split](monsters_dir/universalMonsterRules#_split); **Immune** petrification; **Resist** [cold](monsters_dir/creatureTypes#_cold-subtype) 10
+**Defensive Abilities** [split](../monsters_dir/universalMonsterRules#_split); **Immune** petrification; **Resist** [cold](../monsters_dir/creatureTypes#_cold-subtype) 10
 
 Offense
 
 **Speed** 20 ft., climb 20 ft., swim 20 ft.
 
-**Melee** 2 bites +8 (1d8+2 plus [poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)))
+**Melee** 2 bites +8 (1d8+2 plus [poison](../monsters_dir/universalMonsterRules#_poison-(ex-or-su)))
 
 **Space** 10 ft.; **Reach** 5 ft.
 
@@ -38,9 +38,9 @@ Statistics
 
 **Base Atk** +6; **CMB** +9; **CMD** 21 (can't be tripped)
 
-**Feats** [Skill Focus](additionalMonsters_dir/../feats#_skill-focus) ( [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth)), [Toughness](additionalMonsters_dir/../feats#_toughness), [Weapon Focus](additionalMonsters_dir/../feats#_weapon-focus) (bite)
+**Feats** [Skill Focus](../additionalMonsters_dir/../feats#_skill-focus) ( [Stealth](../additionalMonsters_dir/../skills_dir/stealth#_stealth)), [Toughness](../additionalMonsters_dir/../feats#_toughness), [Weapon Focus](../additionalMonsters_dir/../feats#_weapon-focus) (bite)
 
-**Skills** [Acrobatics](additionalMonsters_dir/../skills_dir/acrobatics#_acrobatics) +10 (+6 jump), [Climb](additionalMonsters_dir/../skills_dir/climb#_climb) +10, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +11, [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) +11, [Swim](additionalMonsters_dir/../skills_dir/swim#_swim) +10; **Racial Modifiers** +8 [Acrobatics](additionalMonsters_dir/../skills_dir/acrobatics#_acrobatics), +4 [Perception](additionalMonsters_dir/../skills_dir/perception#_perception), +4 [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth)
+**Skills** [Acrobatics](../additionalMonsters_dir/../skills_dir/acrobatics#_acrobatics) +10 (+6 jump), [Climb](../additionalMonsters_dir/../skills_dir/climb#_climb) +10, [Perception](../additionalMonsters_dir/../skills_dir/perception#_perception) +11, [Stealth](../additionalMonsters_dir/../skills_dir/stealth#_stealth) +11, [Swim](../additionalMonsters_dir/../skills_dir/swim#_swim) +10; **Racial Modifiers** +8 [Acrobatics](../additionalMonsters_dir/../skills_dir/acrobatics#_acrobatics), +4 [Perception](../additionalMonsters_dir/../skills_dir/perception#_perception), +4 [Stealth](../additionalMonsters_dir/../skills_dir/stealth#_stealth)
 
 Ecology
 
@@ -52,9 +52,9 @@ Ecology
 
 Special Abilities
 
-**[Poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)) (Ex)** Bite—injury; _save_ Fort DC 14; _frequency_ 1_dir/round for 6 rounds; _effect_ 1d3 Con; _cure_ 1 save.
+**[Poison](../monsters_dir/universalMonsterRules#_poison-(ex-or-su)) (Ex)** Bite—injury; _save_ Fort DC 14; _frequency_ 1_dir/round for 6 rounds; _effect_ 1d3 Con; _cure_ 1 save.
 
-**[Split](monsters_dir/universalMonsterRules#_split) (Su)** An amphisbaena functions normally even if cut in half. If dealt a critical hit with a slashing weapon, the creature is cut in half but continues to function as two separate creatures, each with half the original amphisbaena's current hit points (rounded down) after the damage from the critical hit is applied. Once [split](monsters_dir/universalMonsterRules#_split), an amphisbaena cannot be [split](monsters_dir/universalMonsterRules#_split) again. If left alone for 1 minute, the [split](monsters_dir/universalMonsterRules#_split) amphisbaena can rejoin its two halves and become a single whole creature again (add the two creatures' hit points together). If one of the [split](monsters_dir/universalMonsterRules#_split) creatures is slain, the amphisbaena can regrow the lost portion over the course of 1d3 weeks.
+**[Split](../monsters_dir/universalMonsterRules#_split) (Su)** An amphisbaena functions normally even if cut in half. If dealt a critical hit with a slashing weapon, the creature is cut in half but continues to function as two separate creatures, each with half the original amphisbaena's current hit points (rounded down) after the damage from the critical hit is applied. Once [split](../monsters_dir/universalMonsterRules#_split), an amphisbaena cannot be [split](../monsters_dir/universalMonsterRules#_split) again. If left alone for 1 minute, the [split](../monsters_dir/universalMonsterRules#_split) amphisbaena can rejoin its two halves and become a single whole creature again (add the two creatures' hit points together). If one of the [split](../monsters_dir/universalMonsterRules#_split) creatures is slain, the amphisbaena can regrow the lost portion over the course of 1d3 weeks.
 
 The reclusive amphisbaena is a dreaded viper with a head at either end of its thick, serpentine coils. It travels in a strange, undulant crawl akin to that of a sidewinder, looping the coils of its long body back and forth and keeping both of its heads at the alert. Amphisbaenas are said to have formed from the blood of medusas, and while such stories are highly suspect, the creatures possess a natural immunity to petrification, which make them favored pets of medusas or other creatures with the petrification ability.
 
@@ -62,5 +62,5 @@ Adult amphisbaenas can grow up to 14 feet in length and weigh as much as 250 pou
 
 The amphisbaena's two heads can act independently, and the creature can move freely in either direction. In combat, it uses this ability to its utmost advantage, constantly spinning about to change up the direction of its strikes and guarding against enemies attempting to sneak closer or flank it. Unlike most snakes, amphisbaenas are aggressive, attacking anything that enters their territory. While they prefer smaller prey, they have been known to hunt gnomes, halflings, and other Small humanoids, and will sometimes attack larger foes if they're starving or preparing to shed.
 
-Amphisbaenas reproduce infrequently, laying small clutches of up to a dozen dark onyx eggs at a time. Avidly sought by animal trainers and collectors, amphisbaena eggs can fetch between 300 to 500 gp on the market. Despite minimal intelligence, amphisbaenas are driven primarily by their instincts and are extremely difficult and dangerous to train. All attempts to train an amphisbaena take a –8 penalty on any [Handle Animal](additionalMonsters_dir/../skills_dir/handleAnimal#_handle-animal) checks as a result.
+Amphisbaenas reproduce infrequently, laying small clutches of up to a dozen dark onyx eggs at a time. Avidly sought by animal trainers and collectors, amphisbaena eggs can fetch between 300 to 500 gp on the market. Despite minimal intelligence, amphisbaenas are driven primarily by their instincts and are extremely difficult and dangerous to train. All attempts to train an amphisbaena take a –8 penalty on any [Handle Animal](../additionalMonsters_dir/../skills_dir/handleAnimal#_handle-animal) checks as a result.
 

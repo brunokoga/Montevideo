@@ -54,5 +54,5 @@ Permanent Paralysis (Binding)
 
 **Target Restrictions** _selected_
 
-This effect word functions as the _paralyze humanoid _word except that it can affect creatures of any type and the duration is permanent. A creature affected by a wordspell with this effect word receives one additional Will saving throw at the end of its first turn after initially failing the save. This saving throw is made to relieve this word's effects, not any others included in the original wordspell. If this save fails as well, the effect of this word can only be undone with _ [greater dispel magic](spells_dir/dispelMagic#_dispel-magic-greater)_, _ [miracle](spells_dir/miracle#_miracle)_, or _ [wish](spells_dir/wish#_wish)_.
+This effect word functions as the _paralyze humanoid _word except that it can affect creatures of any type and the duration is permanent. A creature affected by a wordspell with this effect word receives one additional Will saving throw at the end of its first turn after initially failing the save. This saving throw is made to relieve this word's effects, not any others included in the original wordspell. If this save fails as well, the effect of this word can only be undone with _ [greater dispel magic](../spells_dir/dispelMagic#_dispel-magic-greater)_, _ [miracle](../spells_dir/miracle#_miracle)_, or _ [wish](../spells_dir/wish#_wish)_.
 

@@ -10,9 +10,9 @@ This somewhat irritated-looking, one-humped camel has been outfitted with a brid
 
 **XP 400**
 
-N Large [animal](monsters_dir/creatureTypes#_animal)
+N Large [animal](../monsters_dir/creatureTypes#_animal)
 
-**Init** +3; **Senses** low-light vision, [scent](monsters_dir/universalMonsterRules#_scent); [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +5
+**Init** +3; **Senses** low-light vision, [scent](../monsters_dir/universalMonsterRules#_scent); [Perception](../additionalMonsters_dir/../skills_dir/perception#_perception) +5
 
 Defense
 
@@ -36,9 +36,9 @@ Statistics
 
 **Base Atk** +1; **CMB** +6; **CMD** 19 (23 vs. trip)
 
-**Feats** [Endurance](additionalMonsters_dir/../feats#_endurance)
+**Feats** [Endurance](../additionalMonsters_dir/../feats#_endurance)
 
-**Skills** [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +5
+**Skills** [Perception](../additionalMonsters_dir/../skills_dir/perception#_perception) +5
 
 Ecology
 
@@ -62,9 +62,9 @@ A formidable pair of heavy horns curls from the forehead of this sturdy, brown-a
 
 **XP 400**
 
-N Medium [animal](monsters_dir/creatureTypes#_animal)
+N Medium [animal](../monsters_dir/creatureTypes#_animal)
 
-**Init** +2; **Senses** low-light vision, [scent](monsters_dir/universalMonsterRules#_scent); [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +6
+**Init** +2; **Senses** low-light vision, [scent](../monsters_dir/universalMonsterRules#_scent); [Perception](../additionalMonsters_dir/../skills_dir/perception#_perception) +6
 
 Defense
 
@@ -80,7 +80,7 @@ Offense
 
 **Melee** gore +3 (1d4+3)
 
-**Special Attacks** [powerful charge](monsters_dir/universalMonsterRules#_powerful-charge) (gore, 1d8+3)
+**Special Attacks** [powerful charge](../monsters_dir/universalMonsterRules#_powerful-charge) (gore, 1d8+3)
 
 Statistics
 
@@ -88,9 +88,9 @@ Statistics
 
 **Base Atk** +1; **CMB** +3; **CMD** 15 (19 vs. trip)
 
-**Feats** [Improved Bull Rush](additionalMonsters_dir/../feats#_improved-bull-rush)B, [Skill Focus](additionalMonsters_dir/../feats#_skill-focus) ( [Acrobatics](additionalMonsters_dir/../skills_dir/acrobatics#_acrobatics))
+**Feats** [Improved Bull Rush](../additionalMonsters_dir/../feats#_improved-bull-rush)B, [Skill Focus](../additionalMonsters_dir/../feats#_skill-focus) ( [Acrobatics](../additionalMonsters_dir/../skills_dir/acrobatics#_acrobatics))
 
-**Skills** [Acrobatics](additionalMonsters_dir/../skills_dir/acrobatics#_acrobatics) +13 (+17 jump), [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +6; **Racial Modifiers** +4 [Acrobatics](additionalMonsters_dir/../skills_dir/acrobatics#_acrobatics)
+**Skills** [Acrobatics](../additionalMonsters_dir/../skills_dir/acrobatics#_acrobatics) +13 (+17 jump), [Perception](../additionalMonsters_dir/../skills_dir/perception#_perception) +6; **Racial Modifiers** +4 [Acrobatics](../additionalMonsters_dir/../skills_dir/acrobatics#_acrobatics)
 
 Ecology
 
@@ -108,5 +108,5 @@ A typical ram stands about 3 feet tall, is 5 feet long, and weighs up to 300 pou
 
 **Starting Statistics** : **Size** Small; **Speed** 40 ft.; **AC** +1 natural; **Attack** gore (1d3); **Ability Scores** Str 10, Dex 17, Con 11, Int 2, Wis 14, Cha 7; **Special Qualities** low-light vision, scent.
 
-**4th-Level Advancement** : **Size** Medium; **Attack** gore (1d4); **Ability Scores** Str +4, Dex –2, Con +2; **Special Attacks** powerful charge (1d8); **Bonus Feat** [Improved Bull Rush](additionalMonsters_dir/../feats#_improved-bull-rush).
+**4th-Level Advancement** : **Size** Medium; **Attack** gore (1d4); **Ability Scores** Str +4, Dex –2, Con +2; **Special Attacks** powerful charge (1d8); **Bonus Feat** [Improved Bull Rush](../additionalMonsters_dir/../feats#_improved-bull-rush).
 

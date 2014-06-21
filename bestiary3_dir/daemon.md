@@ -10,9 +10,9 @@ Crucidaemon CR 15
 
 XP 51,200
 
-NE Medium outsider ( [daemon](monsters_dir/creatureTypes#_daemon-subtype), [evil](monsters_dir/creatureTypes#_evil-subtype), [extraplanar](monsters_dir/creatureTypes#_extraplanar-subtype))
+NE Medium outsider ( [daemon](../monsters_dir/creatureTypes#_daemon-subtype), [evil](../monsters_dir/creatureTypes#_evil-subtype), [extraplanar](../monsters_dir/creatureTypes#_extraplanar-subtype))
 
-**Init** +9; **Senses** darkvision 60 ft., _ [deathwatch](spells_dir/deathwatch#_deathwatch)_, _ [detect good](spells_dir/detectGood#_detect-good)_, _ [true seeing](spells_dir/trueSeeing#_true-seeing)_; [Perception](skills_dir/perception#_perception) +23
+**Init** +9; **Senses** darkvision 60 ft., _ [deathwatch](../spells_dir/deathwatch#_deathwatch)_, _ [detect good](../spells_dir/detectGood#_detect-good)_, _ [true seeing](../spells_dir/trueSeeing#_true-seeing)_; [Perception](../skills_dir/perception#_perception) +23
 
 Defense
 
@@ -22,7 +22,7 @@ Defense
 
 **Fort** +17, **Ref** +12, **Will** +13
 
-**DR** 10_dir/good and silver; **Immune** acid, [bleed](monsters_dir/universalMonsterRules#_bleed), death effects, [disease](monsters_dir/universalMonsterRules#_disease-(ex-or-su)), [poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)); **Resist** [cold](monsters_dir/creatureTypes#_cold-subtype) 10, electricity 10, [fire](monsters_dir/creatureTypes#_fire-subtype) 10; **SR** 26
+**DR** 10_dir/good and silver; **Immune** acid, [bleed](../monsters_dir/universalMonsterRules#_bleed), death effects, [disease](../monsters_dir/universalMonsterRules#_disease-(ex-or-su)), [poison](../monsters_dir/universalMonsterRules#_poison-(ex-or-su)); **Resist** [cold](../monsters_dir/creatureTypes#_cold-subtype) 10, electricity 10, [fire](../monsters_dir/creatureTypes#_fire-subtype) 10; **SR** 26
 
 Offense
 
@@ -32,18 +32,18 @@ Offense
 
 **Space** 5 ft.; **Reach** 10 ft.
 
-**Special Attacks** [bleed](monsters_dir/universalMonsterRules#_bleed) (2d6), chained daggers, trap making
+**Special Attacks** [bleed](../monsters_dir/universalMonsterRules#_bleed) (2d6), chained daggers, trap making
 
 **Spell-Like Abilities** (CL 16th; concentration +25)
 
-Constant—_ [air walk](spells_dir/airWalk#_air-walk)_, _ [deathwatch](spells_dir/deathwatch#_deathwatch)_, _ [detect good](spells_dir/detectGood#_detect-good)_, _ [true seeing](spells_dir/trueSeeing#_true-seeing)_
+Constant—_ [air walk](../spells_dir/airWalk#_air-walk)_, _ [deathwatch](../spells_dir/deathwatch#_deathwatch)_, _ [detect good](../spells_dir/detectGood#_detect-good)_, _ [true seeing](../spells_dir/trueSeeing#_true-seeing)_
 
-At will—_ [fear](spells_dir/fear#_fear)_ (DC 23), _ [greater teleport](spells_dir/teleport#_teleport-greater)_ (self plus 50 lbs. of objects only), _ [invisibility](spells_dir/invisibility#_invisibility)_
+At will—_ [fear](../spells_dir/fear#_fear)_ (DC 23), _ [greater teleport](../spells_dir/teleport#_teleport-greater)_ (self plus 50 lbs. of objects only), _ [invisibility](../spells_dir/invisibility#_invisibility)_
 
-3_dir/day—_ [greater glyph of warding](spells_dir/glyphOfWarding#_glyph-of-warding-greater)_ (DC 25), _ [hold monster](spells_dir/holdMonster#_hold-monster)_ (DC 24)
+3_dir/day—_ [greater glyph of warding](../spells_dir/glyphOfWarding#_glyph-of-warding-greater)_ (DC 25), _ [hold monster](../spells_dir/holdMonster#_hold-monster)_ (DC 24)
 
-1_dir/day—_ [insanity](spells_dir/insanity#_insanity) _(DC 26), summon (level 4,   
-2 piscodaemons 50%), _ [symbol of pain](spells_dir/symbolOfPain#_symbol-of-pain)_ (DC 24)
+1_dir/day—_ [insanity](../spells_dir/insanity#_insanity) _(DC 26), summon (level 4,   
+2 piscodaemons 50%), _ [symbol of pain](../spells_dir/symbolOfPain#_symbol-of-pain)_ (DC 24)
 
 Statistics
 
@@ -51,9 +51,9 @@ Statistics
 
 **Base Atk** +17; **CMB** +26; **CMD** 42
 
-**Feats** [Dodge](feats#_dodge), [Improved Critical](feats#_improved-critical) (daggers), [Improved Initiative](feats#_improved-initiative), [Lightning Reflexes](feats#_lightning-reflexes), [Mobility](feats#_mobility), [Spring Attack](feats#_spring-attack), [Stealthy](feats#_stealthy), [Step Up](feats#_step-up), [Weapon Focus](feats#_weapon-focus) (daggers)
+**Feats** [Dodge](../feats#_dodge), [Improved Critical](../feats#_improved-critical) (daggers), [Improved Initiative](../feats#_improved-initiative), [Lightning Reflexes](../feats#_lightning-reflexes), [Mobility](../feats#_mobility), [Spring Attack](../feats#_spring-attack), [Stealthy](../feats#_stealthy), [Step Up](../feats#_step-up), [Weapon Focus](../feats#_weapon-focus) (daggers)
 
-**Skills** [Bluff](skills_dir/bluff#_bluff) +29, [Craft](skills_dir/craft#_craft) (traps) +31, [Disable Device](skills_dir/disableDevice#_disable-device) +25, [Escape Artist](skills_dir/escapeArtist#_escape-artist) +7, [Intimidate](skills_dir/intimidate#_intimidate) +29, [Knowledge](skills_dir/knowledge#_knowledge) (arcana, engineering) +11, [Perception](skills_dir/perception#_perception) +23, [Sense Motive](skills_dir/senseMotive#_sense-motive) +16, [Spellcraft](skills_dir/spellcraft#_spellcraft) +18, [Stealth](skills_dir/stealth#_stealth) +29, [Use Magic Device](skills_dir/useMagicDevice#_use-magic-device) +19; **Racial Modifiers** +8 [Craft](skills_dir/craft#_craft) (traps)
+**Skills** [Bluff](../skills_dir/bluff#_bluff) +29, [Craft](../skills_dir/craft#_craft) (traps) +31, [Disable Device](../skills_dir/disableDevice#_disable-device) +25, [Escape Artist](../skills_dir/escapeArtist#_escape-artist) +7, [Intimidate](../skills_dir/intimidate#_intimidate) +29, [Knowledge](../skills_dir/knowledge#_knowledge) (arcana, engineering) +11, [Perception](../skills_dir/perception#_perception) +23, [Sense Motive](../skills_dir/senseMotive#_sense-motive) +16, [Spellcraft](../skills_dir/spellcraft#_spellcraft) +18, [Stealth](../skills_dir/stealth#_stealth) +29, [Use Magic Device](../skills_dir/useMagicDevice#_use-magic-device) +19; **Racial Modifiers** +8 [Craft](../skills_dir/craft#_craft) (traps)
 
 **Languages** Abyssal, Draconic, Infernal; telepathy 100 ft.
 
@@ -67,9 +67,9 @@ Ecology
 
 Special Abilities
 
-**Chained Daggers (Su)** A crucidaemon fights with the two daggers chained to its wrists as if dual wielding daggers with a reach of 10 feet (although it can also attack adjacent foes with no penalty). It takes no penalty on attack or damage rolls while wielding both of these daggers at once. These daggers are considered to be _+2 daggers_ that deal 2d6 points of [bleed](monsters_dir/universalMonsterRules#_bleed) damage. The daggers become nonmagical upon the [daemon](monsters_dir/creatureTypes#_daemon-subtype)'s death, and cannot be disarmed. A crucidaemon may remanifest a destroyed dagger as a standard action.
+**Chained Daggers (Su)** A crucidaemon fights with the two daggers chained to its wrists as if dual wielding daggers with a reach of 10 feet (although it can also attack adjacent foes with no penalty). It takes no penalty on attack or damage rolls while wielding both of these daggers at once. These daggers are considered to be _+2 daggers_ that deal 2d6 points of [bleed](../monsters_dir/universalMonsterRules#_bleed) damage. The daggers become nonmagical upon the [daemon](../monsters_dir/creatureTypes#_daemon-subtype)'s death, and cannot be disarmed. A crucidaemon may remanifest a destroyed dagger as a standard action.
 
-**Trap Making (Ex)** A crucidaemon can use [Disable Device](skills_dir/disableDevice#_disable-device) to disarm magic traps. When it uses its _ [greater glyph of warding](spells_dir/glyphOfWarding#_glyph-of-warding-greater)_ spell-like ability to create a spell glyph, it may utilize any 6th-level or lower spell from the cleric or the wizard spell list, even though it otherwise can't cast these spells. The [Perception](skills_dir/perception#_perception) and [Disable Device](skills_dir/disableDevice#_disable-device) DCs for any traps a crucidaemon creates gain a +2 bonus.
+**Trap Making (Ex)** A crucidaemon can use [Disable Device](../skills_dir/disableDevice#_disable-device) to disarm magic traps. When it uses its _ [greater glyph of warding](../spells_dir/glyphOfWarding#_glyph-of-warding-greater)_ spell-like ability to create a spell glyph, it may utilize any 6th-level or lower spell from the cleric or the wizard spell list, even though it otherwise can't cast these spells. The [Perception](../skills_dir/perception#_perception) and [Disable Device](../skills_dir/disableDevice#_disable-device) DCs for any traps a crucidaemon creates gain a +2 bonus.
 
 Bloody representations of death by traps or torture, crucidaemons spend their existence subjecting creatures to an eternity of pain and terror. Whereas many daemons are quick to feed on the soul of mortals they capture, a crucidaemon lets its victims linger, marinating their souls in torment and pain so that when the time for feeding finally comes, they welcome their final oblivion with tears of gratitude.
 
@@ -83,9 +83,9 @@ Vulnudaemon CR 4
 
 XP 1,200
 
-NE Small outsider ( [daemon](monsters_dir/creatureTypes#_daemon-subtype), [evil](monsters_dir/creatureTypes#_evil-subtype), [extraplanar](monsters_dir/creatureTypes#_extraplanar-subtype))
+NE Small outsider ( [daemon](../monsters_dir/creatureTypes#_daemon-subtype), [evil](../monsters_dir/creatureTypes#_evil-subtype), [extraplanar](../monsters_dir/creatureTypes#_extraplanar-subtype))
 
-**Init** +3; **Senses** darkvision 60 ft., _ [detect good](spells_dir/detectGood#_detect-good)_, _ [detect magic](spells_dir/detectMagic#_detect-magic)_; [Perception](skills_dir/perception#_perception) +10
+**Init** +3; **Senses** darkvision 60 ft., _ [detect good](../spells_dir/detectGood#_detect-good)_, _ [detect magic](../spells_dir/detectMagic#_detect-magic)_; [Perception](../skills_dir/perception#_perception) +10
 
 **Aura** aura of doom (30 ft., DC 18)
 
@@ -97,23 +97,23 @@ Defense
 
 **Fort** +6, **Ref** +5, **Will** +6
 
-**DR** 5_dir/good or silver; **Immune** acid, death effects, [disease](monsters_dir/universalMonsterRules#_disease-(ex-or-su)), [poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)); **Resist** [cold](monsters_dir/creatureTypes#_cold-subtype) 10, electricity 10, [fire](monsters_dir/creatureTypes#_fire-subtype) 10
+**DR** 5_dir/good or silver; **Immune** acid, death effects, [disease](../monsters_dir/universalMonsterRules#_disease-(ex-or-su)), [poison](../monsters_dir/universalMonsterRules#_poison-(ex-or-su)); **Resist** [cold](../monsters_dir/creatureTypes#_cold-subtype) 10, electricity 10, [fire](../monsters_dir/creatureTypes#_fire-subtype) 10
 
 Offense
 
 **Speed** 30 ft.
 
-**Melee** short sword +10_dir/+5 (1d4+2_dir/19–20 plus [bleed](monsters_dir/universalMonsterRules#_bleed)), bite +5 (1d3+1)
+**Melee** short sword +10_dir/+5 (1d4+2_dir/19–20 plus [bleed](../monsters_dir/universalMonsterRules#_bleed)), bite +5 (1d3+1)
 
-**Special Attacks** [bleed](monsters_dir/universalMonsterRules#_bleed) (1d4), sneak attack +1d6
+**Special Attacks** [bleed](../monsters_dir/universalMonsterRules#_bleed) (1d4), sneak attack +1d6
 
 **Spell-Like Abilities** (CL 7th; concentration +10)
 
-Constant—_ [detect good](spells_dir/detectGood#_detect-good)_, _ [detect magic](spells_dir/detectMagic#_detect-magic)_
+Constant—_ [detect good](../spells_dir/detectGood#_detect-good)_, _ [detect magic](../spells_dir/detectMagic#_detect-magic)_
 
-3_dir/day—_ [blur](spells_dir/blur#_blur)_, _ [death knell](spells_dir/deathKnell#_death-knell)_ (DC 15), _ [invisibility](spells_dir/invisibility#_invisibility), [minor image](spells_dir/minorImage#_minor-image) _(DC 14)
+3_dir/day—_ [blur](../spells_dir/blur#_blur)_, _ [death knell](../spells_dir/deathKnell#_death-knell)_ (DC 15), _ [invisibility](../spells_dir/invisibility#_invisibility), [minor image](../spells_dir/minorImage#_minor-image) _(DC 14)
 
-1_dir/day—_ [inflict critical wounds](spells_dir/inflictCriticalWounds#_inflict-critical-wounds) _(DC 17), summon (level 2, 1d4 cacodaemons 40%)
+1_dir/day—_ [inflict critical wounds](../spells_dir/inflictCriticalWounds#_inflict-critical-wounds) _(DC 17), summon (level 2, 1d4 cacodaemons 40%)
 
 Statistics
 
@@ -121,9 +121,9 @@ Statistics
 
 **Base Atk** +6; **CMB** +7; **CMD** 20
 
-**Feats** [Ability Focus](monsters_dir/monsterFeats#_ability-focus) (aura of doom), [Combat Casting](feats#_combat-casting), [Weapon Finesse](feats#_weapon-finesse)
+**Feats** [Ability Focus](../monsters_dir/monsterFeats#_ability-focus) (aura of doom), [Combat Casting](../feats#_combat-casting), [Weapon Finesse](../feats#_weapon-finesse)
 
-**Skills** [Bluff](skills_dir/bluff#_bluff) +12, [Diplomacy](skills_dir/diplomacy#_diplomacy) +10, [Fly](skills_dir/fly#_fly) +11, [Knowledge](skills_dir/knowledge#_knowledge) (arcana) +7, [Knowledge](skills_dir/knowledge#_knowledge) (planes) +8, [Perception](skills_dir/perception#_perception) +10, [Sense Motive](skills_dir/senseMotive#_sense-motive) +10, [Spellcraft](skills_dir/spellcraft#_spellcraft) +8, [Stealth](skills_dir/stealth#_stealth) +16
+**Skills** [Bluff](../skills_dir/bluff#_bluff) +12, [Diplomacy](../skills_dir/diplomacy#_diplomacy) +10, [Fly](../skills_dir/fly#_fly) +11, [Knowledge](../skills_dir/knowledge#_knowledge) (arcana) +7, [Knowledge](../skills_dir/knowledge#_knowledge) (planes) +8, [Perception](../skills_dir/perception#_perception) +10, [Sense Motive](../skills_dir/senseMotive#_sense-motive) +10, [Spellcraft](../skills_dir/spellcraft#_spellcraft) +8, [Stealth](../skills_dir/stealth#_stealth) +16
 
 **Languages** Abyssal, Draconic, Infernal; telepathy 100 ft.
 

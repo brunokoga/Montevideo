@@ -10,9 +10,9 @@ Hekatonkheires CR 24
 
 XP 1,228,800
 
-CE Colossal outsider ( [chaotic](monsters_dir/creatureTypes#_chaotic-subtype), [evil](monsters_dir/creatureTypes#_evil-subtype), [extraplanar](monsters_dir/creatureTypes#_extraplanar-subtype))
+CE Colossal outsider ( [chaotic](../monsters_dir/creatureTypes#_chaotic-subtype), [evil](../monsters_dir/creatureTypes#_evil-subtype), [extraplanar](../monsters_dir/creatureTypes#_extraplanar-subtype))
 
-**Init** +6; **Senses** [all-around vision](monsters_dir/universalMonsterRules#_all-around-vision), darkvision 120 ft., _ [true seeing](spells_dir/trueSeeing#_true-seeing)_; [Perception](skills_dir/perception#_perception) +35
+**Init** +6; **Senses** [all-around vision](../monsters_dir/universalMonsterRules#_all-around-vision), darkvision 120 ft., _ [true seeing](../spells_dir/trueSeeing#_true-seeing)_; [Perception](../skills_dir/perception#_perception) +35
 
 Defense
 
@@ -22,11 +22,11 @@ Defense
 
 **Fort** +30, **Ref** +12, **Will** +18
 
-**DR** 20_dir/epic and [lawful](monsters_dir/creatureTypes#_lawful-subtype); **Immune** aging, death effects, [disease](monsters_dir/universalMonsterRules#_disease-(ex-or-su)), mind-affecting effects; **SR** 35
+**DR** 20_dir/epic and [lawful](../monsters_dir/creatureTypes#_lawful-subtype); **Immune** aging, death effects, [disease](../monsters_dir/universalMonsterRules#_disease-(ex-or-su)), mind-affecting effects; **SR** 35
 
 Offense
 
-**Speed** 60 ft.; _ [air walk](spells_dir/airWalk#_air-walk)_
+**Speed** 60 ft.; _ [air walk](../spells_dir/airWalk#_air-walk)_
 
 **Melee** _+3 weapon_ +38_dir/+33_dir/+28_dir/+23 (6d6+22 plus hundred-handed whirlwind) or slam +37 (4d8+21 plus stun)
 
@@ -38,13 +38,13 @@ Offense
 
 **Spell-Like Abilities** (CL 20th; concentration +27)
 
-Constant—_ [air walk](spells_dir/airWalk#_air-walk), [spell turning](spells_dir/spellTurning#_spell-turning)_, _ [true seeing](spells_dir/trueSeeing#_true-seeing)_
+Constant—_ [air walk](../spells_dir/airWalk#_air-walk), [spell turning](../spells_dir/spellTurning#_spell-turning)_, _ [true seeing](../spells_dir/trueSeeing#_true-seeing)_
 
-At will—_ [bestow curse](spells_dir/bestowCurse#_bestow-curse)_ (DC 21), _ [break enchantment](spells_dir/breakEnchantment#_break-enchantment)_, _ [chain lightning](spells_dir/chainLightning#_chain-lightning)_ (DC 23), _ [greater dispel magic](spells_dir/dispelMagic#_dispel-magic-greater)_, _ [find the path](spells_dir/findThePath#_find-the-path)_, _ [sending](spells_dir/sending#_sending)_
+At will—_ [bestow curse](../spells_dir/bestowCurse#_bestow-curse)_ (DC 21), _ [break enchantment](../spells_dir/breakEnchantment#_break-enchantment)_, _ [chain lightning](../spells_dir/chainLightning#_chain-lightning)_ (DC 23), _ [greater dispel magic](../spells_dir/dispelMagic#_dispel-magic-greater)_, _ [find the path](../spells_dir/findThePath#_find-the-path)_, _ [sending](../spells_dir/sending#_sending)_
 
-3_dir/day—_ [greater scrying](spells_dir/scrying#_scrying-greater)_ (DC 24), _ [heal](spells_dir/heal#_heal)_, _ [mass suggestion](spells_dir/suggestion#_suggestion-mass)_ (DC 23)
+3_dir/day—_ [greater scrying](../spells_dir/scrying#_scrying-greater)_ (DC 24), _ [heal](../spells_dir/heal#_heal)_, _ [mass suggestion](../spells_dir/suggestion#_suggestion-mass)_ (DC 23)
 
-1_dir/day—_ [dominate monster](spells_dir/dominateMonster#_dominate-monster)_ (DC 26), _ [greater spell immunity](spells_dir/spellImmunity#_spell-immunity-greater)_, _ [imprisonment](spells_dir/imprisonment#_imprisonment)_ (DC 26), _ [storm of vengeance](spells_dir/stormOfVengeance#_storm-of-vengeance)_ (DC 26)
+1_dir/day—_ [dominate monster](../spells_dir/dominateMonster#_dominate-monster)_ (DC 26), _ [greater spell immunity](../spells_dir/spellImmunity#_spell-immunity-greater)_, _ [imprisonment](../spells_dir/imprisonment#_imprisonment)_ (DC 26), _ [storm of vengeance](../spells_dir/stormOfVengeance#_storm-of-vengeance)_ (DC 26)
 
 Statistics
 
@@ -52,9 +52,9 @@ Statistics
 
 **Base Atk** +24; **CMB** +51; **CMD** 71
 
-**Feats** [Alertness](feats#_alertness), [Cleave](feats#_cleave), [Combat Expertise](feats#_combat-expertise), [Critical Focus](feats#_critical-focus), [Great Cleave](feats#_great-cleave), [Greater Vital Strike](feats#_greater-vital-strike), [Improved Bull Rush](feats#_improved-bull-rush), [Improved Initiative](feats#_improved-initiative), [Improved Vital Strike](feats#_improved-vital-strike), [Lightning Reflexes](feats#_lightning-reflexes), [Power Attack](feats#_power-attack), [Vital Strike](feats#_vital-strike)
+**Feats** [Alertness](../feats#_alertness), [Cleave](../feats#_cleave), [Combat Expertise](../feats#_combat-expertise), [Critical Focus](../feats#_critical-focus), [Great Cleave](../feats#_great-cleave), [Greater Vital Strike](../feats#_greater-vital-strike), [Improved Bull Rush](../feats#_improved-bull-rush), [Improved Initiative](../feats#_improved-initiative), [Improved Vital Strike](../feats#_improved-vital-strike), [Lightning Reflexes](../feats#_lightning-reflexes), [Power Attack](../feats#_power-attack), [Vital Strike](../feats#_vital-strike)
 
-**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +29 (+41 when jumping), [Bluff](skills_dir/bluff#_bluff) +34, [Climb](skills_dir/climb#_climb) +46, [Craft](skills_dir/craft#_craft) (any) +33, [Diplomacy](skills_dir/diplomacy#_diplomacy) +31, [Escape Artist](skills_dir/escapeArtist#_escape-artist) +29, [Intimidate](skills_dir/intimidate#_intimidate) +34, [Knowledge](skills_dir/knowledge#_knowledge) (history) +30, [Knowledge](skills_dir/knowledge#_knowledge) (planes) +33, [Perception](skills_dir/perception#_perception) +35, [Sense Motive](skills_dir/senseMotive#_sense-motive) +35, [Survival](skills_dir/survival#_survival) +28
+**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +29 (+41 when jumping), [Bluff](../skills_dir/bluff#_bluff) +34, [Climb](../skills_dir/climb#_climb) +46, [Craft](../skills_dir/craft#_craft) (any) +33, [Diplomacy](../skills_dir/diplomacy#_diplomacy) +31, [Escape Artist](../skills_dir/escapeArtist#_escape-artist) +29, [Intimidate](../skills_dir/intimidate#_intimidate) +34, [Knowledge](../skills_dir/knowledge#_knowledge) (history) +30, [Knowledge](../skills_dir/knowledge#_knowledge) (planes) +33, [Perception](../skills_dir/perception#_perception) +35, [Sense Motive](../skills_dir/senseMotive#_sense-motive) +35, [Survival](../skills_dir/survival#_survival) +28
 
 **Languages** Abyssal, Celestial, Common; telepathy 300 ft.
 
@@ -70,11 +70,11 @@ Ecology
 
 Special Abilities
 
-**Hands of War (Su)** Any weapon a hekatonkheires wields gains a +3 enhancement bonus while the titan holds it. A hekatonkheires's attacks are treated as epic and [evil](monsters_dir/creatureTypes#_evil-subtype) for the purposes of overcoming [damage reduction](monsters_dir/universalMonsterRules#_damage-reduction-(ex-or-su)). In addition, a hekatonkheires's multitude of arms allows it to effectively block attacks, granting it a +8 armor bonus to its AC.
+**Hands of War (Su)** Any weapon a hekatonkheires wields gains a +3 enhancement bonus while the titan holds it. A hekatonkheires's attacks are treated as epic and [evil](../monsters_dir/creatureTypes#_evil-subtype) for the purposes of overcoming [damage reduction](../monsters_dir/universalMonsterRules#_damage-reduction-(ex-or-su)). In addition, a hekatonkheires's multitude of arms allows it to effectively block attacks, granting it a +8 armor bonus to its AC.
 
 **Hundred-Handed Whirlwind (Ex)** A hekatonkheires carries several dozen weapons of various types in its hundred hands, but when it attacks in melee, you don't have to resolve each of these as a separate attack. Instead, when the titan attacks with its weapons, it rolls its attacks normally (either one attack for a standard action, or four as a full-round action) and hits every creature in its reach each time an attack roll exceeds that creature's AC. If any such attack roll results in a possible critical hit, the critical is applied to one creature of the hekatonkheires's choosing. The hekatonkheires can choose to deal bludgeoning, piercing, or slashing damage as a free action on each separate hit.
 
-**Planar Leap (Su)** A hekatonkheires traverses the planes by physically smashing through planar boundaries and crashing devastatingly into the target plane itself. Once per year as a full-round action, a hekatonkheires can, as part of a jump, _ [plane shift](spells_dir/planeShift#_plane-shift)_ to any other plane (as per the spell of the same name). It can only bring itself and its gear when it travels in this manner. When the hekatonkheires reaches its destination plane, it falls from the sky and crashes to the ground, creating a devastating explosion of thunder and [fire](monsters_dir/creatureTypes#_fire-subtype). Any creature within 300 feet of the point where the hekatonkheires lands (including the titan itself) takes 20d6 points of bludgeoning damage and 20d6 points of sonic damage (Reflex DC 38 for half). The save DC is Constitution-based.
+**Planar Leap (Su)** A hekatonkheires traverses the planes by physically smashing through planar boundaries and crashing devastatingly into the target plane itself. Once per year as a full-round action, a hekatonkheires can, as part of a jump, _ [plane shift](../spells_dir/planeShift#_plane-shift)_ to any other plane (as per the spell of the same name). It can only bring itself and its gear when it travels in this manner. When the hekatonkheires reaches its destination plane, it falls from the sky and crashes to the ground, creating a devastating explosion of thunder and [fire](../monsters_dir/creatureTypes#_fire-subtype). Any creature within 300 feet of the point where the hekatonkheires lands (including the titan itself) takes 20d6 points of bludgeoning damage and 20d6 points of sonic damage (Reflex DC 38 for half). The save DC is Constitution-based.
 
 **Stunning Slam (Ex)** As a standard action, a hekatonkheires may forgo any weapon attacks to make a single slam attack against any creature in reach. If it hits, the target takes damage and must succeed at a DC 41 Fortitude save to avoid being stunned for 1d6 rounds. The save DC is Strength-based.
 
@@ -86,7 +86,7 @@ Those hekatonkheires who have emerged back into the multiverse have done so in d
 
 Though hekatonkheires are as intelligent as the rest of their titan relatives, they wander with such destructive and seemingly mindless intentions that they spare no time in communicating with other creatures, especially those that would beg for mercy. The hekatonkheires were created to destroy, and so that is all they desire to do; the crushing blows of their fists and the goring slashes of their weapons speak for themselves. They serve no master, and halt their otherwise endless rampage only if called by their true names, which few—if any—mortals know. Those that do know these names speak them only in whispers, for their mere utterance seems to carry with it immeasurable power.
 
-A hekatonkheires can only be called via mighty spells such as _ [gate](spells_dir/gate#_gate)_ if a conjurer knows the plane the titan is currently on, and only if the conjurer knows the true name of the hekatonkheires it is seeking to call. Only the mad or depraved would dare such a feat, however, as the might of one of these unique goliaths is so massive that the being cannot be controlled, and even if it is banished back to the realm from whence it came, it is never long before the hekatonkheires sets its sights on the world it visited so briefly, if only to sate its lust for destroying it.
+A hekatonkheires can only be called via mighty spells such as _ [gate](../spells_dir/gate#_gate)_ if a conjurer knows the plane the titan is currently on, and only if the conjurer knows the true name of the hekatonkheires it is seeking to call. Only the mad or depraved would dare such a feat, however, as the might of one of these unique goliaths is so massive that the being cannot be controlled, and even if it is banished back to the realm from whence it came, it is never long before the hekatonkheires sets its sights on the world it visited so briefly, if only to sate its lust for destroying it.
 
 Each hekatonkheires has 50 heads and 100 arms so that one is never caught off guard. The stones that it hurls with its 100 hands are as big as boulders, and those who have seen a hekatonkheires hurl such rocks and lived to tell the tale have said that it is as though an entire mountain is falling from the sky. In addition to their unworldly strength, hekatonkheires are known for their awesome control over the powers of lightning and thunder, and an individual hekatonkheires's arrival is often prefaced by an abrupt and tumultuous storm in the area. Like all titans, hekatonkheires are immortal, and do not die unless they are slain.
 

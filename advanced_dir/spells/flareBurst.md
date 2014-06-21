@@ -18,5 +18,5 @@ title: advanced_dir/spells_dir/flareBurst
 
 **Saving Throw** Fortitude negates; **Spell Resistance** yes
 
-This spell functions as _ [flare](../../spells_dir/flare#_flare),_ except it affects all creatures in a 10-foot-radius burst from the target point.
+This spell functions as _ [flare](../../../spells_dir/flare#_flare),_ except it affects all creatures in a 10-foot-radius burst from the target point.
 

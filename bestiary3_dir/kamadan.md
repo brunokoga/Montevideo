@@ -12,7 +12,7 @@ XP 1,200
 
 NE Large magical beast
 
-**Init** +2; **Senses** darkvision 60 ft., low-light vision, [scent](monsters_dir/universalMonsterRules#_scent); [Perception](skills_dir/perception#_perception) +8
+**Init** +2; **Senses** darkvision 60 ft., low-light vision, [scent](../monsters_dir/universalMonsterRules#_scent); [Perception](../skills_dir/perception#_perception) +8
 
 Defense
 
@@ -30,7 +30,7 @@ Offense
 
 **Space** 10 ft.; **Reach** 5 ft. (10 ft. with snakes)
 
-**Special Attacks** [breath weapon](monsters_dir/universalMonsterRules#_breath-weapon) (30-ft. cone, sleep, Fortitude DC 15 negates, usable every 1d4 rounds), [pounce](monsters_dir/universalMonsterRules#_pounce)
+**Special Attacks** [breath weapon](../monsters_dir/universalMonsterRules#_breath-weapon) (30-ft. cone, sleep, Fortitude DC 15 negates, usable every 1d4 rounds), [pounce](../monsters_dir/universalMonsterRules#_pounce)
 
 Statistics
 
@@ -38,9 +38,9 @@ Statistics
 
 **Base Atk** +5; **CMB** +9; **CMD** 22 (26 vs. trip)
 
-**Feats** [Combat Reflexes](feats#_combat-reflexes), [Dodge](feats#_dodge), [Mobility](feats#_mobility)
+**Feats** [Combat Reflexes](../feats#_combat-reflexes), [Dodge](../feats#_dodge), [Mobility](../feats#_mobility)
 
-**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +6 (+10 when jumping), [Perception](skills_dir/perception#_perception) +8, [Stealth](skills_dir/stealth#_stealth) +6; **Racial Modifiers** +4 [Stealth](skills_dir/stealth#_stealth)
+**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +6 (+10 when jumping), [Perception](../skills_dir/perception#_perception) +8, [Stealth](../skills_dir/stealth#_stealth) +6; **Racial Modifiers** +4 [Stealth](../skills_dir/stealth#_stealth)
 
 **Languages** Aklo
 
@@ -54,7 +54,7 @@ Ecology
 
 Special Abilities
 
-**[Breath Weapon](monsters_dir/universalMonsterRules#_breath-weapon) (Su)** A kamadan can exhale a cone of gas that makes living creatures fall asleep for 5 minutes (Fortitude DC 15 negates). Slapping or wounding awakens a creature put to sleep by this attack, but normal noise does not. This is a sleep effect. The save DC is Constitution-based.
+**[Breath Weapon](../monsters_dir/universalMonsterRules#_breath-weapon) (Su)** A kamadan can exhale a cone of gas that makes living creatures fall asleep for 5 minutes (Fortitude DC 15 negates). Slapping or wounding awakens a creature put to sleep by this attack, but normal noise does not. This is a sleep effect. The save DC is Constitution-based.
 
 **Snakes (Ex)** A kamadan's snakes attack simultaneously; this is always a secondary attack.
 

@@ -4,7 +4,7 @@ title: mythicAdventures_dir/mythicSpells_dir/telekinesis
 ---
 Telekinesis
 
-**Source** [_telekinesis_](spells_dir/telekinesis#_telekinesis)
+**Source** [_telekinesis_](../spells_dir/telekinesis#_telekinesis)
 
 The duration of this spell changes to 1 round per level. You may spend a move action to use the sustained force or combat maneuver effects of the spell.
 

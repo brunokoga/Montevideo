@@ -10,9 +10,9 @@ _Bulbous eyes glare atop this creature's decidedly toad-like head. A multitude o
 
 **XP 600**
 
-CE Medium [humanoid](creatureTypes#_humanoid) (boggard)
+CE Medium [humanoid](../creatureTypes#_humanoid) (boggard)
 
-**Init** -1; **Senses** darkvision 60 ft., low-light vision; [Perception](../skills_dir/perception#_perception) +4
+**Init** -1; **Senses** darkvision 60 ft., low-light vision; [Perception](../../skills_dir/perception#_perception) +4
 
 **Defense**
 
@@ -36,9 +36,9 @@ CE Medium [humanoid](creatureTypes#_humanoid) (boggard)
 
 **Base**  **Atk** +2; **CMB** +4; **CMD** 13
 
-**Feats** [Toughness](../feats#_toughness), [Weapon Focus](../feats#_weapon-focus) (morningstar)
+**Feats** [Toughness](../../feats#_toughness), [Weapon Focus](../../feats#_weapon-focus) (morningstar)
 
-**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +2 (+14 jumping), [Stealth](../skills_dir/stealth#_stealth) –1 (+7 in swamps), [Swim](../skills_dir/swim#_swim) +10; **Racial Modifiers** +16 [Acrobatics](../skills_dir/acrobatics#_acrobatics) when jumping, +4 [Perception](../skills_dir/perception#_perception), +8 [Stealth](../skills_dir/stealth#_stealth) in swamps
+**Skills** [Acrobatics](../../skills_dir/acrobatics#_acrobatics) +2 (+14 jumping), [Stealth](../../skills_dir/stealth#_stealth) –1 (+7 in swamps), [Swim](../../skills_dir/swim#_swim) +10; **Racial Modifiers** +16 [Acrobatics](../../skills_dir/acrobatics#_acrobatics) when jumping, +4 [Perception](../../skills_dir/perception#_perception), +8 [Stealth](../../skills_dir/stealth#_stealth) in swamps
 
 **Languages** Boggard
 

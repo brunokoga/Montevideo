@@ -16,7 +16,7 @@ title: spells_dir/antilifeShell
 
 **Duration** 1 min._dir/level (D)
 
-**Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** yes
+**Saving Throw** none; **[Spell Resistance](../../glossary#_spell-resistance)** yes
 
 You bring into being a mobile, hemispherical energy field that prevents the entrance of most types of living creatures.
 

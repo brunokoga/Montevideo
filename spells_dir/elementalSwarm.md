@@ -16,7 +16,7 @@ title: spells_dir/elementalSwarm
 
 **Duration** 10 min._dir/level (D)
 
-**Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** no
+**Saving Throw** none; **[Spell Resistance](../../glossary#_spell-resistance)** no
 
 This spell opens a portal to an Elemental Plane and summons elementals from it. A druid can choose any plane (Air, Earth, Fire, or Water); a cleric opens a portal to the plane matching his domain.
 

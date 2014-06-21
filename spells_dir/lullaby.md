@@ -16,7 +16,7 @@ title: spells_dir/lullaby
 
 **Duration** concentration + 1 round_dir/level (D)
 
-**Saving Throw** [Will](../combat#_will) negates; **[Spell Resistance](../glossary#_spell-resistance)** yes
+**Saving Throw** [Will](../../combat#_will) negates; **[Spell Resistance](../../glossary#_spell-resistance)** yes
 
-Any creature within the area that fails a [Will](../combat#_will) save becomes drowsy and inattentive, taking a –5 penalty on Perception checks and a –2 penalty on [Will](../combat#_will) saves against _ [sleep](sleep#_sleep) _effects while the _lullaby _is in effect. _Lullaby _lasts for as long as the caster concentrates, plus up to 1 round per caster level thereafter.
+Any creature within the area that fails a [Will](../../combat#_will) save becomes drowsy and inattentive, taking a –5 penalty on Perception checks and a –2 penalty on [Will](../../combat#_will) saves against _ [sleep](../sleep#_sleep) _effects while the _lullaby _is in effect. _Lullaby _lasts for as long as the caster concentrates, plus up to 1 round per caster level thereafter.
 

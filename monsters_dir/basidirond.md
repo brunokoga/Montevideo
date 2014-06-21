@@ -10,9 +10,9 @@ _This strange plant consists of four spidery stalks, long green tendrils, and an
 
 **XP 1,600**
 
-N Medium [plant](creatureTypes#_plant)
+N Medium [plant](../creatureTypes#_plant)
 
-**Init** +1; **Senses** low-light vision, [tremorsense](universalMonsterRules#_tremorsense); [Perception](../skills_dir/perception#_perception) +0
+**Init** +1; **Senses** low-light vision, [tremorsense](../universalMonsterRules#_tremorsense); [Perception](../../skills_dir/perception#_perception) +0
 
 **Defense**
 
@@ -22,7 +22,7 @@ N Medium [plant](creatureTypes#_plant)
 
 **Fort** +8, **Ref** +3, **Will** +2
 
-**Immune** cold, [plant traits](universalMonsterRules#_plant-traits)
+**Immune** cold, [plant traits](../universalMonsterRules#_plant-traits)
 
 **Weaknesses** cold lethargy
 

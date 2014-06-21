@@ -12,7 +12,7 @@ XP 600
 
 CG Tiny dragon
 
-**Init** +3; **Senses** darkvision 60 ft., low-light vision; [Perception](skills_dir/perception#_perception) +8
+**Init** +3; **Senses** darkvision 60 ft., low-light vision; [Perception](../skills_dir/perception#_perception) +8
 
 Defense
 
@@ -36,13 +36,13 @@ Offense
 
 **Spell-Like Abilities** (CL 3rd; concentration +6)
 
-3_dir/day—_ [greater invisibility](spells_dir/invisibility#_invisibility-greater)_ (self only)
+3_dir/day—_ [greater invisibility](../spells_dir/invisibility#_invisibility-greater)_ (self only)
 
 **Spells Known** (CL 3rd; concentration +6)
 
-1st (6_dir/day)—_ [grease](spells_dir/grease#_grease)_ (DC 14), _ [silent image](spells_dir/silentImage#_silent-image)_ (DC 14), _ [sleep](spells_dir/sleep#_sleep)_ (DC 14)
+1st (6_dir/day)—_ [grease](../spells_dir/grease#_grease)_ (DC 14), _ [silent image](../spells_dir/silentImage#_silent-image)_ (DC 14), _ [sleep](../spells_dir/sleep#_sleep)_ (DC 14)
 
-0 (at will)—_ [dancing lights](spells_dir/dancingLights#_dancing-lights)_, _ [flare](spells_dir/flare#_flare)_ (DC 13), _ [ghost sound](spells_dir/ghostSound#_ghost-sound)_ (DC 13), _ [mage hand](spells_dir/mageHand#_mage-hand)_, _ [open_dir/close](spells_dir/openClose#_open-close)_
+0 (at will)—_ [dancing lights](../spells_dir/dancingLights#_dancing-lights)_, _ [flare](../spells_dir/flare#_flare)_ (DC 13), _ [ghost sound](../spells_dir/ghostSound#_ghost-sound)_ (DC 13), _ [mage hand](../spells_dir/mageHand#_mage-hand)_, _ [open_dir/close](../spells_dir/openClose#_open-close)_
 
 Statistics
 
@@ -50,9 +50,9 @@ Statistics
 
 **Base Atk** +3; **CMB** +4; **CMD** 14 (18 vs. trip)
 
-**Feats** [Acrobatic](feats#_acrobatic), [Dodge](feats#_dodge)
+**Feats** [Acrobatic](../feats#_acrobatic), [Dodge](../feats#_dodge)
 
-**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +8 (+0 when jumping), [Bluff](skills_dir/bluff#_bluff) +9, [Diplomacy](skills_dir/diplomacy#_diplomacy) +9, [Fly](skills_dir/fly#_fly) +23, [Perception](skills_dir/perception#_perception) +8, [Sense Motive](skills_dir/senseMotive#_sense-motive) +8, [Stealth](skills_dir/stealth#_stealth) +17, [Swim](skills_dir/swim#_swim) +13, [Use Magic Device](skills_dir/useMagicDevice#_use-magic-device) +9
+**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +8 (+0 when jumping), [Bluff](../skills_dir/bluff#_bluff) +9, [Diplomacy](../skills_dir/diplomacy#_diplomacy) +9, [Fly](../skills_dir/fly#_fly) +23, [Perception](../skills_dir/perception#_perception) +8, [Sense Motive](../skills_dir/senseMotive#_sense-motive) +8, [Stealth](../skills_dir/stealth#_stealth) +17, [Swim](../skills_dir/swim#_swim) +13, [Use Magic Device](../skills_dir/useMagicDevice#_use-magic-device) +9
 
 **Languages** Common, Draconic, Elven, Sylvan; telepathy 100 ft.
 
@@ -66,7 +66,7 @@ Ecology
 
 Special Abilities
 
-**[Breath Weapon](monsters_dir/universalMonsterRules#_breath-weapon) (Su)** 5-foot cone, euphoria for 1d6 rounds, DC 12 Fortitude negates. Creatures affected by euphoria are staggered, sickened, and immune to [fear](monsters_dir/universalMonsterRules#_fear-(su-or-sp)) effects for the duration. A faerie dragon can use this breath weapon once every 1d4 rounds. The save DC is Constitution-based.
+**[Breath Weapon](../monsters_dir/universalMonsterRules#_breath-weapon) (Su)** 5-foot cone, euphoria for 1d6 rounds, DC 12 Fortitude negates. Creatures affected by euphoria are staggered, sickened, and immune to [fear](../monsters_dir/universalMonsterRules#_fear-(su-or-sp)) effects for the duration. A faerie dragon can use this breath weapon once every 1d4 rounds. The save DC is Constitution-based.
 
 **Spells** A faerie dragon casts spells as a 3rd-level sorcerer.
 
@@ -76,5 +76,5 @@ Unlike true dragons, faerie dragons do not grow larger with age, but their scale
 
 Faerie dragons avoid combat unless there is no other option. If forced to fight, faerie dragons attempt to confound enemies rather than kill them, using both spells and breath weapon to weaken and scatter foes before fleeing. The only exception to this is when a faerie dragon's clan or allies are in danger. As capricious as these tiny dragons can be, many prove quick to bond with goodly creatures, especially fey and others they find interesting or hilarious—adventurers often fall into this latter camp, particularly those most outraged by a faerie dragon's tricks.
 
-Faerie dragons sometimes ally with spellcasters, serving as curious, occasionally reckless, but always true familiars. An arcane spellcaster of at least 7th level with an alignment within 1 step of chaotic good who has the [Improved Familiar](feats#_improved-familiar) feat may select a faerie dragon as a familiar.
+Faerie dragons sometimes ally with spellcasters, serving as curious, occasionally reckless, but always true familiars. An arcane spellcaster of at least 7th level with an alignment within 1 step of chaotic good who has the [Improved Familiar](../feats#_improved-familiar) feat may select a faerie dragon as a familiar.
 

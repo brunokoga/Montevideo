@@ -16,7 +16,7 @@ title: spells_dir/moveEarth
 
 **Duration** instantaneous
 
-**Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** no
+**Saving Throw** none; **[Spell Resistance](../../glossary#_spell-resistance)** no
 
 _Move earth _moves dirt (clay, loam, sand, and soil), possibly collapsing embankments, moving hillocks, shifting dunes, and so forth.
 

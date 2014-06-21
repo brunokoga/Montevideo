@@ -16,7 +16,7 @@ title: spells_dir/bane
 
 **Duration** 1 min._dir/level
 
-**Saving Throw** [Will](../combat#_will) negates; **[Spell Resistance](../glossary#_spell-resistance)** yes
+**Saving Throw** [Will](../../combat#_will) negates; **[Spell Resistance](../../glossary#_spell-resistance)** yes
 
-_Bane _fills your enemies with fear and doubt. Each affected creature takes a –1 penalty on attack rolls and a –1 penalty on saving throws against fear effects. _Bane _counters and dispels _ [bless](bless#_bless)_.
+_Bane _fills your enemies with fear and doubt. Each affected creature takes a –1 penalty on attack rolls and a –1 penalty on saving throws against fear effects. _Bane _counters and dispels _ [bless](../bless#_bless)_.
 

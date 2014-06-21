@@ -12,7 +12,7 @@ XP 51,200
 
 CE Huge dragon
 
-**Init** +2; **Senses** darkvision 60 ft., low-light vision, _ [true seeing](spells_dir/trueSeeing#_true-seeing)_; [Perception](skills_dir/perception#_perception) +23
+**Init** +2; **Senses** darkvision 60 ft., low-light vision, _ [true seeing](../spells_dir/trueSeeing#_true-seeing)_; [Perception](../skills_dir/perception#_perception) +23
 
 Defense
 
@@ -22,7 +22,7 @@ Defense
 
 **Fort** +16, **Ref** +14, **Will** +15
 
-**DR** 10_dir/lawful; **Immune** [fire](monsters_dir/creatureTypes#_fire-subtype), paralysis, [poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)), sleep; **SR** 26
+**DR** 10_dir/lawful; **Immune** [fire](../monsters_dir/creatureTypes#_fire-subtype), paralysis, [poison](../monsters_dir/universalMonsterRules#_poison-(ex-or-su)), sleep; **SR** 26
 
 Offense
 
@@ -32,17 +32,17 @@ Offense
 
 **Space** 15 ft.; **Reach** 10 ft. (20 ft. with bite)
 
-**Special Attacks** breath weapon (40-ft. cone, 5d6 [fire](monsters_dir/creatureTypes#_fire-subtype), Reflex DC 24 for half, usable every 1d4 rounds)
+**Special Attacks** breath weapon (40-ft. cone, 5d6 [fire](../monsters_dir/creatureTypes#_fire-subtype), Reflex DC 24 for half, usable every 1d4 rounds)
 
 **Spell-Like Abilities** (CL 15th; concentration +19)
 
-Constant—_ [true seeing](spells_dir/trueSeeing#_true-seeing)_
+Constant—_ [true seeing](../spells_dir/trueSeeing#_true-seeing)_
 
-At will—_ [charm person](spells_dir/charmPerson#_charm-person)_ (DC 15), _ [dancing lights](spells_dir/dancingLights#_dancing-lights)_, _ [message](spells_dir/message#_message)_
+At will—_ [charm person](../spells_dir/charmPerson#_charm-person)_ (DC 15), _ [dancing lights](../spells_dir/dancingLights#_dancing-lights)_, _ [message](../spells_dir/message#_message)_
 
-3_dir/day—_ [alter self](spells_dir/alterSelf#_alter-self)_, _ [bestow curse](spells_dir/bestowCurse#_bestow-curse)_ (DC 18), _ [greater dispel magic](spells_dir/dispelMagic#_dispel-magic-greater)_
+3_dir/day—_ [alter self](../spells_dir/alterSelf#_alter-self)_, _ [bestow curse](../spells_dir/bestowCurse#_bestow-curse)_ (DC 18), _ [greater dispel magic](../spells_dir/dispelMagic#_dispel-magic-greater)_
 
-1_dir/day—_ [lesser geas](spells_dir/geasQuest#_geas-lesser)_ (DC 18), _ [limited wish](spells_dir/limitedWish#_limited-wish)_, _ [mislead](spells_dir/mislead#_mislead)_ (DC 20)
+1_dir/day—_ [lesser geas](../spells_dir/geasQuest#_geas-lesser)_ (DC 18), _ [limited wish](../spells_dir/limitedWish#_limited-wish)_, _ [mislead](../spells_dir/mislead#_mislead)_ (DC 20)
 
 Statistics
 
@@ -50,9 +50,9 @@ Statistics
 
 **Base Atk** +17; **CMB** +27; **CMD** 39
 
-**Feats** [Awesome Blow](monsters_dir/monsterFeats#_awesome-blow), [Combat Reflexes](feats#_combat-reflexes), [Flyby Attack](monsters_dir/monsterFeats#_flyby-attack), [Improved Bull Rush](feats#_improved-bull-rush), [Iron Will](feats#_iron-will), [Lightning Reflexes](feats#_lightning-reflexes), [Power Attack](feats#_power-attack), [Stand Still](feats#_stand-still), [Weapon Focus](feats#_weapon-focus) (bite)
+**Feats** [Awesome Blow](../monsters_dir/monsterFeats#_awesome-blow), [Combat Reflexes](../feats#_combat-reflexes), [Flyby Attack](../monsters_dir/monsterFeats#_flyby-attack), [Improved Bull Rush](../feats#_improved-bull-rush), [Iron Will](../feats#_iron-will), [Lightning Reflexes](../feats#_lightning-reflexes), [Power Attack](../feats#_power-attack), [Stand Still](../feats#_stand-still), [Weapon Focus](../feats#_weapon-focus) (bite)
 
-**Skills** [Bluff](skills_dir/bluff#_bluff) +17, [Diplomacy](skills_dir/diplomacy#_diplomacy) +17, [Fly](skills_dir/fly#_fly) +7, [Intimidate](skills_dir/intimidate#_intimidate) +17, [Knowledge](skills_dir/knowledge#_knowledge) (arcana) +14, [Knowledge](skills_dir/knowledge#_knowledge) (nature) +14, [Perception](skills_dir/perception#_perception) +23, [Sense Motive](skills_dir/senseMotive#_sense-motive) +16, [Spellcraft](skills_dir/spellcraft#_spellcraft) +14, [Stealth](skills_dir/stealth#_stealth) +14, [Swim](skills_dir/swim#_swim) +24
+**Skills** [Bluff](../skills_dir/bluff#_bluff) +17, [Diplomacy](../skills_dir/diplomacy#_diplomacy) +17, [Fly](../skills_dir/fly#_fly) +7, [Intimidate](../skills_dir/intimidate#_intimidate) +17, [Knowledge](../skills_dir/knowledge#_knowledge) (arcana) +14, [Knowledge](../skills_dir/knowledge#_knowledge) (nature) +14, [Perception](../skills_dir/perception#_perception) +23, [Sense Motive](../skills_dir/senseMotive#_sense-motive) +16, [Spellcraft](../skills_dir/spellcraft#_spellcraft) +14, [Stealth](../skills_dir/stealth#_stealth) +14, [Swim](../skills_dir/swim#_swim) +24
 
 **Languages** Common, Draconic, Sylvan
 
@@ -68,13 +68,13 @@ Ecology
 
 Special Abilities
 
-**[Breath Weapon](monsters_dir/universalMonsterRules#_breath-weapon) (Su)** Each of a gorynych's heads has its own separate breath weapon. When a gorynych uses its breath weapon, it can breathe with one, two, or all three heads. If the areas of two or more breath weapons overlap, a creature caught in that overlapping area takes a –2 penalty on its Reflex save (or –4 if three breath weapons overlap). Damage done by overlapping breath weapons stacks and is considered to be a single source of [fire](monsters_dir/creatureTypes#_fire-subtype) damage for the purpose of tracking [fire](monsters_dir/creatureTypes#_fire-subtype) [resistance](monsters_dir/universalMonsterRules#_resistance). Regardless of how many heads breathe [fire](monsters_dir/creatureTypes#_fire-subtype), the gorynych can only use its breath weapon once every 1d4 rounds.
+**[Breath Weapon](../monsters_dir/universalMonsterRules#_breath-weapon) (Su)** Each of a gorynych's heads has its own separate breath weapon. When a gorynych uses its breath weapon, it can breathe with one, two, or all three heads. If the areas of two or more breath weapons overlap, a creature caught in that overlapping area takes a –2 penalty on its Reflex save (or –4 if three breath weapons overlap). Damage done by overlapping breath weapons stacks and is considered to be a single source of [fire](../monsters_dir/creatureTypes#_fire-subtype) damage for the purpose of tracking [fire](../monsters_dir/creatureTypes#_fire-subtype) [resistance](../monsters_dir/universalMonsterRules#_resistance). Regardless of how many heads breathe [fire](../monsters_dir/creatureTypes#_fire-subtype), the gorynych can only use its breath weapon once every 1d4 rounds.
 
 **Multi-Headed (Ex)** All three of a gorynych's heads can act independently of each other. When it makes a full attack, each head can either bite or use its breath weapon, in any combination (two bites and one breath, three breaths and no bites, and so on).
 
 This sinister beast threatens entire countrysides with its plundering actions. No friend to its true dragon cousins, a gorynych sometimes threatens green and black dragons for mastery of their lands. A gorynych seeks out young dragons that have only established small hoards, killing the rival creatures and claiming their treasures as its own. It dominates drakes and wyverns, but true dragons consider it a repulsive throwback to an ancient line of mutants and deviants.
 
-Motivated by greed, gluttony, and unnatural lust, a gorynych lives to collect treasure, feast as often as possible, and chase after humanoid maidens, using _ [alter self](spells_dir/alterSelf#_alter-self)_ and _ [charm person](spells_dir/charmPerson#_charm-person)_ as necessary. Gorynyches are particularly creative with the use of their _limited wishes_ in duplicating other spell effects to secure their desires and complete their hideous tasks.
+Motivated by greed, gluttony, and unnatural lust, a gorynych lives to collect treasure, feast as often as possible, and chase after humanoid maidens, using _ [alter self](../spells_dir/alterSelf#_alter-self)_ and _ [charm person](../spells_dir/charmPerson#_charm-person)_ as necessary. Gorynyches are particularly creative with the use of their _limited wishes_ in duplicating other spell effects to secure their desires and complete their hideous tasks.
 
 When not busily stalking young dragons in order to steal their hoard or selecting maidens to kidnap, most gorynyches search out ancient ruins. There they install themselves as guardians, sometimes even gathering whole tribes of monstrous humanoids to act as their servants.
 

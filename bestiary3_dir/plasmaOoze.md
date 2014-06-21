@@ -12,7 +12,7 @@ XP 76,800
 
 N Gargantuan ooze
 
-**Init** +0; **Senses** [blindsight](monsters_dir/universalMonsterRules#_blindsight) 60 ft.; [Perception](skills_dir/perception#_perception) –5
+**Init** +0; **Senses** [blindsight](../monsters_dir/universalMonsterRules#_blindsight) 60 ft.; [Perception](../skills_dir/perception#_perception) –5
 
 **Aura** magnetic pulse (30 ft., DC 27)
 
@@ -24,19 +24,19 @@ Defense
 
 **Fort** +14, **Ref** +7, **Will** +2
 
-**Defensive Abilities** [split](monsters_dir/universalMonsterRules#_split) (slashing or sonic, 46 hp); **DR** 15_dir/—; **Immune** acid, electricity, bludgeoning and piercing damage, ooze traits; **Resist** [cold](monsters_dir/creatureTypes#_cold-subtype) 30
+**Defensive Abilities** [split](../monsters_dir/universalMonsterRules#_split) (slashing or sonic, 46 hp); **DR** 15_dir/—; **Immune** acid, electricity, bludgeoning and piercing damage, ooze traits; **Resist** [cold](../monsters_dir/creatureTypes#_cold-subtype) 30
 
 Offense
 
 **Speed** fly 30 ft. (perfect)
 
-**Melee** slam +24 (4d6+19 plus 4d6 electricity, 4d6 [fire](monsters_dir/creatureTypes#_fire-subtype), and [grab](monsters_dir/universalMonsterRules#_grab))
+**Melee** slam +24 (4d6+19 plus 4d6 electricity, 4d6 [fire](../monsters_dir/creatureTypes#_fire-subtype), and [grab](../monsters_dir/universalMonsterRules#_grab))
 
-**Ranged** 1d4 plasma rays +11 touch (4d6 electricity plus 4d6 [fire](monsters_dir/creatureTypes#_fire-subtype))
+**Ranged** 1d4 plasma rays +11 touch (4d6 electricity plus 4d6 [fire](../monsters_dir/creatureTypes#_fire-subtype))
 
 **Space** 20 ft.; **Reach** 20 ft.
 
-**Special Attacks** [constrict](monsters_dir/universalMonsterRules#_constrict) (4d6+19 plus 4d6 electricity and 4d6 [fire](monsters_dir/creatureTypes#_fire-subtype)), [engulf](monsters_dir/universalMonsterRules#_engulf) (DC 33, 4d6 electricity plus 4d6 [fire](monsters_dir/creatureTypes#_fire-subtype))
+**Special Attacks** [constrict](../monsters_dir/universalMonsterRules#_constrict) (4d6+19 plus 4d6 electricity and 4d6 [fire](../monsters_dir/creatureTypes#_fire-subtype)), [engulf](../monsters_dir/universalMonsterRules#_engulf) (DC 33, 4d6 electricity plus 4d6 [fire](../monsters_dir/creatureTypes#_fire-subtype))
 
 Statistics
 
@@ -44,9 +44,9 @@ Statistics
 
 **Base Atk** +15; **CMB** +32 (+36 grapple); **CMD** 42 (can't be tripped)
 
-**Skills** [Fly](skills_dir/fly#_fly) +8
+**Skills** [Fly](../skills_dir/fly#_fly) +8
 
-**SQ** [no breath](monsters_dir/universalMonsterRules#_no-breath)
+**SQ** [no breath](../monsters_dir/universalMonsterRules#_no-breath)
 
 Ecology
 
@@ -58,9 +58,9 @@ Ecology
 
 Special Abilities
 
-**Magnetic Pulse (Su)** A plasma ooze is surrounded by an aura of magnetism that allows it to attract metallic objects and creatures. At the start of the ooze's turn as a free action, the ooze makes a combat maneuver check against all metallic creatures, all creatures wearing metal armor, and all creatures wielding metal weapons within 30 feet. If it beats the CMD of a metal or armored creature with this check, that creature is pulled 10 feet closer to the ooze and cannot move away from the ooze for 1 round. If this causes the creature to move into a square occupied by the plasma ooze, the ooze can attempt to [engulf](monsters_dir/universalMonsterRules#_engulf) that creature as a free action. If it beats the CMD of a creature wielding a metal weapon, that weapon is disarmed and pulled 10 feet closer to the ooze. Unattended metal objects of size Large or smaller are automatically pulled toward a plasma ooze. This magnetism is supernatural in nature and affects all metal objects.
+**Magnetic Pulse (Su)** A plasma ooze is surrounded by an aura of magnetism that allows it to attract metallic objects and creatures. At the start of the ooze's turn as a free action, the ooze makes a combat maneuver check against all metallic creatures, all creatures wearing metal armor, and all creatures wielding metal weapons within 30 feet. If it beats the CMD of a metal or armored creature with this check, that creature is pulled 10 feet closer to the ooze and cannot move away from the ooze for 1 round. If this causes the creature to move into a square occupied by the plasma ooze, the ooze can attempt to [engulf](../monsters_dir/universalMonsterRules#_engulf) that creature as a free action. If it beats the CMD of a creature wielding a metal weapon, that weapon is disarmed and pulled 10 feet closer to the ooze. Unattended metal objects of size Large or smaller are automatically pulled toward a plasma ooze. This magnetism is supernatural in nature and affects all metal objects.
 
-**Plasma Ray (Su)** As a standard action, a plasma ooze can [fire](monsters_dir/creatureTypes#_fire-subtype) 1d4 plasma rays at up to 4 separate targets within 60 feet (no more than one ray can attack a single creature). Each ray deals 4d6 points of electricity damage and 4d6 points of [fire](monsters_dir/creatureTypes#_fire-subtype) damage on a hit.
+**Plasma Ray (Su)** As a standard action, a plasma ooze can [fire](../monsters_dir/creatureTypes#_fire-subtype) 1d4 plasma rays at up to 4 separate targets within 60 feet (no more than one ray can attack a single creature). Each ray deals 4d6 points of electricity damage and 4d6 points of [fire](../monsters_dir/creatureTypes#_fire-subtype) damage on a hit.
 
 Massive and devastating, plasma oozes are mysterious, extraterrestrial beings made of superheated electromagnetic sludge. While their origin is not fully known, it is widely accepted that plasma oozes are not from this world. Some scholars believe they dwell in the sun, while others maintain they hail from the Plane of Fire. That plasma oozes have been encountered in both of these locations does little to help solve the debate.
 

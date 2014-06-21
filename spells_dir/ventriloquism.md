@@ -16,7 +16,7 @@ title: spells_dir/ventriloquism
 
 **Duration** 1 min._dir/level (D)
 
-**Saving Throw** [Will](../combat#_will) disbelief (if interacted with); **[Spell Resistance](../glossary#_spell-resistance)** no
+**Saving Throw** [Will](../../combat#_will) disbelief (if interacted with); **[Spell Resistance](../../glossary#_spell-resistance)** no
 
 You can make your voice (or any sound that you can normally make vocally) seem to issue from someplace else. You can speak in any language you know. With respect to such voices and sounds, anyone who hears the sound and rolls a successful save recognizes it as illusory (but still hears it).
 

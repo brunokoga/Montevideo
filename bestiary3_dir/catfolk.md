@@ -14,7 +14,7 @@ Catfolk ranger 1
 
 NG Medium humanoid (catfolk)
 
-**Init** +3; **Senses** low-light vision; [Perception](skills_dir/perception#_perception) +2
+**Init** +3; **Senses** low-light vision; [Perception](../skills_dir/perception#_perception) +2
 
 Defense
 
@@ -40,9 +40,9 @@ Statistics
 
 **Base Atk** +1; **CMB** +3; **CMD** 16
 
-**Feats** [Weapon Focus](feats#_weapon-focus) (longbow)
+**Feats** [Weapon Focus](../feats#_weapon-focus) (longbow)
 
-**Skills** [Climb](skills_dir/climb#_climb) +5, [Handle Animal](skills_dir/handleAnimal#_handle-animal) +5, [Knowledge](skills_dir/knowledge#_knowledge) (nature) +3, [Perception](skills_dir/perception#_perception) +2, [Stealth](skills_dir/stealth#_stealth) +8, [Survival](skills_dir/survival#_survival) +6; **Racial Modifiers** +2 [Perception](skills_dir/perception#_perception), +2 [Stealth](skills_dir/stealth#_stealth), +2 [Survival](skills_dir/survival#_survival)
+**Skills** [Climb](../skills_dir/climb#_climb) +5, [Handle Animal](../skills_dir/handleAnimal#_handle-animal) +5, [Knowledge](../skills_dir/knowledge#_knowledge) (nature) +3, [Perception](../skills_dir/perception#_perception) +2, [Stealth](../skills_dir/stealth#_stealth) +8, [Survival](../skills_dir/survival#_survival) +6; **Racial Modifiers** +2 [Perception](../skills_dir/perception#_perception), +2 [Stealth](../skills_dir/stealth#_stealth), +2 [Survival](../skills_dir/survival#_survival)
 
 **Languages** Catfolk, Common
 
@@ -78,7 +78,7 @@ Catfolk have no racial Hit Dice, gaining their capabilities from class levels. A
 
 **Sprinter** : See above.
 
-**Natural Hunter** : Catfolk receive a +2 racial bonus on [Perception](skills_dir/perception#_perception), [Stealth](skills_dir/stealth#_stealth), and [Survival](skills_dir/survival#_survival) checks.
+**Natural Hunter** : Catfolk receive a +2 racial bonus on [Perception](../skills_dir/perception#_perception), [Stealth](../skills_dir/stealth#_stealth), and [Survival](../skills_dir/survival#_survival) checks.
 
 **Languages** : Catfolk speak Catfolk and Common. A catfolk who has a high Intelligence score can choose from the following bonus languages: Elven, Gnoll, Gnome, Goblin, Halfling, Orc, and Sylvan.
 

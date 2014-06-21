@@ -16,7 +16,7 @@ title: spells_dir/spiderClimb
 
 **Duration** 10 min._dir/level
 
-**Saving Throw** [Will](../combat#_will) negates (harmless); **[Spell Resistance](../glossary#_spell-resistance)** yes (harmless)
+**Saving Throw** [Will](../../combat#_will) negates (harmless); **[Spell Resistance](../../glossary#_spell-resistance)** yes (harmless)
 
-The subject can climb and travel on vertical surfaces or even traverse ceilings as well as a spider does. The affected creature must have its hands free to climb in this manner. The subject gains a climb speed of 20 feet and a +8 racial bonus on Climb skill checks; furthermore, it need not make Climb checks to traverse a vertical or horizontal surface (even upside down). A _spider climbing _creature retains its [Dexterity](../gettingStarted#_dexterity) bonus to [Armor Class](../combat#_armor-class) (if any) while climbing, and opponents get no special bonus to their attacks against it. It cannot, however, use the run action while climbing.
+The subject can climb and travel on vertical surfaces or even traverse ceilings as well as a spider does. The affected creature must have its hands free to climb in this manner. The subject gains a climb speed of 20 feet and a +8 racial bonus on Climb skill checks; furthermore, it need not make Climb checks to traverse a vertical or horizontal surface (even upside down). A _spider climbing _creature retains its [Dexterity](../../gettingStarted#_dexterity) bonus to [Armor Class](../../combat#_armor-class) (if any) while climbing, and opponents get no special bonus to their attacks against it. It cannot, however, use the run action while climbing.
 

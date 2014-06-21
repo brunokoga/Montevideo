@@ -16,7 +16,7 @@ title: spells_dir/lightningBolt
 
 **Duration** instantaneous
 
-**Saving Throw** [Reflex](../combat#_reflex) half; **[Spell Resistance](../glossary#_spell-resistance)** yes
+**Saving Throw** [Reflex](../../combat#_reflex) half; **[Spell Resistance](../../glossary#_spell-resistance)** yes
 
 You release a powerful stroke of electrical energy that deals 1d6 points of electricity damage per caster level (maximum 10d6) to each creature within its area. The bolt begins at your fingertips.
 

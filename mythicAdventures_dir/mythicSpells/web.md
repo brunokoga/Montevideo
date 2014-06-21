@@ -4,9 +4,9 @@ title: mythicAdventures_dir/mythicSpells_dir/web
 ---
 Web
 
-**Source** [_web_](spells_dir/web#_web)
+**Source** [_web_](../spells_dir/web#_web)
 
 The webs are filled with spider swarms (one spider swarm for each 10-foot-by-10-foot area covered in webs). Any creature caught in or moving through the webs is attacked by a spider swarm (or multiple swarms, if it passes through the space of more than one swarm). The spiders don't leave the area of webbing. Destroying the web in an area destroys the swarm there as well, and completely destroying the web destroys all the swarms.
 
-**Augmented (5th)** : If you expend two uses of mythic power, the webs increase to a 50-foot-radius spread. Webs span any gaps between available anchor points in the area, possibly creating multiple non-contiguous webbed areas. Non-mythic abilities that make creatures immune to webs (such as _ [freedom of movement](spells_dir/freedomOfMovement#_freedom-of-movement)_) instead give them a +5 bonus on saves, combat maneuver checks, and [Escape Artist](skills_dir/escapeArtist#_escape-artist) checks against _mythic web_.
+**Augmented (5th)** : If you expend two uses of mythic power, the webs increase to a 50-foot-radius spread. Webs span any gaps between available anchor points in the area, possibly creating multiple non-contiguous webbed areas. Non-mythic abilities that make creatures immune to webs (such as _ [freedom of movement](../spells_dir/freedomOfMovement#_freedom-of-movement)_) instead give them a +5 bonus on saves, combat maneuver checks, and [Escape Artist](../skills_dir/escapeArtist#_escape-artist) checks against _mythic web_.
 

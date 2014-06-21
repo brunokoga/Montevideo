@@ -10,9 +10,9 @@ Nephilim CR 8
 
 XP 4,800
 
-N Large outsider ( [native](monsters_dir/creatureTypes#_native-subtype))
+N Large outsider ( [native](../monsters_dir/creatureTypes#_native-subtype))
 
-**Init** +2; **Senses** darkvision 60 ft.; [Perception](skills_dir/perception#_perception) +17
+**Init** +2; **Senses** darkvision 60 ft.; [Perception](../skills_dir/perception#_perception) +17
 
 Defense
 
@@ -20,9 +20,9 @@ Defense
 
 **hp** 104 (11d10+44)
 
-**Fort** +13, **Ref** +5, **Will** +10; +2 vs. [fear](monsters_dir/universalMonsterRules#_fear-(su-or-sp)) and sorrow effects
+**Fort** +13, **Ref** +5, **Will** +10; +2 vs. [fear](../monsters_dir/universalMonsterRules#_fear-(su-or-sp)) and sorrow effects
 
-**Defensive Abilities** soul of sorrow; **DR** 10_dir/magic; **Resist** [cold](monsters_dir/creatureTypes#_cold-subtype) 10, [fire](monsters_dir/creatureTypes#_fire-subtype) 10; **SR** 19
+**Defensive Abilities** soul of sorrow; **DR** 10_dir/magic; **Resist** [cold](../monsters_dir/creatureTypes#_cold-subtype) 10, [fire](../monsters_dir/creatureTypes#_fire-subtype) 10; **SR** 19
 
 Offense
 
@@ -42,9 +42,9 @@ Statistics
 
 **Base Atk** +11; **CMB** +19 (+23 sunder); **CMD** 31 (33 vs. sunder)
 
-**Feats** [Endurance](feats#_endurance)B, [Great Fortitude](feats#_great-fortitude)B, [Greater Sunder](feats#_greater-sunder), [Improved Critical](feats#_improved-critical) (longsword), [Improved Lightning Reflexes](feats#_improved-lightning-reflexes), [Improved Sunder](feats#_improved-sunder), [Power Attack](feats#_power-attack), [Quick Draw](feats#_quick-draw)
+**Feats** [Endurance](../feats#_endurance)B, [Great Fortitude](../feats#_great-fortitude)B, [Greater Sunder](../feats#_greater-sunder), [Improved Critical](../feats#_improved-critical) (longsword), [Improved Lightning Reflexes](../feats#_improved-lightning-reflexes), [Improved Sunder](../feats#_improved-sunder), [Power Attack](../feats#_power-attack), [Quick Draw](../feats#_quick-draw)
 
-**Skills** [Bluff](skills_dir/bluff#_bluff) +12, [Climb](skills_dir/climb#_climb) +13, [Diplomacy](skills_dir/diplomacy#_diplomacy) +17, [Intimidate](skills_dir/intimidate#_intimidate) +17, [Knowledge](skills_dir/knowledge#_knowledge) (geography, planes) +11, [Perception](skills_dir/perception#_perception) +17, [Sense Motive](skills_dir/senseMotive#_sense-motive) +17, [Stealth](skills_dir/stealth#_stealth) +9, [Survival](skills_dir/survival#_survival) +12
+**Skills** [Bluff](../skills_dir/bluff#_bluff) +12, [Climb](../skills_dir/climb#_climb) +13, [Diplomacy](../skills_dir/diplomacy#_diplomacy) +17, [Intimidate](../skills_dir/intimidate#_intimidate) +17, [Knowledge](../skills_dir/knowledge#_knowledge) (geography, planes) +11, [Perception](../skills_dir/perception#_perception) +17, [Sense Motive](../skills_dir/senseMotive#_sense-motive) +17, [Stealth](../skills_dir/stealth#_stealth) +9, [Survival](../skills_dir/survival#_survival) +12
 
 Ecology
 
@@ -56,11 +56,11 @@ Ecology
 
 Special Abilities
 
-**[Crushing Blow](ultimateCombat_dir/ultimateCombatFeats#_crushing-blow) (Ex)** When a nephilim makes a successful critical hit with a melee attack, the target must make a DC 22 Fortitude save or take an additional 3d6 points of nonlethal damage and be staggered for 1 round. The save DC is Strength-based.
+**[Crushing Blow](../ultimateCombat_dir/ultimateCombatFeats#_crushing-blow) (Ex)** When a nephilim makes a successful critical hit with a melee attack, the target must make a DC 22 Fortitude save or take an additional 3d6 points of nonlethal damage and be staggered for 1 round. The save DC is Strength-based.
 
-**Mortal Challenge (Su)** When a nephilim spends a standard action to roar a battle challenge, all humanoids and monstrous humanoids within 100 feet of the nephilim must make a DC 18 Will save to avoid becoming frightened for 5d6 rounds. On a successful save, the creatures only become shaken for that time. Creatures with more HD than the nephilim become shaken if they fail their save, and suffer no effect if they succeed. A creature that succeeds at the save is immune to that nephilim's mortal challenge for 24 hours. This is a mind-affecting [fear](monsters_dir/universalMonsterRules#_fear-(su-or-sp)) effect. The save DC is Charisma-based.
+**Mortal Challenge (Su)** When a nephilim spends a standard action to roar a battle challenge, all humanoids and monstrous humanoids within 100 feet of the nephilim must make a DC 18 Will save to avoid becoming frightened for 5d6 rounds. On a successful save, the creatures only become shaken for that time. Creatures with more HD than the nephilim become shaken if they fail their save, and suffer no effect if they succeed. A creature that succeeds at the save is immune to that nephilim's mortal challenge for 24 hours. This is a mind-affecting [fear](../monsters_dir/universalMonsterRules#_fear-(su-or-sp)) effect. The save DC is Charisma-based.
 
-**Soul of Sorrow (Ex)** A nephilim gains a +2 bonus on Will saves against [fear](monsters_dir/universalMonsterRules#_fear-(su-or-sp)) effects and any effect that causes sorrow.
+**Soul of Sorrow (Ex)** A nephilim gains a +2 bonus on Will saves against [fear](../monsters_dir/universalMonsterRules#_fear-(su-or-sp)) effects and any effect that causes sorrow.
 
 The nephilim are the offspring of demigods who bred with humans. This joining resulted in a race of giant-sized beings possessed of a shard of divine power and the mortal consciousness of humans. A nephilim stands 11 feet tall and weighs 1,100 pounds. Its divine heritage grants it a lifespan of almost 600 years.
 

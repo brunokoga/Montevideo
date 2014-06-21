@@ -16,9 +16,9 @@ title: spells_dir/crushingDespair
 
 **Duration** 1 min._dir/level
 
-**Saving Throw** [Will](../combat#_will) negates; **[Spell Resistance](../glossary#_spell-resistance)** yes
+**Saving Throw** [Will](../../combat#_will) negates; **[Spell Resistance](../../glossary#_spell-resistance)** yes
 
 An invisible cone of despair causes great sadness in the subjects. Each affected creature takes a –2 penalty on attack rolls, saving throws, ability checks, skill checks, and weapon damage rolls.
 
-_Crushing despair_ counters and dispels _ [good hope](goodHope#_good-hope)_.
+_Crushing despair_ counters and dispels _ [good hope](../goodHope#_good-hope)_.
 

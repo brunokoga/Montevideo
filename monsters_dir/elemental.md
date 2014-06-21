@@ -26,9 +26,9 @@ _This cloud-like creature has dark hollows reminiscent of eyes and a mouth, and 
 
 **XP 400**
 
-N Small [outsider](creatureTypes#_outsider) ( [air](creatureTypes#_air-subtype), [elemental](creatureTypes#_elemental-subtype), [extraplanar](creatureTypes#_extraplanar-subtype))
+N Small [outsider](../creatureTypes#_outsider) ( [air](../creatureTypes#_air-subtype), [elemental](../creatureTypes#_elemental-subtype), [extraplanar](../creatureTypes#_extraplanar-subtype))
 
-**Init** +7; **Senses** darkvision 60 ft.; [Perception](../skills_dir/perception#_perception) +4
+**Init** +7; **Senses** darkvision 60 ft.; [Perception](../../skills_dir/perception#_perception) +4
 
 **Defense**
 
@@ -38,7 +38,7 @@ N Small [outsider](creatureTypes#_outsider) ( [air](creatureTypes#_air-subtype),
 
 **Fort** +4, **Ref** +6, **Will** +0
 
-**Defensive Abilities** air mastery; **Immune** [elemental traits](creatureTypes#_elemental-subtype)
+**Defensive Abilities** air mastery; **Immune** [elemental traits](../creatureTypes#_elemental-subtype)
 
 **Offense**
 
@@ -46,7 +46,7 @@ N Small [outsider](creatureTypes#_outsider) ( [air](creatureTypes#_air-subtype),
 
 **Melee** slam +6 (1d4+1)
 
-**Special Attacks** [whirlwind](universalMonsterRules#_whirlwind) (DC 12)
+**Special Attacks** [whirlwind](../universalMonsterRules#_whirlwind) (DC 12)
 
 **Statistics**
 
@@ -54,17 +54,17 @@ N Small [outsider](creatureTypes#_outsider) ( [air](creatureTypes#_air-subtype),
 
 **Base Atk** +2; **CMB** +2; **CMD** 15
 
-**Feats** [Flyby Attack](monsterFeats#_flyby-attack), [Improved Initiative](../feats#_improved-initiative)B, [Weapon Finesse](../feats#_weapon-finesse)B
+**Feats** [Flyby Attack](../monsterFeats#_flyby-attack), [Improved Initiative](../../feats#_improved-initiative)B, [Weapon Finesse](../../feats#_weapon-finesse)B
 
-**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +7, [Escape Artist](../skills_dir/escapeArtist#_escape-artist) +7, [Fly](../skills_dir/fly#_fly) +17, [Knowledge](../skills_dir/knowledge#_knowledge) (planes) +1, [Perception](../skills_dir/perception#_perception) +4, [Stealth](../skills_dir/stealth#_stealth) +11
+**Skills** [Acrobatics](../../skills_dir/acrobatics#_acrobatics) +7, [Escape Artist](../../skills_dir/escapeArtist#_escape-artist) +7, [Fly](../../skills_dir/fly#_fly) +17, [Knowledge](../../skills_dir/knowledge#_knowledge) (planes) +1, [Perception](../../skills_dir/perception#_perception) +4, [Stealth](../../skills_dir/stealth#_stealth) +11
 
 **Medium Air Elemental CR 3**
 
 **XP 800**
 
-N Medium [outsider](creatureTypes#_outsider) ( [air](creatureTypes#_air-subtype), [elemental](creatureTypes#_elemental-subtype), [extraplanar](creatureTypes#_extraplanar-subtype))
+N Medium [outsider](../creatureTypes#_outsider) ( [air](../creatureTypes#_air-subtype), [elemental](../creatureTypes#_elemental-subtype), [extraplanar](../creatureTypes#_extraplanar-subtype))
 
-**Init** +9; **Senses** darkvision 60 ft.; [Perception](../skills_dir/perception#_perception) +7
+**Init** +9; **Senses** darkvision 60 ft.; [Perception](../../skills_dir/perception#_perception) +7
 
 **Defense**
 
@@ -74,7 +74,7 @@ N Medium [outsider](creatureTypes#_outsider) ( [air](creatureTypes#_air-subtype)
 
 **Fort** +6, **Ref** +9, **Will** +1
 
-**Defensive Abilities** air mastery; **Immune** [elemental traits](creatureTypes#_elemental-subtype)
+**Defensive Abilities** air mastery; **Immune** [elemental traits](../creatureTypes#_elemental-subtype)
 
 **Offense**
 
@@ -82,7 +82,7 @@ N Medium [outsider](creatureTypes#_outsider) ( [air](creatureTypes#_air-subtype)
 
 **Melee** slam +9 (1d6+3)
 
-**Special Attacks** [whirlwind](universalMonsterRules#_whirlwind) (DC 14)
+**Special Attacks** [whirlwind](../universalMonsterRules#_whirlwind) (DC 14)
 
 **Statistics**
 
@@ -90,17 +90,17 @@ N Medium [outsider](creatureTypes#_outsider) ( [air](creatureTypes#_air-subtype)
 
 **Base Atk** +4; **CMB** +6; **CMD** 22
 
-**Feats** [Dodge](../feats#_dodge), [Flyby Attack](monsterFeats#_flyby-attack), [Improved Initiative](../feats#_improved-initiative)B, [Weapon Finesse](../feats#_weapon-finesse)B
+**Feats** [Dodge](../../feats#_dodge), [Flyby Attack](../monsterFeats#_flyby-attack), [Improved Initiative](../../feats#_improved-initiative)B, [Weapon Finesse](../../feats#_weapon-finesse)B
 
-**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +11, [Escape Artist](../skills_dir/escapeArtist#_escape-artist) +9, [Fly](../skills_dir/fly#_fly) +17, [Knowledge](../skills_dir/knowledge#_knowledge) (planes) +1, [Perception](../skills_dir/perception#_perception) +7, [Stealth](../skills_dir/stealth#_stealth) +10
+**Skills** [Acrobatics](../../skills_dir/acrobatics#_acrobatics) +11, [Escape Artist](../../skills_dir/escapeArtist#_escape-artist) +9, [Fly](../../skills_dir/fly#_fly) +17, [Knowledge](../../skills_dir/knowledge#_knowledge) (planes) +1, [Perception](../../skills_dir/perception#_perception) +7, [Stealth](../../skills_dir/stealth#_stealth) +10
 
 **Large Air Elemental CR 5**
 
 **XP 1,600**
 
-N Large [outsider](creatureTypes#_outsider) ( [air](creatureTypes#_air-subtype), [elemental](creatureTypes#_elemental-subtype), [extraplanar](creatureTypes#_extraplanar-subtype))
+N Large [outsider](../creatureTypes#_outsider) ( [air](../creatureTypes#_air-subtype), [elemental](../creatureTypes#_elemental-subtype), [extraplanar](../creatureTypes#_extraplanar-subtype))
 
-**Init** +11; **Senses** darkvision 60 ft.; [Perception](../skills_dir/perception#_perception) +11
+**Init** +11; **Senses** darkvision 60 ft.; [Perception](../../skills_dir/perception#_perception) +11
 
 **Defense**
 
@@ -110,7 +110,7 @@ N Large [outsider](creatureTypes#_outsider) ( [air](creatureTypes#_air-subtype),
 
 **Fort** +9, **Ref** +13, **Will** +2
 
-**Defensive Abilities** air mastery; **DR** 5_dir/—; **Immune** [elemental traits](creatureTypes#_elemental-subtype)
+**Defensive Abilities** air mastery; **DR** 5_dir/—; **Immune** [elemental traits](../creatureTypes#_elemental-subtype)
 
 **Offense**
 
@@ -120,7 +120,7 @@ N Large [outsider](creatureTypes#_outsider) ( [air](creatureTypes#_air-subtype),
 
 **Space** 10 ft.; **Reach** 10 ft.
 
-**Special Attacks** [whirlwind](universalMonsterRules#_whirlwind) (DC 18)
+**Special Attacks** [whirlwind](../universalMonsterRules#_whirlwind) (DC 18)
 
 **Statistics**
 
@@ -128,17 +128,17 @@ N Large [outsider](creatureTypes#_outsider) ( [air](creatureTypes#_air-subtype),
 
 **Base Atk** +8, **CMB** +13; **CMD** 31
 
-**Feats** [Combat Reflexes](../feats#_combat-reflexes), [Dodge](../feats#_dodge), [Flyby Attack](monsterFeats#_flyby-attack), [Improved Initiative](../feats#_improved-initiative)B, [Mobility](../feats#_mobility), [Weapon Finesse](../feats#_weapon-finesse)B
+**Feats** [Combat Reflexes](../../feats#_combat-reflexes), [Dodge](../../feats#_dodge), [Flyby Attack](../monsterFeats#_flyby-attack), [Improved Initiative](../../feats#_improved-initiative)B, [Mobility](../../feats#_mobility), [Weapon Finesse](../../feats#_weapon-finesse)B
 
-**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +15, [Escape Artist](../skills_dir/escapeArtist#_escape-artist) +15, [Fly](../skills_dir/fly#_fly) +21, [Knowledge](../skills_dir/knowledge#_knowledge) (planes) +5, [Perception](../skills_dir/perception#_perception) +11, [Stealth](../skills_dir/stealth#_stealth) +11
+**Skills** [Acrobatics](../../skills_dir/acrobatics#_acrobatics) +15, [Escape Artist](../../skills_dir/escapeArtist#_escape-artist) +15, [Fly](../../skills_dir/fly#_fly) +21, [Knowledge](../../skills_dir/knowledge#_knowledge) (planes) +5, [Perception](../../skills_dir/perception#_perception) +11, [Stealth](../../skills_dir/stealth#_stealth) +11
 
 **Huge Air Elemental CR 7**
 
 **XP 3,200**
 
-N Huge [outsider](creatureTypes#_outsider) ( [air](creatureTypes#_air-subtype), [elemental](creatureTypes#_elemental-subtype), [extraplanar](creatureTypes#_extraplanar-subtype))
+N Huge [outsider](../creatureTypes#_outsider) ( [air](../creatureTypes#_air-subtype), [elemental](../creatureTypes#_elemental-subtype), [extraplanar](../creatureTypes#_extraplanar-subtype))
 
-**Init** +13; **Senses** darkvision 60 ft.; [Perception](../skills_dir/perception#_perception) +13
+**Init** +13; **Senses** darkvision 60 ft.; [Perception](../../skills_dir/perception#_perception) +13
 
 **Defense**
 
@@ -148,7 +148,7 @@ N Huge [outsider](creatureTypes#_outsider) ( [air](creatureTypes#_air-subtype), 
 
 **Fort** +11, **Ref** +16, **Will** +5
 
-**Defensive Abilities** air mastery; **DR** 5_dir/—; **Immune** [elemental traits](creatureTypes#_elemental-subtype)
+**Defensive Abilities** air mastery; **DR** 5_dir/—; **Immune** [elemental traits](../creatureTypes#_elemental-subtype)
 
 **Offense**
 
@@ -158,7 +158,7 @@ N Huge [outsider](creatureTypes#_outsider) ( [air](creatureTypes#_air-subtype), 
 
 **Space** 15 ft.; **Reach** 15 ft.
 
-**Special Attacks** [whirlwind](universalMonsterRules#_whirlwind) (DC 21)
+**Special Attacks** [whirlwind](../universalMonsterRules#_whirlwind) (DC 21)
 
 **Statistics**
 
@@ -166,17 +166,17 @@ N Huge [outsider](creatureTypes#_outsider) ( [air](creatureTypes#_air-subtype), 
 
 **Base Atk** +10; **CMB** +18; **CMD** 38
 
-**Feats** [Combat Reflexes](../feats#_combat-reflexes), [Dodge](../feats#_dodge), [Flyby Attack](monsterFeats#_flyby-attack), [Improved Initiative](../feats#_improved-initiative)B, [Iron Will](../feats#_iron-will), [Mobility](../feats#_mobility), [Weapon Finesse](../feats#_weapon-finesse)B
+**Feats** [Combat Reflexes](../../feats#_combat-reflexes), [Dodge](../../feats#_dodge), [Flyby Attack](../monsterFeats#_flyby-attack), [Improved Initiative](../../feats#_improved-initiative)B, [Iron Will](../../feats#_iron-will), [Mobility](../../feats#_mobility), [Weapon Finesse](../../feats#_weapon-finesse)B
 
-**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +18, [Escape Artist](../skills_dir/escapeArtist#_escape-artist) +18, [Fly](../skills_dir/fly#_fly) +23, [Knowledge](../skills_dir/knowledge#_knowledge) (planes) +7, [Perception](../skills_dir/perception#_perception) +13, [Stealth](../skills_dir/stealth#_stealth) +9
+**Skills** [Acrobatics](../../skills_dir/acrobatics#_acrobatics) +18, [Escape Artist](../../skills_dir/escapeArtist#_escape-artist) +18, [Fly](../../skills_dir/fly#_fly) +23, [Knowledge](../../skills_dir/knowledge#_knowledge) (planes) +7, [Perception](../../skills_dir/perception#_perception) +13, [Stealth](../../skills_dir/stealth#_stealth) +9
 
 **Greater Air Elemental CR 9**
 
 **XP 6,400**
 
-N Huge [outsider](creatureTypes#_outsider) ( [air](creatureTypes#_air-subtype), [elemental](creatureTypes#_elemental-subtype), [extraplanar](creatureTypes#_extraplanar-subtype))
+N Huge [outsider](../creatureTypes#_outsider) ( [air](../creatureTypes#_air-subtype), [elemental](../creatureTypes#_elemental-subtype), [extraplanar](../creatureTypes#_extraplanar-subtype))
 
-**Init** +14; **Senses** darkvision 60 ft.; [Perception](../skills_dir/perception#_perception) +16
+**Init** +14; **Senses** darkvision 60 ft.; [Perception](../../skills_dir/perception#_perception) +16
 
 **Defense**
 
@@ -186,7 +186,7 @@ N Huge [outsider](creatureTypes#_outsider) ( [air](creatureTypes#_air-subtype), 
 
 **Fort** +12, **Ref** +18, **Will** +6
 
-**Defensive Abilities** air mastery; **DR** 10_dir/—; **Immune** [elemental traits](creatureTypes#_elemental-subtype)
+**Defensive Abilities** air mastery; **DR** 10_dir/—; **Immune** [elemental traits](../creatureTypes#_elemental-subtype)
 
 **Offense**
 
@@ -196,7 +196,7 @@ N Huge [outsider](creatureTypes#_outsider) ( [air](creatureTypes#_air-subtype), 
 
 **Space** 15 ft.; **Reach** 15 ft.
 
-**Special Attacks** [whirlwind](universalMonsterRules#_whirlwind) (DC 23)
+**Special Attacks** [whirlwind](../universalMonsterRules#_whirlwind) (DC 23)
 
 **Statistics**
 
@@ -204,17 +204,17 @@ N Huge [outsider](creatureTypes#_outsider) ( [air](creatureTypes#_air-subtype), 
 
 **Base Atk** +13; **CMB** +22; **CMD** 43
 
-**Feats** [Blind-Fight](../feats#_blind-fight), [Combat Reflexes](../feats#_combat-reflexes), [Dodge](../feats#_dodge), [Flyby Attack](monsterFeats#_flyby-attack), [Improved Initiative](../feats#_improved-initiative)B, [Iron Will](../feats#_iron-will), [Mobility](../feats#_mobility), [Power Attack](../feats#_power-attack), [Weapon Finesse](../feats#_weapon-finesse)B
+**Feats** [Blind-Fight](../../feats#_blind-fight), [Combat Reflexes](../../feats#_combat-reflexes), [Dodge](../../feats#_dodge), [Flyby Attack](../monsterFeats#_flyby-attack), [Improved Initiative](../../feats#_improved-initiative)B, [Iron Will](../../feats#_iron-will), [Mobility](../../feats#_mobility), [Power Attack](../../feats#_power-attack), [Weapon Finesse](../../feats#_weapon-finesse)B
 
-**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +25, [Escape Artist](../skills_dir/escapeArtist#_escape-artist) +23, [Fly](../skills_dir/fly#_fly) +27, [Knowledge](../skills_dir/knowledge#_knowledge) (planes) +12, [Perception](../skills_dir/perception#_perception) +16, [Stealth](../skills_dir/stealth#_stealth) +15
+**Skills** [Acrobatics](../../skills_dir/acrobatics#_acrobatics) +25, [Escape Artist](../../skills_dir/escapeArtist#_escape-artist) +23, [Fly](../../skills_dir/fly#_fly) +27, [Knowledge](../../skills_dir/knowledge#_knowledge) (planes) +12, [Perception](../../skills_dir/perception#_perception) +16, [Stealth](../../skills_dir/stealth#_stealth) +15
 
 **Elder Air Elemental CR 11**
 
 **XP 12,800**
 
-N Huge [outsider](creatureTypes#_outsider) ( [air](creatureTypes#_air-subtype), [elemental](creatureTypes#_elemental-subtype), [extraplanar](creatureTypes#_extraplanar-subtype))
+N Huge [outsider](../creatureTypes#_outsider) ( [air](../creatureTypes#_air-subtype), [elemental](../creatureTypes#_elemental-subtype), [extraplanar](../creatureTypes#_extraplanar-subtype))
 
-**Init** +15; **Senses** darkvision 60 ft.; [Perception](../skills_dir/perception#_perception) +19
+**Init** +15; **Senses** darkvision 60 ft.; [Perception](../../skills_dir/perception#_perception) +19
 
 **Defense**
 
@@ -224,7 +224,7 @@ N Huge [outsider](creatureTypes#_outsider) ( [air](creatureTypes#_air-subtype), 
 
 **Fort** +14, **Ref** +21, **Will** +7
 
-**Defensive Abilities** air mastery; **DR** 10_dir/—; **Immune** [elemental traits](creatureTypes#_elemental-subtype)
+**Defensive Abilities** air mastery; **DR** 10_dir/—; **Immune** [elemental traits](../creatureTypes#_elemental-subtype)
 
 **Offense**
 
@@ -234,7 +234,7 @@ N Huge [outsider](creatureTypes#_outsider) ( [air](creatureTypes#_air-subtype), 
 
 **Space** 15 ft.; **Reach** 15 ft.
 
-**Special Attacks** [whirlwind](universalMonsterRules#_whirlwind) (DC 27)
+**Special Attacks** [whirlwind](../universalMonsterRules#_whirlwind) (DC 27)
 
 **Statistics**
 
@@ -242,15 +242,15 @@ N Huge [outsider](creatureTypes#_outsider) ( [air](creatureTypes#_air-subtype), 
 
 **Base Atk** +16; **CMB** +27; **CMD** 49
 
-**Feats** [Blind-Fight](../feats#_blind-fight), [Cleave](../feats#_cleave), [Combat Reflexes](../feats#_combat-reflexes), [Dodge](../feats#_dodge), [Flyby Attack](monsterFeats#_flyby-attack), [Improved Initiative](../feats#_improved-initiative)B, [Iron Will](../feats#_iron-will), [Mobility](../feats#_mobility), [Power Attack](../feats#_power-attack), [Weapon Finesse](../feats#_weapon-finesse)B
+**Feats** [Blind-Fight](../../feats#_blind-fight), [Cleave](../../feats#_cleave), [Combat Reflexes](../../feats#_combat-reflexes), [Dodge](../../feats#_dodge), [Flyby Attack](../monsterFeats#_flyby-attack), [Improved Initiative](../../feats#_improved-initiative)B, [Iron Will](../../feats#_iron-will), [Mobility](../../feats#_mobility), [Power Attack](../../feats#_power-attack), [Weapon Finesse](../../feats#_weapon-finesse)B
 
-**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +30, [Escape Artist](../skills_dir/escapeArtist#_escape-artist) +30, [Fly](../skills_dir/fly#_fly) +34, [Knowledge](../skills_dir/knowledge#_knowledge) (planes) +19, [Perception](../skills_dir/perception#_perception) +19, [Stealth](../skills_dir/stealth#_stealth) +22
+**Skills** [Acrobatics](../../skills_dir/acrobatics#_acrobatics) +30, [Escape Artist](../../skills_dir/escapeArtist#_escape-artist) +30, [Fly](../../skills_dir/fly#_fly) +34, [Knowledge](../../skills_dir/knowledge#_knowledge) (planes) +19, [Perception](../../skills_dir/perception#_perception) +19, [Stealth](../../skills_dir/stealth#_stealth) +22
 
 Air elementals are fast, flying creatures made of living air. Primitive and territorial, they resent being summoned or doing the bidding of mortals, and much prefer to spend their time on the Plane of Air, swooping and racing through the endless skies.
 
 Although all air elementals of a similar size have identical statistics, the exact appearance of an air elemental can vary wildly between individuals. One might be an animated vortex of wind and smoke, while another might be a smoky bird-like creature with glowing eyes and wind for wings.
 
-An air elemental prefers to attack flying or otherwise airbone targets, not only because its mastery over flight gives it a slight advantage, but also because it detests the thought of having to touch the ground. An air elemental can move underwater, and although it is an elemental and thus runs no risk of drowning, it has no ranks in [Swim](../skills_dir/swim#_swim) and loses much of its speed and mobility when underwater.
+An air elemental prefers to attack flying or otherwise airbone targets, not only because its mastery over flight gives it a slight advantage, but also because it detests the thought of having to touch the ground. An air elemental can move underwater, and although it is an elemental and thus runs no risk of drowning, it has no ranks in [Swim](../../skills_dir/swim#_swim) and loses much of its speed and mobility when underwater.
 
 | Elemental | Height | Weight | Whirlwind_dir/Vortex Save DC | Whirlwind_dir/Vortex Height |
 | --- | --- | --- | --- | --- |
@@ -281,7 +281,7 @@ _This hulking, roughly humanoid creature of dirt and stone explodes up from the 
 
 **Special Abilities**
 
-**Earth Glide (Ex)** A burrowing earth elemental can pass through stone, dirt, or almost any other sort of earth except metal as easily as a fish swims through water. If protected against fire damage, it can even glide through lava. Its burrowing leaves behind no tunnel or hole, nor does it create any ripple or other sign of its presence. A _ [move earth](../spells_dir/moveEarth#_move-earth)_ spell cast on an area containing a burrowing earth elemental flings the elemental back 30 feet, stunning the creature for 1 round unless it succeeds on a DC 15 Fortitude save.
+**Earth Glide (Ex)** A burrowing earth elemental can pass through stone, dirt, or almost any other sort of earth except metal as easily as a fish swims through water. If protected against fire damage, it can even glide through lava. Its burrowing leaves behind no tunnel or hole, nor does it create any ripple or other sign of its presence. A _ [move earth](../../spells_dir/moveEarth#_move-earth)_ spell cast on an area containing a burrowing earth elemental flings the elemental back 30 feet, stunning the creature for 1 round unless it succeeds on a DC 15 Fortitude save.
 
 **Earth Mastery (Ex)** An earth elemental gains a +1 bonus on attack and damage rolls if both it and its foe are touching the ground. If an opponent is airborne or waterborne, the elemental takes a –4 penalty on attack and damage rolls. These modifiers apply to bull rush and overrun maneuvers, whether the elemental is initiating or resisting these kinds of attacks. (These modifiers are not included in the statistics block.)
 
@@ -289,9 +289,9 @@ _This hulking, roughly humanoid creature of dirt and stone explodes up from the 
 
 **XP 400**
 
-N Small [outsider](creatureTypes#_outsider) ( [earth](creatureTypes#_earth-subtype), [elemental](creatureTypes#_elemental-subtype), [extraplanar](creatureTypes#_extraplanar-subtype))
+N Small [outsider](../creatureTypes#_outsider) ( [earth](../creatureTypes#_earth-subtype), [elemental](../creatureTypes#_elemental-subtype), [extraplanar](../creatureTypes#_extraplanar-subtype))
 
-**Init** –1; **Senses** darkvision 60 ft., tremorsense 60 ft.; [Perception](../skills_dir/perception#_perception) +4
+**Init** –1; **Senses** darkvision 60 ft., tremorsense 60 ft.; [Perception](../../skills_dir/perception#_perception) +4
 
 **Defense**
 
@@ -301,7 +301,7 @@ N Small [outsider](creatureTypes#_outsider) ( [earth](creatureTypes#_earth-subty
 
 **Fort** +4, **Ref** –1, **Will** +3
 
-**Immune** [elemental traits](creatureTypes#_elemental-subtype)
+**Immune** [elemental traits](../creatureTypes#_elemental-subtype)
 
 **Offense**
 
@@ -317,17 +317,17 @@ N Small [outsider](creatureTypes#_outsider) ( [earth](creatureTypes#_earth-subty
 
 **Base Atk** +2; **CMB** +4; **CMD** 13
 
-**Feats** [Improved Bull Rush](../feats#_improved-bull-rush)B, [Power Attack](../feats#_power-attack)
+**Feats** [Improved Bull Rush](../../feats#_improved-bull-rush)B, [Power Attack](../../feats#_power-attack)
 
-**Skills** [Appraise](../skills_dir/appraise#_appraise) +1, [Climb](../skills_dir/climb#_climb) +7, [Knowledge](../skills_dir/knowledge#_knowledge) (dungeoneering) +1, [Knowledge](../skills_dir/knowledge#_knowledge) (planes) +1, [Perception](../skills_dir/perception#_perception) +4, [Stealth](../skills_dir/stealth#_stealth) +7
+**Skills** [Appraise](../../skills_dir/appraise#_appraise) +1, [Climb](../../skills_dir/climb#_climb) +7, [Knowledge](../../skills_dir/knowledge#_knowledge) (dungeoneering) +1, [Knowledge](../../skills_dir/knowledge#_knowledge) (planes) +1, [Perception](../../skills_dir/perception#_perception) +4, [Stealth](../../skills_dir/stealth#_stealth) +7
 
 **Medium Earth Elemental CR 3**
 
 **XP 800**
 
-N Medium [outsider](creatureTypes#_outsider) ( [earth](creatureTypes#_earth-subtype), [elemental](creatureTypes#_elemental-subtype), [extraplanar](creatureTypes#_extraplanar-subtype))
+N Medium [outsider](../creatureTypes#_outsider) ( [earth](../creatureTypes#_earth-subtype), [elemental](../creatureTypes#_elemental-subtype), [extraplanar](../creatureTypes#_extraplanar-subtype))
 
-**Init** –1; **Senses** darkvision 60 ft., tremorsense 60 ft.; [Perception](../skills_dir/perception#_perception) +7
+**Init** –1; **Senses** darkvision 60 ft., tremorsense 60 ft.; [Perception](../../skills_dir/perception#_perception) +7
 
 **Defense**
 
@@ -337,7 +337,7 @@ N Medium [outsider](creatureTypes#_outsider) ( [earth](creatureTypes#_earth-subt
 
 **Fort** +7, **Ref** +0, **Will** +4
 
-**Immune** [elemental traits](creatureTypes#_elemental-subtype)
+**Immune** [elemental traits](../creatureTypes#_elemental-subtype)
 
 **Offense**
 
@@ -353,17 +353,17 @@ N Medium [outsider](creatureTypes#_outsider) ( [earth](creatureTypes#_earth-subt
 
 **Base Atk** +4; **CMB** +9; **CMD** 18
 
-**Feats** [Cleave](../feats#_cleave), [Improved Bull Rush](../feats#_improved-bull-rush)B, [Power Attack](../feats#_power-attack)
+**Feats** [Cleave](../../feats#_cleave), [Improved Bull Rush](../../feats#_improved-bull-rush)B, [Power Attack](../../feats#_power-attack)
 
-**Skills** [Appraise](../skills_dir/appraise#_appraise) +1, [Climb](../skills_dir/climb#_climb) +10, [Knowledge](../skills_dir/knowledge#_knowledge) (dungeoneering) +2, [Knowledge](../skills_dir/knowledge#_knowledge) (planes) +2, [Perception](../skills_dir/perception#_perception) +7, [Stealth](../skills_dir/stealth#_stealth) +3
+**Skills** [Appraise](../../skills_dir/appraise#_appraise) +1, [Climb](../../skills_dir/climb#_climb) +10, [Knowledge](../../skills_dir/knowledge#_knowledge) (dungeoneering) +2, [Knowledge](../../skills_dir/knowledge#_knowledge) (planes) +2, [Perception](../../skills_dir/perception#_perception) +7, [Stealth](../../skills_dir/stealth#_stealth) +3
 
 **Large Earth Elemental CR 5**
 
 **XP 1,600**
 
-N Large [outsider](creatureTypes#_outsider) ( [earth](creatureTypes#_earth-subtype), [elemental](creatureTypes#_elemental-subtype), [extraplanar](creatureTypes#_extraplanar-subtype))
+N Large [outsider](../creatureTypes#_outsider) ( [earth](../creatureTypes#_earth-subtype), [elemental](../creatureTypes#_elemental-subtype), [extraplanar](../creatureTypes#_extraplanar-subtype))
 
-**Init** –1; **Senses** darkvision 60 ft., tremorsense 60 ft.; [Perception](../skills_dir/perception#_perception) +11
+**Init** –1; **Senses** darkvision 60 ft., tremorsense 60 ft.; [Perception](../../skills_dir/perception#_perception) +11
 
 **Defense**
 
@@ -373,7 +373,7 @@ N Large [outsider](creatureTypes#_outsider) ( [earth](creatureTypes#_earth-subty
 
 **Fort** +9, **Ref** +1, **Will** +6
 
-**DR** 5_dir/—; **Immune** [elemental traits](creatureTypes#_elemental-subtype)
+**DR** 5_dir/—; **Immune** [elemental traits](../creatureTypes#_elemental-subtype)
 
 **Offense**
 
@@ -391,17 +391,17 @@ N Large [outsider](creatureTypes#_outsider) ( [earth](creatureTypes#_earth-subty
 
 **Base Atk** +8; **CMB** +16; **CMD** 25
 
-**Feats** [Cleave](../feats#_cleave), [Greater Bull Rush](../feats#_greater-bull-rush), [Improved Bull Rush](../feats#_improved-bull-rush)B, [Improved Overrun](../feats#_improved-overrun), [Power Attack](../feats#_power-attack)
+**Feats** [Cleave](../../feats#_cleave), [Greater Bull Rush](../../feats#_greater-bull-rush), [Improved Bull Rush](../../feats#_improved-bull-rush)B, [Improved Overrun](../../feats#_improved-overrun), [Power Attack](../../feats#_power-attack)
 
-**Skills** [Appraise](../skills_dir/appraise#_appraise) +6, [Climb](../skills_dir/climb#_climb) +15, [Knowledge](../skills_dir/knowledge#_knowledge) (dungeoneering) +3, [Knowledge](../skills_dir/knowledge#_knowledge) (planes) +6, [Perception](../skills_dir/perception#_perception) +11, [Stealth](../skills_dir/stealth#_stealth) +5
+**Skills** [Appraise](../../skills_dir/appraise#_appraise) +6, [Climb](../../skills_dir/climb#_climb) +15, [Knowledge](../../skills_dir/knowledge#_knowledge) (dungeoneering) +3, [Knowledge](../../skills_dir/knowledge#_knowledge) (planes) +6, [Perception](../../skills_dir/perception#_perception) +11, [Stealth](../../skills_dir/stealth#_stealth) +5
 
 **Huge Earth Elemental CR 7**
 
 **XP 3,200**
 
-N Huge [outsider](creatureTypes#_outsider) ( [earth](creatureTypes#_earth-subtype), [elemental](creatureTypes#_elemental-subtype), [extraplanar](creatureTypes#_extraplanar-subtype))
+N Huge [outsider](../creatureTypes#_outsider) ( [earth](../creatureTypes#_earth-subtype), [elemental](../creatureTypes#_elemental-subtype), [extraplanar](../creatureTypes#_extraplanar-subtype))
 
-**Init** –1; **Senses** darkvision 60 ft., tremorsense 60 ft.; [Perception](../skills_dir/perception#_perception) +13
+**Init** –1; **Senses** darkvision 60 ft., tremorsense 60 ft.; [Perception](../../skills_dir/perception#_perception) +13
 
 **Defense**
 
@@ -411,7 +411,7 @@ N Huge [outsider](creatureTypes#_outsider) ( [earth](creatureTypes#_earth-subtyp
 
 **Fort** +11, **Ref** +2, **Will** +7
 
-**DR** 5_dir/—; **Immune** [elemental traits](creatureTypes#_elemental-subtype)
+**DR** 5_dir/—; **Immune** [elemental traits](../creatureTypes#_elemental-subtype)
 
 **Offense**
 
@@ -429,17 +429,17 @@ N Huge [outsider](creatureTypes#_outsider) ( [earth](creatureTypes#_earth-subtyp
 
 **Base Atk** +10; **CMB** +21; **CMD** 30
 
-**Feats** [Awesome Blow](monsterFeats#_awesome-blow), [Cleave](../feats#_cleave), [Greater Bull Rush](../feats#_greater-bull-rush), [Improved Bull Rush](../feats#_improved-bull-rush)B, [Improved Overrun](../feats#_improved-overrun), [Power Attack](../feats#_power-attack)
+**Feats** [Awesome Blow](../monsterFeats#_awesome-blow), [Cleave](../../feats#_cleave), [Greater Bull Rush](../../feats#_greater-bull-rush), [Improved Bull Rush](../../feats#_improved-bull-rush)B, [Improved Overrun](../../feats#_improved-overrun), [Power Attack](../../feats#_power-attack)
 
-**Skills** [Appraise](../skills_dir/appraise#_appraise) +6, [Climb](../skills_dir/climb#_climb) +18, [Knowledge](../skills_dir/knowledge#_knowledge) (dungeoneering) +4, [Knowledge](../skills_dir/knowledge#_knowledge) (planes) +7, [Perception](../skills_dir/perception#_perception) +13, [Stealth](../skills_dir/stealth#_stealth) +4
+**Skills** [Appraise](../../skills_dir/appraise#_appraise) +6, [Climb](../../skills_dir/climb#_climb) +18, [Knowledge](../../skills_dir/knowledge#_knowledge) (dungeoneering) +4, [Knowledge](../../skills_dir/knowledge#_knowledge) (planes) +7, [Perception](../../skills_dir/perception#_perception) +13, [Stealth](../../skills_dir/stealth#_stealth) +4
 
 **Greater Earth Elemental CR 9**
 
 **XP 6,400**
 
-N Huge [outsider](creatureTypes#_outsider) ( [earth](creatureTypes#_earth-subtype), [elemental](creatureTypes#_elemental-subtype), [extraplanar](creatureTypes#_extraplanar-subtype))
+N Huge [outsider](../creatureTypes#_outsider) ( [earth](../creatureTypes#_earth-subtype), [elemental](../creatureTypes#_elemental-subtype), [extraplanar](../creatureTypes#_extraplanar-subtype))
 
-**Init** –1; **Senses** darkvision 60 ft., tremorsense 60 ft.; [Perception](../skills_dir/perception#_perception) +16
+**Init** –1; **Senses** darkvision 60 ft., tremorsense 60 ft.; [Perception](../../skills_dir/perception#_perception) +16
 
 **Defense**
 
@@ -449,7 +449,7 @@ AC 21, touch 7, flat-footed 21, (–1 Dex, +14 natural, –2 size)
 
 **Fort** +13, **Ref** +3, **Will** +8
 
-**DR** 10_dir/—; **Immune** [elemental traits](creatureTypes#_elemental-subtype)
+**DR** 10_dir/—; **Immune** [elemental traits](../creatureTypes#_elemental-subtype)
 
 **Offense**
 
@@ -467,17 +467,17 @@ AC 21, touch 7, flat-footed 21, (–1 Dex, +14 natural, –2 size)
 
 **Base Atk** +13; **CMB** +25; **CMD** 34
 
-**Feats** [Awesome Blow](monsterFeats#_awesome-blow), [Cleave](../feats#_cleave), [Greater Bull Rush](../feats#_greater-bull-rush), [Greater Overrun](../feats#_greater-overrun), [Improved Bull Rush](../feats#_improved-bull-rush)B, [Improved Overrun](../feats#_improved-overrun), [Improved Sunder](../feats#_improved-sunder), [Power Attack](../feats#_power-attack)
+**Feats** [Awesome Blow](../monsterFeats#_awesome-blow), [Cleave](../../feats#_cleave), [Greater Bull Rush](../../feats#_greater-bull-rush), [Greater Overrun](../../feats#_greater-overrun), [Improved Bull Rush](../../feats#_improved-bull-rush)B, [Improved Overrun](../../feats#_improved-overrun), [Improved Sunder](../../feats#_improved-sunder), [Power Attack](../../feats#_power-attack)
 
-**Skills** [Appraise](../skills_dir/appraise#_appraise) +10, [Climb](../skills_dir/climb#_climb) +25, [Knowledge](../skills_dir/knowledge#_knowledge) (dungeoneering) +10, [Knowledge](../skills_dir/knowledge#_knowledge) (planes) +13, [Perception](../skills_dir/perception#_perception) +16, [Stealth](../skills_dir/stealth#_stealth) +7
+**Skills** [Appraise](../../skills_dir/appraise#_appraise) +10, [Climb](../../skills_dir/climb#_climb) +25, [Knowledge](../../skills_dir/knowledge#_knowledge) (dungeoneering) +10, [Knowledge](../../skills_dir/knowledge#_knowledge) (planes) +13, [Perception](../../skills_dir/perception#_perception) +16, [Stealth](../../skills_dir/stealth#_stealth) +7
 
 **Elder Earth Elemental CR 11**
 
 **XP 12,800**
 
-N Huge [outsider](creatureTypes#_outsider) ( [earth](creatureTypes#_earth-subtype), [elemental](creatureTypes#_elemental-subtype), [extraplanar](creatureTypes#_extraplanar-subtype))
+N Huge [outsider](../creatureTypes#_outsider) ( [earth](../creatureTypes#_earth-subtype), [elemental](../creatureTypes#_elemental-subtype), [extraplanar](../creatureTypes#_extraplanar-subtype))
 
-**Init** –1; **Senses** darkvision 60 ft., tremorsense 60 ft.; [Perception](../skills_dir/perception#_perception) +19
+**Init** –1; **Senses** darkvision 60 ft., tremorsense 60 ft.; [Perception](../../skills_dir/perception#_perception) +19
 
 **Defense**
 
@@ -487,7 +487,7 @@ N Huge [outsider](creatureTypes#_outsider) ( [earth](creatureTypes#_earth-subtyp
 
 **Fort** +15, **Ref** +4, **Will** +10
 
-**DR** 10_dir/—; **Immune** [elemental traits](creatureTypes#_elemental-subtype)
+**DR** 10_dir/—; **Immune** [elemental traits](../creatureTypes#_elemental-subtype)
 
 **Offense**
 
@@ -505,9 +505,9 @@ N Huge [outsider](creatureTypes#_outsider) ( [earth](creatureTypes#_earth-subtyp
 
 **Base Atk** +16; **CMB** +30; **CMD** 39
 
-**Feats** [Awesome Blow](monsterFeats#_awesome-blow), [Cleave](../feats#_cleave), [Greater Bull Rush](../feats#_greater-bull-rush), [Greater Overrun](../feats#_greater-overrun), [Improved Bull Rush](../feats#_improved-bull-rush)B, [Improved Critical](../feats#_improved-critical) (slam), [Improved Overrun](../feats#_improved-overrun), [Improved Sunder](../feats#_improved-sunder), [Power Attack](../feats#_power-attack)
+**Feats** [Awesome Blow](../monsterFeats#_awesome-blow), [Cleave](../../feats#_cleave), [Greater Bull Rush](../../feats#_greater-bull-rush), [Greater Overrun](../../feats#_greater-overrun), [Improved Bull Rush](../../feats#_improved-bull-rush)B, [Improved Critical](../../feats#_improved-critical) (slam), [Improved Overrun](../../feats#_improved-overrun), [Improved Sunder](../../feats#_improved-sunder), [Power Attack](../../feats#_power-attack)
 
-**Skills** [Appraise](../skills_dir/appraise#_appraise) +19, [Climb](../skills_dir/climb#_climb) +31, [Knowledge](../skills_dir/knowledge#_knowledge) (dungeoneering) +19, [Knowledge](../skills_dir/knowledge#_knowledge) (planes) +19, [Perception](../skills_dir/perception#_perception) +19, [Stealth](../skills_dir/stealth#_stealth) +10
+**Skills** [Appraise](../../skills_dir/appraise#_appraise) +19, [Climb](../../skills_dir/climb#_climb) +31, [Knowledge](../../skills_dir/knowledge#_knowledge) (dungeoneering) +19, [Knowledge](../../skills_dir/knowledge#_knowledge) (planes) +19, [Perception](../../skills_dir/perception#_perception) +19, [Stealth](../../skills_dir/stealth#_stealth) +10
 
 | Elemental | Height | Weight |
 | --- | --- | --- |
@@ -544,9 +544,9 @@ _This creature looks like a living, mobile bonfire, tongues of flame reaching ou
 
 **XP 400**
 
-N Small [outsider](creatureTypes#_outsider) ( [elemental](creatureTypes#_elemental-subtype), [extraplanar](creatureTypes#_extraplanar-subtype), [fire](creatureTypes#_fire-subtype))
+N Small [outsider](../creatureTypes#_outsider) ( [elemental](../creatureTypes#_elemental-subtype), [extraplanar](../creatureTypes#_extraplanar-subtype), [fire](../creatureTypes#_fire-subtype))
 
-**Init** +5; **Senses** darkvision 60 ft.; [Perception](../skills_dir/perception#_perception) +4
+**Init** +5; **Senses** darkvision 60 ft.; [Perception](../../skills_dir/perception#_perception) +4
 
 **Defense**
 
@@ -556,7 +556,7 @@ N Small [outsider](creatureTypes#_outsider) ( [elemental](creatureTypes#_element
 
 **Fort** +3, **Ref** +4, **Will** +0
 
-**Immune** [elemental traits](creatureTypes#_elemental-subtype), fire
+**Immune** [elemental traits](../creatureTypes#_elemental-subtype), fire
 
 **Weaknesses** vulnerability to cold
 
@@ -566,7 +566,7 @@ N Small [outsider](creatureTypes#_outsider) ( [elemental](creatureTypes#_element
 
 **Melee** slam +4 (1d4 plus burn)
 
-**Special Attacks** [burn](universalMonsterRules#_burn) (1d4, DC 11)
+**Special Attacks** [burn](../universalMonsterRules#_burn) (1d4, DC 11)
 
 **Statistics**
 
@@ -574,17 +574,17 @@ N Small [outsider](creatureTypes#_outsider) ( [elemental](creatureTypes#_element
 
 **Base Atk** +2; **CMB** +1; **CMD** 13
 
-**Feats** [Dodge](../feats#_dodge), [Improved Initiative](../feats#_improved-initiative)B, [Weapon Finesse](../feats#_weapon-finesse)B
+**Feats** [Dodge](../../feats#_dodge), [Improved Initiative](../../feats#_improved-initiative)B, [Weapon Finesse](../../feats#_weapon-finesse)B
 
-**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +5, [Climb](../skills_dir/climb#_climb) +4, [Escape Artist](../skills_dir/escapeArtist#_escape-artist) +5, [Intimidate](../skills_dir/intimidate#_intimidate) +4, [Knowledge](../skills_dir/knowledge#_knowledge) (planes) +1, [Perception](../skills_dir/perception#_perception) +4
+**Skills** [Acrobatics](../../skills_dir/acrobatics#_acrobatics) +5, [Climb](../../skills_dir/climb#_climb) +4, [Escape Artist](../../skills_dir/escapeArtist#_escape-artist) +5, [Intimidate](../../skills_dir/intimidate#_intimidate) +4, [Knowledge](../../skills_dir/knowledge#_knowledge) (planes) +1, [Perception](../../skills_dir/perception#_perception) +4
 
 **Medium Fire Elemental CR 3**
 
 **XP 800**
 
-N Medium [outsider](creatureTypes#_outsider) ( [elemental](creatureTypes#_elemental-subtype), [extraplanar](creatureTypes#_extraplanar-subtype), [fire](creatureTypes#_fire-subtype))
+N Medium [outsider](../creatureTypes#_outsider) ( [elemental](../creatureTypes#_elemental-subtype), [extraplanar](../creatureTypes#_extraplanar-subtype), [fire](../creatureTypes#_fire-subtype))
 
-**Init** +7; **Senses** darkvision 60 ft.; [Perception](../skills_dir/perception#_perception) +7
+**Init** +7; **Senses** darkvision 60 ft.; [Perception](../../skills_dir/perception#_perception) +7
 
 **Defense**
 
@@ -594,7 +594,7 @@ N Medium [outsider](creatureTypes#_outsider) ( [elemental](creatureTypes#_elemen
 
 **Fort** +6, **Ref** +7, **Will** +1
 
-**Immune** [elemental traits](creatureTypes#_elemental-subtype), fire
+**Immune** [elemental traits](../creatureTypes#_elemental-subtype), fire
 
 **Weaknesses** vulnerability to cold
 
@@ -604,7 +604,7 @@ N Medium [outsider](creatureTypes#_outsider) ( [elemental](creatureTypes#_elemen
 
 **Melee** slam +7 (1d6+1 plus burn)
 
-**Special Attacks** [burn](universalMonsterRules#_burn) (1d6, DC 14)
+**Special Attacks** [burn](../universalMonsterRules#_burn) (1d6, DC 14)
 
 **Statistics**
 
@@ -612,17 +612,17 @@ N Medium [outsider](creatureTypes#_outsider) ( [elemental](creatureTypes#_elemen
 
 **Base Atk** +4; **CMB** +5; **CMD** 19
 
-**Feats** [Dodge](../feats#_dodge), [Improved Initiative](../feats#_improved-initiative)B, [Mobility](../feats#_mobility), [Weapon Finesse](../feats#_weapon-finesse)B
+**Feats** [Dodge](../../feats#_dodge), [Improved Initiative](../../feats#_improved-initiative)B, [Mobility](../../feats#_mobility), [Weapon Finesse](../../feats#_weapon-finesse)B
 
-**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +8, [Climb](../skills_dir/climb#_climb) +5, [Escape Artist](../skills_dir/escapeArtist#_escape-artist) +8, [Intimidate](../skills_dir/intimidate#_intimidate) +5, [Knowledge](../skills_dir/knowledge#_knowledge) (planes) +1, [Perception](../skills_dir/perception#_perception) +7
+**Skills** [Acrobatics](../../skills_dir/acrobatics#_acrobatics) +8, [Climb](../../skills_dir/climb#_climb) +5, [Escape Artist](../../skills_dir/escapeArtist#_escape-artist) +8, [Intimidate](../../skills_dir/intimidate#_intimidate) +5, [Knowledge](../../skills_dir/knowledge#_knowledge) (planes) +1, [Perception](../../skills_dir/perception#_perception) +7
 
 **Large Fire Elemental CR 5**
 
 **XP 1,600**
 
-N Large [outsider](creatureTypes#_outsider) ( [elemental](creatureTypes#_elemental-subtype), [extraplanar](creatureTypes#_extraplanar-subtype), [fire](creatureTypes#_fire-subtype))
+N Large [outsider](../creatureTypes#_outsider) ( [elemental](../creatureTypes#_elemental-subtype), [extraplanar](../creatureTypes#_extraplanar-subtype), [fire](../creatureTypes#_fire-subtype))
 
-**Init** +9; **Senses** darkvision 60 ft.; [Perception](../skills_dir/perception#_perception) +11
+**Init** +9; **Senses** darkvision 60 ft.; [Perception](../../skills_dir/perception#_perception) +11
 
 **Defense**
 
@@ -632,7 +632,7 @@ N Large [outsider](creatureTypes#_outsider) ( [elemental](creatureTypes#_element
 
 **Fort** +8, **Ref** +11, **Will** +4
 
-**DR** 5_dir/—; **Immune** [elemental traits](creatureTypes#_elemental-subtype), fire
+**DR** 5_dir/—; **Immune** [elemental traits](../creatureTypes#_elemental-subtype), fire
 
 **Weaknesses** vulnerability to cold
 
@@ -644,7 +644,7 @@ N Large [outsider](creatureTypes#_outsider) ( [elemental](creatureTypes#_element
 
 **Space** 10 ft.; **Reach** 10 ft.
 
-**Special Attacks** [burn](universalMonsterRules#_burn) (1d8, DC 16)
+**Special Attacks** [burn](../universalMonsterRules#_burn) (1d8, DC 16)
 
 **Statistics**
 
@@ -652,17 +652,17 @@ N Large [outsider](creatureTypes#_outsider) ( [elemental](creatureTypes#_element
 
 **Base Atk** +8; **CMB** +11; **CMD** 27
 
-**Feats** [Dodge](../feats#_dodge), [Improved Initiative](../feats#_improved-initiative)B, [Iron Will](../feats#_iron-will), [Mobility](../feats#_mobility), [Spring Attack](../feats#_spring-attack), [Weapon Finesse](../feats#_weapon-finesse)B
+**Feats** [Dodge](../../feats#_dodge), [Improved Initiative](../../feats#_improved-initiative)B, [Iron Will](../../feats#_iron-will), [Mobility](../../feats#_mobility), [Spring Attack](../../feats#_spring-attack), [Weapon Finesse](../../feats#_weapon-finesse)B
 
-**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +14, [Climb](../skills_dir/climb#_climb) +9, [Escape Artist](../skills_dir/escapeArtist#_escape-artist) +12, [Intimidate](../skills_dir/intimidate#_intimidate) +9, [Knowledge](../skills_dir/knowledge#_knowledge) (planes) +5, [Perception](../skills_dir/perception#_perception) +11
+**Skills** [Acrobatics](../../skills_dir/acrobatics#_acrobatics) +14, [Climb](../../skills_dir/climb#_climb) +9, [Escape Artist](../../skills_dir/escapeArtist#_escape-artist) +12, [Intimidate](../../skills_dir/intimidate#_intimidate) +9, [Knowledge](../../skills_dir/knowledge#_knowledge) (planes) +5, [Perception](../../skills_dir/perception#_perception) +11
 
 **Huge Fire Elemental CR 7**
 
 **XP 3,200**
 
-N Huge [outsider](creatureTypes#_outsider) ( [elemental](creatureTypes#_elemental-subtype), [extraplanar](creatureTypes#_extraplanar-subtype), [fire](creatureTypes#_fire-subtype))
+N Huge [outsider](../creatureTypes#_outsider) ( [elemental](../creatureTypes#_elemental-subtype), [extraplanar](../creatureTypes#_extraplanar-subtype), [fire](../creatureTypes#_fire-subtype))
 
-**Init** +11; **Senses** darkvision 60 ft.; [Perception](../skills_dir/perception#_perception) +13
+**Init** +11; **Senses** darkvision 60 ft.; [Perception](../../skills_dir/perception#_perception) +13
 
 **Defense**
 
@@ -672,7 +672,7 @@ N Huge [outsider](creatureTypes#_outsider) ( [elemental](creatureTypes#_elementa
 
 **Fort** +10, **Ref** +14, **Will** +5
 
-**DR** 5_dir/—, **Immune** [elemental traits](creatureTypes#_elemental-subtype), fire
+**DR** 5_dir/—, **Immune** [elemental traits](../creatureTypes#_elemental-subtype), fire
 
 **Weaknesses** vulnerability to cold
 
@@ -684,7 +684,7 @@ N Huge [outsider](creatureTypes#_outsider) ( [elemental](creatureTypes#_elementa
 
 **Space** 15 ft.; **Reach** 15 ft.
 
-**Special Attacks** [burn](universalMonsterRules#_burn) (2d6, DC 18)
+**Special Attacks** [burn](../universalMonsterRules#_burn) (2d6, DC 18)
 
 **Statistics**
 
@@ -692,17 +692,17 @@ N Huge [outsider](creatureTypes#_outsider) ( [elemental](creatureTypes#_elementa
 
 **Base Atk** +10; **CMB** +16; **CMD** 34
 
-**Feats** [Combat Reflexes](../feats#_combat-reflexes), [Dodge](../feats#_dodge), [Improved Initiative](../feats#_improved-initiative)B, [Iron Will](../feats#_iron-will), [Mobility](../feats#_mobility), [Spring Attack](../feats#_spring-attack), [Weapon Finesse](../feats#_weapon-finesse)B
+**Feats** [Combat Reflexes](../../feats#_combat-reflexes), [Dodge](../../feats#_dodge), [Improved Initiative](../../feats#_improved-initiative)B, [Iron Will](../../feats#_iron-will), [Mobility](../../feats#_mobility), [Spring Attack](../../feats#_spring-attack), [Weapon Finesse](../../feats#_weapon-finesse)B
 
-**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +16, [Climb](../skills_dir/climb#_climb) +13, [Escape Artist](../skills_dir/escapeArtist#_escape-artist) +16, [Intimidate](../skills_dir/intimidate#_intimidate) +9, [Knowledge](../skills_dir/knowledge#_knowledge) (planes) +7, [Perception](../skills_dir/perception#_perception) +13
+**Skills** [Acrobatics](../../skills_dir/acrobatics#_acrobatics) +16, [Climb](../../skills_dir/climb#_climb) +13, [Escape Artist](../../skills_dir/escapeArtist#_escape-artist) +16, [Intimidate](../../skills_dir/intimidate#_intimidate) +9, [Knowledge](../../skills_dir/knowledge#_knowledge) (planes) +7, [Perception](../../skills_dir/perception#_perception) +13
 
 **Greater Fire Elemental CR 9**
 
 **XP 6,400**
 
-N Huge [outsider](creatureTypes#_outsider) ( [elemental](creatureTypes#_elemental-subtype), [extraplanar](creatureTypes#_extraplanar-subtype), [fire](creatureTypes#_fire-subtype))
+N Huge [outsider](../creatureTypes#_outsider) ( [elemental](../creatureTypes#_elemental-subtype), [extraplanar](../creatureTypes#_extraplanar-subtype), [fire](../creatureTypes#_fire-subtype))
 
-**Init** +12; **Senses** darkvision 60 ft.; [Perception](../skills_dir/perception#_perception) +16
+**Init** +12; **Senses** darkvision 60 ft.; [Perception](../../skills_dir/perception#_perception) +16
 
 **Defense**
 
@@ -712,7 +712,7 @@ N Huge [outsider](creatureTypes#_outsider) ( [elemental](creatureTypes#_elementa
 
 **Fort** +12, **Ref** +16, **Will** +6
 
-**DR** 10_dir/—, **Immune** [elemental traits](creatureTypes#_elemental-subtype), fire
+**DR** 10_dir/—, **Immune** [elemental traits](../creatureTypes#_elemental-subtype), fire
 
 **Weaknesses** vulnerability to cold
 
@@ -724,7 +724,7 @@ N Huge [outsider](creatureTypes#_outsider) ( [elemental](creatureTypes#_elementa
 
 **Space** 15 ft.; **Reach** 15 ft.
 
-**Special Attacks** [burn](universalMonsterRules#_burn) (2d8, DC 20)
+**Special Attacks** [burn](../universalMonsterRules#_burn) (2d8, DC 20)
 
 **Statistics**
 
@@ -732,17 +732,17 @@ N Huge [outsider](creatureTypes#_outsider) ( [elemental](creatureTypes#_elementa
 
 **Base Atk** +13; **CMB** +22; **CMD** 41
 
-**Feats** [Blind-Fight](../feats#_blind-fight), [Combat Reflexes](../feats#_combat-reflexes), [Dodge](../feats#_dodge), [Improved Initiative](../feats#_improved-initiative)B, [Iron Will](../feats#_iron-will), [Mobility](../feats#_mobility), [Spring Attack](../feats#_spring-attack), [Weapon Finesse](../feats#_weapon-finesse)B, [Wind Stance](../feats#_wind-stance)
+**Feats** [Blind-Fight](../../feats#_blind-fight), [Combat Reflexes](../../feats#_combat-reflexes), [Dodge](../../feats#_dodge), [Improved Initiative](../../feats#_improved-initiative)B, [Iron Will](../../feats#_iron-will), [Mobility](../../feats#_mobility), [Spring Attack](../../feats#_spring-attack), [Weapon Finesse](../../feats#_weapon-finesse)B, [Wind Stance](../../feats#_wind-stance)
 
-**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +23, [Climb](../skills_dir/climb#_climb) +20, [Escape Artist](../skills_dir/escapeArtist#_escape-artist) +21, [Intimidate](../skills_dir/intimidate#_intimidate) +15, [Knowledge](../skills_dir/knowledge#_knowledge) (planes) +10, [Perception](../skills_dir/perception#_perception) +16
+**Skills** [Acrobatics](../../skills_dir/acrobatics#_acrobatics) +23, [Climb](../../skills_dir/climb#_climb) +20, [Escape Artist](../../skills_dir/escapeArtist#_escape-artist) +21, [Intimidate](../../skills_dir/intimidate#_intimidate) +15, [Knowledge](../../skills_dir/knowledge#_knowledge) (planes) +10, [Perception](../../skills_dir/perception#_perception) +16
 
 **Elder Fire Elemental CR 11**
 
 **XP 12,800**
 
-N Huge [outsider](creatureTypes#_outsider) ( [elemental](creatureTypes#_elemental-subtype), [extraplanar](creatureTypes#_extraplanar-subtype), [fire](creatureTypes#_fire-subtype))
+N Huge [outsider](../creatureTypes#_outsider) ( [elemental](../creatureTypes#_elemental-subtype), [extraplanar](../creatureTypes#_extraplanar-subtype), [fire](../creatureTypes#_fire-subtype))
 
-**Init** +13; **Senses** darkvision 60 ft.; [Perception](../skills_dir/perception#_perception) +19
+**Init** +13; **Senses** darkvision 60 ft.; [Perception](../../skills_dir/perception#_perception) +19
 
 **Defense**
 
@@ -752,7 +752,7 @@ N Huge [outsider](creatureTypes#_outsider) ( [elemental](creatureTypes#_elementa
 
 **Fort** +14, **Ref** +19, **Will** +7
 
-**DR** 10_dir/—, **Immune** [elemental traits](creatureTypes#_elemental-subtype), fire
+**DR** 10_dir/—, **Immune** [elemental traits](../creatureTypes#_elemental-subtype), fire
 
 **Weaknesses** vulnerability to cold
 
@@ -764,7 +764,7 @@ N Huge [outsider](creatureTypes#_outsider) ( [elemental](creatureTypes#_elementa
 
 **Space** 15 ft.; **Reach** 15 ft.
 
-**Special Attacks** [burn](universalMonsterRules#_burn) (2d10, DC 22)
+**Special Attacks** [burn](../universalMonsterRules#_burn) (2d10, DC 22)
 
 **Statistics**
 
@@ -772,9 +772,9 @@ N Huge [outsider](creatureTypes#_outsider) ( [elemental](creatureTypes#_elementa
 
 **Base Atk** +16; **CMB** +26; **CMD** 46
 
-**Feats** [Blind-Fight](../feats#_blind-fight), [Combat Reflexes](../feats#_combat-reflexes), [Dodge](../feats#_dodge), [Improved Initiative](../feats#_improved-initiative)B, [Iron Will](../feats#_iron-will), [Lightning Stance](../feats#_lightning-stance), [Mobility](../feats#_mobility), [Spring Attack](../feats#_spring-attack), [Weapon Finesse](../feats#_weapon-finesse)B, [Wind Stance](../feats#_wind-stance)
+**Feats** [Blind-Fight](../../feats#_blind-fight), [Combat Reflexes](../../feats#_combat-reflexes), [Dodge](../../feats#_dodge), [Improved Initiative](../../feats#_improved-initiative)B, [Iron Will](../../feats#_iron-will), [Lightning Stance](../../feats#_lightning-stance), [Mobility](../../feats#_mobility), [Spring Attack](../../feats#_spring-attack), [Weapon Finesse](../../feats#_weapon-finesse)B, [Wind Stance](../../feats#_wind-stance)
 
-**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +28, [Climb](../skills_dir/climb#_climb) +27, [Escape Artist](../skills_dir/escapeArtist#_escape-artist) +28, [Intimidate](../skills_dir/intimidate#_intimidate) +19, [Knowledge](../skills_dir/knowledge#_knowledge) (planes) +19, [Perception](../skills_dir/perception#_perception) +19
+**Skills** [Acrobatics](../../skills_dir/acrobatics#_acrobatics) +28, [Climb](../../skills_dir/climb#_climb) +27, [Escape Artist](../../skills_dir/escapeArtist#_escape-artist) +28, [Intimidate](../../skills_dir/intimidate#_intimidate) +19, [Knowledge](../../skills_dir/knowledge#_knowledge) (planes) +19, [Perception](../../skills_dir/perception#_perception) +19
 
 Fire elementals are quick, cruel creatures of living flame. They enjoy frightening beings weaker than themselves, and terrorizing any creature they can set on fire.
 
@@ -811,9 +811,9 @@ _This translucent creature's shape shifts between a spinning column of water and
 
 **Special Abilities**
 
-**Drench (Ex)** The elemental's touch puts out nonmagical flames of Large size or smaller. The creature can dispel magical fire it touches as _ [dispel magic](../spells_dir/dispelMagic#_dispel-magic)_ (caster level equals elemental's HD).
+**Drench (Ex)** The elemental's touch puts out nonmagical flames of Large size or smaller. The creature can dispel magical fire it touches as _ [dispel magic](../../spells_dir/dispelMagic#_dispel-magic)_ (caster level equals elemental's HD).
 
-**Vortex (Su)** A water elemental can create a whirlpool as a standard action, at will. This ability functions identically to the [whirlwind special attack](universalMonsterRules#_whirlwind), but can only form underwater and cannot leave the water.
+**Vortex (Su)** A water elemental can create a whirlpool as a standard action, at will. This ability functions identically to the [whirlwind special attack](../universalMonsterRules#_whirlwind), but can only form underwater and cannot leave the water.
 
 **Water Mastery (Ex)** A water elemental gains a +1 bonus on attack and damage rolls if both it and its opponent are touching water. If the opponent or the elemental is touching the ground, the elemental takes a –4 penalty on attack and damage rolls. These modifiers apply to bull rush and overrun maneuvers, whether the elemental is initiating or resisting these kinds of attacks.
 
@@ -821,9 +821,9 @@ _This translucent creature's shape shifts between a spinning column of water and
 
 **XP 400**
 
-N Small [outsider](creatureTypes#_outsider) ( [elemental](creatureTypes#_elemental-subtype), [extraplanar](creatureTypes#_extraplanar-subtype), [water](creatureTypes#_water-subtype))
+N Small [outsider](../creatureTypes#_outsider) ( [elemental](../creatureTypes#_elemental-subtype), [extraplanar](../creatureTypes#_extraplanar-subtype), [water](../creatureTypes#_water-subtype))
 
-**Init** +0; **Senses** darkvision 60 ft.; [Perception](../skills_dir/perception#_perception) +4
+**Init** +0; **Senses** darkvision 60 ft.; [Perception](../../skills_dir/perception#_perception) +4
 
 **Defense**
 
@@ -833,7 +833,7 @@ N Small [outsider](creatureTypes#_outsider) ( [elemental](creatureTypes#_element
 
 **Fort** +4, **Ref** +3, **Will** +0
 
-**Immune** [elemental traits](creatureTypes#_elemental-subtype)
+**Immune** [elemental traits](../creatureTypes#_elemental-subtype)
 
 **Offense**
 
@@ -849,17 +849,17 @@ N Small [outsider](creatureTypes#_outsider) ( [elemental](creatureTypes#_element
 
 **Base Atk** +2; **CMB** +3; **CMD** 13
 
-**Feats** [Power Attack](../feats#_power-attack)
+**Feats** [Power Attack](../../feats#_power-attack)
 
-**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +4, [Escape Artist](../skills_dir/escapeArtist#_escape-artist) +4, [Knowledge](../skills_dir/knowledge#_knowledge) (planes) +1, [Perception](../skills_dir/perception#_perception) +4, [Stealth](../skills_dir/stealth#_stealth) +8, [Swim](../skills_dir/swim#_swim) +14
+**Skills** [Acrobatics](../../skills_dir/acrobatics#_acrobatics) +4, [Escape Artist](../../skills_dir/escapeArtist#_escape-artist) +4, [Knowledge](../../skills_dir/knowledge#_knowledge) (planes) +1, [Perception](../../skills_dir/perception#_perception) +4, [Stealth](../../skills_dir/stealth#_stealth) +8, [Swim](../../skills_dir/swim#_swim) +14
 
 **Medium Water Elemental CR 3**
 
 **XP 800**
 
-N Medium [outsider](creatureTypes#_outsider) ( [elemental](creatureTypes#_elemental-subtype), [extraplanar](creatureTypes#_extraplanar-subtype), [water](creatureTypes#_water-subtype))
+N Medium [outsider](../creatureTypes#_outsider) ( [elemental](../creatureTypes#_elemental-subtype), [extraplanar](../creatureTypes#_extraplanar-subtype), [water](../creatureTypes#_water-subtype))
 
-**Init** +1; **Senses** darkvision 60 ft.; [Perception](../skills_dir/perception#_perception) +5
+**Init** +1; **Senses** darkvision 60 ft.; [Perception](../../skills_dir/perception#_perception) +5
 
 **Defense**
 
@@ -869,7 +869,7 @@ N Medium [outsider](creatureTypes#_outsider) ( [elemental](creatureTypes#_elemen
 
 **Fort** +6, **Ref** +5, **Will** +1
 
-**Immune** [elemental traits](creatureTypes#_elemental-subtype)
+**Immune** [elemental traits](../creatureTypes#_elemental-subtype)
 
 **Offense**
 
@@ -885,17 +885,17 @@ N Medium [outsider](creatureTypes#_outsider) ( [elemental](creatureTypes#_elemen
 
 **Base Atk** +4; **CMB** +7; **CMD** 18
 
-**Feats** [Cleave](../feats#_cleave), [Power Attack](../feats#_power-attack)
+**Feats** [Cleave](../../feats#_cleave), [Power Attack](../../feats#_power-attack)
 
-**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +6, [Escape Artist](../skills_dir/escapeArtist#_escape-artist) +6, [Knowledge](../skills_dir/knowledge#_knowledge) (planes) +2, [Perception](../skills_dir/perception#_perception) +5, [Stealth](../skills_dir/stealth#_stealth) +6, [Swim](../skills_dir/swim#_swim) +16
+**Skills** [Acrobatics](../../skills_dir/acrobatics#_acrobatics) +6, [Escape Artist](../../skills_dir/escapeArtist#_escape-artist) +6, [Knowledge](../../skills_dir/knowledge#_knowledge) (planes) +2, [Perception](../../skills_dir/perception#_perception) +5, [Stealth](../../skills_dir/stealth#_stealth) +6, [Swim](../../skills_dir/swim#_swim) +16
 
 **Large Water Elemental CR 5**
 
 **XP 1,600**
 
-N Large [outsider](creatureTypes#_outsider) ( [elemental](creatureTypes#_elemental-subtype), [extraplanar](creatureTypes#_extraplanar-subtype), [water](creatureTypes#_water-subtype))
+N Large [outsider](../creatureTypes#_outsider) ( [elemental](../creatureTypes#_elemental-subtype), [extraplanar](../creatureTypes#_extraplanar-subtype), [water](../creatureTypes#_water-subtype))
 
-**Init** +2; **Senses** darkvision 60 ft.; [Perception](../skills_dir/perception#_perception) +9
+**Init** +2; **Senses** darkvision 60 ft.; [Perception](../../skills_dir/perception#_perception) +9
 
 **Defense**
 
@@ -905,7 +905,7 @@ N Large [outsider](creatureTypes#_outsider) ( [elemental](creatureTypes#_element
 
 **Fort** +9, **Ref** +8, **Will** +2
 
-**DR** 5_dir/—; **Immune** [elemental traits](creatureTypes#_elemental-subtype)
+**DR** 5_dir/—; **Immune** [elemental traits](../creatureTypes#_elemental-subtype)
 
 **Offense**
 
@@ -923,17 +923,17 @@ N Large [outsider](creatureTypes#_outsider) ( [elemental](creatureTypes#_element
 
 **Base Atk** +8; **CMB** +14; **CMD** 27
 
-**Feats** [Cleave](../feats#_cleave), [Dodge](../feats#_dodge), [Great Cleave](../feats#_great-cleave), [Power Attack](../feats#_power-attack)
+**Feats** [Cleave](../../feats#_cleave), [Dodge](../../feats#_dodge), [Great Cleave](../../feats#_great-cleave), [Power Attack](../../feats#_power-attack)
 
-**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +9, [Escape Artist](../skills_dir/escapeArtist#_escape-artist) +11, [Knowledge](../skills_dir/knowledge#_knowledge) (planes) +5, [Perception](../skills_dir/perception#_perception) +9, [Stealth](../skills_dir/stealth#_stealth) +5, [Swim](../skills_dir/swim#_swim) +24
+**Skills** [Acrobatics](../../skills_dir/acrobatics#_acrobatics) +9, [Escape Artist](../../skills_dir/escapeArtist#_escape-artist) +11, [Knowledge](../../skills_dir/knowledge#_knowledge) (planes) +5, [Perception](../../skills_dir/perception#_perception) +9, [Stealth](../../skills_dir/stealth#_stealth) +5, [Swim](../../skills_dir/swim#_swim) +24
 
 **Huge Water Elemental CR 7**
 
 **XP 3,200**
 
-N Huge [outsider](creatureTypes#_outsider) ( [elemental](creatureTypes#_elemental-subtype), [extraplanar](creatureTypes#_extraplanar-subtype), [water](creatureTypes#_water-subtype))
+N Huge [outsider](../creatureTypes#_outsider) ( [elemental](../creatureTypes#_elemental-subtype), [extraplanar](../creatureTypes#_extraplanar-subtype), [water](../creatureTypes#_water-subtype))
 
-**Init** +4; **Senses** darkvision 60 ft.; [Perception](../skills_dir/perception#_perception) +13
+**Init** +4; **Senses** darkvision 60 ft.; [Perception](../../skills_dir/perception#_perception) +13
 
 **Defense**
 
@@ -943,7 +943,7 @@ N Huge [outsider](creatureTypes#_outsider) ( [elemental](creatureTypes#_elementa
 
 **Fort** +11, **Ref** +11, **Will** +3
 
-**DR** 5_dir/—; **Immune** [elemental traits](creatureTypes#_elemental-subtype)
+**DR** 5_dir/—; **Immune** [elemental traits](../creatureTypes#_elemental-subtype)
 
 **Offense**
 
@@ -961,17 +961,17 @@ N Huge [outsider](creatureTypes#_outsider) ( [elemental](creatureTypes#_elementa
 
 **Base Atk** +10; **CMB** +19; **CMD** 34
 
-**Feats** [Cleave](../feats#_cleave), [Dodge](../feats#_dodge), [Great Cleave](../feats#_great-cleave), [Improved Bull Rush](../feats#_improved-bull-rush), [Power Attack](../feats#_power-attack)
+**Feats** [Cleave](../../feats#_cleave), [Dodge](../../feats#_dodge), [Great Cleave](../../feats#_great-cleave), [Improved Bull Rush](../../feats#_improved-bull-rush), [Power Attack](../../feats#_power-attack)
 
-**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +11, [Escape Artist](../skills_dir/escapeArtist#_escape-artist) +15, [Knowledge](../skills_dir/knowledge#_knowledge) (planes) +7, [Perception](../skills_dir/perception#_perception) +13, [Stealth](../skills_dir/stealth#_stealth) +3, [Swim](../skills_dir/swim#_swim) +26
+**Skills** [Acrobatics](../../skills_dir/acrobatics#_acrobatics) +11, [Escape Artist](../../skills_dir/escapeArtist#_escape-artist) +15, [Knowledge](../../skills_dir/knowledge#_knowledge) (planes) +7, [Perception](../../skills_dir/perception#_perception) +13, [Stealth](../../skills_dir/stealth#_stealth) +3, [Swim](../../skills_dir/swim#_swim) +26
 
 **Greater Water Elemental CR 9**
 
 **XP 6,400**
 
-N Huge [outsider](creatureTypes#_outsider) ( [elemental](creatureTypes#_elemental-subtype), [extraplanar](creatureTypes#_extraplanar-subtype), [water](creatureTypes#_water-subtype))
+N Huge [outsider](../creatureTypes#_outsider) ( [elemental](../creatureTypes#_elemental-subtype), [extraplanar](../creatureTypes#_extraplanar-subtype), [water](../creatureTypes#_water-subtype))
 
-**Init** +5; **Senses** darkvision 60 ft.; [Perception](../skills_dir/perception#_perception) +16
+**Init** +5; **Senses** darkvision 60 ft.; [Perception](../../skills_dir/perception#_perception) +16
 
 **Defense**
 
@@ -981,7 +981,7 @@ N Huge [outsider](creatureTypes#_outsider) ( [elemental](creatureTypes#_elementa
 
 **Fort** +12, **Ref** +15, **Will** +4
 
-**DR** 10_dir/—; **Immune** [elemental traits](creatureTypes#_elemental-subtype)
+**DR** 10_dir/—; **Immune** [elemental traits](../creatureTypes#_elemental-subtype)
 
 **Offense**
 
@@ -999,17 +999,17 @@ N Huge [outsider](creatureTypes#_outsider) ( [elemental](creatureTypes#_elementa
 
 **Base Atk** +13; **CMB** +24; **CMD** 40
 
-**Feats** [Cleave](../feats#_cleave), [Dodge](../feats#_dodge), [Great Cleave](../feats#_great-cleave), [Improved Bull Rush](../feats#_improved-bull-rush), [Improved Sunder](../feats#_improved-sunder), [Lightning Reflexes](../feats#_lightning-reflexes), [Power Attack](../feats#_power-attack)
+**Feats** [Cleave](../../feats#_cleave), [Dodge](../../feats#_dodge), [Great Cleave](../../feats#_great-cleave), [Improved Bull Rush](../../feats#_improved-bull-rush), [Improved Sunder](../../feats#_improved-sunder), [Lightning Reflexes](../../feats#_lightning-reflexes), [Power Attack](../../feats#_power-attack)
 
-**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +18, [Escape Artist](../skills_dir/escapeArtist#_escape-artist) +20, [Knowledge](../skills_dir/knowledge#_knowledge) (planes) +12, [Perception](../skills_dir/perception#_perception) +16, [Stealth](../skills_dir/stealth#_stealth) +10, [Swim](../skills_dir/swim#_swim) +30
+**Skills** [Acrobatics](../../skills_dir/acrobatics#_acrobatics) +18, [Escape Artist](../../skills_dir/escapeArtist#_escape-artist) +20, [Knowledge](../../skills_dir/knowledge#_knowledge) (planes) +12, [Perception](../../skills_dir/perception#_perception) +16, [Stealth](../../skills_dir/stealth#_stealth) +10, [Swim](../../skills_dir/swim#_swim) +30
 
 **Elder Water Elemental CR 11**
 
 **XP 12,800**
 
-N Huge [outsider](creatureTypes#_outsider) ( [elemental](creatureTypes#_elemental-subtype), [extraplanar](creatureTypes#_extraplanar-subtype), [water](creatureTypes#_water-subtype))
+N Huge [outsider](../creatureTypes#_outsider) ( [elemental](../creatureTypes#_elemental-subtype), [extraplanar](../creatureTypes#_extraplanar-subtype), [water](../creatureTypes#_water-subtype))
 
-**Init** +6; **Senses** darkvision 60 ft.; [Perception](../skills_dir/perception#_perception) +19
+**Init** +6; **Senses** darkvision 60 ft.; [Perception](../../skills_dir/perception#_perception) +19
 
 **Defense**
 
@@ -1019,7 +1019,7 @@ N Huge [outsider](creatureTypes#_outsider) ( [elemental](creatureTypes#_elementa
 
 **Fort** +14, **Ref** +18, **Will** +5
 
-**DR** 10_dir/—; **Immune** [elemental traits](creatureTypes#_elemental-subtype)
+**DR** 10_dir/—; **Immune** [elemental traits](../creatureTypes#_elemental-subtype)
 
 **Offense**
 
@@ -1037,9 +1037,9 @@ N Huge [outsider](creatureTypes#_outsider) ( [elemental](creatureTypes#_elementa
 
 **Base Atk** +16; **CMB** +28; **CMD** 45
 
-**Feats** [Cleave](../feats#_cleave), [Dodge](../feats#_dodge), [Great Cleave](../feats#_great-cleave), [Improved Bull Rush](../feats#_improved-bull-rush), [Improved Critical](../feats#_improved-critical) (slam), [Improved Sunder](../feats#_improved-sunder), [Lightning Reflexes](../feats#_lightning-reflexes), [Power Attack](../feats#_power-attack)
+**Feats** [Cleave](../../feats#_cleave), [Dodge](../../feats#_dodge), [Great Cleave](../../feats#_great-cleave), [Improved Bull Rush](../../feats#_improved-bull-rush), [Improved Critical](../../feats#_improved-critical) (slam), [Improved Sunder](../../feats#_improved-sunder), [Lightning Reflexes](../../feats#_lightning-reflexes), [Power Attack](../../feats#_power-attack)
 
-**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +25, [Escape Artist](../skills_dir/escapeArtist#_escape-artist) +25, [Knowledge](../skills_dir/knowledge#_knowledge) (planes) +19, [Perception](../skills_dir/perception#_perception) +19, [Stealth](../skills_dir/stealth#_stealth) +17, [Swim](../skills_dir/swim#_swim) +37
+**Skills** [Acrobatics](../../skills_dir/acrobatics#_acrobatics) +25, [Escape Artist](../../skills_dir/escapeArtist#_escape-artist) +25, [Knowledge](../../skills_dir/knowledge#_knowledge) (planes) +19, [Perception](../../skills_dir/perception#_perception) +19, [Stealth](../../skills_dir/stealth#_stealth) +17, [Swim](../../skills_dir/swim#_swim) +37
 
 Water elementals are patient, relentless creatures made of living fresh or salt water. They prefer to hide or drag their opponents into the water to gain an advantage.
 

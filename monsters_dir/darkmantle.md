@@ -10,9 +10,9 @@ _As this creature falls from the cavern roof, it opens like a hideous octopus, i
 
 **XP 400**
 
-N Small [magical beast](creatureTypes#_magical-beast)
+N Small [magical beast](../creatureTypes#_magical-beast)
 
-**Init** +6; **Senses** [blindsight](universalMonsterRules#_blindsight) 90 ft., darkvision 60 ft., low-light vision; [Perception](../skills_dir/perception#_perception) +4
+**Init** +6; **Senses** [blindsight](../universalMonsterRules#_blindsight) 90 ft., darkvision 60 ft., low-light vision; [Perception](../../skills_dir/perception#_perception) +4
 
 **Defense**
 
@@ -26,13 +26,13 @@ N Small [magical beast](creatureTypes#_magical-beast)
 
 **Speed** 20 ft., fly 30 ft. (poor)
 
-**Melee** slam +3 (1d4 plus [grab](universalMonsterRules#_grab))
+**Melee** slam +3 (1d4 plus [grab](../universalMonsterRules#_grab))
 
-**Special Attacks** [constrict](universalMonsterRules#_constrict) (1d4+4), grab (any size)
+**Special Attacks** [constrict](../universalMonsterRules#_constrict) (1d4+4), grab (any size)
 
 **Spell-Like Abilities** (CL 5th)
 
-1_dir/day—_ [darkness](../spells_dir/darkness#_darkness)_
+1_dir/day—_ [darkness](../../spells_dir/darkness#_darkness)_
 
 **Statistics**
 
@@ -40,9 +40,9 @@ N Small [magical beast](creatureTypes#_magical-beast)
 
 **Base**  **Atk** +2; **CMB** +1 (+5 grapple); **CMD** 13 (can't be tripped)
 
-**Feats** [Improved Initiative](../feats#_improved-initiative)
+**Feats** [Improved Initiative](../../feats#_improved-initiative)
 
-**Skills** [Fly](../skills_dir/fly#_fly) +5, [Perception](../skills_dir/perception#_perception) +4, [Stealth](../skills_dir/stealth#_stealth) +10; **Racial Modifiers** +4 [Perception](../skills_dir/perception#_perception), +4 [Stealth](../skills_dir/stealth#_stealth)
+**Skills** [Fly](../../skills_dir/fly#_fly) +5, [Perception](../../skills_dir/perception#_perception) +4, [Stealth](../../skills_dir/stealth#_stealth) +10; **Racial Modifiers** +4 [Perception](../../skills_dir/perception#_perception), +4 [Stealth](../../skills_dir/stealth#_stealth)
 
 **Ecology**
 

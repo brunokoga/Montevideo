@@ -18,5 +18,5 @@ title: advanced_dir/spells_dir/memoryLapse
 
 **Saving Throw** Will negates; **Spell Resistance** yes
 
-You cause the target to forget what happened from the casting of the spell back to the beginning of its last turn. This may allow a retry on a [Diplomacy](../../skills_dir/diplomacy#_diplomacy), [Intimidate](../../skills_dir/intimidate#_intimidate), or opposed skill check, though only with respect to the target, not other creatures that may be present.
+You cause the target to forget what happened from the casting of the spell back to the beginning of its last turn. This may allow a retry on a [Diplomacy](../../../skills_dir/diplomacy#_diplomacy), [Intimidate](../../../skills_dir/intimidate#_intimidate), or opposed skill check, though only with respect to the target, not other creatures that may be present.
 

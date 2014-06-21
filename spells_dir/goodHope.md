@@ -16,9 +16,9 @@ title: spells_dir/goodHope
 
 **Duration** 1 min._dir/level
 
-**Saving Throw** [Will](../combat#_will) negates (harmless); **[Spell Resistance](../glossary#_spell-resistance)** yes (harmless)
+**Saving Throw** [Will](../../combat#_will) negates (harmless); **[Spell Resistance](../../glossary#_spell-resistance)** yes (harmless)
 
 This spell instills powerful hope in the subjects. Each affected creature gains a +2 morale bonus on saving throws, attack rolls, ability checks, skill checks, and weapon damage rolls.
 
-_Good hope_ counters and dispels _ [crushing despair](crushingDespair#_crushing-despair)._
+_Good hope_ counters and dispels _ [crushing despair](../crushingDespair#_crushing-despair)._
 

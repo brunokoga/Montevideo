@@ -10,9 +10,9 @@ BadgerCR 1_dir/2
 
 **XP 200**
 
-N Small [animal](monsters_dir/creatureTypes#_animal)
+N Small [animal](../monsters_dir/creatureTypes#_animal)
 
-**Init** +1; **Senses** low-light vision, [scent](monsters_dir/universalMonsterRules#_scent); [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +5
+**Init** +1; **Senses** low-light vision, [scent](../monsters_dir/universalMonsterRules#_scent); [Perception](../additionalMonsters_dir/../skills_dir/perception#_perception) +5
 
 Defense
 
@@ -28,7 +28,7 @@ Offense
 
 **Melee** bite +1 (1d3), 2 claws +1 (1d2)
 
-**Special Attacks** [blood rage](monsters_dir/universalMonsterRules#_blood-rage)
+**Special Attacks** [blood rage](../monsters_dir/universalMonsterRules#_blood-rage)
 
 Statistics
 
@@ -36,9 +36,9 @@ Statistics
 
 **Base Atk** +0; **CMB** –1; **CMD** 10 (14 vs. trip)
 
-**Feats** [Toughness](additionalMonsters_dir/../feats#_toughness)
+**Feats** [Toughness](../additionalMonsters_dir/../feats#_toughness)
 
-**Skills** [Escape Artist](additionalMonsters_dir/../skills_dir/escapeArtist#_escape-artist) +5, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +5; **Racial Modifiers** +4 [Escape Artist](additionalMonsters_dir/../skills_dir/escapeArtist#_escape-artist)
+**Skills** [Escape Artist](../additionalMonsters_dir/../skills_dir/escapeArtist#_escape-artist) +5, [Perception](../additionalMonsters_dir/../skills_dir/perception#_perception) +5; **Racial Modifiers** +4 [Escape Artist](../additionalMonsters_dir/../skills_dir/escapeArtist#_escape-artist)
 
 Ecology
 
@@ -60,9 +60,9 @@ Badger, DireCR 2
 
 **XP 600**
 
-N Medium [animal](monsters_dir/creatureTypes#_animal)
+N Medium [animal](../monsters_dir/creatureTypes#_animal)
 
-**Init** +6; **Senses** low-light vision, [scent](monsters_dir/universalMonsterRules#_scent); [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +10
+**Init** +6; **Senses** low-light vision, [scent](../monsters_dir/universalMonsterRules#_scent); [Perception](../additionalMonsters_dir/../skills_dir/perception#_perception) +10
 
 Defense
 
@@ -80,7 +80,7 @@ Offense
 
 **Melee** bite +4 (1d4+2), 2 claws +4 (1d3+2)
 
-**Special Attacks** [blood rage](monsters_dir/universalMonsterRules#_blood-rage)
+**Special Attacks** [blood rage](../monsters_dir/universalMonsterRules#_blood-rage)
 
 Statistics
 
@@ -88,9 +88,9 @@ Statistics
 
 **Base Atk** +2; **CMB** +4; **CMD** 16 (20 vs. trip)
 
-**Feats** [Improved Initiative](additionalMonsters_dir/../feats#_improved-initiative), [Skill Focus](additionalMonsters_dir/../feats#_skill-focus) ( [Perception](additionalMonsters_dir/../skills_dir/perception#_perception))
+**Feats** [Improved Initiative](../additionalMonsters_dir/../feats#_improved-initiative), [Skill Focus](../additionalMonsters_dir/../feats#_skill-focus) ( [Perception](../additionalMonsters_dir/../skills_dir/perception#_perception))
 
-**Skills** [Escape Artist](additionalMonsters_dir/../skills_dir/escapeArtist#_escape-artist) +6, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +10; **Racial Modifiers** +4 [Escape Artist](additionalMonsters_dir/../skills_dir/escapeArtist#_escape-artist)
+**Skills** [Escape Artist](../additionalMonsters_dir/../skills_dir/escapeArtist#_escape-artist) +6, [Perception](../additionalMonsters_dir/../skills_dir/perception#_perception) +10; **Racial Modifiers** +4 [Escape Artist](../additionalMonsters_dir/../skills_dir/escapeArtist#_escape-artist)
 
 Ecology
 

@@ -4,7 +4,7 @@ title: ultimateCombat_dir/spells_dir/frostFall
 ---
 Frost Fall
 
-**School** evocation ( [cold](monsters_dir/creatureTypes#_cold-subtype)); **Level** druid 2, sorcerer_dir/wizard 2, witch 2
+**School** evocation ( [cold](../monsters_dir/creatureTypes#_cold-subtype)); **Level** druid 2, sorcerer_dir/wizard 2, witch 2
 
 **Casting Time** 1 standard action
 

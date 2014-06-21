@@ -10,9 +10,9 @@ _Filthy, reeking black rags wrap this small humanoid from head to toe, leaving o
 
 **XP 600**
 
-CN Small [humanoid](creatureTypes#_humanoid) (dark folk)
+CN Small [humanoid](../creatureTypes#_humanoid) (dark folk)
 
-**Init** +3; **Senses** see in darkness; [Perception](../skills_dir/perception#_perception) +4
+**Init** +3; **Senses** see in darkness; [Perception](../../skills_dir/perception#_perception) +4
 
 **Defense**
 
@@ -22,7 +22,7 @@ CN Small [humanoid](creatureTypes#_humanoid) (dark folk)
 
 **Fort** +3, **Ref** +6, **Will** +1
 
-**Weaknesses** [light blindness](universalMonsterRules#_light-blindness)
+**Weaknesses** [light blindness](../universalMonsterRules#_light-blindness)
 
 **Offense**
 
@@ -34,7 +34,7 @@ CN Small [humanoid](creatureTypes#_humanoid) (dark folk)
 
 **Spell-Like Abilities** (CL 3rd)
 
-At will—_ [darkness](../spells_dir/darkness#_darkness), [detect magic](../spells_dir/detectMagic#_detect-magic)_
+At will—_ [darkness](../../spells_dir/darkness#_darkness), [detect magic](../../spells_dir/detectMagic#_detect-magic)_
 
 **Statistics**
 
@@ -42,9 +42,9 @@ At will—_ [darkness](../spells_dir/darkness#_darkness), [detect magic](../spel
 
 **Base**  **Atk** +2; **CMB** +1; **CMD** 14
 
-**Feats** [Skill Focus](../feats#_skill-focus) ( [Sleight of Hand](../skills_dir/sleightOfHand#_sleight-of-hand)), [Weapon Finesse](../feats#_weapon-finesse)
+**Feats** [Skill Focus](../../feats#_skill-focus) ( [Sleight of Hand](../../skills_dir/sleightOfHand#_sleight-of-hand)), [Weapon Finesse](../../feats#_weapon-finesse)
 
-**Skills** [Climb](../skills_dir/climb#_climb) +8, [Perception](../skills_dir/perception#_perception) +4, [Sleight of Hand](../skills_dir/sleightOfHand#_sleight-of-hand) +7, [Stealth](../skills_dir/stealth#_stealth) +12; **Racial Modifiers** +4 [Climb](../skills_dir/climb#_climb), +4 [Perception](../skills_dir/perception#_perception), +4 [Stealth](../skills_dir/stealth#_stealth)
+**Skills** [Climb](../../skills_dir/climb#_climb) +8, [Perception](../../skills_dir/perception#_perception) +4, [Sleight of Hand](../../skills_dir/sleightOfHand#_sleight-of-hand) +7, [Stealth](../../skills_dir/stealth#_stealth) +12; **Racial Modifiers** +4 [Climb](../../skills_dir/climb#_climb), +4 [Perception](../../skills_dir/perception#_perception), +4 [Stealth](../../skills_dir/stealth#_stealth)
 
 **Languages** Dark Folk
 
@@ -66,7 +66,7 @@ At will—_ [darkness](../spells_dir/darkness#_darkness), [detect magic](../spel
 
 **Rag Armor (Ex)** A dark creeper's multiple layers of filthy rags function as leather armor when worn by one of their kind.
 
-**See in Darkness (Su)** A dark creeper can see perfectly in darkness of any kind, including that created by _ [deeper darkness](../spells_dir/deeperDarkness#_deeper-darkness)_.
+**See in Darkness (Su)** A dark creeper can see perfectly in darkness of any kind, including that created by _ [deeper darkness](../../spells_dir/deeperDarkness#_deeper-darkness)_.
 
 Dark creepers lurk in the black places deep below the surface of the world, venturing forth at night or into neighboring societies when the urge to steal and cause mayhem grows too great to resist. Endless layers of filthy, moldering black cloth shroud these small creatures, leading some to believe that the creature inside is smaller still. Usually encountered in groups, dark creepers flee from bright light, but are quite brave in the dark.
 

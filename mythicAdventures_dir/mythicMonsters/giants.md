@@ -10,9 +10,9 @@ Mythic Fire Giant CR 12_dir/MR 5
 
 XP 19,200
 
-LE Large humanoid ( [fire](monsters_dir/creatureTypes#_fire-subtype), [giant](monsters_dir/creatureTypes#_giant-subtype), [mythic](mythicAdventures_dir/mythicMonsters#_mythic-subtype))
+LE Large humanoid ( [fire](../monsters_dir/creatureTypes#_fire-subtype), [giant](../monsters_dir/creatureTypes#_giant-subtype), [mythic](../mythicAdventures_dir/mythicMonsters#_mythic-subtype))
 
-**Init** –1; **Senses** [low-light vision](monsters_dir/universalMonsterRules#_low-light-vision); [Perception](skills_dir/perception#_perception) +14
+**Init** –1; **Senses** [low-light vision](../monsters_dir/universalMonsterRules#_low-light-vision); [Perception](../skills_dir/perception#_perception) +14
 
 **Aura** choking ash (10 ft., DC 23)
 
@@ -24,7 +24,7 @@ Defense
 
 **Fort** +15, **Ref** +4, **Will** +9
 
-**Defensive Abilities** [backlash](mythicAdventures_dir/mythicHeroes_dir/champion#_blacklash), [rock catching](monsters_dir/universalMonsterRules#_rock-catching); **DR** 10_dir/epic; **Immune** fire
+**Defensive Abilities** [backlash](../mythicAdventures_dir/mythicHeroes_dir/champion#_blacklash), [rock catching](../monsters_dir/universalMonsterRules#_rock-catching); **DR** 10_dir/epic; **Immune** fire
 
 **Weaknesses** vulnerable to cold
 
@@ -38,7 +38,7 @@ Offense
 
 **Space** 10 ft.; **Reach** 10 ft.
 
-**Special Attacks** fire vortex, lava weapons, [precision](mythicAdventures_dir/mythicHeroes_dir/champion#_precision), mythic power (5_dir/day, surge +1d8), rock throwing (120 ft.)
+**Special Attacks** fire vortex, lava weapons, [precision](../mythicAdventures_dir/mythicHeroes_dir/champion#_precision), mythic power (5_dir/day, surge +1d8), rock throwing (120 ft.)
 
 Statistics
 
@@ -46,9 +46,9 @@ Statistics
 
 **Base Atk** +11; **CMB** +23 (+25 overrun or sunder); **CMD** 34 (36 vs. overrun or sunder)
 
-**Feats** [Cleave](mythicAdventures_dir/mythicFeats#_cleave-mythic)M, [Great Cleave](feats#_great-cleave), [Improved Overrun](feats#_improved-overrun), [Improved Sunder](feats#_improved_sunder), [Iron Will](mythicAdventures_dir/mythicFeats#_iron-will-mythic)M, [Martial Weapon Proficiency](feats#_martial-weapon-proficiency) (greatsword), [Power Attack](mythicAdventures_dir/mythicFeats#_power-attack-mythic)M, [Weapon Focus](feats#_weapon-focus) (greatsword)
+**Feats** [Cleave](../mythicAdventures_dir/mythicFeats#_cleave-mythic)M, [Great Cleave](../feats#_great-cleave), [Improved Overrun](../feats#_improved-overrun), [Improved Sunder](../feats#_improved_sunder), [Iron Will](../mythicAdventures_dir/mythicFeats#_iron-will-mythic)M, [Martial Weapon Proficiency](../feats#_martial-weapon-proficiency) (greatsword), [Power Attack](../mythicAdventures_dir/mythicFeats#_power-attack-mythic)M, [Weapon Focus](../feats#_weapon-focus) (greatsword)
 
-**Skills** [Climb](skills_dir/climb#_climb) +15, [Craft](skills_dir/craft#_craft) (any one) +8, [Intimidate](skills_dir/intimidate#_intimidate) +11, [Perception](skills_dir/perception#_perception) +14
+**Skills** [Climb](../skills_dir/climb#_climb) +15, [Craft](../skills_dir/craft#_craft) (any one) +8, [Intimidate](../skills_dir/intimidate#_intimidate) +11, [Perception](../skills_dir/perception#_perception) +14
 
 **Languages** Common, Giant
 
@@ -78,9 +78,9 @@ Mythic Hill Giant CR 9_dir/MR 3
 
 XP 6,400
 
-CE Large humanoid ( [giant](monsters_dir/creatureTypes#_giant-subtype), [mythic](mythicAdventures_dir/mythicMonsters#_mythic-subtype))
+CE Large humanoid ( [giant](../monsters_dir/creatureTypes#_giant-subtype), [mythic](../mythicAdventures_dir/mythicMonsters#_mythic-subtype))
 
-**Init** –1; **Senses** [low-light vision](monsters_dir/universalMonsterRules#_low-light-vision); [Perception](skills_dir/perception#_perception) +6
+**Init** –1; **Senses** [low-light vision](../monsters_dir/universalMonsterRules#_low-light-vision); [Perception](../skills_dir/perception#_perception) +6
 
 Defense
 
@@ -90,7 +90,7 @@ Defense
 
 **Fort** +12, **Ref** +2, **Will** +3
 
-**Defensive Abilities** dense mind, [rock catching](monsters_dir/universalMonsterRules#_rock-catching); **DR** 5_dir/epic
+**Defensive Abilities** dense mind, [rock catching](../monsters_dir/universalMonsterRules#_rock-catching); **DR** 5_dir/epic
 
 Offense
 
@@ -102,7 +102,7 @@ Offense
 
 **Space** 10 ft.; **Reach** 10 ft.
 
-**Special Attacks** ground pound, mythic power (3_dir/day, surge +1d6), [rock throwing](monsters_dir/universalMonsterRules#_rock-throwing) (120 ft.), trip (greatclub)
+**Special Attacks** ground pound, mythic power (3_dir/day, surge +1d6), [rock throwing](../monsters_dir/universalMonsterRules#_rock-throwing) (120 ft.), trip (greatclub)
 
 Statistics
 
@@ -110,9 +110,9 @@ Statistics
 
 **Base Atk** +7; **CMB** +16; **CMD** 25
 
-**Feats** [Cleave](mythicAdventures_dir/mythicFeats#_cleave-mythic)M, [Intimidating Prowess](feats#_intimidating-prowess), [Martial Weapon Proficiency](feats#_martial-weapon-proficiency) (greatclub), [Power Attack](feats#_power-attack), [Weapon Focus](feats#_weapon-focus) (greatclub)M
+**Feats** [Cleave](../mythicAdventures_dir/mythicFeats#_cleave-mythic)M, [Intimidating Prowess](../feats#_intimidating-prowess), [Martial Weapon Proficiency](../feats#_martial-weapon-proficiency) (greatclub), [Power Attack](../feats#_power-attack), [Weapon Focus](../feats#_weapon-focus) (greatclub)M
 
-**Skills** [Climb](skills_dir/climb#_climb) +11, [Intimidate](skills_dir/intimidate#_intimidate) +13, [Perception](skills_dir/perception#_perception) +6
+**Skills** [Climb](../skills_dir/climb#_climb) +11, [Intimidate](../skills_dir/intimidate#_intimidate) +13, [Perception](../skills_dir/perception#_perception) +6
 
 **Languages** Giant
 
@@ -122,7 +122,7 @@ Ecology
 
 **Environment** temperate hills
 
-**Organization** solitary, gang (2–5), band (6–8), raiding party (9–12 plus 1d4 dire wolves), or tribe (13–30 plus 35% noncombatants plus 1 barbarian or fighter chief of 4th–6th level, 11–16 dire wolves, 1–4 ogres, and 13–20 [orc](monsters_dir/creatureTypes#_orc-subtype) slaves)
+**Organization** solitary, gang (2–5), band (6–8), raiding party (9–12 plus 1d4 dire wolves), or tribe (13–30 plus 35% noncombatants plus 1 barbarian or fighter chief of 4th–6th level, 11–16 dire wolves, 1–4 ogres, and 13–20 [orc](../monsters_dir/creatureTypes#_orc-subtype) slaves)
 
 **Treasure** standard (hide armor, greatclub, other treasure)
 
@@ -130,7 +130,7 @@ Special Abilities
 
 **Dense Mind (Ex)** If a mythic hill giant fails its saving throw against a hostile mind-affecting effect, at the start of its turn it automatically expends one use of mythic power (if it has any) as a free action to reroll its saving throw against the effect. It rerolls for each ongoing mind-affecting effect each turn.
 
-**Earth Bond (Ex)** A mythic hill giant gains a +2 bonus on attack rolls, weapon damage rolls, and saves while touching the ground (including a stone or earthen floor in a building). As a standard action, a hill giant touching the ground can expend one use of mythic power to rejuvenate itself, gaining the benefits of _ [cure critical wounds](spells_dir/cureCriticalWounds#_cure-critical-wounds)_ and _ [restoration](spells_dir/restoration#_restoration)_.
+**Earth Bond (Ex)** A mythic hill giant gains a +2 bonus on attack rolls, weapon damage rolls, and saves while touching the ground (including a stone or earthen floor in a building). As a standard action, a hill giant touching the ground can expend one use of mythic power to rejuvenate itself, gaining the benefits of _ [cure critical wounds](../spells_dir/cureCriticalWounds#_cure-critical-wounds)_ and _ [restoration](../spells_dir/restoration#_restoration)_.
 
 **Ground Pound (Ex)** As a standard action, a mythic hill giant can expend one use of mythic power and hit the ground with a bludgeoning weapon. Choose one intersection within reach; creatures touching the ground within a 20-foot burst centered on that intersection take double the damage normally dealt by that bludgeoning weapon (Reflex DC 23 for half). Creatures that fail their saves are knocked prone and moved 5 feet directly away from chosen intersection. This ability has no effect on creatures with the earth bond ability. The save DC is Strength-based.
 

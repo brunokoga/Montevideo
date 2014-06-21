@@ -10,9 +10,9 @@ _This lobster-like creature has a thick armored shell. A pair of tiny eyes gleam
 
 **XP 3,200**
 
-CE Large [aberration](creatureTypes#_aberration) (aquatic)
+CE Large [aberration](../creatureTypes#_aberration) (aquatic)
 
-**Init** +7; **Senses** darkvision 60 ft.; [Perception](../skills_dir/perception#_perception) +19
+**Init** +7; **Senses** darkvision 60 ft.; [Perception](../../skills_dir/perception#_perception) +19
 
 **Defense**
 
@@ -28,11 +28,11 @@ CE Large [aberration](creatureTypes#_aberration) (aquatic)
 
 **Speed** 30 ft., swim 20 ft.
 
-**Melee** 2 claws +14 (2d6+7 plus [grab](universalMonsterRules#_grab))
+**Melee** 2 claws +14 (2d6+7 plus [grab](../universalMonsterRules#_grab))
 
 **Space** 10 ft.; **Reach** 5 ft.
 
-**Special Attacks** [constrict](universalMonsterRules#_constrict) (2d6+7), paralytic tentacles
+**Special Attacks** [constrict](../universalMonsterRules#_constrict) (2d6+7), paralytic tentacles
 
 **Statistics**
 
@@ -40,13 +40,13 @@ CE Large [aberration](creatureTypes#_aberration) (aquatic)
 
 **Base**  **Atk** +7; **CMB** +15 (+19 grapple); **CMD** 28 (32 vs. trip)
 
-**Feats** [Alertness](../feats#_alertness), [Blind-Fight](../feats#_blind-fight), [Combat Reflexes](../feats#_combat-reflexes), [Improved Initiative](../feats#_improved-initiative), [Weapon Focus](../feats#_weapon-focus) (claw)
+**Feats** [Alertness](../../feats#_alertness), [Blind-Fight](../../feats#_blind-fight), [Combat Reflexes](../../feats#_combat-reflexes), [Improved Initiative](../../feats#_improved-initiative), [Weapon Focus](../../feats#_weapon-focus) (claw)
 
-**Skills** [Knowledge](../skills_dir/knowledge#_knowledge) (nature) +8, [Perception](../skills_dir/perception#_perception) +19, [Sense Motive](../skills_dir/senseMotive#_sense-motive) +9, [Stealth](../skills_dir/stealth#_stealth) +9, [Swim](../skills_dir/swim#_swim) +28
+**Skills** [Knowledge](../../skills_dir/knowledge#_knowledge) (nature) +8, [Perception](../../skills_dir/perception#_perception) +19, [Sense Motive](../../skills_dir/senseMotive#_sense-motive) +9, [Stealth](../../skills_dir/stealth#_stealth) +9, [Swim](../../skills_dir/swim#_swim) +28
 
 **Languages** Common (sometimes Undercommon for subterranean variants)
 
-**SQ** [amphibious](universalMonsterRules#_amphibious)
+**SQ** [amphibious](../universalMonsterRules#_amphibious)
 
 **Ecology**
 

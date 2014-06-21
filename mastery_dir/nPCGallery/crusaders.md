@@ -14,7 +14,7 @@ Human aristocrat 1
 
 N Medium humanoid
 
-**Init** +1; **Senses** [Perception](../../skills_dir/perception#_perception) –1
+**Init** +1; **Senses** [Perception](../../../skills_dir/perception#_perception) –1
 
 **Defense**
 
@@ -38,13 +38,13 @@ N Medium humanoid
 
 **Base Atk** +0; **CMB** +1; **CMD** 12
 
-**Feats** [Animal Affinity](../../feats#_animal-affinity), [Mounted Combat](../../feats#_mounted-combat)
+**Feats** [Animal Affinity](../../../feats#_animal-affinity), [Mounted Combat](../../../feats#_mounted-combat)
 
-**Skills** [Craft](../../skills_dir/craft#_craft) (armor) +3, [Craft](../../skills_dir/craft#_craft) (weapons) +3, [Handle Animal](../../skills_dir/handleAnimal#_handle-animal) +6, [Knowledge](../../skills_dir/knowledge#_knowledge) (nobility) +3, [Ride](../../skills_dir/ride#_ride) +6
+**Skills** [Craft](../../../skills_dir/craft#_craft) (armor) +3, [Craft](../../../skills_dir/craft#_craft) (weapons) +3, [Handle Animal](../../../skills_dir/handleAnimal#_handle-animal) +6, [Knowledge](../../../skills_dir/knowledge#_knowledge) (nobility) +3, [Ride](../../../skills_dir/ride#_ride) +6
 
 **Languages** Common
 
-**Combat Gear** _potion of [cure light wounds](../../spells_dir/cureLightWounds#_cure-light-wounds)_; **Other Gear** padded armor, light wooden shield, lance, light pick, shortbow with 20 arrows, light horse (combat trained) with riding saddle
+**Combat Gear** _potion of [cure light wounds](../../../spells_dir/cureLightWounds#_cure-light-wounds)_; **Other Gear** padded armor, light wooden shield, lance, light pick, shortbow with 20 arrows, light horse (combat trained) with riding saddle
 
 **Boon** A squire can make a personal introduction to a knight or help the PCs buy a combat trained mount or riding gear at a 5% discount. A squire might also agree to serve a fighter, paladin, or ranger PC, either for a limited time, or until granted knighthood.
 
@@ -64,7 +64,7 @@ Human paladin 7
 
 LG Medium humanoid
 
-**Init** +3; **Senses** [Perception](../../skills_dir/perception#_perception) +4
+**Init** +3; **Senses** [Perception](../../../skills_dir/perception#_perception) +4
 
 **Aura** courage (10 ft.)
 
@@ -90,13 +90,13 @@ LG Medium humanoid
 
 **Spell-Like Abilities** (CL 7th; concentration +9)
 
-At Will—_ [detect evil](../../spells_dir/detectEvil#_detect-evil)_
+At Will—_ [detect evil](../../../spells_dir/detectEvil#_detect-evil)_
 
 **Paladin Spells Prepared** (CL 4th; concentration +6)
 
-2nd—_ [eagle's splendor](../../spells_dir/eagleSSplendor#_eagle-s-splendor)_
+2nd—_ [eagle's splendor](../../../spells_dir/eagleSSplendor#_eagle-s-splendor)_
 
-1st—_ [bless weapon](../../spells_dir/blessWeapon#_bless-weapon)_, _ [divine favor](../../spells_dir/divineFavor#_divine-favor)_
+1st—_ [bless weapon](../../../spells_dir/blessWeapon#_bless-weapon)_, _ [divine favor](../../../spells_dir/divineFavor#_divine-favor)_
 
 **Statistics**
 
@@ -104,9 +104,9 @@ At Will—_ [detect evil](../../spells_dir/detectEvil#_detect-evil)_
 
 **Base Atk** +7; **CMB** +9; **CMD** 22
 
-**Feats** [Deadly Aim](../../feats#_deadly-aim), [Manyshot](../../feats#_manyshot), Point Blank Shot, [Power Attack](../../feats#_power-attack), [Rapid Shot](../../feats#_rapid-shot)
+**Feats** [Deadly Aim](../../../feats#_deadly-aim), [Manyshot](../../../feats#_manyshot), Point Blank Shot, [Power Attack](../../../feats#_power-attack), [Rapid Shot](../../../feats#_rapid-shot)
 
-**Skills** [Craft](../../skills_dir/craft#_craft) (armor) +4, [Craft](../../skills_dir/craft#_craft) (weapons) +4, [Diplomacy](../../skills_dir/diplomacy#_diplomacy) +6, [Handle Animal](../../skills_dir/handleAnimal#_handle-animal) +6, [Heal](../../skills_dir/heal#_heal) +4, [Knowledge](../../skills_dir/knowledge#_knowledge) (nobility) +4, [Knowledge](../../skills_dir/knowledge#_knowledge) (religion) +4, [Perception](../../skills_dir/perception#_perception) +4, [Ride](../../skills_dir/ride#_ride) +10, [Sense Motive](../../skills_dir/senseMotive#_sense-motive) +4
+**Skills** [Craft](../../../skills_dir/craft#_craft) (armor) +4, [Craft](../../../skills_dir/craft#_craft) (weapons) +4, [Diplomacy](../../../skills_dir/diplomacy#_diplomacy) +6, [Handle Animal](../../../skills_dir/handleAnimal#_handle-animal) +6, [Heal](../../../skills_dir/heal#_heal) +4, [Knowledge](../../../skills_dir/knowledge#_knowledge) (nobility) +4, [Knowledge](../../../skills_dir/knowledge#_knowledge) (religion) +4, [Perception](../../../skills_dir/perception#_perception) +4, [Ride](../../../skills_dir/ride#_ride) +10, [Sense Motive](../../../skills_dir/senseMotive#_sense-motive) +4
 
 **Languages** Common
 
@@ -126,7 +126,7 @@ Human paladin 12
 
 LG Medium humanoid
 
-**Init** –1; **Senses** [Perception](../../skills_dir/perception#_perception) +6
+**Init** –1; **Senses** [Perception](../../../skills_dir/perception#_perception) +6
 
 **Aura** courage (10 ft.), justice (10 ft.), resolve (10 ft.)
 
@@ -144,7 +144,7 @@ LG Medium humanoid
 
 **Speed** 20 ft.
 
-**Melee** _+1 evil outsider [bane](../../magicItems_dir/weapons#_weapons-bane) scimitar_ +15_dir/+10_dir/+5 (1d6+3_dir/15–20) or light hammer +14_dir/+9_dir/+4 (1d4+2)
+**Melee** _+1 evil outsider [bane](../../../magicItems_dir/weapons#_weapons-bane) scimitar_ +15_dir/+10_dir/+5 (1d6+3_dir/15–20) or light hammer +14_dir/+9_dir/+4 (1d4+2)
 
 **Ranged** light hammer +11 (1d4+2)
 
@@ -152,15 +152,15 @@ LG Medium humanoid
 
 **Spell-Like Abilities** (CL 12th; concentration +17)
 
-At Will—_ [detect evil](../../spells_dir/detectEvil#_detect-evil)_
+At Will—_ [detect evil](../../../spells_dir/detectEvil#_detect-evil)_
 
 **Paladin Spells Prepared** (CL 9th; concentration +14)
 
-3rd—_ [dispel magic](../../spells_dir/dispelMagic#_dispel-magic)_, _magic circle vs. evil_
+3rd—_ [dispel magic](../../../spells_dir/dispelMagic#_dispel-magic)_, _magic circle vs. evil_
 
-2nd—_ [bull's strength](../../spells_dir/bullSStrength#_bull-s-strength)_, _ [resist energy](../../spells_dir/resistEnergy#_resist-energy)_, _ [shield other](../../spells_dir/shieldOther#_shield-other)_
+2nd—_ [bull's strength](../../../spells_dir/bullSStrength#_bull-s-strength)_, _ [resist energy](../../../spells_dir/resistEnergy#_resist-energy)_, _ [shield other](../../../spells_dir/shieldOther#_shield-other)_
 
-1st—_ [bless weapon](../../spells_dir/blessWeapon#_bless-weapon)_, _ [divine favor](../../spells_dir/divineFavor#_divine-favor)_ (2), _ [lesser restoration](../../spells_dir/restoration#_restoration-lesser)_
+1st—_ [bless weapon](../../../spells_dir/blessWeapon#_bless-weapon)_, _ [divine favor](../../../spells_dir/divineFavor#_divine-favor)_ (2), _ [lesser restoration](../../../spells_dir/restoration#_restoration-lesser)_
 
 **Statistics**
 
@@ -168,17 +168,17 @@ At Will—_ [detect evil](../../spells_dir/detectEvil#_detect-evil)_
 
 **Base Atk** +12; **CMB** +14; **CMD** 23
 
-**Feats** [Alignment Channel](../../feats#_alignment-channel), [Craft Magic Arms and Armor](../../feats#_craft-magic-arms-and-armor), [Craft Wondrous Item](../../feats#_craft-wondrous-item), [Extra Channel](../../feats#_extra-channel), [Improved Critical](../../feats#_improved-critical) (scimitar), [Magical Aptitude](../../feats#_magical-aptitude), [Power Attack](../../feats#_power-attack)
+**Feats** [Alignment Channel](../../../feats#_alignment-channel), [Craft Magic Arms and Armor](../../../feats#_craft-magic-arms-and-armor), [Craft Wondrous Item](../../../feats#_craft-wondrous-item), [Extra Channel](../../../feats#_extra-channel), [Improved Critical](../../../feats#_improved-critical) (scimitar), [Magical Aptitude](../../../feats#_magical-aptitude), [Power Attack](../../../feats#_power-attack)
 
-**Skills** [Diplomacy](../../skills_dir/diplomacy#_diplomacy) +20, [Handle Animal](../../skills_dir/handleAnimal#_handle-animal) +10, [Knowledge](../../skills_dir/knowledge#_knowledge) (religion) +10, [Perception](../../skills_dir/perception#_perception) +6, [Perform](../../skills_dir/perform#_perform) (oratory) +6, [Sense Motive](../../skills_dir/senseMotive#_sense-motive) +10, [Spellcraft](../../skills_dir/spellcraft#_spellcraft) +20, [Use Magic Device](../../skills_dir/useMagicDevice#_use-magic-device) +21
+**Skills** [Diplomacy](../../../skills_dir/diplomacy#_diplomacy) +20, [Handle Animal](../../../skills_dir/handleAnimal#_handle-animal) +10, [Knowledge](../../../skills_dir/knowledge#_knowledge) (religion) +10, [Perception](../../../skills_dir/perception#_perception) +6, [Perform](../../../skills_dir/perform#_perform) (oratory) +6, [Sense Motive](../../../skills_dir/senseMotive#_sense-motive) +10, [Spellcraft](../../../skills_dir/spellcraft#_spellcraft) +20, [Use Magic Device](../../../skills_dir/useMagicDevice#_use-magic-device) +21
 
 **Languages** Celestial, Common
 
 **SQ** aura of good, divine bond (weapon +3), lay on hands (6d6, 15_dir/day [4 for channeling only]), mercies (sickened, diseased, nauseated, stunned)
 
-**Combat Gear** _scrolls of [expeditious retreat](../../spells_dir/expeditiousRetreat#_expeditious-retreat)_ (4), _ [see invisibility](../../spells_dir/seeInvisibility#_see-invisibility) _(1), and _ [true strike](../../spells_dir/trueStrike#_true-strike)_ (4); **Other Gear** _+1 half-plate of [invulnerability](../../magicItems_dir/armor#_armor-invulnerability)_, _+2 heavy steel [lion's shield](../../magicItems_dir/armor#_lion-s-shield)_, _+1 evil outsider [bane](../../magicItems_dir/weapons#_weapons-bane) scimitar_, cold iron light hammers (2); _ [headband of alluring charisma](../../magicItems_dir/wondrousItems#_headband-of-alluring-charisma) +2_, silver holy symbol
+**Combat Gear** _scrolls of [expeditious retreat](../../../spells_dir/expeditiousRetreat#_expeditious-retreat)_ (4), _ [see invisibility](../../../spells_dir/seeInvisibility#_see-invisibility) _(1), and _ [true strike](../../../spells_dir/trueStrike#_true-strike)_ (4); **Other Gear** _+1 half-plate of [invulnerability](../../../magicItems_dir/armor#_armor-invulnerability)_, _+2 heavy steel [lion's shield](../../../magicItems_dir/armor#_lion-s-shield)_, _+1 evil outsider [bane](../../../magicItems_dir/weapons#_weapons-bane) scimitar_, cold iron light hammers (2); _ [headband of alluring charisma](../../../magicItems_dir/wondrousItems#_headband-of-alluring-charisma) +2_, silver holy symbol
 
-**Boon** A saint can craft or commission a good-aligned magical item for the PCs at a 20% discount, arrange an audience with a good-aligned NPC of any level, or obtain a response to a single question to her deity as if using a _ [commune](../../spells_dir/commune#_commune)_ spell.
+**Boon** A saint can craft or commission a good-aligned magical item for the PCs at a 20% discount, arrange an audience with a good-aligned NPC of any level, or obtain a response to a single question to her deity as if using a _ [commune](../../../spells_dir/commune#_commune)_ spell.
 
 A saint is the embodiment of the crusader ideal. A saint might head a crusader temple or order or could be matriarch of her own religious tradition. A saint usually keeps a priest and holy warrior as advisors (CR 12), or a saint with a squad of four holy warriors might accompany a king (CR 15).
 

@@ -10,9 +10,9 @@ _This creature stands like a man, yet is half again the height of most men and c
 
 **XP 1,200**
 
-N Large [monstrous humanoid](creatureTypes#_monstrous-humanoid) (cold)
+N Large [monstrous humanoid](../creatureTypes#_monstrous-humanoid) (cold)
 
-**Init** +1; **Senses** darkvision 60 ft., [scent](universalMonsterRules#_scent); [Perception](../skills_dir/perception#_perception) +10
+**Init** +1; **Senses** darkvision 60 ft., [scent](../universalMonsterRules#_scent); [Perception](../../skills_dir/perception#_perception) +10
 
 **Defense**
 
@@ -34,7 +34,7 @@ N Large [monstrous humanoid](creatureTypes#_monstrous-humanoid) (cold)
 
 **Space** 10 ft.; **Reach** 10 ft.
 
-**Special Attacks** frightful gaze, [rend](universalMonsterRules#_rend) (2 claws, 1d6+6 plus 1d6 cold)
+**Special Attacks** frightful gaze, [rend](../universalMonsterRules#_rend) (2 claws, 1d6+6 plus 1d6 cold)
 
 **Statistics**
 
@@ -42,9 +42,9 @@ N Large [monstrous humanoid](creatureTypes#_monstrous-humanoid) (cold)
 
 **Base Atk** +6; **CMB** +11; **CMD** 22
 
-**Feats** [Cleave](../feats#_cleave), [Great Fortitude](../feats#_great-fortitude), [Power Attack](../feats#_power-attack)
+**Feats** [Cleave](../../feats#_cleave), [Great Fortitude](../../feats#_great-fortitude), [Power Attack](../../feats#_power-attack)
 
-**Skills** [Climb](../skills_dir/climb#_climb) +21, [Intimidate](../skills_dir/intimidate#_intimidate) +9, [Perception](../skills_dir/perception#_perception) +10, [Stealth](../skills_dir/stealth#_stealth) +1 (+9 in snow); **Racial Modifiers** +4 [Stealth](../skills_dir/stealth#_stealth) (+12 in snow)
+**Skills** [Climb](../../skills_dir/climb#_climb) +21, [Intimidate](../../skills_dir/intimidate#_intimidate) +9, [Perception](../../skills_dir/perception#_perception) +10, [Stealth](../../skills_dir/stealth#_stealth) +1 (+9 in snow); **Racial Modifiers** +4 [Stealth](../../skills_dir/stealth#_stealth) (+12 in snow)
 
 **Languages** Aklo
 

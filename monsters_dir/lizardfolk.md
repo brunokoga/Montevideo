@@ -10,9 +10,9 @@ _This reptilian humanoid has green scales, a short and toothy snout, and a thick
 
 **XP 400**
 
-N Medium [humanoid](creatureTypes#_humanoid) ( [reptilian](creatureTypes#_reptilian-subtype))
+N Medium [humanoid](../creatureTypes#_humanoid) ( [reptilian](../creatureTypes#_reptilian-subtype))
 
-**Init** +0; **Senses** [Perception](../skills_dir/perception#_perception) +1
+**Init** +0; **Senses** [Perception](../../skills_dir/perception#_perception) +1
 
 **Defense**
 
@@ -36,9 +36,9 @@ N Medium [humanoid](creatureTypes#_humanoid) ( [reptilian](creatureTypes#_reptil
 
 **Base**  **Atk** +1; **CMB** +2; **CMD** 12
 
-**Feats** [Multiattack](monsterFeats#_multiattack)
+**Feats** [Multiattack](../monsterFeats#_multiattack)
 
-**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +2, [Perception](../skills_dir/perception#_perception) +1, [Swim](../skills_dir/swim#_swim) +8; **Racial Modifiers** +4 [Acrobatics](../skills_dir/acrobatics#_acrobatics)
+**Skills** [Acrobatics](../../skills_dir/acrobatics#_acrobatics) +2, [Perception](../../skills_dir/perception#_perception) +1, [Swim](../../skills_dir/swim#_swim) +8; **Racial Modifiers** +4 [Acrobatics](../../skills_dir/acrobatics#_acrobatics)
 
 **Languages** Draconic
 

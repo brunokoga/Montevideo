@@ -16,11 +16,11 @@ title: spells_dir/transmuteMudToRock
 
 **Duration** permanent
 
-**Saving Throw** see text; **[Spell Resistance](../glossary#_spell-resistance)** no
+**Saving Throw** see text; **[Spell Resistance](../../glossary#_spell-resistance)** no
 
 This spell permanently transforms normal mud or quicksand of any depth into soft stone (sandstone or a similar mineral).
 
-Any creature in the mud is allowed a [Reflex](../combat#_reflex) save to escape before the area is hardened to stone.
+Any creature in the mud is allowed a [Reflex](../../combat#_reflex) save to escape before the area is hardened to stone.
 
-_Transmute mud to rock _counters and dispels _ [transmute rock to mud](transmuteRockToMud#_transmute-rock-to-mud)_.
+_Transmute mud to rock _counters and dispels _ [transmute rock to mud](../transmuteRockToMud#_transmute-rock-to-mud)_.
 

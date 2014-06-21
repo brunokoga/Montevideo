@@ -16,7 +16,7 @@ title: spells_dir/coneOfCold
 
 **Duration** instantaneous
 
-**Saving Throw** [Reflex](../combat#_reflex) half; **[Spell Resistance](../glossary#_spell-resistance)** yes
+**Saving Throw** [Reflex](../../combat#_reflex) half; **[Spell Resistance](../../glossary#_spell-resistance)** yes
 
 _Cone of cold _creates an area of extreme cold, originating at your hand and extending outward in a cone. It drains heat, dealing 1d6 points of cold damage per caster level (maximum 15d6).
 

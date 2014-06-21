@@ -10,9 +10,9 @@ _This magnificent beast looks like a white horse, but with a goat's beard and a 
 
 **XP 800**
 
-CG Large [magical beast](creatureTypes#_magical-beast)
+CG Large [magical beast](../creatureTypes#_magical-beast)
 
-**Init** +3; **Senses** darkvision 60 ft., low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skills_dir/perception#_perception) +10
+**Init** +3; **Senses** darkvision 60 ft., low-light vision, [scent](../universalMonsterRules#_scent); [Perception](../../skills_dir/perception#_perception) +10
 
 **Aura** magic circle against evil
 
@@ -34,15 +34,15 @@ CG Large [magical beast](creatureTypes#_magical-beast)
 
 **Space** 10 ft.; **Reach** 5 ft.
 
-**Special Attacks** [powerful charge](universalMonsterRules#_powerful-charge) (gore, 2d8+8)
+**Special Attacks** [powerful charge](../universalMonsterRules#_powerful-charge) (gore, 2d8+8)
 
 **Spell-Like Abilities** (CL 9th)
 
-At will—_ [detect evil](../spells_dir/detectEvil#_detect-evil)_ (as free action), _ [light](../spells_dir/light#_light)_
+At will—_ [detect evil](../../spells_dir/detectEvil#_detect-evil)_ (as free action), _ [light](../../spells_dir/light#_light)_
 
-3_dir/day—_ [cure light wounds](../spells_dir/cureLightWounds#_cure-light-wounds)_
+3_dir/day—_ [cure light wounds](../../spells_dir/cureLightWounds#_cure-light-wounds)_
 
-1_dir/day—_ [cure moderate wounds](../spells_dir/cureModerateWounds#_cure-moderate-wounds), [greater teleport](../spells_dir/teleport#_teleport-greater)_ (within its forest territory), _ [neutralize poison](../spells_dir/neutralizePoison#_neutralize-poison)_ (DC 21)
+1_dir/day—_ [cure moderate wounds](../../spells_dir/cureModerateWounds#_cure-moderate-wounds), [greater teleport](../../spells_dir/teleport#_teleport-greater)_ (within its forest territory), _ [neutralize poison](../../spells_dir/neutralizePoison#_neutralize-poison)_ (DC 21)
 
 **Statistics**
 
@@ -50,9 +50,9 @@ At will—_ [detect evil](../spells_dir/detectEvil#_detect-evil)_ (as free actio
 
 **Base**  **Atk** +4; **CMB** +9; **CMD** 22 (26 vs. trip)
 
-**Feats** [Multiattack](monsterFeats#_multiattack), [Weapon Focus](../feats#_weapon-focus) (horn)
+**Feats** [Multiattack](../monsterFeats#_multiattack), [Weapon Focus](../../feats#_weapon-focus) (horn)
 
-**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +8, [Perception](../skills_dir/perception#_perception) +10, [Stealth](../skills_dir/stealth#_stealth) +8, [Survival](../skills_dir/survival#_survival) +7 (+10 in forests); **Racial Modifiers** +3 [Survival](../skills_dir/survival#_survival) in forests, +4 [Stealth](../skills_dir/stealth#_stealth)
+**Skills** [Acrobatics](../../skills_dir/acrobatics#_acrobatics) +8, [Perception](../../skills_dir/perception#_perception) +10, [Stealth](../../skills_dir/stealth#_stealth) +8, [Survival](../../skills_dir/survival#_survival) +7 (+10 in forests); **Racial Modifiers** +3 [Survival](../../skills_dir/survival#_survival) in forests, +4 [Stealth](../../skills_dir/stealth#_stealth)
 
 **Languages** Common, Sylvan
 

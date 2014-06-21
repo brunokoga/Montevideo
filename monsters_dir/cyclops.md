@@ -10,9 +10,9 @@ _A single huge eye stares from the forehead of this nine-foot-tall giant. Below 
 
 **XP 1,600**
 
-NE Large [humanoid](creatureTypes#_humanoid) ( [giant](creatureTypes#_giant-type))
+NE Large [humanoid](../creatureTypes#_humanoid) ( [giant](../creatureTypes#_giant-type))
 
-**Init** –1; **Senses** low-light vision; [Perception](../skills_dir/perception#_perception) +11
+**Init** –1; **Senses** low-light vision; [Perception](../../skills_dir/perception#_perception) +11
 
 **Defense**
 
@@ -22,7 +22,7 @@ NE Large [humanoid](creatureTypes#_humanoid) ( [giant](creatureTypes#_giant-type
 
 **Fort** +9, **Ref** +2, **Will** +4
 
-**Defensive Abilities** [ferocity](universalMonsterRules#_ferocity)
+**Defensive Abilities** [ferocity](../universalMonsterRules#_ferocity)
 
 **Offense**
 
@@ -40,9 +40,9 @@ NE Large [humanoid](creatureTypes#_humanoid) ( [giant](creatureTypes#_giant-type
 
 **Base**  **Atk** +7; **CMB** +13; **CMD** 22
 
-**Feats** [Alertness](../feats#_alertness), [Cleave](../feats#_cleave), [Great Cleave](../feats#_great-cleave), [Improved Bull Rush](../feats#_improved-bull-rush), [Power Attack](../feats#_power-attack)
+**Feats** [Alertness](../../feats#_alertness), [Cleave](../../feats#_cleave), [Great Cleave](../../feats#_great-cleave), [Improved Bull Rush](../../feats#_improved-bull-rush), [Power Attack](../../feats#_power-attack)
 
-**Skills** [Intimidate](../skills_dir/intimidate#_intimidate) +9, [Perception](../skills_dir/perception#_perception) +11, [Profession](../skills_dir/profession#_profession) (soothsayer) +10 [Sense Motive](../skills_dir/senseMotive#_sense-motive) +5, [Survival](../skills_dir/survival#_survival) +6; **Racial Modifiers** +8 [Perception](../skills_dir/perception#_perception)
+**Skills** [Intimidate](../../skills_dir/intimidate#_intimidate) +9, [Perception](../../skills_dir/perception#_perception) +11, [Profession](../../skills_dir/profession#_profession) (soothsayer) +10 [Sense Motive](../../skills_dir/senseMotive#_sense-motive) +5, [Survival](../../skills_dir/survival#_survival) +6; **Racial Modifiers** +8 [Perception](../../skills_dir/perception#_perception)
 
 **Languages** Common, Cyclops, Giant
 

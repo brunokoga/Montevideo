@@ -18,7 +18,7 @@ Restore Eidolon
 
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 
-This spell functions as _ [restoration](spells_dir/restoration#_restoration)_, except it only affects an eidolon.
+This spell functions as _ [restoration](../spells_dir/restoration#_restoration)_, except it only affects an eidolon.
 
 Restore Eidolon, Lesser
 
@@ -36,5 +36,5 @@ Restore Eidolon, Lesser
 
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 
-This spell functions as _ [lesser restoration](spells_dir/restoration#_restoration-lesser)_, except it only affects an eidolon.
+This spell functions as _ [lesser restoration](../spells_dir/restoration#_restoration-lesser)_, except it only affects an eidolon.
 

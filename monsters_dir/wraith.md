@@ -10,9 +10,9 @@ _This ghostly creature is little more than a dark shape with two flickering pinp
 
 **XP 1,600**
 
-LE Medium [undead](creatureTypes#_undead) ( [incorporeal](creatureTypes#_incorporeal-subtype))
+LE Medium [undead](../creatureTypes#_undead) ( [incorporeal](../creatureTypes#_incorporeal-subtype))
 
-**Init** +7; **Senses** darkvision 60 ft., lifesense; [Perception](../skills_dir/perception#_perception) +10
+**Init** +7; **Senses** darkvision 60 ft., lifesense; [Perception](../../skills_dir/perception#_perception) +10
 
 **Aura** unnatural aura (30 ft.)
 
@@ -24,7 +24,7 @@ LE Medium [undead](creatureTypes#_undead) ( [incorporeal](creatureTypes#_incorpo
 
 **Fort** +6, **Ref** +4, **Will** +6
 
-**Defensive Abilities** [channel resistance](universalMonsterRules#_channel-resistance) +2, [incorporeal](universalMonsterRules#_incorporeal); **Immune** [undead traits](universalMonsterRules#_undead-traits)
+**Defensive Abilities** [channel resistance](../universalMonsterRules#_channel-resistance) +2, [incorporeal](../universalMonsterRules#_incorporeal); **Immune** [undead traits](../universalMonsterRules#_undead-traits)
 
 **Weaknesses** sunlight powerlessness
 
@@ -32,7 +32,7 @@ LE Medium [undead](creatureTypes#_undead) ( [incorporeal](creatureTypes#_incorpo
 
 **Speed** fly 60 ft. (good)
 
-**Melee** incorporeal touch +6 (1d6 negative energy plus 1d6 Con [drain](universalMonsterRules#_ability-damage-and-drain))
+**Melee** incorporeal touch +6 (1d6 negative energy plus 1d6 Con [drain](../universalMonsterRules#_ability-damage-and-drain))
 
 **Special Attack** create spawn
 
@@ -42,9 +42,9 @@ LE Medium [undead](creatureTypes#_undead) ( [incorporeal](creatureTypes#_incorpo
 
 **Base Atk** +3; **CMB** +6; **CMD** 21
 
-**Feats** [Blind-Fight](../feats#_blind-fight), [Combat Reflexes](../feats#_combat-reflexes), [Improved Initiative](../feats#_improved-initiative)
+**Feats** [Blind-Fight](../../feats#_blind-fight), [Combat Reflexes](../../feats#_combat-reflexes), [Improved Initiative](../../feats#_improved-initiative)
 
-**Skills** [Diplomacy](../skills_dir/diplomacy#_diplomacy) +10, [Fly](../skills_dir/fly#_fly) +7, [Intimidate](../skills_dir/intimidate#_intimidate) +13, [Knowledge](../skills_dir/knowledge#_knowledge) (planes) +7, [Perception](../skills_dir/perception#_perception) +10, [Sense Motive](../skills_dir/senseMotive#_sense-motive) +10, [Stealth](../skills_dir/stealth#_stealth) +11
+**Skills** [Diplomacy](../../skills_dir/diplomacy#_diplomacy) +10, [Fly](../../skills_dir/fly#_fly) +7, [Intimidate](../../skills_dir/intimidate#_intimidate) +13, [Knowledge](../../skills_dir/knowledge#_knowledge) (planes) +7, [Perception](../../skills_dir/perception#_perception) +10, [Sense Motive](../../skills_dir/senseMotive#_sense-motive) +10, [Stealth](../../skills_dir/stealth#_stealth) +11
 
 **Languages** Common, Infernal
 
@@ -58,19 +58,19 @@ LE Medium [undead](creatureTypes#_undead) ( [incorporeal](creatureTypes#_incorpo
 
 **Special Abilities**
 
-**Create Spawn (Su)** A humanoid slain by a wraith becomes a wraith in 1d4 rounds. These spawn are less powerful than typical wraiths, and suffer a –2 penalty on all d20 rolls and checks, receive –2 hp per HD, and only [drain](universalMonsterRules#_ability-damage-and-drain) 1d2 points of Constitution on a touch. Spawn are under the command of the wraith that created them until its death, at which point they lose their spawn penalties and become free-willed wraiths. They do not possess any of the abilities they had in life.
+**Create Spawn (Su)** A humanoid slain by a wraith becomes a wraith in 1d4 rounds. These spawn are less powerful than typical wraiths, and suffer a –2 penalty on all d20 rolls and checks, receive –2 hp per HD, and only [drain](../universalMonsterRules#_ability-damage-and-drain) 1d2 points of Constitution on a touch. Spawn are under the command of the wraith that created them until its death, at which point they lose their spawn penalties and become free-willed wraiths. They do not possess any of the abilities they had in life.
 
-**Constitution Drain (Su)** Creatures hit by a wraith's touch attack must succeed on a DC 17 Fortitude save or take 1d6 points of Constitution [drain](universalMonsterRules#_ability-damage-and-drain). On each successful attack, the wraith gains 5 temporary hit points. The save DC is Charisma-based.
+**Constitution Drain (Su)** Creatures hit by a wraith's touch attack must succeed on a DC 17 Fortitude save or take 1d6 points of Constitution [drain](../universalMonsterRules#_ability-damage-and-drain). On each successful attack, the wraith gains 5 temporary hit points. The save DC is Charisma-based.
 
 **Lifesense (Su)** A wraith notices and locates living creatures within 60 feet, just as if it possessed the blindsight ability.
 
 **Sunlight Powerlessness (Ex)** A wraith caught in sunlight cannot attack and is staggered.
 
-**Unnatural Aura (Su)** Animals do not willingly approach within 30 feet of a wraith, unless a master makes a DC 25 [Handle Animal](../skills_dir/handleAnimal#_handle-animal), [Ride](../skills_dir/ride#_ride), or wild empathy check.
+**Unnatural Aura (Su)** Animals do not willingly approach within 30 feet of a wraith, unless a master makes a DC 25 [Handle Animal](../../skills_dir/handleAnimal#_handle-animal), [Ride](../../skills_dir/ride#_ride), or wild empathy check.
 
 Wraiths are undead creatures born of evil and darkness. They hate light and living things, as they have lost much of their connection to their former lives.
 
 ## Dread Wraith
 
-A wraith that exists for long enough and feeds on enough life force undergoes an unholy transformation, becoming a creature known as a dread wraith. This causes the wraith to increase in size and strength, and to inflict 2d6 points of negative energy damage and 1d8 Constitution [drain](universalMonsterRules#_ability-damage-and-drain) with its incorporeal touch. You can create a dread wraith by applying the giant and advanced simple templates, or you can increase the basic wraith to a Large 16 HD [undead](creatureTypes#_undead).
+A wraith that exists for long enough and feeds on enough life force undergoes an unholy transformation, becoming a creature known as a dread wraith. This causes the wraith to increase in size and strength, and to inflict 2d6 points of negative energy damage and 1d8 Constitution [drain](../universalMonsterRules#_ability-damage-and-drain) with its incorporeal touch. You can create a dread wraith by applying the giant and advanced simple templates, or you can increase the basic wraith to a Large 16 HD [undead](../creatureTypes#_undead).
 

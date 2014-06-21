@@ -12,7 +12,7 @@ XP 6,400
 
 LG Large magical beast
 
-**Init** +7; **Senses** darkvision 60 ft., _ [detect chaos](spells_dir/detectChaos#_detect-chaos)_, _ [detect evil](spells_dir/detectEvil#_detect-evil)_, low-light vision, _ [true seeing](spells_dir/trueSeeing#_true-seeing)_; [Perception](skills_dir/perception#_perception) +20
+**Init** +7; **Senses** darkvision 60 ft., _ [detect chaos](../spells_dir/detectChaos#_detect-chaos)_, _ [detect evil](../spells_dir/detectEvil#_detect-evil)_, low-light vision, _ [true seeing](../spells_dir/trueSeeing#_true-seeing)_; [Perception](../skills_dir/perception#_perception) +20
 
 Defense
 
@@ -22,7 +22,7 @@ Defense
 
 **Fort** +12, **Ref** +14, **Will** +11
 
-**Defensive Abilities** prescience; **DR** 10_dir/evil; **Resist** electricity 10, [fire](monsters_dir/creatureTypes#_fire-subtype) 10; **SR** 20
+**Defensive Abilities** prescience; **DR** 10_dir/evil; **Resist** electricity 10, [fire](../monsters_dir/creatureTypes#_fire-subtype) 10; **SR** 20
 
 Offense
 
@@ -32,15 +32,15 @@ Offense
 
 **Space** 10 ft.; **Reach** 5 ft.
 
-**Special Attacks** [trample](monsters_dir/universalMonsterRules#_trample) (2d6+10, DC 22)
+**Special Attacks** [trample](../monsters_dir/universalMonsterRules#_trample) (2d6+10, DC 22)
 
 **Spell-Like Abilities** (CL 12th; concentration +18)
 
-Constant— _ [detect chaos](spells_dir/detectChaos#_detect-chaos)_, _ [detect evil](spells_dir/detectEvil#_detect-evil)_, _ [true seeing](spells_dir/trueSeeing#_true-seeing)_
+Constant— _ [detect chaos](../spells_dir/detectChaos#_detect-chaos)_, _ [detect evil](../spells_dir/detectEvil#_detect-evil)_, _ [true seeing](../spells_dir/trueSeeing#_true-seeing)_
 
-3_dir/day—empowered _ [cure moderate wounds](spells_dir/cureModerateWounds#_cure-moderate-wounds), [dispel magic](spells_dir/dispelMagic#_dispel-magic)_, _ [magic circle against evil](spells_dir/magicCircleAgainstEvil#_magic-circle-against-evil)_, _ [remove disease](spells_dir/removeDisease#_remove-disease)_, _ [shield other](spells_dir/shieldOther#_shield-other)_
+3_dir/day—empowered _ [cure moderate wounds](../spells_dir/cureModerateWounds#_cure-moderate-wounds), [dispel magic](../spells_dir/dispelMagic#_dispel-magic)_, _ [magic circle against evil](../spells_dir/magicCircleAgainstEvil#_magic-circle-against-evil)_, _ [remove disease](../spells_dir/removeDisease#_remove-disease)_, _ [shield other](../spells_dir/shieldOther#_shield-other)_
 
-1_dir/day—_ [dismissal](spells_dir/dismissal#_dismissal)_ (DC 18), _ [flame strike](spells_dir/flameStrike#_flame-strike)_ (DC 18), _ [restoration](spells_dir/restoration#_restoration)_
+1_dir/day—_ [dismissal](../spells_dir/dismissal#_dismissal)_ (DC 18), _ [flame strike](../spells_dir/flameStrike#_flame-strike)_ (DC 18), _ [restoration](../spells_dir/restoration#_restoration)_
 
 Statistics
 
@@ -48,9 +48,9 @@ Statistics
 
 **Base Atk** +11; **CMB** +19 (+23 bull rush); **CMD** 30 (32 vs. bull rush, 34 vs. trip)
 
-**Feats** [Empower Spell-Like Ability](monsters_dir/monsterFeats#_empower-spell-like-ability) (_ [cure moderate wounds](spells_dir/cureModerateWounds#_cure-moderate-wounds)_), [Greater Bull Rush](feats#_greater-bull-rush), [Improved Bull Rush](feats#_improved-bull-rush), [Improved Critical](feats#_improved-critical) (gore), [Iron Will](feats#_iron-will), [Power Attack](feats#_power-attack)
+**Feats** [Empower Spell-Like Ability](../monsters_dir/monsterFeats#_empower-spell-like-ability) (_ [cure moderate wounds](../spells_dir/cureModerateWounds#_cure-moderate-wounds)_), [Greater Bull Rush](../feats#_greater-bull-rush), [Improved Bull Rush](../feats#_improved-bull-rush), [Improved Critical](../feats#_improved-critical) (gore), [Iron Will](../feats#_iron-will), [Power Attack](../feats#_power-attack)
 
-**Skills** [Diplomacy](skills_dir/diplomacy#_diplomacy) +15, [Fly](skills_dir/fly#_fly) +13, [Knowledge](skills_dir/knowledge#_knowledge) (planes) +15, [Knowledge](skills_dir/knowledge#_knowledge) (religion) +15, [Perception](skills_dir/perception#_perception) +20, [Sense Motive](skills_dir/senseMotive#_sense-motive) +17
+**Skills** [Diplomacy](../skills_dir/diplomacy#_diplomacy) +15, [Fly](../skills_dir/fly#_fly) +13, [Knowledge](../skills_dir/knowledge#_knowledge) (planes) +15, [Knowledge](../skills_dir/knowledge#_knowledge) (religion) +15, [Perception](../skills_dir/perception#_perception) +20, [Sense Motive](../skills_dir/senseMotive#_sense-motive) +17
 
 **Languages** Auran, Celestial, Common; telepathy 100 ft.
 

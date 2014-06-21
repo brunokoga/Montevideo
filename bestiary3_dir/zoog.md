@@ -12,7 +12,7 @@ XP 400
 
 CN Tiny magical beast
 
-**Init** +2; **Senses** darkvision 60 ft., low-light vision, [scent](monsters_dir/universalMonsterRules#_scent), spell sight; [Perception](skills_dir/perception#_perception) +5
+**Init** +2; **Senses** darkvision 60 ft., low-light vision, [scent](../monsters_dir/universalMonsterRules#_scent), spell sight; [Perception](../skills_dir/perception#_perception) +5
 
 Defense
 
@@ -26,13 +26,13 @@ Offense
 
 **Speed** 30 ft., climb 30 ft.
 
-**Melee** bite +6 (1d3–2 plus [bleed](monsters_dir/universalMonsterRules#_bleed) 1), 2 claws +6 (1d2–2)
+**Melee** bite +6 (1d3–2 plus [bleed](../monsters_dir/universalMonsterRules#_bleed) 1), 2 claws +6 (1d2–2)
 
-**Special Attacks** [bleed](monsters_dir/universalMonsterRules#_bleed) 1
+**Special Attacks** [bleed](../monsters_dir/universalMonsterRules#_bleed) 1
 
 **Spell-Like Abilities** (CL 1st; concentration –2)
 
-Constant—_ [detect magic](spells_dir/detectMagic#_detect-magic)_, _ [speak with animals](spells_dir/speakWithAnimals#_speak-with-animals)_
+Constant—_ [detect magic](../spells_dir/detectMagic#_detect-magic)_, _ [speak with animals](../spells_dir/speakWithAnimals#_speak-with-animals)_
 
 Statistics
 
@@ -40,11 +40,11 @@ Statistics
 
 **Base Atk** +2; **CMB** +2; **CMD** 10 (14 vs. trip)
 
-**Feats** [Weapon Finesse](feats#_weapon-finesse)
+**Feats** [Weapon Finesse](../feats#_weapon-finesse)
 
-**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +12, [Climb](skills_dir/climb#_climb) +12, [Perception](skills_dir/perception#_perception) +5; **Racial Modifiers** +6 [Acrobatics](skills_dir/acrobatics#_acrobatics), +6 [Climb](skills_dir/climb#_climb)
+**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +12, [Climb](../skills_dir/climb#_climb) +12, [Perception](../skills_dir/perception#_perception) +5; **Racial Modifiers** +6 [Acrobatics](../skills_dir/acrobatics#_acrobatics), +6 [Climb](../skills_dir/climb#_climb)
 
-**Languages** Aklo; _ [speak with animals](spells_dir/speakWithAnimals#_speak-with-animals)_
+**Languages** Aklo; _ [speak with animals](../spells_dir/speakWithAnimals#_speak-with-animals)_
 
 **SQ** otherworldly touch
 
@@ -58,7 +58,7 @@ Ecology
 
 Special Abilities
 
-**Otherworldly Touch (Ex)** A zoog's natural attacks can strike [incorporeal](monsters_dir/creatureTypes#_incorporeal-subtype) creatures as if they were _ [ghost touch](magicItems_dir/weapons#_weapons-ghost-touch)_ weapons.
+**Otherworldly Touch (Ex)** A zoog's natural attacks can strike [incorporeal](../monsters_dir/creatureTypes#_incorporeal-subtype) creatures as if they were _ [ghost touch](../magicItems_dir/weapons#_weapons-ghost-touch)_ weapons.
 
 **Spell Sight (Su)** A zoog's eyes radiate normal light in a 15-foot cone and increase the light level by one step for an additional 15 feet beyond that area. Any magic effect in this area glows faintly. This glow does not reveal the magic effect's school or strength. A zoog can quell or renew this light as a swift action.
 
@@ -68,5 +68,5 @@ Although lone zoogs shy away from attacking larger creatures, when zoogs outnumb
 
 Commonly, zoogs eat fungi and plants, but they also have a taste for the meat of sentient creatures, treating the butchering and consumption of such beings as a rare privilege. Zoogs also detest cats, and go to great lengths to slay felines of any sort and devour them.
 
-Occasionally a zoog allows a spellcaster of especial depravity, or with interests in the mysteries of realms and creatures beyond the mortal world, to employ it as a familiar. A spellcaster must have the [Improved Familiar](feats#_improved-familiar) feat, be chaotic neutral, and have an arcane caster level of 5th or higher to gain a zoog familiar.
+Occasionally a zoog allows a spellcaster of especial depravity, or with interests in the mysteries of realms and creatures beyond the mortal world, to employ it as a familiar. A spellcaster must have the [Improved Familiar](../feats#_improved-familiar) feat, be chaotic neutral, and have an arcane caster level of 5th or higher to gain a zoog familiar.
 

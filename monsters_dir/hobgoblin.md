@@ -12,9 +12,9 @@ _Standing as tall as a human, this muscular, gray-skinned creature peers about w
 
 Hobgoblin fighter 1
 
-LE Medium [humanoid](creatureTypes#_humanoid) (goblinoid)
+LE Medium [humanoid](../creatureTypes#_humanoid) (goblinoid)
 
-**Init** +2; **Senses** darkvision 60 ft.; [Perception](../skills_dir/perception#_perception) +2
+**Init** +2; **Senses** darkvision 60 ft.; [Perception](../../skills_dir/perception#_perception) +2
 
 **Defense**
 
@@ -38,9 +38,9 @@ LE Medium [humanoid](creatureTypes#_humanoid) (goblinoid)
 
 **Base Atk** +1; **CMB** +3; **CMD** 15
 
-**Feats** [Toughness](../feats#_toughness), [Weapon Focus](../feats#_weapon-focus) (longsword)
+**Feats** [Toughness](../../feats#_toughness), [Weapon Focus](../../feats#_weapon-focus) (longsword)
 
-**Skills** [Perception](../skills_dir/perception#_perception) +2, [Stealth](../skills_dir/stealth#_stealth) +5; **Racial Modifiers** +4 [Stealth](../skills_dir/stealth#_stealth)
+**Skills** [Perception](../../skills_dir/perception#_perception) +2, [Stealth](../../skills_dir/stealth#_stealth) +5; **Racial Modifiers** +4 [Stealth](../../skills_dir/stealth#_stealth)
 
 **Languages** Common, Goblin
 
@@ -70,7 +70,7 @@ Hobgoblins are defined by their class levels—they do not possess racial Hit Di
 
 **Darkvision** : Hobgoblins can see in the dark up to 60 feet.
 
-**Sneaky** : Hobgoblins gain a +4 racial bonus on [Stealth](../skills_dir/stealth#_stealth) checks.
+**Sneaky** : Hobgoblins gain a +4 racial bonus on [Stealth](../../skills_dir/stealth#_stealth) checks.
 
 **Languages** : All hobgoblins begin play speaking Common and Goblin. Hobgoblins with high Intelligence scores can choose any of the following bonus languages: Draconic, Dwarven, Infernal, Giant, Orc.
 

@@ -16,11 +16,11 @@ title: spells_dir/bladeBarrier
 
 **Duration** 1 min._dir/level (D)
 
-**Saving Throw** [Reflex](../combat#_reflex) half or [Reflex](../combat#_reflex) negates; see text; **[Spell Resistance](../glossary#_spell-resistance)** yes
+**Saving Throw** [Reflex](../../combat#_reflex) half or [Reflex](../../combat#_reflex) negates; see text; **[Spell Resistance](../../glossary#_spell-resistance)** yes
 
-An immobile, vertical curtain of whirling blades shaped of pure force springs into existence. Any creature passing through the wall takes 1d6 points of damage per caster level (maximum 15d6), with a [Reflex](../combat#_reflex) save for half damage.
+An immobile, vertical curtain of whirling blades shaped of pure force springs into existence. Any creature passing through the wall takes 1d6 points of damage per caster level (maximum 15d6), with a [Reflex](../../combat#_reflex) save for half damage.
 
-If you evoke the barrier so that it appears where creatures are, each creature takes damage as if passing through the wall. Each such creature can avoid the wall (ending up on the side of its choice) and thus take no damage by making a successful [Reflex](../combat#_reflex) save.
+If you evoke the barrier so that it appears where creatures are, each creature takes damage as if passing through the wall. Each such creature can avoid the wall (ending up on the side of its choice) and thus take no damage by making a successful [Reflex](../../combat#_reflex) save.
 
-A _blade barrier _provides cover (+4 bonus to [AC](../combat#_armor-class), +2 bonus on [Reflex](../combat#_reflex) saves) against attacks made through it.
+A _blade barrier _provides cover (+4 bonus to [AC](../../combat#_armor-class), +2 bonus on [Reflex](../../combat#_reflex) saves) against attacks made through it.
 

@@ -16,7 +16,7 @@ title: spells_dir/sleep
 
 **Duration** 1 min._dir/level
 
-**Saving Throw** [Will](../combat#_will) negates; **[Spell Resistance](../glossary#_spell-resistance)** yes
+**Saving Throw** [Will](../../combat#_will) negates; **[Spell Resistance](../../glossary#_spell-resistance)** yes
 
-A _sleep _spell causes a magical slumber to come upon 4 HD of creatures. Creatures with the fewest HD are affected first. Among creatures with equal HD, those who are closest to the spell's point of origin are affected first. HD that are not sufficient to affect a creature are wasted. Sleeping creatures are [helpless](../glossary#_helpless). Slapping or wounding awakens an affected creature, but normal noise does not. Awakening a creature is a standard action (an application of the aid another action). _Sleep _does not target [unconscious](../glossary#_unconscious) creatures, constructs, or undead creatures.
+A _sleep _spell causes a magical slumber to come upon 4 HD of creatures. Creatures with the fewest HD are affected first. Among creatures with equal HD, those who are closest to the spell's point of origin are affected first. HD that are not sufficient to affect a creature are wasted. Sleeping creatures are [helpless](../../glossary#_helpless). Slapping or wounding awakens an affected creature, but normal noise does not. Awakening a creature is a standard action (an application of the aid another action). _Sleep _does not target [unconscious](../../glossary#_unconscious) creatures, constructs, or undead creatures.
 

@@ -16,9 +16,9 @@ title: spells_dir/mageArmor
 
 **Duration** 1 hour_dir/level (D)
 
-**Saving Throw** [Will](../combat#_will) negates (harmless); **[Spell Resistance](../glossary#_spell-resistance)** no
+**Saving Throw** [Will](../../combat#_will) negates (harmless); **[Spell Resistance](../../glossary#_spell-resistance)** no
 
-An invisible but tangible field of force surrounds the subject of a _mage armor _spell, providing a +4 armor bonus to [AC](../combat#_armor-class).
+An invisible but tangible field of force surrounds the subject of a _mage armor _spell, providing a +4 armor bonus to [AC](../../combat#_armor-class).
 
-Unlike mundane armor, _mage armor _entails no armor check penalty, arcane spell failure chance, or speed reduction. Since _mage armor _is made of force, [incorporeal](../glossary#_incorporeal) creatures can't bypass it the way they do normal armor.
+Unlike mundane armor, _mage armor _entails no armor check penalty, arcane spell failure chance, or speed reduction. Since _mage armor _is made of force, [incorporeal](../../glossary#_incorporeal) creatures can't bypass it the way they do normal armor.
 

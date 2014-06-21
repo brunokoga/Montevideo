@@ -12,9 +12,9 @@ Something seems strange and disturbingly familiar about this wispy, ghostly huma
 
 Human petitioner
 
-Any alignment Medium [outsider](monsters_dir/creatureTypes#_outsider) ( [extraplanar](monsters_dir/creatureTypes#_extraplanar-subtype))
+Any alignment Medium [outsider](../monsters_dir/creatureTypes#_outsider) ( [extraplanar](../monsters_dir/creatureTypes#_extraplanar-subtype))
 
-**Init** +0; **Senses** darkvision 60 ft., [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +5
+**Init** +0; **Senses** darkvision 60 ft., [Perception](../additionalMonsters_dir/../skills_dir/perception#_perception) +5
 
 Defense
 
@@ -38,9 +38,9 @@ Statistics
 
 **Base Atk** +2; **CMB** +2; **CMD** 12
 
-**Feats** [Toughness](additionalMonsters_dir/../feats#_toughness)
+**Feats** [Toughness](../additionalMonsters_dir/../feats#_toughness)
 
-**Skills** [Craft](additionalMonsters_dir/../skills_dir/craft#_craft) (any two) +5, [Knowledge](additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (planes) +5, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +5, [Sense Motive](additionalMonsters_dir/../skills_dir/senseMotive#_sense-motive) +5, [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) +5
+**Skills** [Craft](../additionalMonsters_dir/../skills_dir/craft#_craft) (any two) +5, [Knowledge](../additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (planes) +5, [Perception](../additionalMonsters_dir/../skills_dir/perception#_perception) +5, [Sense Motive](../additionalMonsters_dir/../skills_dir/senseMotive#_sense-motive) +5, [Stealth](../additionalMonsters_dir/../skills_dir/stealth#_stealth) +5
 
 **Languages** Common
 
@@ -88,7 +88,7 @@ Creatures who die, become petitioners, and then return to life retain no memorie
 
 **Abilities** : Same as the base creature.
 
-**Feats** : Petitioners lose all feats. As a 2 HD outsider, a petitioner gains one feat—typically [Toughness](additionalMonsters_dir/../feats#_toughness).
+**Feats** : Petitioners lose all feats. As a 2 HD outsider, a petitioner gains one feat—typically [Toughness](../additionalMonsters_dir/../feats#_toughness).
 
 **Skills** : Petitioners lose all skill ranks they possessed as mortals. As a 2 HD outsider, a petitioner has 12 skill ranks it can spend on skills (with a maximum of 2 ranks in any one skill), and gains bonus skill ranks as appropriate for its Intelligence. Unlike most outsiders, petitioners do not gain an additional 4 class skills beyond those available to all outsiders.
 

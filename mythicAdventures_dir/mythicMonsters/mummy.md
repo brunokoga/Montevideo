@@ -10,9 +10,9 @@ Mythic Mummy CR 7_dir/MR 3
 
 XP 3,200
 
-LE Medium undead ( [mythic](mythicAdventures_dir/mythicMonsters#_mythic-subtype))
+LE Medium undead ( [mythic](../mythicAdventures_dir/mythicMonsters#_mythic-subtype))
 
-**Init** +0; **Senses** darkvision 60 ft.; [Perception](skills_dir/perception#_perception) +16
+**Init** +0; **Senses** darkvision 60 ft.; [Perception](../skills_dir/perception#_perception) +16
 
 **Aura** despair (30 ft., paralyzed for 1d4 rounds, Will DC 16 negates)
 
@@ -26,7 +26,7 @@ Defense
 
 **DR** 5_dir/—; **Immune** undead traits
 
-**Weaknesses** vulnerable to [fire](monsters_dir/creatureTypes#_fire-subtype)
+**Weaknesses** vulnerable to [fire](../monsters_dir/creatureTypes#_fire-subtype)
 
 Offense
 
@@ -42,13 +42,13 @@ Statistics
 
 **Base Atk** +6; **CMB** +14; **CMD** 24
 
-**Feats** [Power Attack](mythicAdventures_dir/mythicFeats#_power-attack-mythic)M, [Skill Focus](feats#_skill-focus) ( [Perception](skills_dir/perception#_perception)), [Toughness](mythicAdventures_dir/mythicFeats#_toughness-mythic)M, [Weapon Focus](feats#_weapon-focus) (slam)
+**Feats** [Power Attack](../mythicAdventures_dir/mythicFeats#_power-attack-mythic)M, [Skill Focus](../feats#_skill-focus) ( [Perception](../skills_dir/perception#_perception)), [Toughness](../mythicAdventures_dir/mythicFeats#_toughness-mythic)M, [Weapon Focus](../feats#_weapon-focus) (slam)
 
-**Skills** [Perception](skills_dir/perception#_perception) +16, [Stealth](skills_dir/stealth#_stealth) +11
+**Skills** [Perception](../skills_dir/perception#_perception) +16, [Stealth](../skills_dir/stealth#_stealth) +11
 
 **Languages** Common
 
-**SQ** [change shape](monsters_dir/universalMonsterRules#_change-shape) (any humanoid; _ [alter self](spells_dir/alterSelf#_alter-self)_), desert mastery
+**SQ** [change shape](../monsters_dir/universalMonsterRules#_change-shape) (any humanoid; _ [alter self](../spells_dir/alterSelf#_alter-self)_), desert mastery
 
 Ecology
 
@@ -62,7 +62,7 @@ Special Abilities
 
 **Create Spawn (Su)** As a swift action, a mythic mummy can expend one use of mythic power to transform a slain opponent into a non-mythic mummy with the advanced simple template. The new mummy is under the command of the mummy that created it, and remains enslaved until the mythic mummy's death, at which time it becomes a free-willed creature. The spawn retains none of the abilities it had in life
 
-**Desert Mastery (Su)** A mythic mummy can command earth and sand within 100 feet to create a variety of spell-like effects. As a standard action, a mummy can reduce rock to sand (as _ [transmute rock to mud](spells_dir/transmuteRockToMud#_transmute-rock-to-mud)_) or create lifelike shapes made from sand (as _ [major image](spells_dir/majorImage#_major-image)_, though these shapes collapse if disbelieved or attacked). The mummy can expend one use of mythic power to summon a [giant advanced sandman](additionalMonsters_dir/sandman#_sandman). The mummy's caster level equals its Hit Dice for these effects.
+**Desert Mastery (Su)** A mythic mummy can command earth and sand within 100 feet to create a variety of spell-like effects. As a standard action, a mummy can reduce rock to sand (as _ [transmute rock to mud](../spells_dir/transmuteRockToMud#_transmute-rock-to-mud)_) or create lifelike shapes made from sand (as _ [major image](../spells_dir/majorImage#_major-image)_, though these shapes collapse if disbelieved or attacked). The mummy can expend one use of mythic power to summon a [giant advanced sandman](../additionalMonsters_dir/sandman#_sandman). The mummy's caster level equals its Hit Dice for these effects.
 
 **Despair (Su)** All creatures within a 30-foot radius that see a mummy must succeed at a DC 18 Will save or be paralyzed by fear for 1d4 rounds. A creature only has to attempt this save against a particular mummy's despair ability once every 24 hours. This is a paralysis and mind-affecting fear effect. The save DC is Charisma-based and includes a +2 racial bonus.
 

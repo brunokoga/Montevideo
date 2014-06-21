@@ -16,5 +16,5 @@ Disguise Other
 
 **Duration** 10 minute_dir/level (D)
 
-This spell functions as _ [disguise self](spells_dir/disguiseSelf#_disguise-self)_, except you can disguise either yourself or another creature.
+This spell functions as _ [disguise self](../spells_dir/disguiseSelf#_disguise-self)_, except you can disguise either yourself or another creature.
 

@@ -10,15 +10,15 @@ _This small humanoid creature has thin, leathery wings, small horns, and a misch
 
 **XP 800**
 
-N Small [outsider](creatureTypes#_outsider) (varies)
+N Small [outsider](../creatureTypes#_outsider) (varies)
 
-**Init** +6; **Senses** darkvision 60 ft.; [Perception](../skills_dir/perception#_perception) +6
+**Init** +6; **Senses** darkvision 60 ft.; [Perception](../../skills_dir/perception#_perception) +6
 
 **Defense**
 
 **AC** 17, touch 14, flat-footed 14 (+2 Dex, +1 dodge, +3 natural, +1 size)
 
-**hp** 19 (3d10+3); [fast healing](universalMonsterRules#_fast-healing) 2
+**hp** 19 (3d10+3); [fast healing](../universalMonsterRules#_fast-healing) 2
 
 **Fort** +2, **Ref** +5, **Will** +3
 
@@ -30,7 +30,7 @@ N Small [outsider](creatureTypes#_outsider) (varies)
 
 **Melee** 2 claws +5 (1d3+1)
 
-**Special Attacks** [breath weapon](universalMonsterRules#_breath-weapon) (15-foot cone, effect based on type, Reflex DC 13 for half)
+**Special Attacks** [breath weapon](../universalMonsterRules#_breath-weapon) (15-foot cone, effect based on type, Reflex DC 13 for half)
 
 **Spell-Like Abilities** (CL 6th)
 
@@ -42,9 +42,9 @@ N Small [outsider](creatureTypes#_outsider) (varies)
 
 **Base**  **Atk** +3; **CMB** +3; **CMD** 15
 
-**Feats** [Dodge](../feats#_dodge), [Improved Initiative](../feats#_improved-initiative)
+**Feats** [Dodge](../../feats#_dodge), [Improved Initiative](../../feats#_improved-initiative)
 
-**Skills** [Bluff](../skills_dir/bluff#_bluff) +8, [Fly](../skills_dir/fly#_fly) +10, [Perception](../skills_dir/perception#_perception) +6, [Stealth](../skills_dir/stealth#_stealth) +12
+**Skills** [Bluff](../../skills_dir/bluff#_bluff) +8, [Fly](../../skills_dir/fly#_fly) +10, [Perception](../../skills_dir/perception#_perception) +6, [Stealth](../../skills_dir/stealth#_stealth) +12
 
 **Languages** Common, one appropriate elemental language (Aquan, Auran, Ignan, or Terran)
 
@@ -68,11 +68,11 @@ Air mephits are commonly found on the Plane of Air. These mephits are whimsical 
 
 **Fast Healing** : Works only in gusty and windy areas.
 
-**Speed** : [Fly](../skills_dir/fly#_fly) 60 ft. (perfect)
+**Speed** : [Fly](../../skills_dir/fly#_fly) 60 ft. (perfect)
 
 **Breath Weapon** : A cone of sand and grit that deals 1d8 slashing damage.
 
-**Spell-Like Abilities** : _ [blur](../spells_dir/blur#_blur)_ 1_dir/hour, _ [gust of wind](../spells_dir/gustOfWind#_gust-of-wind)_ 1_dir/day.
+**Spell-Like Abilities** : _ [blur](../../spells_dir/blur#_blur)_ 1_dir/hour, _ [gust of wind](../../spells_dir/gustOfWind#_gust-of-wind)_ 1_dir/day.
 
 ## Dust Mephit (Air)
 
@@ -80,11 +80,11 @@ Dust mephits are commonly found on the Plane of Air. These mephits are irritatin
 
 **Fast Healing** : Works only in dusty environments.
 
-**Speed** : [Fly](../skills_dir/fly#_fly) 50 ft. (perfect)
+**Speed** : [Fly](../../skills_dir/fly#_fly) 50 ft. (perfect)
 
 **Breath Weapon** : A cone of dust that deals 1d4 slashing damage. The dust also causes living creatures to be sickened for 3 rounds. A Reflex save halves the damage and negates the sickened effect.
 
-**Spell-Like Abilities** : _ [blur](../spells_dir/blur#_blur)_ 1_dir/hour, _ [wind wall](../spells_dir/windWall#_wind-wall)_ 1_dir/day
+**Spell-Like Abilities** : _ [blur](../../spells_dir/blur#_blur)_ 1_dir/hour, _ [wind wall](../../spells_dir/windWall#_wind-wall)_ 1_dir/day
 
 ## Earth Mephit (Earth)
 
@@ -94,9 +94,9 @@ Earth mephits are commonly found on the Plane of Earth. These mephits are ploddi
 
 **Breath Weapon** : A cone of rocks that deals 1d8 bludgeoning damage.
 
-**Change Size** : Once per day, an earth mephit can enlarge one size category, as _ [enlarge person](../spells_dir/enlargePerson#_enlarge-person)_, except that it only works on the earth mephit. This power acts as a 2nd-level spell.
+**Change Size** : Once per day, an earth mephit can enlarge one size category, as _ [enlarge person](../../spells_dir/enlargePerson#_enlarge-person)_, except that it only works on the earth mephit. This power acts as a 2nd-level spell.
 
-**Spell-Like Abilities** : _ [soften earth and stone](../spells_dir/softenEarthAndStone#_soften-earth-and-stone)_ 1_dir/day
+**Spell-Like Abilities** : _ [soften earth and stone](../../spells_dir/softenEarthAndStone#_soften-earth-and-stone)_ 1_dir/day
 
 ## Fire Mephit (Fire)
 
@@ -110,7 +110,7 @@ Fire mephits are commonly found on the Plane of Fire. Fire mephits are vengeful 
 
 **Breath Weapon** : A cone of flames that deals 1d8 fire damage.
 
-**Spell-Like Abilities** : _ [scorching ray](../spells_dir/scorchingRay#_scorching-ray)_ 1_dir/hour, _ [heat metal](../spells_dir/heatMetal#_heat-metal)_ 1_dir/day (DC 14)
+**Spell-Like Abilities** : _ [scorching ray](../../spells_dir/scorchingRay#_scorching-ray)_ 1_dir/hour, _ [heat metal](../../spells_dir/heatMetal#_heat-metal)_ 1_dir/day (DC 14)
 
 ## Ice Mephit (Cold)
 
@@ -124,7 +124,7 @@ Ice mephits are commonly found on the Plane of Air. These mephits are cruel and 
 
 **Breath Weapon** : A cone of ice that deals 1d4 cold damage. The cold also causes living creatures to be sickened for 3 rounds. A Reflex save halves the damage and negates the sickened effect.
 
-**Spell-Like Abilities** : _ [magic missile](../spells_dir/magicMissile#_magic-missile)_ 1_dir/hour, _ [chill metal](../spells_dir/chillMetal#_chill-metal)_ 1_dir/day (DC 14)
+**Spell-Like Abilities** : _ [magic missile](../../spells_dir/magicMissile#_magic-missile)_ 1_dir/hour, _ [chill metal](../../spells_dir/chillMetal#_chill-metal)_ 1_dir/day (DC 14)
 
 ## Magma Mephit (Fire)
 
@@ -140,7 +140,7 @@ Magma mephits are commonly found on the Plane of Fire. These mephits are dim-wit
 
 **Magma Form (Su)** : Once per hour, a magma mephit can assume the form of a pool of lava, 3 feet in diameter and 6 inches deep. While in this form, its DR increases to 20_dir/magic and it cannot attack. It can move at a speed of 10 feet per round and can pass through small openings and cracks. Anything touching this pool takes 1d6 fire damage. A magma mephit may remain in this form for up to 10 minutes.
 
-**Spell-Like Abilities** : _ [pyrotechnics](../spells_dir/pyrotechnics#_pyrotechnics)_ 1_dir/day
+**Spell-Like Abilities** : _ [pyrotechnics](../../spells_dir/pyrotechnics#_pyrotechnics)_ 1_dir/day
 
 ## Ooze Mephit (Water)
 
@@ -148,11 +148,11 @@ Ooze mephits are commonly found on the Plane of Water. These mephits are disgust
 
 **Fast Healing** : Works only in wet or muddy environments.
 
-**Speed** : [Swim](../skills_dir/swim#_swim) 30 ft.
+**Speed** : [Swim](../../skills_dir/swim#_swim) 30 ft.
 
 **Breath Weapon** : A cone of slime that deals 1d4 acid damage. The slime also causes living creatures to be sickened for 3 rounds. A Reflex save halves the damage and negates the sickened effect.
 
-**Spell-Like Abilities** : _ [acid arrow](../spells_dir/acidArrow#_acid-arrow)_ 1_dir/hour, _ [stinking cloud](../spells_dir/stinkingCloud#_stinking-cloud)_ 1_dir/day (DC 15)
+**Spell-Like Abilities** : _ [acid arrow](../../spells_dir/acidArrow#_acid-arrow)_ 1_dir/hour, _ [stinking cloud](../../spells_dir/stinkingCloud#_stinking-cloud)_ 1_dir/day (DC 15)
 
 ## Salt Mephit (Earth)
 
@@ -164,7 +164,7 @@ Salt mephits are commonly found on the Plane of Earth. These mephits are cruel a
 
 **Dehydrate (Su)** : Once per day a salt mephit can draw the moisture from an area in a 20-foot radius centered on itself. Living creatures within range take 2d8 points of damage (Fortitude DC 14 half; caster level 6th). This effect is especially devastating to plant and aquatic creatures, which take a –2 penalty on their saving throws. This ability is the equivalent of a 2nd-level spell.
 
-**Spell-Like Abilities** : _ [glitterdust](../spells_dir/glitterdust#_glitterdust)_ 1_dir/hour.
+**Spell-Like Abilities** : _ [glitterdust](../../spells_dir/glitterdust#_glitterdust)_ 1_dir/hour.
 
 ## Steam Mephit (Fire)
 
@@ -180,7 +180,7 @@ Steam mephits are commonly found on the Plane of Fire. These mephits are overcon
 
 **Boiling Rain (Su)** : Once per day a steam mephit can create a rainstorm of boiling water in a 20-foot-square area. Living creatures within the area take 2d6 points of fire damage (Fortitude DC 14 half; caster level 6th). This ability is the equivalent of a 2nd-level spell.
 
-**Spell-Like Abilities** : _ [blur](../spells_dir/blur#_blur)_ 1_dir/hour
+**Spell-Like Abilities** : _ [blur](../../spells_dir/blur#_blur)_ 1_dir/hour
 
 ## Water Mephit (Water)
 
@@ -188,9 +188,9 @@ Water mephits are commonly found on the Plane of Water. These mephits are consta
 
 **Fast Healing** : Works only while the mephit is underwater.
 
-**Speed** : [Swim](../skills_dir/swim#_swim) 30 ft.
+**Speed** : [Swim](../../skills_dir/swim#_swim) 30 ft.
 
 **Breath Weapon** : A cone of acid that deals 1d8 acid damage.
 
-**Spell-Like Abilities** : _ [acid arrow](../spells_dir/acidArrow#_acid-arrow)_ 1_dir/hour, _ [stinking cloud](../spells_dir/stinkingCloud#_stinking-cloud)_ 1_dir/day (DC 15)
+**Spell-Like Abilities** : _ [acid arrow](../../spells_dir/acidArrow#_acid-arrow)_ 1_dir/hour, _ [stinking cloud](../../spells_dir/stinkingCloud#_stinking-cloud)_ 1_dir/day (DC 15)
 

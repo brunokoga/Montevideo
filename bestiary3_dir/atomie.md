@@ -12,7 +12,7 @@ XP 400
 
 CN Diminutive fey
 
-**Init** +7; **Senses** low-light vision; [Perception](skills_dir/perception#_perception) +7
+**Init** +7; **Senses** low-light vision; [Perception](../skills_dir/perception#_perception) +7
 
 Defense
 
@@ -36,13 +36,13 @@ Offense
 
 **Spell-Like Abilities** (CL 6th; concentration +10)
 
-Constant—_ [speak with animals](spells_dir/speakWithAnimals#_speak-with-animals)_
+Constant—_ [speak with animals](../spells_dir/speakWithAnimals#_speak-with-animals)_
 
-At will—_ [dancing lights](spells_dir/dancingLights#_dancing-lights)_, _ [reduce person](spells_dir/reducePerson#_reduce-person)_ (DC 15)
+At will—_ [dancing lights](../spells_dir/dancingLights#_dancing-lights)_, _ [reduce person](../spells_dir/reducePerson#_reduce-person)_ (DC 15)
 
-3_dir/day—_ [invisibility](spells_dir/invisibility#_invisibility)_ (self only)
+3_dir/day—_ [invisibility](../spells_dir/invisibility#_invisibility)_ (self only)
 
-1_dir/day—_ [shrink item](spells_dir/shrinkItem#_shrink-item)_
+1_dir/day—_ [shrink item](../spells_dir/shrinkItem#_shrink-item)_
 
 Statistics
 
@@ -50,12 +50,12 @@ Statistics
 
 **Base Atk** +1; **CMB** +0; **CMD** 8
 
-**Feats** [Improved Initiative](feats#_improved-initiative)B, [Weapon Finesse](feats#_weapon-finesse)
+**Feats** [Improved Initiative](../feats#_improved-initiative)B, [Weapon Finesse](../feats#_weapon-finesse)
 
-**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +8 (+4 when jumping), [Bluff](skills_dir/bluff#_bluff) +9, [Escape Artist](skills_dir/escapeArtist#_escape-artist) +7,   
- [Fly](skills_dir/fly#_fly) +18, [Perception](skills_dir/perception#_perception) +7, [Sense Motive](skills_dir/senseMotive#_sense-motive) +6, [Stealth](skills_dir/stealth#_stealth) +20
+**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +8 (+4 when jumping), [Bluff](../skills_dir/bluff#_bluff) +9, [Escape Artist](../skills_dir/escapeArtist#_escape-artist) +7,   
+ [Fly](../skills_dir/fly#_fly) +18, [Perception](../skills_dir/perception#_perception) +7, [Sense Motive](../skills_dir/senseMotive#_sense-motive) +6, [Stealth](../skills_dir/stealth#_stealth) +20
 
-**Languages** Common, Sylvan; _ [speak with animals](spells_dir/speakWithAnimals#_speak-with-animals)_
+**Languages** Common, Sylvan; _ [speak with animals](../spells_dir/speakWithAnimals#_speak-with-animals)_
 
 Ecology
 
@@ -65,7 +65,7 @@ Ecology
 
 **Treasure** standard (rapier, other treasure)
 
-Atomies perceive themselves as larger than they actually are. Like pups standing up to a full-grown cur, atomies never back down from aggression, and take tremendous pride in defeating and humiliating foes larger than themselves. Atomies find great pleasure in shoring up the odds in a fight against larger foes. They make use of their _ [reduce person](spells_dir/reducePerson#_reduce-person)_ spell-like ability as an offensive measure, hoping to shock and humiliate humanoid opponents, giving them a chance to make a killing jab. Atomies employ their _ [invisibility](spells_dir/invisibility#_invisibility)_ spell-like ability to get in close and make sneak attacks before darting back out of reach.
+Atomies perceive themselves as larger than they actually are. Like pups standing up to a full-grown cur, atomies never back down from aggression, and take tremendous pride in defeating and humiliating foes larger than themselves. Atomies find great pleasure in shoring up the odds in a fight against larger foes. They make use of their _ [reduce person](../spells_dir/reducePerson#_reduce-person)_ spell-like ability as an offensive measure, hoping to shock and humiliate humanoid opponents, giving them a chance to make a killing jab. Atomies employ their _ [invisibility](../spells_dir/invisibility#_invisibility)_ spell-like ability to get in close and make sneak attacks before darting back out of reach.
 
 In lands thick with fey, atomies often serve as border sentries or bodyguards to nymphs, dryads, or other more powerful fey creatures. While atomies prove only passable in their ability to defend such creatures, other fey accept their fealty out of respect and perhaps with a bit of mirth as well. Atomies enjoy their time as honor guards, but often grow bored and leave their posts in search of adventure.
 

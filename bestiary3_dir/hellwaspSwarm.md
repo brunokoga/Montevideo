@@ -10,9 +10,9 @@ Hellwasp Swarm CR 8
 
 XP 4,800 each
 
-LE Diminutive vermin ( [extraplanar](monsters_dir/creatureTypes#_extraplanar-subtype), swarm)
+LE Diminutive vermin ( [extraplanar](../monsters_dir/creatureTypes#_extraplanar-subtype), swarm)
 
-**Init** +10; **Senses** darkvision 60 ft.; [Perception](skills_dir/perception#_perception) +4
+**Init** +10; **Senses** darkvision 60 ft.; [Perception](../skills_dir/perception#_perception) +4
 
 Defense
 
@@ -22,17 +22,17 @@ Defense
 
 **Fort** +10, **Ref** +10, **Will** +7
 
-**DR** 10_dir/good; **Immune** swarm traits, weapon damage; **Resist** [fire](monsters_dir/creatureTypes#_fire-subtype) 10
+**DR** 10_dir/good; **Immune** swarm traits, weapon damage; **Resist** [fire](../monsters_dir/creatureTypes#_fire-subtype) 10
 
 Offense
 
 **Speed** 5 ft., fly 40 ft. (good)
 
-**Melee** swarm (3d6 plus [distraction](monsters_dir/universalMonsterRules#_distraction) and [poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)))
+**Melee** swarm (3d6 plus [distraction](../monsters_dir/universalMonsterRules#_distraction) and [poison](../monsters_dir/universalMonsterRules#_poison-(ex-or-su)))
 
 **Space** 10 ft.; **Reach** 0 ft.
 
-**Special Attacks** [distraction](monsters_dir/universalMonsterRules#_distraction) (DC 18), inhabit
+**Special Attacks** [distraction](../monsters_dir/universalMonsterRules#_distraction) (DC 18), inhabit
 
 Statistics
 
@@ -40,9 +40,9 @@ Statistics
 
 **Base Atk** +9; **CMB** +11; **CMD** 16 (can't be tripped)
 
-**Feats** [Ability Focus](monsters_dir/monsterFeats#_ability-focus) ( [poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su))), [Dodge](feats#_dodge), [Improved Initiative](feats#_improved-initiative), [Iron Will](feats#_iron-will), [Skill Focus](feats#_skill-focus) ( [Perception](skills_dir/perception#_perception)), [Toughness](feats#_toughness)
+**Feats** [Ability Focus](../monsters_dir/monsterFeats#_ability-focus) ( [poison](../monsters_dir/universalMonsterRules#_poison-(ex-or-su))), [Dodge](../feats#_dodge), [Improved Initiative](../feats#_improved-initiative), [Iron Will](../feats#_iron-will), [Skill Focus](../feats#_skill-focus) ( [Perception](../skills_dir/perception#_perception)), [Toughness](../feats#_toughness)
 
-**Skills** [Fly](skills_dir/fly#_fly) +25, [Perception](skills_dir/perception#_perception) +4, [Stealth](skills_dir/stealth#_stealth) +24
+**Skills** [Fly](../skills_dir/fly#_fly) +25, [Perception](../skills_dir/perception#_perception) +4, [Stealth](../skills_dir/stealth#_stealth) +24
 
 **Languages** Infernal
 
@@ -58,13 +58,13 @@ Special Abilities
 
 **Inhabit (Ex)** A hellwasp swarm can enter the body of a helpless or dead creature by crawling into its mouth and other orifices. Inhabiting a body requires 1 minute, and the victim must be Small, Medium, or Large. The swarm can abandon the body at any time as a full-round action. Any attack against the host deals half damage to the hellwasp swarm as well, although the swarm's DR, resistances, and immunities may negate some or all of this damage.
 
-When a hellwasp swarm inhabits a dead body, it effectively transforms the corpse into a zombie of the appropriate size under the swarm's control. If a hellwasp swarm inhabits a living victim, it can neutralize the effects of its own [poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)) and control the victim's movement and actions as if using _ [dominate monster](spells_dir/dominateMonster#_dominate-monster)_. Hellwasps quickly consume a living victim, dealing 2d4 points of Constitution damage per hour.
+When a hellwasp swarm inhabits a dead body, it effectively transforms the corpse into a zombie of the appropriate size under the swarm's control. If a hellwasp swarm inhabits a living victim, it can neutralize the effects of its own [poison](../monsters_dir/universalMonsterRules#_poison-(ex-or-su)) and control the victim's movement and actions as if using _ [dominate monster](../spells_dir/dominateMonster#_dominate-monster)_. Hellwasps quickly consume a living victim, dealing 2d4 points of Constitution damage per hour.
 
-A hellwasp-inhabited creature is easy to spot, since its skin crawls with the forms of the insects inside. A swarm can attempt a [Disguise](skills_dir/disguise#_disguise) check to conceal its inhabitation of a host, with a –4 penalty if currently inhabiting a Small host.
+A hellwasp-inhabited creature is easy to spot, since its skin crawls with the forms of the insects inside. A swarm can attempt a [Disguise](../skills_dir/disguise#_disguise) check to conceal its inhabitation of a host, with a –4 penalty if currently inhabiting a Small host.
 
-A _ [remove disease](spells_dir/removeDisease#_remove-disease)_ or _ [heal](spells_dir/heal#_heal)_ spell cast on an inhabited victim forces the hellwasp swarm to abandon its host.
+A _ [remove disease](../spells_dir/removeDisease#_remove-disease)_ or _ [heal](../spells_dir/heal#_heal)_ spell cast on an inhabited victim forces the hellwasp swarm to abandon its host.
 
-**[Poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)) (Ex)** [Swarm](monsters_dir/creatureTypes#_swarm-subtype)—injury; _save_ Fort DC 20; _frequency_ 1_dir/round for 6 rounds; _effect_ 1d6 Dex; _cure_ 2 consecutive saves.
+**[Poison](../monsters_dir/universalMonsterRules#_poison-(ex-or-su)) (Ex)** [Swarm](../monsters_dir/creatureTypes#_swarm-subtype)—injury; _save_ Fort DC 20; _frequency_ 1_dir/round for 6 rounds; _effect_ 1d6 Dex; _cure_ 2 consecutive saves.
 
 Even Hell's fiendish inhabitants know to stay clear of the maddening buzz of hellwasp swarms. While individual hellwasps are mindless, when swarmed together they gain a hive mind that torments the living and the dead alike. Sages and diabolists argue as to why this happens, but a favored explanation is that all hellwasps contain the dispersed soul of some greater devil, scattered and imprisoned by his rivals for infractions lost to mortal knowledge.
 

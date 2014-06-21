@@ -16,7 +16,7 @@ title: spells_dir/spellResistance
 
 **Duration** 1 min._dir/level
 
-**Saving Throw** [Will](../combat#_will) negates (harmless); **[Spell Resistance](../glossary#_spell-resistance)** yes (harmless)
+**Saving Throw** [Will](../../combat#_will) negates (harmless); **[Spell Resistance](../../glossary#_spell-resistance)** yes (harmless)
 
-The target gains [spell resistance](../glossary#_spell-resistance) equal to 12 + your caster level.
+The target gains [spell resistance](../../glossary#_spell-resistance) equal to 12 + your caster level.
 

@@ -10,9 +10,9 @@ _This black, amorphous blob piles up on itself, a quivering mound of midnight sl
 
 **XP 3,200**
 
-N Huge [ooze](creatureTypes#_ooze)
+N Huge [ooze](../creatureTypes#_ooze)
 
-**Init** –5; **Senses** [blindsight](universalMonsterRules#_blindsight) 60 ft.; [Perception](../skills_dir/perception#_perception) –5
+**Init** –5; **Senses** [blindsight](../universalMonsterRules#_blindsight) 60 ft.; [Perception](../../skills_dir/perception#_perception) –5
 
 **Defense**
 
@@ -22,17 +22,17 @@ N Huge [ooze](creatureTypes#_ooze)
 
 **Fort** +9, **Ref** –2, **Will** –2
 
-**Defensive Abilities** split, [ooze traits](creatureTypes#_ooze)
+**Defensive Abilities** split, [ooze traits](../creatureTypes#_ooze)
 
 **Offense**
 
 **Speed** 20 ft., climb 20 ft.
 
-**Melee** slam +8 (2d6+4 plus 2d6 acid plus [grab](universalMonsterRules#_grab))
+**Melee** slam +8 (2d6+4 plus 2d6 acid plus [grab](../universalMonsterRules#_grab))
 
 **Space** 15 ft.; **Reach** 10 ft.
 
-**Special Attacks** [constrict](universalMonsterRules#_constrict) (2d6+4 plus 2d6 acid), corrosion
+**Special Attacks** [constrict](../universalMonsterRules#_constrict) (2d6+4 plus 2d6 acid), corrosion
 
 **Statistics**
 
@@ -40,9 +40,9 @@ N Huge [ooze](creatureTypes#_ooze)
 
 **Base**  **Atk** +7; **CMB** +12 (+16 grapple); **CMD** 17 (27 vs. bull rush, can't be tripped)
 
-**Skills** [Climb](../skills_dir/climb#_climb) +11
+**Skills** [Climb](../../skills_dir/climb#_climb) +11
 
-**SQ** [ooze traits](creatureTypes#_ooze), suction
+**SQ** [ooze traits](../creatureTypes#_ooze), suction
 
 **Ecology**
 

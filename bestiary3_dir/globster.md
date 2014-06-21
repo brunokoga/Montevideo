@@ -10,9 +10,9 @@ Globster CR 5
 
 XP 1,600
 
-N Large ooze ( [aquatic](monsters_dir/creatureTypes#_aquatic-subtype))
+N Large ooze ( [aquatic](../monsters_dir/creatureTypes#_aquatic-subtype))
 
-**Init** –5; **Senses** [Perception](skills_dir/perception#_perception) –5
+**Init** –5; **Senses** [Perception](../skills_dir/perception#_perception) –5
 
 **Aura** stench (DC 18, 10 rounds)
 
@@ -24,17 +24,17 @@ Defense
 
 **Fort** +7, **Ref** –3, **Will** –3
 
-**Immune** acid, bludgeoning and piercing damage, ooze traits; **Resist** [cold](monsters_dir/creatureTypes#_cold-subtype) 10, electricity 10
+**Immune** acid, bludgeoning and piercing damage, ooze traits; **Resist** [cold](../monsters_dir/creatureTypes#_cold-subtype) 10, electricity 10
 
 Offense
 
 **Speed** 20 ft., swim 40 ft.
 
-**Melee** slam +9 (2d6+9 plus [grab](monsters_dir/universalMonsterRules#_grab) and nausea)
+**Melee** slam +9 (2d6+9 plus [grab](../monsters_dir/universalMonsterRules#_grab) and nausea)
 
 **Space** 10 ft.; **Reach** 5 ft.
 
-**Special Attacks** create spawn, [constrict](monsters_dir/universalMonsterRules#_constrict) (2d6+9)
+**Special Attacks** create spawn, [constrict](../monsters_dir/universalMonsterRules#_constrict) (2d6+9)
 
 Statistics
 
@@ -42,9 +42,9 @@ Statistics
 
 **Base Atk** +4; **CMB** +11 (+15 grapple); **CMD** 16 (can't be tripped)
 
-**Skills** [Swim](skills_dir/swim#_swim) +14
+**Skills** [Swim](../skills_dir/swim#_swim) +14
 
-**SQ** decompose, [water](monsters_dir/creatureTypes#_water-subtype) dependency
+**SQ** decompose, [water](../monsters_dir/creatureTypes#_water-subtype) dependency
 
 Ecology
 
@@ -60,7 +60,7 @@ Special Abilities
 
 **Decompose (Ex)** A slain globster decays into a mass of goo in the span of 24 hours. However, the corpse retains the creature's stench aura for 1d10 days after its death.
 
-**Nausea (Ex)** Any creature struck by a globster must make a DC 18 Fortitude save to avoid being nauseated for 1 round. Once a creature makes this saving throw, it is immune to further nausea effects from that particular globster for 24 hours. This is a [poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)) effect. The save DC is Constitution-based.
+**Nausea (Ex)** Any creature struck by a globster must make a DC 18 Fortitude save to avoid being nauseated for 1 round. Once a creature makes this saving throw, it is immune to further nausea effects from that particular globster for 24 hours. This is a [poison](../monsters_dir/universalMonsterRules#_poison-(ex-or-su)) effect. The save DC is Constitution-based.
 
 A globster is a living collection of half-digested parts from large sea creatures such as whales and squid. Passersby usually discover it by smell long before they see it. Many unfortunate folk who happen upon a globster mistake it for the carcass of a beached sea animal, getting too close before discovering the seemingly dead creature is very much alive. For a time, sages believed globsters were undead—that they were simply undulating wads of rotting flesh animated with a drive to feed. However, globsters are actually living creatures.
 

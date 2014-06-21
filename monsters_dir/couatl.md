@@ -10,9 +10,9 @@ _This great serpent has multicolored wings and eyes that glimmer with intense aw
 
 **XP 9,600**
 
-LG Large [outsider](creatureTypes#_outsider) ( [native](creatureTypes#_native-subtype))
+LG Large [outsider](../creatureTypes#_outsider) ( [native](../creatureTypes#_native-subtype))
 
-**Init** +7; **Senses** darkvision 60 ft., _ [detect chaos](../spells_dir/detectChaos#_detect-chaos)_dir/evil_dir/good_dir/law_; [Perception](../skills_dir/perception#_perception) +23
+**Init** +7; **Senses** darkvision 60 ft., _ [detect chaos](../../spells_dir/detectChaos#_detect-chaos)_dir/evil_dir/good_dir/law_; [Perception](../../skills_dir/perception#_perception) +23
 
 **Defense**
 
@@ -26,29 +26,29 @@ LG Large [outsider](creatureTypes#_outsider) ( [native](creatureTypes#_native-su
 
 **Speed** 20 ft., fly 60 ft. (good)
 
-**Melee** bite +16 (1d8+7 plus [grab](universalMonsterRules#_grab) and [poison](universalMonsterRules#_poison))
+**Melee** bite +16 (1d8+7 plus [grab](../universalMonsterRules#_grab) and [poison](../universalMonsterRules#_poison))
 
 **Space** 10 ft.; **Reach** 5 ft.
 
-**Special Attacks** [constrict](universalMonsterRules#_constrict) (1d8+7)
+**Special Attacks** [constrict](../universalMonsterRules#_constrict) (1d8+7)
 
 **Spell-Like Abilities** (CL 9th)
 
-Constant—_ [detect chaos](../spells_dir/detectChaos#_detect-chaos)_, _ [detect evil](../spells_dir/detectEvil#_detect-evil)_, _ [detect good](../spells_dir/detectGood#_detect-good)_, _ [detect law](../spells_dir/detectLaw#_detect-law)_
+Constant—_ [detect chaos](../../spells_dir/detectChaos#_detect-chaos)_, _ [detect evil](../../spells_dir/detectEvil#_detect-evil)_, _ [detect good](../../spells_dir/detectGood#_detect-good)_, _ [detect law](../../spells_dir/detectLaw#_detect-law)_
 
-At will—_ [detect thoughts](../spells_dir/detectThoughts#_detect-thoughts)_ (DC 15), _ [ethereal jaunt](../spells_dir/etherealJaunt#_ethereal-jaunt)_ (CL 16th), _ [invisibility](../spells_dir/invisibility#_invisibility)_, _ [plane shift](../spells_dir/planeShift#_plane-shift)_ (DC 20)
+At will—_ [detect thoughts](../../spells_dir/detectThoughts#_detect-thoughts)_ (DC 15), _ [ethereal jaunt](../../spells_dir/etherealJaunt#_ethereal-jaunt)_ (CL 16th), _ [invisibility](../../spells_dir/invisibility#_invisibility)_, _ [plane shift](../../spells_dir/planeShift#_plane-shift)_ (DC 20)
 
 **Spells Known** (CL 9th)
 
-4th (4_dir/day)—_ [charm monster](../spells_dir/charmMonster#_charm-monster)_ (DC 17), _ [freedom of movement](../spells_dir/freedomOfMovement#_freedom-of-movement)_
+4th (4_dir/day)—_ [charm monster](../../spells_dir/charmMonster#_charm-monster)_ (DC 17), _ [freedom of movement](../../spells_dir/freedomOfMovement#_freedom-of-movement)_
 
-3rd (7_dir/day)—_ [gaseous form](../spells_dir/gaseousForm#_gaseous-form)_, _ [magic circle against evil](../spells_dir/magicCircleAgainstEvil#_magic-circle-against-evil)_, _ [summon monster III](../spells_dir/summonMonster#_summon-monster-iii)_
+3rd (7_dir/day)—_ [gaseous form](../../spells_dir/gaseousForm#_gaseous-form)_, _ [magic circle against evil](../../spells_dir/magicCircleAgainstEvil#_magic-circle-against-evil)_, _ [summon monster III](../../spells_dir/summonMonster#_summon-monster-iii)_
 
-2nd (7_dir/day)—_ [cure moderate wounds](../spells_dir/cureModerateWounds#_cure-moderate-wounds)_, _ [eagle's splendor](../spells_dir/eagleSSplendor#_eagle-s-splendor)_, _ [scorching ray](../spells_dir/scorchingRay#_scorching-ray)_, _ [silence](../spells_dir/silence#_silence)_ (DC 15)
+2nd (7_dir/day)—_ [cure moderate wounds](../../spells_dir/cureModerateWounds#_cure-moderate-wounds)_, _ [eagle's splendor](../../spells_dir/eagleSSplendor#_eagle-s-splendor)_, _ [scorching ray](../../spells_dir/scorchingRay#_scorching-ray)_, _ [silence](../../spells_dir/silence#_silence)_ (DC 15)
 
-1st (7_dir/day)—_ [endure elements](../spells_dir/endureElements#_endure-elements)_, _ [mage armor](../spells_dir/mageArmor#_mage-armor)_, _ [obscuring mist](../spells_dir/obscuringMist#_obscuring-mist)_, _ [protection from chaos](../spells_dir/protectionFromChaos#_protection-from-chaos)_, _ [true strike](../spells_dir/trueStrike#_true-strike)_
+1st (7_dir/day)—_ [endure elements](../../spells_dir/endureElements#_endure-elements)_, _ [mage armor](../../spells_dir/mageArmor#_mage-armor)_, _ [obscuring mist](../../spells_dir/obscuringMist#_obscuring-mist)_, _ [protection from chaos](../../spells_dir/protectionFromChaos#_protection-from-chaos)_, _ [true strike](../../spells_dir/trueStrike#_true-strike)_
 
-0 (at will)—_ [daze](../spells_dir/daze#_daze), [disrupt undead](../spells_dir/disruptUndead#_disrupt-undead), [light](../spells_dir/light#_light), [ray of frost](../spells_dir/rayOfFrost#_ray-of-frost), [read magic](../spells_dir/readMagic#_read-magic), [resistance](../spells_dir/resistance#_resistance), stabiliz_e
+0 (at will)—_ [daze](../../spells_dir/daze#_daze), [disrupt undead](../../spells_dir/disruptUndead#_disrupt-undead), [light](../../spells_dir/light#_light), [ray of frost](../../spells_dir/rayOfFrost#_ray-of-frost), [read magic](../../spells_dir/readMagic#_read-magic), [resistance](../../spells_dir/resistance#_resistance), stabiliz_e
 
 **Statistics**
 
@@ -56,11 +56,11 @@ At will—_ [detect thoughts](../spells_dir/detectThoughts#_detect-thoughts)_ (D
 
 **Base Atk** +12; **CMB** +18 (+22 grapple); **CMD** 32 (can't be tripped)
 
-**Feats** [Alertness](../feats#_alertness), [Dodge](../feats#_dodge), [Empower Spell](../feats#_empower-spell), [Eschew Materials](../feats#_eschew-materials)B, [Improved Initiative](../feats#_improved-initiative), [Iron Will](../feats#_iron-will), [Lightning Reflexes](../feats#_lightning-reflexes)
+**Feats** [Alertness](../../feats#_alertness), [Dodge](../../feats#_dodge), [Empower Spell](../../feats#_empower-spell), [Eschew Materials](../../feats#_eschew-materials)B, [Improved Initiative](../../feats#_improved-initiative), [Iron Will](../../feats#_iron-will), [Lightning Reflexes](../../feats#_lightning-reflexes)
 
-**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +18, [Bluff](../skills_dir/bluff#_bluff) +9, [Diplomacy](../skills_dir/diplomacy#_diplomacy) +18, [Fly](../skills_dir/fly#_fly) +20, [Knowledge](../skills_dir/knowledge#_knowledge) (arcana) +9, [Knowledge](../skills_dir/knowledge#_knowledge) (religion) +12, [Perception](../skills_dir/perception#_perception) +23, [Sense Motive](../skills_dir/senseMotive#_sense-motive) +15, [Spellcraft](../skills_dir/spellcraft#_spellcraft) +15, [Survival](../skills_dir/survival#_survival) +16, [Use Magic Device](../skills_dir/useMagicDevice#_use-magic-device) +18
+**Skills** [Acrobatics](../../skills_dir/acrobatics#_acrobatics) +18, [Bluff](../../skills_dir/bluff#_bluff) +9, [Diplomacy](../../skills_dir/diplomacy#_diplomacy) +18, [Fly](../../skills_dir/fly#_fly) +20, [Knowledge](../../skills_dir/knowledge#_knowledge) (arcana) +9, [Knowledge](../../skills_dir/knowledge#_knowledge) (religion) +12, [Perception](../../skills_dir/perception#_perception) +23, [Sense Motive](../../skills_dir/senseMotive#_sense-motive) +15, [Spellcraft](../../skills_dir/spellcraft#_spellcraft) +15, [Survival](../../skills_dir/survival#_survival) +16, [Use Magic Device](../../skills_dir/useMagicDevice#_use-magic-device) +18
 
-**Languages** Celestial, Common, Draconic; [telepathy](universalMonsterRules#_telepathy) 100 ft.
+**Languages** Celestial, Common, Draconic; [telepathy](../universalMonsterRules#_telepathy) 100 ft.
 
 **Ecology**
 
@@ -82,5 +82,5 @@ As native outsiders, couatls must eat. They prefer the same foods as true snakes
 
 As they would rather spend their time promoting their agenda than hunting, couatls appreciate offers of food, particularly small boars and large game fowl.
 
-A couatl sometimes shows its favor to an adventurer or party that has done it a service by gifting the group with 1d4 of its brightly colored feathers. Such a freely given feather, if used as an additional material component, allows a spellcaster to cast _ [planar ally](../spells_dir/planarAlly#_planar-ally) _to conjure that specific couatl without expending the typical payment of gold or other valuables—provided the the couatl approves of the service asked for by the spellcaster.
+A couatl sometimes shows its favor to an adventurer or party that has done it a service by gifting the group with 1d4 of its brightly colored feathers. Such a freely given feather, if used as an additional material component, allows a spellcaster to cast _ [planar ally](../../spells_dir/planarAlly#_planar-ally) _to conjure that specific couatl without expending the typical payment of gold or other valuables—provided the the couatl approves of the service asked for by the spellcaster.
 

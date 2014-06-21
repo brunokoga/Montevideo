@@ -10,9 +10,9 @@ Accuser Devil (Zebub)CR 3
 
 **XP 800**
 
-LE Small [outsider](monsters_dir/creatureTypes#_outsider) ( [devil](monsters_dir/creatureTypes#_devil-subtype), [evil](monsters_dir/creatureTypes#_evil-subtype), [extraplanar](monsters_dir/creatureTypes#_extraplanar-subtype), [lawful](monsters_dir/creatureTypes#_lawful-subtype))
+LE Small [outsider](../monsters_dir/creatureTypes#_outsider) ( [devil](../monsters_dir/creatureTypes#_devil-subtype), [evil](../monsters_dir/creatureTypes#_evil-subtype), [extraplanar](../monsters_dir/creatureTypes#_extraplanar-subtype), [lawful](../monsters_dir/creatureTypes#_lawful-subtype))
 
-**Init** +8; **Senses** darkvision 60 ft.; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +9
+**Init** +8; **Senses** darkvision 60 ft.; [Perception](../additionalMonsters_dir/../skills_dir/perception#_perception) +9
 
 Defense
 
@@ -22,19 +22,19 @@ Defense
 
 **Fort** +6, **Ref** +10, **Will** +3
 
-**DR** 5_dir/good or silver; **Immune** [fire](monsters_dir/creatureTypes#_fire-subtype), [poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)); **Resist** acid 10, [cold](monsters_dir/creatureTypes#_cold-subtype) 10
+**DR** 5_dir/good or silver; **Immune** [fire](../monsters_dir/creatureTypes#_fire-subtype), [poison](../monsters_dir/universalMonsterRules#_poison-(ex-or-su)); **Resist** acid 10, [cold](../monsters_dir/creatureTypes#_cold-subtype) 10
 
 Offense
 
 **Speed** 20 ft., fly 60 ft. (perfect)
 
-**Melee** bite +5 (1d6 plus 1d6 acid and [disease](monsters_dir/universalMonsterRules#_disease-(ex-or-su)))
+**Melee** bite +5 (1d6 plus 1d6 acid and [disease](../monsters_dir/universalMonsterRules#_disease-(ex-or-su)))
 
 **Spell-Like Abilities** (CL 8th; concentration +9)
 
-At will—_ [greater teleport](additionalMonsters_dir/../spells_dir/teleport#_teleport-greater)_ (self plus 50 lbs. of objects only), _ [invisibility](additionalMonsters_dir/../spells_dir/invisibility#_invisibility)_ (self only)
+At will—_ [greater teleport](../additionalMonsters_dir/../spells_dir/teleport#_teleport-greater)_ (self plus 50 lbs. of objects only), _ [invisibility](../additionalMonsters_dir/../spells_dir/invisibility#_invisibility)_ (self only)
 
-3_dir/day—_ [grease](additionalMonsters_dir/../spells_dir/grease#_grease)_, _ [summon swarm](additionalMonsters_dir/../spells_dir/summonSwarm#_summon-swarm)_, _ [whispering wind](additionalMonsters_dir/../spells_dir/whisperingWind#_whispering-wind)_
+3_dir/day—_ [grease](../additionalMonsters_dir/../spells_dir/grease#_grease)_, _ [summon swarm](../additionalMonsters_dir/../spells_dir/summonSwarm#_summon-swarm)_, _ [whispering wind](../additionalMonsters_dir/../spells_dir/whisperingWind#_whispering-wind)_
 
 1_dir/day—_summon_ (level 3, 1 zebub or 1d4 lemures, 40%)
 
@@ -44,9 +44,9 @@ Statistics
 
 **Base** Atk +4; CMB +3; CMD 17
 
-**Feats** [Improved Initiative](additionalMonsters_dir/../feats#_improved-initiative), [Lightning Reflexes](additionalMonsters_dir/../feats#_lightning-reflexes)
+**Feats** [Improved Initiative](../additionalMonsters_dir/../feats#_improved-initiative), [Lightning Reflexes](../additionalMonsters_dir/../feats#_lightning-reflexes)
 
-**Skills** [Bluff](additionalMonsters_dir/../skills_dir/bluff#_bluff) +8, [Fly](additionalMonsters_dir/../skills_dir/fly#_fly) +21, [Knowledge](additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (planes) +6, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +9, [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) +15
+**Skills** [Bluff](../additionalMonsters_dir/../skills_dir/bluff#_bluff) +8, [Fly](../additionalMonsters_dir/../skills_dir/fly#_fly) +21, [Knowledge](../additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (planes) +6, [Perception](../additionalMonsters_dir/../skills_dir/perception#_perception) +9, [Stealth](../additionalMonsters_dir/../skills_dir/stealth#_stealth) +15
 
 **Languages** Celestial, Draconic, Infernal; telepathy 100 ft.
 
@@ -56,7 +56,7 @@ Ecology
 
 **Environment** any (Hell)
 
-**Organization** solitary, pair, or [swarm](monsters_dir/creatureTypes#_swarm-subtype) (3–28)
+**Organization** solitary, pair, or [swarm](../monsters_dir/creatureTypes#_swarm-subtype) (3–28)
 
 **Treasure** standard
 
@@ -66,11 +66,11 @@ Special Abilities
 
 **Infernal Eye (Su)** A zebub records all that it sees and may pass its visions on to another creature. By remaining in contact with a willing creature, it can replay up to 24 hours of witnessed events, or shorter incidents if it so chooses. It takes a zebub 1 round to replay 1 hour of recorded images, which the target receives in a flash of information, without sound or other sensory information. After relaying its findings, the zebub cannot replay its visions of those events again. A zebub cannot replay its visions for an unwilling creature or as an attack, no matter how horrific the events it might have witnessed.
 
-[Childlike](additionalMonsters_dir/../advanced_dir/advancedFeats#_childlike) souls tormented and scoured of innocence by the flames of Hell and then reshaped by the mad whims of the archdevil Baalzebul, accuser devils embody the foul, merciless, and pervasive corruptions of the infernal host. From the depths of the Pit they rise in buzzing, shrieking plagues unleashed to taint the land, despoil weak flesh, and reveal exploitable secrets. En masse they display little of the cunning or subtlety typical of devilkind, spreading ruin at the will of their fiendish masters. Alone, though, a zebub is a craven, deceitful thing, lurking in darkness and filth, endlessly spying and vying for the petty favors of greater evils.
+[Childlike](../additionalMonsters_dir/../advanced_dir/advancedFeats#_childlike) souls tormented and scoured of innocence by the flames of Hell and then reshaped by the mad whims of the archdevil Baalzebul, accuser devils embody the foul, merciless, and pervasive corruptions of the infernal host. From the depths of the Pit they rise in buzzing, shrieking plagues unleashed to taint the land, despoil weak flesh, and reveal exploitable secrets. En masse they display little of the cunning or subtlety typical of devilkind, spreading ruin at the will of their fiendish masters. Alone, though, a zebub is a craven, deceitful thing, lurking in darkness and filth, endlessly spying and vying for the petty favors of greater evils.
 
 Accuser devils are almost exclusively formed amid the cesspits of frozen Cocytus, the seventh layer of Hell. Within the Pit they serve countless infernal lords as messengers and spies, with droves being unleashed upon myriad mortal worlds with a mandate to seek out souls ripe for corruption or those whose sins might lead to greater damnations. Many zebubs overstep the freedoms of such vague missions, seeking to manipulate weak-willed or easily intimidated mortals into all manner of trivial evils, dispensing shrill orders in their buzzing, childlike voices. Despite the fact that many zebub plots end in the zebubs' own revelation and destruction, few diabolical lords allow the slaying of their spies to go unpunished.
 
-The zebub's ability to grant other creatures visions of what it has witnessed makes it an unusually useful creature to many conjurers. Relatively easy to conjure with a spell like _ [lesser planar ally](additionalMonsters_dir/../spells_dir/planarAlly#_planar-ally-lesser)_ or _ [lesser planar binding](additionalMonsters_dir/../spells_dir/planarBinding#_planar-binding-lesser)_, an accuser devil can be an invaluable spy. One simply orders the foul little devil to become invisible and then infiltrate an area where visual information is hidden, with orders to teleport back to its point of origin to grant visions of what it observed to its master. Those who make use of accuser devils in this manner should take care to watch their own actions or what they reveal, of course, for such a creature can just as easily be bribed or intimidated into revealing visions that some conjurers might not want being made public. It's common practice among conjurers to kill their accuser devils once they've completed their missions of infiltration and observation.
+The zebub's ability to grant other creatures visions of what it has witnessed makes it an unusually useful creature to many conjurers. Relatively easy to conjure with a spell like _ [lesser planar ally](../additionalMonsters_dir/../spells_dir/planarAlly#_planar-ally-lesser)_ or _ [lesser planar binding](../additionalMonsters_dir/../spells_dir/planarBinding#_planar-binding-lesser)_, an accuser devil can be an invaluable spy. One simply orders the foul little devil to become invisible and then infiltrate an area where visual information is hidden, with orders to teleport back to its point of origin to grant visions of what it observed to its master. Those who make use of accuser devils in this manner should take care to watch their own actions or what they reveal, of course, for such a creature can just as easily be bribed or intimidated into revealing visions that some conjurers might not want being made public. It's common practice among conjurers to kill their accuser devils once they've completed their missions of infiltration and observation.
 
 These lesser devils stand just over 2 feet tall and rarely weigh more than 25 pounds.
 
@@ -82,9 +82,9 @@ Belier Devil (bdellavritra)CR 16
 
 **XP 76,800**
 
-LE Large [outsider](monsters_dir/creatureTypes#_outsider) ( [devil](monsters_dir/creatureTypes#_devil-subtype), [evil](monsters_dir/creatureTypes#_evil-subtype), [extraplanar](monsters_dir/creatureTypes#_extraplanar-subtype), [lawful](monsters_dir/creatureTypes#_lawful-subtype))
+LE Large [outsider](../monsters_dir/creatureTypes#_outsider) ( [devil](../monsters_dir/creatureTypes#_devil-subtype), [evil](../monsters_dir/creatureTypes#_evil-subtype), [extraplanar](../monsters_dir/creatureTypes#_extraplanar-subtype), [lawful](../monsters_dir/creatureTypes#_lawful-subtype))
 
-**Init** +10; **Senses** darkvision 60 ft., [see in darkness](monsters_dir/universalMonsterRules#_see-in-darkness); [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +28
+**Init** +10; **Senses** darkvision 60 ft., [see in darkness](../monsters_dir/universalMonsterRules#_see-in-darkness); [Perception](../additionalMonsters_dir/../skills_dir/perception#_perception) +28
 
 Defense
 
@@ -94,25 +94,25 @@ Defense
 
 **Fort** +17, **Ref** +11, **Will** +20
 
-**DR** 10_dir/good and silver; **Immune** [fire](monsters_dir/creatureTypes#_fire-subtype), [poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)); **Resist** acid 10, [cold](monsters_dir/creatureTypes#_cold-subtype) 10; **SR** 28
+**DR** 10_dir/good and silver; **Immune** [fire](../monsters_dir/creatureTypes#_fire-subtype), [poison](../monsters_dir/universalMonsterRules#_poison-(ex-or-su)); **Resist** acid 10, [cold](../monsters_dir/creatureTypes#_cold-subtype) 10; **SR** 28
 
 Offense
 
 **Speed** 20 ft., fly 60 ft. (perfect)
 
-**Melee** bite +23 (4d8+7), 3 tongues +23 (2d6+7_dir/19–20 plus [grab](monsters_dir/universalMonsterRules#_grab))
+**Melee** bite +23 (4d8+7), 3 tongues +23 (2d6+7_dir/19–20 plus [grab](../monsters_dir/universalMonsterRules#_grab))
 
 **Space** 10 ft.; **Reach** 10 ft. (20 ft. with tongues)
 
-**Special Attacks** [blood drain](monsters_dir/universalMonsterRules#_blood-drain) (1d4 Con damage), [constrict](monsters_dir/universalMonsterRules#_constrict) (1d6+7), possession, [strangle](monsters_dir/universalMonsterRules#_strangle)
+**Special Attacks** [blood drain](../monsters_dir/universalMonsterRules#_blood-drain) (1d4 Con damage), [constrict](../monsters_dir/universalMonsterRules#_constrict) (1d6+7), possession, [strangle](../monsters_dir/universalMonsterRules#_strangle)
 
 **Spell-Like Abilities** (CL 17th; concentration +24)
 
-At will—_ [acid arrow](additionalMonsters_dir/../spells_dir/acidArrow#_acid-arrow)_, _ [greater dispel magic](additionalMonsters_dir/../spells_dir/dispelMagic#_dispel-magic-greater)_, _ [greater teleport](additionalMonsters_dir/../spells_dir/teleport#_teleport-greater)_ (self plus 50 pounds of objects only), _ [persistent image](additionalMonsters_dir/../spells_dir/persistentImage#_persistent-image)_ (DC 22)
+At will—_ [acid arrow](../additionalMonsters_dir/../spells_dir/acidArrow#_acid-arrow)_, _ [greater dispel magic](../additionalMonsters_dir/../spells_dir/dispelMagic#_dispel-magic-greater)_, _ [greater teleport](../additionalMonsters_dir/../spells_dir/teleport#_teleport-greater)_ (self plus 50 pounds of objects only), _ [persistent image](../additionalMonsters_dir/../spells_dir/persistentImage#_persistent-image)_ (DC 22)
 
-3_dir/day—_ [acid fog](additionalMonsters_dir/../spells_dir/acidFog#_acid-fog)_, _ [dimensional anchor](additionalMonsters_dir/../spells_dir/dimensionalAnchor#_dimensional)_, _ [dominate person](additionalMonsters_dir/../spells_dir/dominatePerson#_dominate-person)_ (DC 22), _ [greater scrying](additionalMonsters_dir/../spells_dir/scrying#_scrying-greater)_ (DC 24), _ [mass suggestion](additionalMonsters_dir/../spells_dir/suggestion#_suggestion-mass)_ (DC 23)
+3_dir/day—_ [acid fog](../additionalMonsters_dir/../spells_dir/acidFog#_acid-fog)_, _ [dimensional anchor](../additionalMonsters_dir/../spells_dir/dimensionalAnchor#_dimensional)_, _ [dominate person](../additionalMonsters_dir/../spells_dir/dominatePerson#_dominate-person)_ (DC 22), _ [greater scrying](../additionalMonsters_dir/../spells_dir/scrying#_scrying-greater)_ (DC 24), _ [mass suggestion](../additionalMonsters_dir/../spells_dir/suggestion#_suggestion-mass)_ (DC 23)
 
-1_dir/day—_ [blasphemy](additionalMonsters_dir/../spells_dir/blasphemy#_blasphemy)_ (DC 24), _ [demand](additionalMonsters_dir/../spells_dir/demand#_demand)_ (DC 25), _ [magic jar](additionalMonsters_dir/../spells_dir/magicJar#_magic-jar)_ (DC 22), _ [plane shift](additionalMonsters_dir/../spells_dir/planeShift#_plane-shift)_ (DC 22), summon (level 6, 3 barbed devils 45%), _ [waves of exhaustion](additionalMonsters_dir/../spells_dir/wavesOfExhaustion#_waves-of-exhaustion)_
+1_dir/day—_ [blasphemy](../additionalMonsters_dir/../spells_dir/blasphemy#_blasphemy)_ (DC 24), _ [demand](../additionalMonsters_dir/../spells_dir/demand#_demand)_ (DC 25), _ [magic jar](../additionalMonsters_dir/../spells_dir/magicJar#_magic-jar)_ (DC 22), _ [plane shift](../additionalMonsters_dir/../spells_dir/planeShift#_plane-shift)_ (DC 22), summon (level 6, 3 barbed devils 45%), _ [waves of exhaustion](../additionalMonsters_dir/../spells_dir/wavesOfExhaustion#_waves-of-exhaustion)_
 
 Statistics
 
@@ -120,9 +120,9 @@ Statistics
 
 **Base Atk** +17; **CMB** +25 (+29 grapple); **CMD** 41 (can't be tripped)
 
-**Feats** [Combat Expertise](additionalMonsters_dir/../feats#_combat-expertise), [Combat Reflexes](additionalMonsters_dir/../feats#_combat-reflexes), [Greater Disarm](additionalMonsters_dir/../feats#_greater-disarm), [Greater Trip](additionalMonsters_dir/../feats#_greater-trip), [Improved Critical](additionalMonsters_dir/../feats#_improved-critical) (tongue), [Improved Disarm](additionalMonsters_dir/../feats#_improved-disarm), [Improved Initiative](additionalMonsters_dir/../feats#_improved-initiative), [Improved Trip](additionalMonsters_dir/../feats#_improved-trip), [Iron Will](additionalMonsters_dir/../feats#_iron-will)
+**Feats** [Combat Expertise](../additionalMonsters_dir/../feats#_combat-expertise), [Combat Reflexes](../additionalMonsters_dir/../feats#_combat-reflexes), [Greater Disarm](../additionalMonsters_dir/../feats#_greater-disarm), [Greater Trip](../additionalMonsters_dir/../feats#_greater-trip), [Improved Critical](../additionalMonsters_dir/../feats#_improved-critical) (tongue), [Improved Disarm](../additionalMonsters_dir/../feats#_improved-disarm), [Improved Initiative](../additionalMonsters_dir/../feats#_improved-initiative), [Improved Trip](../additionalMonsters_dir/../feats#_improved-trip), [Iron Will](../additionalMonsters_dir/../feats#_iron-will)
 
-**Skills** [Appraise](additionalMonsters_dir/../skills_dir/appraise#_appraise) +24, [Bluff](additionalMonsters_dir/../skills_dir/bluff#_bluff) +27, [Diplomacy](additionalMonsters_dir/../skills_dir/diplomacy#_diplomacy) +27, [Fly](additionalMonsters_dir/../skills_dir/fly#_fly) +32, [Intimidate](additionalMonsters_dir/../skills_dir/intimidate#_intimidate) +24, [Knowledge](additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (arcana, local, nobility, and planes) +27, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +28, [Sense Motive](additionalMonsters_dir/../skills_dir/senseMotive#_sense-motive) +28, [Spellcraft](additionalMonsters_dir/../skills_dir/spellcraft#_spellcraft) +24, [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) +22
+**Skills** [Appraise](../additionalMonsters_dir/../skills_dir/appraise#_appraise) +24, [Bluff](../additionalMonsters_dir/../skills_dir/bluff#_bluff) +27, [Diplomacy](../additionalMonsters_dir/../skills_dir/diplomacy#_diplomacy) +27, [Fly](../additionalMonsters_dir/../skills_dir/fly#_fly) +32, [Intimidate](../additionalMonsters_dir/../skills_dir/intimidate#_intimidate) +24, [Knowledge](../additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (arcana, local, nobility, and planes) +27, [Perception](../additionalMonsters_dir/../skills_dir/perception#_perception) +28, [Sense Motive](../additionalMonsters_dir/../skills_dir/senseMotive#_sense-motive) +28, [Spellcraft](../additionalMonsters_dir/../skills_dir/spellcraft#_spellcraft) +24, [Stealth](../additionalMonsters_dir/../skills_dir/stealth#_stealth) +22
 
 **Languages** Celestial, Common, Draconic, Infernal; telepathy 100 ft.
 
@@ -136,7 +136,7 @@ Ecology
 
 Special Abilities
 
-**Possession (Su)** When a belier [devil](monsters_dir/creatureTypes#_devil-subtype) uses its _ [magic jar](additionalMonsters_dir/../spells_dir/magicJar#_magic-jar)_ spell-like ability, it can identify and pinpoint life forces accurately, allowing it to select its victims with ease. It does not require a receptacle to use _ [magic jar](additionalMonsters_dir/../spells_dir/magicJar#_magic-jar)_. If it uses _ [magic jar](additionalMonsters_dir/../spells_dir/magicJar#_magic-jar)_ on a host while on the Material Plane, its own body becomes ethereal for the duration of the possession and the _ [magic jar](additionalMonsters_dir/../spells_dir/magicJar#_magic-jar)_ effect lasts until the effect is dispelled, the [devil](monsters_dir/creatureTypes#_devil-subtype) ends the effect, it is forced out of its host body, or it or its host body is slain.
+**Possession (Su)** When a belier [devil](../monsters_dir/creatureTypes#_devil-subtype) uses its _ [magic jar](../additionalMonsters_dir/../spells_dir/magicJar#_magic-jar)_ spell-like ability, it can identify and pinpoint life forces accurately, allowing it to select its victims with ease. It does not require a receptacle to use _ [magic jar](../additionalMonsters_dir/../spells_dir/magicJar#_magic-jar)_. If it uses _ [magic jar](../additionalMonsters_dir/../spells_dir/magicJar#_magic-jar)_ on a host while on the Material Plane, its own body becomes ethereal for the duration of the possession and the _ [magic jar](../additionalMonsters_dir/../spells_dir/magicJar#_magic-jar)_ effect lasts until the effect is dispelled, the [devil](../monsters_dir/creatureTypes#_devil-subtype) ends the effect, it is forced out of its host body, or it or its host body is slain.
 
 Masterful possessors and foul manipulators, belier devils are among the most feared masterminds of Hell. Known as bdellavritras to devilkind, these worm-like fiends avoid physical confrontation. Instead, they target influential individuals for possession, using them to manipulate events by proxy. If their schemes are uncovered, the devils retaliate with all the power at their host bodies' disposal.
 
@@ -150,9 +150,9 @@ Handmaiden Devil (Gylou)CR 14
 
 **XP 38,400**
 
-LE Medium [outsider](monsters_dir/creatureTypes#_outsider) ( [devil](monsters_dir/creatureTypes#_devil-subtype), [evil](monsters_dir/creatureTypes#_evil-subtype), [extraplanar](monsters_dir/creatureTypes#_extraplanar-subtype), [lawful](monsters_dir/creatureTypes#_lawful-subtype))
+LE Medium [outsider](../monsters_dir/creatureTypes#_outsider) ( [devil](../monsters_dir/creatureTypes#_devil-subtype), [evil](../monsters_dir/creatureTypes#_evil-subtype), [extraplanar](../monsters_dir/creatureTypes#_extraplanar-subtype), [lawful](../monsters_dir/creatureTypes#_lawful-subtype))
 
-**Init** +11; **Senses** darkvision 60 ft., _ [true seeing](additionalMonsters_dir/../spells_dir/trueSeeing#_true-seeing)_; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +23
+**Init** +11; **Senses** darkvision 60 ft., _ [true seeing](../additionalMonsters_dir/../spells_dir/trueSeeing#_true-seeing)_; [Perception](../additionalMonsters_dir/../skills_dir/perception#_perception) +23
 
 Defense
 
@@ -162,13 +162,13 @@ Defense
 
 **Fort** +16, **Ref** +16, **Will** +10
 
-**DR** 10_dir/good; **Immune** [fire](monsters_dir/creatureTypes#_fire-subtype), [poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)); **Resist** acid 10, [cold](monsters_dir/creatureTypes#_cold-subtype) 10; **SR** 25
+**DR** 10_dir/good; **Immune** [fire](../monsters_dir/creatureTypes#_fire-subtype), [poison](../monsters_dir/universalMonsterRules#_poison-(ex-or-su)); **Resist** acid 10, [cold](../monsters_dir/creatureTypes#_cold-subtype) 10; **SR** 25
 
 Offense
 
 **Speed** 40 ft., fly 60 ft. (average)
 
-**Melee** 2 claws +22 (2d8+7_dir/19–20_dir/×3), 2 tentacles +20 (1d6+3 plus [grab](monsters_dir/universalMonsterRules#_grab))
+**Melee** 2 claws +22 (2d8+7_dir/19–20_dir/×3), 2 tentacles +20 (1d6+3 plus [grab](../monsters_dir/universalMonsterRules#_grab))
 
 **Space** 5 ft.; **Reach** 5 ft. (10 ft. with tentacle)
 
@@ -176,11 +176,11 @@ Offense
 
 **Spell-Like Abilities** (CL 14th; concentration +19)
 
-Constant—_ [spider climb](additionalMonsters_dir/../spells_dir/spiderClimb#_spider-climb), [true seeing](additionalMonsters_dir/../spells_dir/trueSeeing#_true-seeing)_
+Constant—_ [spider climb](../additionalMonsters_dir/../spells_dir/spiderClimb#_spider-climb), [true seeing](../additionalMonsters_dir/../spells_dir/trueSeeing#_true-seeing)_
 
-At will—_ [alter self](additionalMonsters_dir/../spells_dir/alterSelf#_alter-self), [dispel good](additionalMonsters_dir/../spells_dir/dispelGood#_dispel-good) _(DC 20), _ [enthrall](additionalMonsters_dir/../spells_dir/enthrall#_enthrall)_ (DC 17), _ [greater teleport](additionalMonsters_dir/../spells_dir/teleport#_teleport-greater)_ (self plus 1 entrapped creature and 50 lbs. of goods only), _ [persistent image](additionalMonsters_dir/../spells_dir/persistentImage#_persistent-image)_ (DC 20)
+At will—_ [alter self](../additionalMonsters_dir/../spells_dir/alterSelf#_alter-self), [dispel good](../additionalMonsters_dir/../spells_dir/dispelGood#_dispel-good) _(DC 20), _ [enthrall](../additionalMonsters_dir/../spells_dir/enthrall#_enthrall)_ (DC 17), _ [greater teleport](../additionalMonsters_dir/../spells_dir/teleport#_teleport-greater)_ (self plus 1 entrapped creature and 50 lbs. of goods only), _ [persistent image](../additionalMonsters_dir/../spells_dir/persistentImage#_persistent-image)_ (DC 20)
 
-3_dir/day—_ [black tentacles](additionalMonsters_dir/../spells_dir/blackTentacles#_black-tentacles)_, _ [charm monster](additionalMonsters_dir/../spells_dir/charmMonster#_charm-monster)_ (DC 19)
+3_dir/day—_ [black tentacles](../additionalMonsters_dir/../spells_dir/blackTentacles#_black-tentacles)_, _ [charm monster](../additionalMonsters_dir/../spells_dir/charmMonster#_charm-monster)_ (DC 19)
 
 1_dir/day—summon (level 5, 3 erinyes 65%)
 
@@ -190,9 +190,9 @@ Statistics
 
 **Base Atk** +15; **CMB** +22 (+26 grapple); **CMD** 39 (can't be tripped)
 
-**Feats** [Acrobatic Steps](additionalMonsters_dir/../feats#_acrobatic-steps), [Combat Expertise](additionalMonsters_dir/../feats#_combat-expertise), [Combat Reflexes](additionalMonsters_dir/../feats#_combat-reflexes), [Improved Initiative](additionalMonsters_dir/../feats#_improved-initiative), [Improved Trip](additionalMonsters_dir/../feats#_improved-trip), [Multiattack](additionalMonsters_dir/../monsters_dir/monsterFeats#_multiattack), [Nimble Moves](additionalMonsters_dir/../feats#_nimble-moves), [Strike Back](additionalMonsters_dir/../feats#_strike-back)
+**Feats** [Acrobatic Steps](../additionalMonsters_dir/../feats#_acrobatic-steps), [Combat Expertise](../additionalMonsters_dir/../feats#_combat-expertise), [Combat Reflexes](../additionalMonsters_dir/../feats#_combat-reflexes), [Improved Initiative](../additionalMonsters_dir/../feats#_improved-initiative), [Improved Trip](../additionalMonsters_dir/../feats#_improved-trip), [Multiattack](../additionalMonsters_dir/../monsters_dir/monsterFeats#_multiattack), [Nimble Moves](../additionalMonsters_dir/../feats#_nimble-moves), [Strike Back](../additionalMonsters_dir/../feats#_strike-back)
 
-**Skills** [Acrobatics](additionalMonsters_dir/../skills_dir/acrobatics#_acrobatics) +25 (+29 jump), [Bluff](additionalMonsters_dir/../skills_dir/bluff#_bluff) +23, [Diplomacy](additionalMonsters_dir/../skills_dir/diplomacy#_diplomacy) +23, [Disguise](additionalMonsters_dir/../skills_dir/disguise#_disguise) +23, [Escape Artist](additionalMonsters_dir/../skills_dir/escapeArtist#_escape-artist) +22, [Fly](additionalMonsters_dir/../skills_dir/fly#_fly) +14, [Knowledge](additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (arcana) +21, [Knowledge](additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (planes) +24, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +23, [Perform](additionalMonsters_dir/../skills_dir/perform#_perform) (sing) +23, [Sense Motive](additionalMonsters_dir/../skills_dir/senseMotive#_sense-motive) +23, [Spellcraft](additionalMonsters_dir/../skills_dir/spellcraft#_spellcraft) +21, [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) +25
+**Skills** [Acrobatics](../additionalMonsters_dir/../skills_dir/acrobatics#_acrobatics) +25 (+29 jump), [Bluff](../additionalMonsters_dir/../skills_dir/bluff#_bluff) +23, [Diplomacy](../additionalMonsters_dir/../skills_dir/diplomacy#_diplomacy) +23, [Disguise](../additionalMonsters_dir/../skills_dir/disguise#_disguise) +23, [Escape Artist](../additionalMonsters_dir/../skills_dir/escapeArtist#_escape-artist) +22, [Fly](../additionalMonsters_dir/../skills_dir/fly#_fly) +14, [Knowledge](../additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (arcana) +21, [Knowledge](../additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (planes) +24, [Perception](../additionalMonsters_dir/../skills_dir/perception#_perception) +23, [Perform](../additionalMonsters_dir/../skills_dir/perform#_perform) (sing) +23, [Sense Motive](../additionalMonsters_dir/../skills_dir/senseMotive#_sense-motive) +23, [Spellcraft](../additionalMonsters_dir/../skills_dir/spellcraft#_spellcraft) +21, [Stealth](../additionalMonsters_dir/../skills_dir/stealth#_stealth) +25
 
 **Languages** Celestial, Common, Draconic, Infernal, telepathy 100 ft.
 
@@ -224,19 +224,19 @@ Immolation Devil (Puragaus)CR 19
 
 **XP 204,800**
 
-LE Large [outsider](monsters_dir/creatureTypes#_outsider) ( [devil](monsters_dir/creatureTypes#_devil-subtype), [evil](monsters_dir/creatureTypes#_evil-subtype), [extraplanar](monsters_dir/creatureTypes#_extraplanar-subtype), [lawful](monsters_dir/creatureTypes#_lawful-subtype))
+LE Large [outsider](../monsters_dir/creatureTypes#_outsider) ( [devil](../monsters_dir/creatureTypes#_devil-subtype), [evil](../monsters_dir/creatureTypes#_evil-subtype), [extraplanar](../monsters_dir/creatureTypes#_extraplanar-subtype), [lawful](../monsters_dir/creatureTypes#_lawful-subtype))
 
-**Init** +8; **Senses** darkvision 60 ft., _ [true seeing](additionalMonsters_dir/../spells_dir/trueSeeing#_true-seeing)_; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +27
+**Init** +8; **Senses** darkvision 60 ft., _ [true seeing](../additionalMonsters_dir/../spells_dir/trueSeeing#_true-seeing)_; [Perception](../additionalMonsters_dir/../skills_dir/perception#_perception) +27
 
 Defense
 
 **AC** 36, touch 17, flat-footed 28 (+8 Dex, +19 natural, –1 size)
 
-**hp** 315 (18d10+216); regeneration 5 ( [good](monsters_dir/creatureTypes#_good-subtype) weapons or [good](monsters_dir/creatureTypes#_good-subtype) spells)
+**hp** 315 (18d10+216); regeneration 5 ( [good](../monsters_dir/creatureTypes#_good-subtype) weapons or [good](../monsters_dir/creatureTypes#_good-subtype) spells)
 
 **Fort** +23, **Ref** +19, **Will** +14
 
-**DR** 15_dir/good and silver; **Immune** [fire](monsters_dir/creatureTypes#_fire-subtype), [poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)); **Resist** acid 10, [cold](monsters_dir/creatureTypes#_cold-subtype) 10; **SR** 30
+**DR** 15_dir/good and silver; **Immune** [fire](../monsters_dir/creatureTypes#_fire-subtype), [poison](../monsters_dir/universalMonsterRules#_poison-(ex-or-su)); **Resist** acid 10, [cold](../monsters_dir/creatureTypes#_cold-subtype) 10; **SR** 30
 
 Offense
 
@@ -250,11 +250,11 @@ Offense
 
 **Spell-Like Abilities** (CL 17th; concentration +24)
 
-Constant—_ [fire shield](additionalMonsters_dir/../spells_dir/fireShield#_fire-shield)_, _ [true seeing](additionalMonsters_dir/../spells_dir/trueSeeing#_true-seeing)_
+Constant—_ [fire shield](../additionalMonsters_dir/../spells_dir/fireShield#_fire-shield)_, _ [true seeing](../additionalMonsters_dir/../spells_dir/trueSeeing#_true-seeing)_
 
-At will—_ [fireball](additionalMonsters_dir/../spells_dir/fireball#_fireball)_ (DC 20), _ [greater teleport](additionalMonsters_dir/../spells_dir/teleport#_teleport-greater)_ (self plus 50 lbs. of objects only), _ [persistent image](additionalMonsters_dir/../spells_dir/persistentImage#_persistent-image)_ (DC 22), _ [wall of fire](additionalMonsters_dir/../spells_dir/wallOfFire#_wall-of-fire)_
+At will—_ [fireball](../additionalMonsters_dir/../spells_dir/fireball#_fireball)_ (DC 20), _ [greater teleport](../additionalMonsters_dir/../spells_dir/teleport#_teleport-greater)_ (self plus 50 lbs. of objects only), _ [persistent image](../additionalMonsters_dir/../spells_dir/persistentImage#_persistent-image)_ (DC 22), _ [wall of fire](../additionalMonsters_dir/../spells_dir/wallOfFire#_wall-of-fire)_
 
-3_dir/day—_ [dictum](additionalMonsters_dir/../spells_dir/dictum#_dictum)_ (DC 24), _firestorm _(DC 25), _ [mass charm monster](additionalMonsters_dir/../spells_dir/charmMonster#_charm-monster-mass)_ (DC 25)
+3_dir/day—_ [dictum](../additionalMonsters_dir/../spells_dir/dictum#_dictum)_ (DC 24), _firestorm _(DC 25), _ [mass charm monster](../additionalMonsters_dir/../spells_dir/charmMonster#_charm-monster-mass)_ (DC 25)
 
 1_dir/day—summon (level 9, any 2d4 devils of CR 10 or lower, 90%)
 
@@ -264,9 +264,9 @@ Statistics
 
 **Base Atk** +18; **CMB** +31; **CMD** 49
 
-**Feats** [Blind-Fight](additionalMonsters_dir/../feats#_blind-fight), [Blinding Critical](additionalMonsters_dir/../feats#_blinding-critical), [Combat Expertise](additionalMonsters_dir/../feats#_combat-expertise), [Combat Reflexes](additionalMonsters_dir/../feats#_combat-reflexes), [Critical Focus](additionalMonsters_dir/../feats#_critical-focus), [Iron Will](additionalMonsters_dir/../feats#_iron-will), [Multiattack](additionalMonsters_dir/../monsters_dir/monsterFeats#_multiattack), [Power Attack](additionalMonsters_dir/../feats#_power-attack), [Stand Still](additionalMonsters_dir/../feats#_stand-still)
+**Feats** [Blind-Fight](../additionalMonsters_dir/../feats#_blind-fight), [Blinding Critical](../additionalMonsters_dir/../feats#_blinding-critical), [Combat Expertise](../additionalMonsters_dir/../feats#_combat-expertise), [Combat Reflexes](../additionalMonsters_dir/../feats#_combat-reflexes), [Critical Focus](../additionalMonsters_dir/../feats#_critical-focus), [Iron Will](../additionalMonsters_dir/../feats#_iron-will), [Multiattack](../additionalMonsters_dir/../monsters_dir/monsterFeats#_multiattack), [Power Attack](../additionalMonsters_dir/../feats#_power-attack), [Stand Still](../additionalMonsters_dir/../feats#_stand-still)
 
-**Skills** [Bluff](additionalMonsters_dir/../skills_dir/bluff#_bluff) +28, [Diplomacy](additionalMonsters_dir/../skills_dir/diplomacy#_diplomacy) +28, [Disable Device](additionalMonsters_dir/../skills_dir/disableDevice#_disable-device) +26, [Fly](additionalMonsters_dir/../skills_dir/fly#_fly) +31, [Intimidate](additionalMonsters_dir/../skills_dir/intimidate#_intimidate) +28, [Knowledge](additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (arcana, nobility) +25, [Knowledge](additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (engineering, planes) +28, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +27, [Sense Motive](additionalMonsters_dir/../skills_dir/senseMotive#_sense-motive) +27, [Spellcraft](additionalMonsters_dir/../skills_dir/spellcraft#_spellcraft) +28, [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) +25
+**Skills** [Bluff](../additionalMonsters_dir/../skills_dir/bluff#_bluff) +28, [Diplomacy](../additionalMonsters_dir/../skills_dir/diplomacy#_diplomacy) +28, [Disable Device](../additionalMonsters_dir/../skills_dir/disableDevice#_disable-device) +26, [Fly](../additionalMonsters_dir/../skills_dir/fly#_fly) +31, [Intimidate](../additionalMonsters_dir/../skills_dir/intimidate#_intimidate) +28, [Knowledge](../additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (arcana, nobility) +25, [Knowledge](../additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (engineering, planes) +28, [Perception](../additionalMonsters_dir/../skills_dir/perception#_perception) +27, [Sense Motive](../additionalMonsters_dir/../skills_dir/senseMotive#_sense-motive) +27, [Spellcraft](../additionalMonsters_dir/../skills_dir/spellcraft#_spellcraft) +28, [Stealth](../additionalMonsters_dir/../skills_dir/stealth#_stealth) +25
 
 **Languages** Celestial, Common, Draconic, Infernal; telepathy 100 ft.
 
@@ -280,7 +280,7 @@ Ecology
 
 Special Abilities
 
-**Hellfire (Su)** Any [fire](monsters_dir/creatureTypes#_fire-subtype) damage caused by an immolation [devil](monsters_dir/creatureTypes#_devil-subtype)'s abilities and spells is half [fire](monsters_dir/creatureTypes#_fire-subtype) damage, half unholy damage.
+**Hellfire (Su)** Any [fire](../monsters_dir/creatureTypes#_fire-subtype) damage caused by an immolation [devil](../monsters_dir/creatureTypes#_devil-subtype)'s abilities and spells is half [fire](../monsters_dir/creatureTypes#_fire-subtype) damage, half unholy damage.
 
 Immolation devils are tyrant warlords and terrifying field generals among Hell's legions. While many other greater devils manipulate and corrupt subtly and from afar, puragaus surround themselves with lesser diabolical minions, lead interplanar incursions, hold infernal redoubts upon mortal worlds, or strike against any who would defy the will of Hell.
 

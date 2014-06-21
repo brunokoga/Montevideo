@@ -10,11 +10,11 @@ Nuckelavee CR 9
 
 XP 6,400
 
-NE Large fey ( [aquatic](monsters_dir/creatureTypes#_aquatic-subtype))
+NE Large fey ( [aquatic](../monsters_dir/creatureTypes#_aquatic-subtype))
 
-**Init** +7; **Senses** low-light vision; [Perception](skills_dir/perception#_perception) +17
+**Init** +7; **Senses** low-light vision; [Perception](../skills_dir/perception#_perception) +17
 
-**Aura** [frightful presence](monsters_dir/universalMonsterRules#_frightful-presence) (30 ft., DC 20)
+**Aura** [frightful presence](../monsters_dir/universalMonsterRules#_frightful-presence) (30 ft., DC 20)
 
 Defense
 
@@ -24,21 +24,21 @@ Defense
 
 **Fort** +9, **Ref** +16, **Will** +10
 
-**DR** 10_dir/cold iron; **Immune** [disease](monsters_dir/universalMonsterRules#_disease-(ex-or-su)), [poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su))
+**DR** 10_dir/cold iron; **Immune** [disease](../monsters_dir/universalMonsterRules#_disease-(ex-or-su)), [poison](../monsters_dir/universalMonsterRules#_poison-(ex-or-su))
 
 Offense
 
 **Speed** 50 ft., swim 50 ft.
 
-**Melee** mwk longsword +11 (1d8+9_dir/19–20), bite +10 (1d8+6 plus [disease](monsters_dir/universalMonsterRules#_disease-(ex-or-su))), 2 hooves +5 (1d6+3 plus [disease](monsters_dir/universalMonsterRules#_disease-(ex-or-su)))
+**Melee** mwk longsword +11 (1d8+9_dir/19–20), bite +10 (1d8+6 plus [disease](../monsters_dir/universalMonsterRules#_disease-(ex-or-su))), 2 hooves +5 (1d6+3 plus [disease](../monsters_dir/universalMonsterRules#_disease-(ex-or-su)))
 
 **Space** 10 ft.; **Reach** 5 ft.
 
-**Special Attacks** [breath weapon](monsters_dir/universalMonsterRules#_breath-weapon) (30-ft. cone, 10d6 damage plus [disease](monsters_dir/universalMonsterRules#_disease-(ex-or-su)), Reflex DC 21 for half, usable every 1d4 rounds), [trample](monsters_dir/universalMonsterRules#_trample) (1d6+7, DC 21)
+**Special Attacks** [breath weapon](../monsters_dir/universalMonsterRules#_breath-weapon) (30-ft. cone, 10d6 damage plus [disease](../monsters_dir/universalMonsterRules#_disease-(ex-or-su)), Reflex DC 21 for half, usable every 1d4 rounds), [trample](../monsters_dir/universalMonsterRules#_trample) (1d6+7, DC 21)
 
 **Spell-Like Abilities** (CL 9th; concentration +14)
 
-3_dir/day—_ [control water](spells_dir/controlWater#_control-water)_, _ [diminish plants](spells_dir/diminishPlants#_diminish-plants)_, _ [obscuring mist](spells_dir/obscuringMist#_obscuring-mist)_
+3_dir/day—_ [control water](../spells_dir/controlWater#_control-water)_, _ [diminish plants](../spells_dir/diminishPlants#_diminish-plants)_, _ [obscuring mist](../spells_dir/obscuringMist#_obscuring-mist)_
 
 Statistics
 
@@ -46,17 +46,17 @@ Statistics
 
 **Base Atk** +5; **CMB** +12; **CMD** 30 (34 vs. trip)
 
-**Feats** [Dodge](feats#_dodge), [Lightning Reflexes](feats#_lightning-reflexes), [Lightning Stance](feats#_lightning-stance), [Mobility](feats#_mobility), [Spring Attack](feats#_spring-attack), [Wind Stance](feats#_wind-stance)
+**Feats** [Dodge](../feats#_dodge), [Lightning Reflexes](../feats#_lightning-reflexes), [Lightning Stance](../feats#_lightning-stance), [Mobility](../feats#_mobility), [Spring Attack](../feats#_spring-attack), [Wind Stance](../feats#_wind-stance)
 
-**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +21 (+29 when jumping), [Escape Artist](skills_dir/escapeArtist#_escape-artist) +21, [Intimidate](skills_dir/intimidate#_intimidate) +16, [Knowledge](skills_dir/knowledge#_knowledge) (nature) +15, [Perception](skills_dir/perception#_perception) +17, [Stealth](skills_dir/stealth#_stealth) +17, [Swim](skills_dir/swim#_swim) +28
+**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +21 (+29 when jumping), [Escape Artist](../skills_dir/escapeArtist#_escape-artist) +21, [Intimidate](../skills_dir/intimidate#_intimidate) +16, [Knowledge](../skills_dir/knowledge#_knowledge) (nature) +15, [Perception](../skills_dir/perception#_perception) +17, [Stealth](../skills_dir/stealth#_stealth) +17, [Swim](../skills_dir/swim#_swim) +28
 
 **Languages** Aklo, Common, Sylvan
 
-**SQ** amphibious, [undersized weapons](monsters_dir/universalMonsterRules#_undersized-weapons)
+**SQ** amphibious, [undersized weapons](../monsters_dir/universalMonsterRules#_undersized-weapons)
 
 Ecology
 
-**Environment** [cold](monsters_dir/creatureTypes#_cold-subtype) swamps or coastlines
+**Environment** [cold](../monsters_dir/creatureTypes#_cold-subtype) swamps or coastlines
 
 **Organization** solitary
 
@@ -64,9 +64,9 @@ Ecology
 
 Special Abilities
 
-**[Breath Weapon](monsters_dir/universalMonsterRules#_breath-weapon) (Su)** A nuckelavee's [breath weapon](monsters_dir/universalMonsterRules#_breath-weapon) is a cone of withering foulness that causes painful welts, cramps, and bleeding, and only harms living creatures—this damage bypasses all energy [resistance](monsters_dir/universalMonsterRules#_resistance) and [damage reduction](monsters_dir/universalMonsterRules#_damage-reduction-(ex-or-su)). Non-creature plants in the area are affected as if by a _ [blight](spells_dir/blight#_blight)_ spell. Any creature that fails its Reflex save against the [breath weapon](monsters_dir/universalMonsterRules#_breath-weapon) must make a DC 21 Fortitude save or contract mortasheen (see below). The save DC is Constitution-based.
+**[Breath Weapon](../monsters_dir/universalMonsterRules#_breath-weapon) (Su)** A nuckelavee's [breath weapon](../monsters_dir/universalMonsterRules#_breath-weapon) is a cone of withering foulness that causes painful welts, cramps, and bleeding, and only harms living creatures—this damage bypasses all energy [resistance](../monsters_dir/universalMonsterRules#_resistance) and [damage reduction](../monsters_dir/universalMonsterRules#_damage-reduction-(ex-or-su)). Non-creature plants in the area are affected as if by a _ [blight](../spells_dir/blight#_blight)_ spell. Any creature that fails its Reflex save against the [breath weapon](../monsters_dir/universalMonsterRules#_breath-weapon) must make a DC 21 Fortitude save or contract mortasheen (see below). The save DC is Constitution-based.
 
-**[Disease](monsters_dir/universalMonsterRules#_disease-(ex-or-su)) (Su)** _Mortasheen_: Contact; _save_ Fort DC 21; _frequency_ 1_dir/day; _effect_ 1d4 Con and target is fatigued; _cure_ 2 consecutive saves. Animals take a –2 penalty on their saves against this [disease](monsters_dir/universalMonsterRules#_disease-(ex-or-su)). The save DC is Constitution-based.
+**[Disease](../monsters_dir/universalMonsterRules#_disease-(ex-or-su)) (Su)** _Mortasheen_: Contact; _save_ Fort DC 21; _frequency_ 1_dir/day; _effect_ 1d4 Con and target is fatigued; _cure_ 2 consecutive saves. Animals take a –2 penalty on their saves against this [disease](../monsters_dir/universalMonsterRules#_disease-(ex-or-su)). The save DC is Constitution-based.
 
 The dreaded nuckelavee is a manifestation of pollution and filth, be it the natural decay of a red tide or the intrusive pollution of sewage and other urban waste. A nuckelavee is a living irony—a carrier of disease and a spreader of corruption that unleashes its wrath against other sources that bring corruption into the world. The corruption spread by nuckelavees only serves to further their own sense of self-loathing and overall rage. While nuckelavees might, incidentally, carry out vengeance for the victims of such pollution, defending the denizens of their rivers, swamps, and bogs is not their primary drive, for they revel in inflicting the very corruption they hate and enjoy little more than watching their enemies sicken and die.
 

@@ -10,9 +10,9 @@ _A thick tangle of discolored entrails clings to this lurching skeleton's torso 
 
 **XP 4,800**
 
-CE Medium [undead](creatureTypes#_undead)
+CE Medium [undead](../creatureTypes#_undead)
 
-**Init** +8; **Senses** darkvision 60 ft.; [Perception](../skills_dir/perception#_perception) +20
+**Init** +8; **Senses** darkvision 60 ft.; [Perception](../../skills_dir/perception#_perception) +20
 
 **Defense**
 
@@ -22,13 +22,13 @@ CE Medium [undead](creatureTypes#_undead)
 
 **Fort** +6, **Ref** +10, **Will** +9
 
-**Immune** [undead traits](universalMonsterRules#_undead-traits)
+**Immune** [undead traits](../universalMonsterRules#_undead-traits)
 
 **Offense**
 
 **Speed** 30 ft.
 
-**Melee** 2 slams +15 (2d8+5 plus [grab](universalMonsterRules#_grab)), tongue +10 melee touch (paralysis)
+**Melee** 2 slams +15 (2d8+5 plus [grab](../universalMonsterRules#_grab)), tongue +10 melee touch (paralysis)
 
 **Special Attacks** create spawn, paralysis (1d4 minutes, DC 21)
 
@@ -38,9 +38,9 @@ CE Medium [undead](creatureTypes#_undead)
 
 **Base**  **Atk** +10; **CMB** +15 (+19 grapple); **CMD** 30
 
-**Feats** [Ability Focus](monsterFeats#_ability-focus) (paralysis), [Dodge](../feats#_dodge), [Improved Initiative](../feats#_improved-initiative), [Lightning Reflexes](../feats#_lightning-reflexes), [Mobility](../feats#_mobility), [Skill Focus](../feats#_skill-focus) ( [Perception](../skills_dir/perception#_perception)), [Spring Attack](../feats#_spring-attack)
+**Feats** [Ability Focus](../monsterFeats#_ability-focus) (paralysis), [Dodge](../../feats#_dodge), [Improved Initiative](../../feats#_improved-initiative), [Lightning Reflexes](../../feats#_lightning-reflexes), [Mobility](../../feats#_mobility), [Skill Focus](../../feats#_skill-focus) ( [Perception](../../skills_dir/perception#_perception)), [Spring Attack](../../feats#_spring-attack)
 
-**Skills** [Climb](../skills_dir/climb#_climb) +22, [Perception](../skills_dir/perception#_perception) +23, [Stealth](../skills_dir/stealth#_stealth) +21, [Swim](../skills_dir/swim#_swim) +19
+**Skills** [Climb](../../skills_dir/climb#_climb) +22, [Perception](../../skills_dir/perception#_perception) +23, [Stealth](../../skills_dir/stealth#_stealth) +21, [Swim](../../skills_dir/swim#_swim) +19
 
 **Ecology**
 

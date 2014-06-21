@@ -10,9 +10,9 @@ _This creature resembles a thin, lanky wolf with reddish-brown fur, white claws,
 
 **XP 800**
 
-LE Medium [outsider](creatureTypes#_outsider) ( [evil](creatureTypes#_evil-subtype), [extraplanar](creatureTypes#_extraplanar-subtype), [fire](creatureTypes#_fire-subtype), [lawful](creatureTypes#_lawful-subtype))
+LE Medium [outsider](../creatureTypes#_outsider) ( [evil](../creatureTypes#_evil-subtype), [extraplanar](../creatureTypes#_extraplanar-subtype), [fire](../creatureTypes#_fire-subtype), [lawful](../creatureTypes#_lawful-subtype))
 
-**Init** +5; **Senses** darkvision 60 ft., [scent](universalMonsterRules#_scent); [Perception](../skills_dir/perception#_perception) +7
+**Init** +5; **Senses** darkvision 60 ft., [scent](../universalMonsterRules#_scent); [Perception](../../skills_dir/perception#_perception) +7
 
 **Defense**
 
@@ -32,7 +32,7 @@ LE Medium [outsider](creatureTypes#_outsider) ( [evil](creatureTypes#_evil-subty
 
 **Melee** bite +5 (1d8+1 plus 1d6 fire)
 
-**Special Attacks** [breath weapon](universalMonsterRules#_breath-weapon) (10-ft. cone, once every 2d4 rounds, 2d6 fire damage, Reflex DC 14 for half)
+**Special Attacks** [breath weapon](../universalMonsterRules#_breath-weapon) (10-ft. cone, once every 2d4 rounds, 2d6 fire damage, Reflex DC 14 for half)
 
 **Statistics**
 
@@ -40,9 +40,9 @@ LE Medium [outsider](creatureTypes#_outsider) ( [evil](creatureTypes#_evil-subty
 
 **Base**  **Atk** +4; **CMB** +5; **CMD** 16 (20 vs. trip)
 
-**Feats** [Improved Initiative](../feats#_improved-initiative), [Run](../feats#_run)
+**Feats** [Improved Initiative](../../feats#_improved-initiative), [Run](../../feats#_run)
 
-**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +8, [Perception](../skills_dir/perception#_perception) +7, [Stealth](../skills_dir/stealth#_stealth) +13, [Survival](../skills_dir/survival#_survival) +7; **Racial Modifiers** +5 [Stealth](../skills_dir/stealth#_stealth)
+**Skills** [Acrobatics](../../skills_dir/acrobatics#_acrobatics) +8, [Perception](../../skills_dir/perception#_perception) +7, [Stealth](../../skills_dir/stealth#_stealth) +13, [Survival](../../skills_dir/survival#_survival) +7; **Racial Modifiers** +5 [Stealth](../../skills_dir/stealth#_stealth)
 
 **Languages** Infernal (cannot speak)
 
@@ -66,9 +66,9 @@ _This creature resembles a powerfully built wolf the size of a large draft horse
 
 **XP 6,400**
 
-LE Large [outsider](creatureTypes#_outsider) ( [evil](creatureTypes#_evil-subtype), [extraplanar](creatureTypes#_extraplanar-subtype), [fire](creatureTypes#_fire-subtype), [lawful](creatureTypes#_lawful-subtype))
+LE Large [outsider](../creatureTypes#_outsider) ( [evil](../creatureTypes#_evil-subtype), [extraplanar](../creatureTypes#_extraplanar-subtype), [fire](../creatureTypes#_fire-subtype), [lawful](../creatureTypes#_lawful-subtype))
 
-**Init** +6; **Senses** darkvision 60 ft., [scent](universalMonsterRules#_scent); [Perception](../skills_dir/perception#_perception) +12
+**Init** +6; **Senses** darkvision 60 ft., [scent](../universalMonsterRules#_scent); [Perception](../../skills_dir/perception#_perception) +12
 
 **Defense**
 
@@ -90,7 +90,7 @@ LE Large [outsider](creatureTypes#_outsider) ( [evil](creatureTypes#_evil-subtyp
 
 **Space** 10 ft.; **Reach** 10 ft.
 
-**Special Attacks** [breath weapon](universalMonsterRules#_breath-weapon) (30-ft. cone, once every 1d4 rounds, 10d6 fire damage, Reflex DC 21 half)
+**Special Attacks** [breath weapon](../universalMonsterRules#_breath-weapon) (30-ft. cone, once every 1d4 rounds, 10d6 fire damage, Reflex DC 21 half)
 
 **Statistics**
 
@@ -98,9 +98,9 @@ LE Large [outsider](creatureTypes#_outsider) ( [evil](creatureTypes#_evil-subtyp
 
 **Base**  **Atk** +12; **CMB** +21; **CMD** 33 (37 vs. trip)
 
-**Feats** [Alertness](../feats#_alertness), [Improved Critical](../feats#_improved-critical) (bite), [Improved Initiative](../feats#_improved-initiative), [Skill Focus](../feats#_skill-focus) ( [Stealth](../skills_dir/stealth#_stealth), [Survival](../skills_dir/survival#_survival)), [Weapon Focus](../feats#_weapon-focus) (bite)
+**Feats** [Alertness](../../feats#_alertness), [Improved Critical](../../feats#_improved-critical) (bite), [Improved Initiative](../../feats#_improved-initiative), [Skill Focus](../../feats#_skill-focus) ( [Stealth](../../skills_dir/stealth#_stealth), [Survival](../../skills_dir/survival#_survival)), [Weapon Focus](../../feats#_weapon-focus) (bite)
 
-**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +16, [Perception](../skills_dir/perception#_perception) +12, [Stealth](../skills_dir/stealth#_stealth) +21, [Survival](../skills_dir/survival#_survival) +18; **Racial Modifiers** +5 [Stealth](../skills_dir/stealth#_stealth)
+**Skills** [Acrobatics](../../skills_dir/acrobatics#_acrobatics) +16, [Perception](../../skills_dir/perception#_perception) +12, [Stealth](../../skills_dir/stealth#_stealth) +21, [Survival](../../skills_dir/survival#_survival) +18; **Racial Modifiers** +5 [Stealth](../../skills_dir/stealth#_stealth)
 
 **Languages** Infernal
 

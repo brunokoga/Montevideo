@@ -16,7 +16,7 @@ title: spells_dir/giantVermin
 
 **Duration** 1 min._dir/level
 
-**Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** yes
+**Saving Throw** none; **[Spell Resistance](../../glossary#_spell-resistance)** yes
 
 You turn a number of normal-sized centipedes, scorpions, or spiders into their giant counterparts. Only one type of vermin can be transmuted (so a single casting cannot affect both a centipede and a spider). The number of vermin which can be affected by this spell depends on your caster level, as noted on the table below.
 

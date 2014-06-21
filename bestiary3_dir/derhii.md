@@ -12,7 +12,7 @@ XP 1,600
 
 N Large monstrous humanoid
 
-**Init** +3; **Senses** darkvision 60 ft., [scent](monsters_dir/universalMonsterRules#_scent); [Perception](skills_dir/perception#_perception) +14
+**Init** +3; **Senses** darkvision 60 ft., [scent](../monsters_dir/universalMonsterRules#_scent); [Perception](../skills_dir/perception#_perception) +14
 
 Defense
 
@@ -41,9 +41,9 @@ Statistics
 
 **Base Atk** +7; **CMB** +13; **CMD** 26
 
-**Feats** [Acrobatic](feats#_acrobatic), [Combat Reflexes](feats#_combat-reflexes), [Iron Will](feats#_iron-will), [Skill Focus](feats#_skill-focus) ( [Perception](skills_dir/perception#_perception))
+**Feats** [Acrobatic](../feats#_acrobatic), [Combat Reflexes](../feats#_combat-reflexes), [Iron Will](../feats#_iron-will), [Skill Focus](../feats#_skill-focus) ( [Perception](../skills_dir/perception#_perception))
 
-**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +12, [Climb](skills_dir/climb#_climb) +13, [Fly](skills_dir/fly#_fly) +9, [Perception](skills_dir/perception#_perception) +14
+**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +12, [Climb](../skills_dir/climb#_climb) +13, [Fly](../skills_dir/fly#_fly) +9, [Perception](../skills_dir/perception#_perception) +14
 
 **Languages** Auran, Common
 
@@ -61,7 +61,7 @@ Special Abilities
 
 **Aerial Charge (Ex)** When airborne, a derhii can dive at twice its normal flying speed. This is the equivalent of a charge, granting a +2 bonus on the attack roll and a –2 penalty to AC.
 
-**Booming Voice (Ex)** A derhii can use its own booming voice as a signal. The sound can be heard up to 12 miles away as a thrumming in the [air](monsters_dir/creatureTypes#_air-subtype) that conveys 20 words of information in 5 minutes.
+**Booming Voice (Ex)** A derhii can use its own booming voice as a signal. The sound can be heard up to 12 miles away as a thrumming in the [air](../monsters_dir/creatureTypes#_air-subtype) that conveys 20 words of information in 5 minutes.
 
 **Knockdown (Ex)** When a derhii confirms a critical hit with a two-handed weapon, it has a chance to knock an opponent prone in addition to the damage dealt by the critical hit. If the derhii's confirmation roll exceeds its opponent's CMD, the opponent is knocked prone as if from the trip combat maneuver. This does not provoke an attack of opportunity, nor can the derhii be tripped if the confirmation roll fails to exceed the CMD.
 

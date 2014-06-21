@@ -44,15 +44,15 @@ Statistics
 
 **Base Atk** +0; **CMB** +2; **CMD** 15
 
-**Feats** [Improved Initiative](feats#_improved-initiative), [Weapon Finesse](feats#_weapon-finesse)
+**Feats** [Improved Initiative](../feats#_improved-initiative), [Weapon Finesse](../feats#_weapon-finesse)
 
-**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +7, [Climb](skills_dir/climb#_climb) +6, [Disable Device](skills_dir/disableDevice#_disable-device) +7, [Escape Artist](skills_dir/escapeArtist#_escape-artist) +7, [Knowledge](skills_dir/knowledge#_knowledge) (local) +4, Perception +3, [Sleight of Hand](skills_dir/sleightOfHand#_sleight-of-hand) +7, [Stealth](skills_dir/stealth#_stealth) +7, [Swim](skills_dir/swim#_swim) +6
+**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +7, [Climb](../skills_dir/climb#_climb) +6, [Disable Device](../skills_dir/disableDevice#_disable-device) +7, [Escape Artist](../skills_dir/escapeArtist#_escape-artist) +7, [Knowledge](../skills_dir/knowledge#_knowledge) (local) +4, Perception +3, [Sleight of Hand](../skills_dir/sleightOfHand#_sleight-of-hand) +7, [Stealth](../skills_dir/stealth#_stealth) +7, [Swim](../skills_dir/swim#_swim) +6
 
 **Languages** Common
 
 **SQ** trapfinding +1
 
-**Combat Gear** _potion of [cure light wounds](spells_dir/cureLightWounds#_cure-light-wounds)_, acid (2), smokestick, tanglefoot bag; **Other Gear** masterwork studded leather, daggers (5), short sword, thieves' tools, 25 gp
+**Combat Gear** _potion of [cure light wounds](../spells_dir/cureLightWounds#_cure-light-wounds)_, acid (2), smokestick, tanglefoot bag; **Other Gear** masterwork studded leather, daggers (5), short sword, thieves' tools, 25 gp
 
 The cutpurse is a dirty sneak who uses surprise and stealth to rob unsuspecting victims.
 
@@ -104,15 +104,15 @@ Statistics
 
 **Base Atk** +1; **CMB** +4; **CMD** 16
 
-**Feats** [Toughness](feats#_toughness)
+**Feats** [Toughness](../feats#_toughness)
 
-**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +5, [Climb](skills_dir/climb#_climb) +6, [Intimidate](skills_dir/intimidate#_intimidate) +7, Perception +6, [Ride](skills_dir/ride#_ride) +2, [Sense Motive](skills_dir/senseMotive#_sense-motive) +6, [Stealth](skills_dir/stealth#_stealth) +5
+**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +5, [Climb](../skills_dir/climb#_climb) +6, [Intimidate](../skills_dir/intimidate#_intimidate) +7, Perception +6, [Ride](../skills_dir/ride#_ride) +2, [Sense Motive](../skills_dir/senseMotive#_sense-motive) +6, [Stealth](../skills_dir/stealth#_stealth) +5
 
 **Languages** Common, Orc
 
 **SQ** orc blood, rogue talents (bleeding attack +1), trapfinding +1, weapon familiarity
 
-**Combat Gear** _potions of [cure light wounds](spells_dir/cureLightWounds#_cure-light-wounds)_ (2), _potion of [disguise self](spells_dir/disguiseSelf#_disguise-self)_, _potion of [divine favor](spells_dir/divineFavor#_divine-favor)_, _potion of [feather fall](spells_dir/featherFall#_feather-fall)_, _potion of [hide from undead](spells_dir/hideFromUndead#_hide-from-undead)_; **Other Gear** chain shirt, masterwork greataxe, shortspear, 59 gp
+**Combat Gear** _potions of [cure light wounds](../spells_dir/cureLightWounds#_cure-light-wounds)_ (2), _potion of [disguise self](../spells_dir/disguiseSelf#_disguise-self)_, _potion of [divine favor](../spells_dir/divineFavor#_divine-favor)_, _potion of [feather fall](../spells_dir/featherFall#_feather-fall)_, _potion of [hide from undead](../spells_dir/hideFromUndead#_hide-from-undead)_; **Other Gear** chain shirt, masterwork greataxe, shortspear, 59 gp
 
 The skulking brute extorts illegal tolls from travelers, attacking those who refuse to pay.
 
@@ -158,7 +158,7 @@ Tactics
 
 **Before Combat** The rogue picks a perch that's hard to reach and waits for targets to come into range.
 
-**During Combat** The rogue uses her _ [sleep arrow](magicItems_dir/weapons#_sleep-arrow)_ against ranged attackers or anyone she needs to keep alive.
+**During Combat** The rogue uses her _ [sleep arrow](../magicItems_dir/weapons#_sleep-arrow)_ against ranged attackers or anyone she needs to keep alive.
 
 Statistics
 
@@ -166,15 +166,15 @@ Statistics
 
 **Base Atk** +2; **CMB** +3; **CMD** 16
 
-**Feats** [Point-Blank Shot](feats#_point-blank-shot), Precise Shot, [Skill Focus](feats#_skill-focus) (Perception)
+**Feats** [Point-Blank Shot](../feats#_point-blank-shot), Precise Shot, [Skill Focus](../feats#_skill-focus) (Perception)
 
-**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +9, [Climb](skills_dir/climb#_climb) +7, [Disguise](skills_dir/disguise#_disguise) +5, [Escape Artist](skills_dir/escapeArtist#_escape-artist) +9, Perception +11, [Perform](skills_dir/perform#_perform) (wind) +5, [Ride](skills_dir/ride#_ride) +6, [Stealth](skills_dir/stealth#_stealth) +9, [Survival](skills_dir/survival#_survival) +3, [Swim](skills_dir/swim#_swim) +7
+**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +9, [Climb](../skills_dir/climb#_climb) +7, [Disguise](../skills_dir/disguise#_disguise) +5, [Escape Artist](../skills_dir/escapeArtist#_escape-artist) +9, Perception +11, [Perform](../skills_dir/perform#_perform) (wind) +5, [Ride](../skills_dir/ride#_ride) +6, [Stealth](../skills_dir/stealth#_stealth) +9, [Survival](../skills_dir/survival#_survival) +3, [Swim](../skills_dir/swim#_swim) +7
 
 **Languages** Common, Dwarven, Elven
 
 **SQ** elf blood, rogue talents (surprise attack), trapfinding +1
 
-**Combat Gear** _oil of [magic weapon](spells_dir/magicWeapon#_magic-weapon)_ (2), _potion of [cure moderate wounds](spells_dir/cureModerateWounds#_cure-moderate-wounds)_, _potion of [invisibility](spells_dir/invisibility#_invisibility)_, _ [sleep arrow](magicItems_dir/weapons#_sleep-arrow)_; **Other Gear** masterwork studded leather, masterwork composite longbow with 20 arrows, rapier, 73 gp
+**Combat Gear** _oil of [magic weapon](../spells_dir/magicWeapon#_magic-weapon)_ (2), _potion of [cure moderate wounds](../spells_dir/cureModerateWounds#_cure-moderate-wounds)_, _potion of [invisibility](../spells_dir/invisibility#_invisibility)_, _ [sleep arrow](../magicItems_dir/weapons#_sleep-arrow)_; **Other Gear** masterwork studded leather, masterwork composite longbow with 20 arrows, rapier, 73 gp
 
 The skilled sniper waits for the perfect opportunity to strike.
 
@@ -218,13 +218,13 @@ Offense
 
 **Rogue Spell-Like Abilities** (CL 4th, concentration +5)
 
-3_dir/day—_ [prestidigitation](spells_dir/prestidigitation#_prestidigitation)_
+3_dir/day—_ [prestidigitation](../spells_dir/prestidigitation#_prestidigitation)_
 
-2_dir/day—_ [disguise self](spells_dir/disguiseSelf#_disguise-self)_
+2_dir/day—_ [disguise self](../spells_dir/disguiseSelf#_disguise-self)_
 
 Tactics
 
-**Before Combat** Using [Bluff](skills_dir/bluff#_bluff) or [Disguise](skills_dir/disguise#_disguise), the rogue avoids combat.
+**Before Combat** Using [Bluff](../skills_dir/bluff#_bluff) or [Disguise](../skills_dir/disguise#_disguise), the rogue avoids combat.
 
 **During Combat** The rogue uses Improved Feint to make sneak attacks while trying to escape.
 
@@ -234,15 +234,15 @@ Statistics
 
 **Base Atk** +3; **CMB** +2; **CMD** 14
 
-**Feats** [Combat Expertise](feats#_combat-expertise), [Deceitful](feats#_deceitful), Improved Feint
+**Feats** [Combat Expertise](../feats#_combat-expertise), [Deceitful](../feats#_deceitful), Improved Feint
 
-**Skills** [Bluff](skills_dir/bluff#_bluff) +13, [Diplomacy](skills_dir/diplomacy#_diplomacy) +11, [Disable Device](skills_dir/disableDevice#_disable-device) +9, [Disguise](skills_dir/disguise#_disguise) +13, [Heal](skills_dir/heal#_heal) +3, [Knowledge](skills_dir/knowledge#_knowledge) (local) +8, Perception +8, [Perform](skills_dir/perform#_perform) (sing) +9, [Sense Motive](skills_dir/senseMotive#_sense-motive) +8, [Sleight of Hand](skills_dir/sleightOfHand#_sleight-of-hand) +9, [Stealth](skills_dir/stealth#_stealth) +9, [Use Magic Device](skills_dir/useMagicDevice#_use-magic-device) +11
+**Skills** [Bluff](../skills_dir/bluff#_bluff) +13, [Diplomacy](../skills_dir/diplomacy#_diplomacy) +11, [Disable Device](../skills_dir/disableDevice#_disable-device) +9, [Disguise](../skills_dir/disguise#_disguise) +13, [Heal](../skills_dir/heal#_heal) +3, [Knowledge](../skills_dir/knowledge#_knowledge) (local) +8, Perception +8, [Perform](../skills_dir/perform#_perform) (sing) +9, [Sense Motive](../skills_dir/senseMotive#_sense-motive) +8, [Sleight of Hand](../skills_dir/sleightOfHand#_sleight-of-hand) +9, [Stealth](../skills_dir/stealth#_stealth) +9, [Use Magic Device](../skills_dir/useMagicDevice#_use-magic-device) +11
 
 **Languages** Common, Elven
 
 **SQ** rogue talents (major magic, minor magic), trapfinding +2
 
-**Combat Gear** _potion of [cure moderate wounds](spells_dir/cureModerateWounds#_cure-moderate-wounds)_, _scroll of [bless](spells_dir/bless#_bless)_, _scroll of [burning hands](spells_dir/burningHands#_burning-hands)_, _scroll of [cure light wounds](spells_dir/cureLightWounds#_cure-light-wounds)_, _scroll of [magic missile](spells_dir/magicMissile#_magic-missile)_, alchemist's fire (2), holy water, thunderstone; **Other Gear** _+1 studded leather_, light crossbow with 10 bolts, masterwork rapier, disguise kit, everburning torch, healer's kit, thieves' tools, wizard's spellbook, wooden holy symbol, 129 gp
+**Combat Gear** _potion of [cure moderate wounds](../spells_dir/cureModerateWounds#_cure-moderate-wounds)_, _scroll of [bless](../spells_dir/bless#_bless)_, _scroll of [burning hands](../spells_dir/burningHands#_burning-hands)_, _scroll of [cure light wounds](../spells_dir/cureLightWounds#_cure-light-wounds)_, _scroll of [magic missile](../spells_dir/magicMissile#_magic-missile)_, alchemist's fire (2), holy water, thunderstone; **Other Gear** _+1 studded leather_, light crossbow with 10 bolts, masterwork rapier, disguise kit, everburning torch, healer's kit, thieves' tools, wizard's spellbook, wooden holy symbol, 129 gp
 
 Using tricks, the charlatan imitates a mage, a priest, or an official.
 
@@ -290,15 +290,15 @@ Statistics
 
 **Base Atk** +3; **CMB** +2; **CMD** 16
 
-**Feats** [Improved Initiative](feats#_improved-initiative), [Lightning Reflexes](feats#_lightning-reflexes), [Point-Blank Shot](feats#_point-blank-shot), [Weapon Finesse](feats#_weapon-finesse)
+**Feats** [Improved Initiative](../feats#_improved-initiative), [Lightning Reflexes](../feats#_lightning-reflexes), [Point-Blank Shot](../feats#_point-blank-shot), [Weapon Finesse](../feats#_weapon-finesse)
 
-**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +14 (+10 when jumping), [Bluff](skills_dir/bluff#_bluff) +10, [Climb](skills_dir/climb#_climb) +10, [Disable Device](skills_dir/disableDevice#_disable-device) +14, [Knowledge](skills_dir/knowledge#_knowledge) (local) +8, Perception +9, [Sleight of Hand](skills_dir/sleightOfHand#_sleight-of-hand) +12, [Stealth](skills_dir/stealth#_stealth) +16
+**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +14 (+10 when jumping), [Bluff](../skills_dir/bluff#_bluff) +10, [Climb](../skills_dir/climb#_climb) +10, [Disable Device](../skills_dir/disableDevice#_disable-device) +14, [Knowledge](../skills_dir/knowledge#_knowledge) (local) +8, Perception +9, [Sleight of Hand](../skills_dir/sleightOfHand#_sleight-of-hand) +12, [Stealth](../skills_dir/stealth#_stealth) +16
 
 **Languages** Common, Halfling
 
 **SQ** rogue talents (finesse rogue, slow reactions), trapfinding +2
 
-**Combat Gear** _potions of [cure light wounds](spells_dir/cureLightWounds#_cure-light-wounds)_ (2), _potion of [invisibility](spells_dir/invisibility#_invisibility)_; **Other Gear** masterwork studded leather, _+1 short sword_, masterwork hand crossbow with 20 bolts, masterwork thieves' tools, tindertwig (5), 60 gp
+**Combat Gear** _potions of [cure light wounds](../spells_dir/cureLightWounds#_cure-light-wounds)_ (2), _potion of [invisibility](../spells_dir/invisibility#_invisibility)_; **Other Gear** masterwork studded leather, _+1 short sword_, masterwork hand crossbow with 20 bolts, masterwork thieves' tools, tindertwig (5), 60 gp
 
 The guild initiate is a rogue who is still seeking to prove his worth to a thieves' guild.
 
@@ -336,7 +336,7 @@ Offense
 
 **Melee** mwk short sword +6 (1d6+1_dir/19–20)
 
-**Ranged** _+1 [light](spells_dir/light#_light) crossbow_ +9 (1d8+1_dir/19–20)
+**Ranged** _+1 [light](../spells_dir/light#_light) crossbow_ +9 (1d8+1_dir/19–20)
 
 **Special Attacks** +1 on attack rolls against goblinoid and orc humanoids, sneak attack +3d6
 
@@ -352,17 +352,17 @@ Statistics
 
 **Base Atk** +4; **CMB** +5; **CMD** 18 (22 vs. bull rush or trip)
 
-**Feats** [Point-Blank Shot](feats#_point-blank-shot), Precise Shot, [Rapid Reload](ultimateCombat_dir/ultimateCombatFeats#rapid-reload), Rapid Shot, [Weapon Focus](feats#_weapon-focus) (light crossbow)
+**Feats** [Point-Blank Shot](../feats#_point-blank-shot), Precise Shot, [Rapid Reload](../ultimateCombat_dir/ultimateCombatFeats#rapid-reload), Rapid Shot, [Weapon Focus](../feats#_weapon-focus) (light crossbow)
 
-**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +12 (+8 when jumping), [Climb](skills_dir/climb#_climb) +12, [Escape Artist](skills_dir/escapeArtist#_escape-artist) +12, [Knowledge](skills_dir/knowledge#_knowledge) (dungeoneering) +9, Perception +11 (+13 to notice unusual stonework), [Stealth](skills_dir/stealth#_stealth) +12,
+**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +12 (+8 when jumping), [Climb](../skills_dir/climb#_climb) +12, [Escape Artist](../skills_dir/escapeArtist#_escape-artist) +12, [Knowledge](../skills_dir/knowledge#_knowledge) (dungeoneering) +9, Perception +11 (+13 to notice unusual stonework), [Stealth](../skills_dir/stealth#_stealth) +12,
 
-Survival +8, [Swim](skills_dir/swim#_swim) +10
+Survival +8, [Swim](../skills_dir/swim#_swim) +10
 
 **Languages** Common, Dwarven
 
 **SQ** rogue talents (combat trick, resiliency, weapon training), trapfinding +3
 
-**Combat Gear** _potion of [cure moderate wounds](spells_dir/cureModerateWounds#_cure-moderate-wounds)_, _potions of [spider climb](spells_dir/spiderClimb#_spider-climb)_ (2), alchemist's fire (2); **Other Gear** _+1 studded leather_, _+1 [light](spells_dir/light#_light) crossbow_ with 20 bolts, masterwork short sword, climber's kit, 308 gp
+**Combat Gear** _potion of [cure moderate wounds](../spells_dir/cureModerateWounds#_cure-moderate-wounds)_, _potions of [spider climb](../spells_dir/spiderClimb#_spider-climb)_ (2), alchemist's fire (2); **Other Gear** _+1 studded leather_, _+1 [light](../spells_dir/light#_light) crossbow_ with 20 bolts, masterwork short sword, climber's kit, 308 gp
 
 The cave stalker is an experienced spelunker and treasure hunter.
 
@@ -406,7 +406,7 @@ Offense
 
 Tactics
 
-**During Combat** The rogue uses Spring Attack and [Combat Expertise](feats#_combat-expertise).
+**During Combat** The rogue uses Spring Attack and [Combat Expertise](../feats#_combat-expertise).
 
 Statistics
 
@@ -414,15 +414,15 @@ Statistics
 
 **Base Atk** +5; **CMB** +7; **CMD** 22
 
-**Feats** [Combat Reflexes](feats#_combat-reflexes), [Dodge](feats#_dodge), Mobility, Spring Attack, [Weapon Finesse](feats#_weapon-finesse)
+**Feats** [Combat Reflexes](../feats#_combat-reflexes), [Dodge](../feats#_dodge), Mobility, Spring Attack, [Weapon Finesse](../feats#_weapon-finesse)
 
-**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +14, [Bluff](skills_dir/bluff#_bluff) +9, [Climb](skills_dir/climb#_climb) +12, [Diplomacy](skills_dir/diplomacy#_diplomacy) +9, [Disable Device](skills_dir/disableDevice#_disable-device) +14, [Disguise](skills_dir/disguise#_disguise) +9, [Knowledge](skills_dir/knowledge#_knowledge) (local) +11, Perception +10, [Sense Motive](skills_dir/senseMotive#_sense-motive) +10, [Sleight of Hand](skills_dir/sleightOfHand#_sleight-of-hand) +14, [Stealth](skills_dir/stealth#_stealth) +14
+**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +14, [Bluff](../skills_dir/bluff#_bluff) +9, [Climb](../skills_dir/climb#_climb) +12, [Diplomacy](../skills_dir/diplomacy#_diplomacy) +9, [Disable Device](../skills_dir/disableDevice#_disable-device) +14, [Disguise](../skills_dir/disguise#_disguise) +9, [Knowledge](../skills_dir/knowledge#_knowledge) (local) +11, Perception +10, [Sense Motive](../skills_dir/senseMotive#_sense-motive) +10, [Sleight of Hand](../skills_dir/sleightOfHand#_sleight-of-hand) +14, [Stealth](../skills_dir/stealth#_stealth) +14
 
 **Languages** Common, Halfling
 
 **SQ** rogue talents (bleeding attack +4, fast stealth, stand up), trapfinding +3
 
-**Combat Gear** _potion of [cure moderate wounds](spells_dir/cureModerateWounds#_cure-moderate-wounds)_, _potion of [invisibility](spells_dir/invisibility#_invisibility)_, tanglefoot bag; **Other Gear** _+1 studded leather_, _+1 rapier_, masterwork light crossbow with 20 bolts, _ [cloak of resistance](magicItems_dir/wondrousItems#_cloak-of-resistance) +1_, thieves' tools, 489 gp
+**Combat Gear** _potion of [cure moderate wounds](../spells_dir/cureModerateWounds#_cure-moderate-wounds)_, _potion of [invisibility](../spells_dir/invisibility#_invisibility)_, tanglefoot bag; **Other Gear** _+1 studded leather_, _+1 rapier_, masterwork light crossbow with 20 bolts, _ [cloak of resistance](../magicItems_dir/wondrousItems#_cloak-of-resistance) +1_, thieves' tools, 489 gp
 
 The freelance thief sells his loyalty for gold.
 
@@ -474,15 +474,15 @@ Statistics
 
 **Base Atk** +6; **CMB** +4; **CMD** 19
 
-**Feats** [Dodge](feats#_dodge), [Improved Initiative](feats#_improved-initiative), [Lightning Reflexes](feats#_lightning-reflexes), [Skill Focus](feats#_skill-focus) ( [Craft](skills_dir/craft#_craft) [traps])
+**Feats** [Dodge](../feats#_dodge), [Improved Initiative](../feats#_improved-initiative), [Lightning Reflexes](../feats#_lightning-reflexes), [Skill Focus](../feats#_skill-focus) ( [Craft](../skills_dir/craft#_craft) [traps])
 
-**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +14 (+10 when jumping), [Bluff](skills_dir/bluff#_bluff) +11, [Climb](skills_dir/climb#_climb) +10, [Craft](skills_dir/craft#_craft) (traps) +20, [Disable Device](skills_dir/disableDevice#_disable-device) +19, [Escape Artist](skills_dir/escapeArtist#_escape-artist) +14, [Knowledge](skills_dir/knowledge#_knowledge) (dungeoneering) +13, [Knowledge](skills_dir/knowledge#_knowledge) (engineering) +10, Perception +14, [Stealth](skills_dir/stealth#_stealth) +18, [Use Magic Device](skills_dir/useMagicDevice#_use-magic-device) +11
+**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +14 (+10 when jumping), [Bluff](../skills_dir/bluff#_bluff) +11, [Climb](../skills_dir/climb#_climb) +10, [Craft](../skills_dir/craft#_craft) (traps) +20, [Disable Device](../skills_dir/disableDevice#_disable-device) +19, [Escape Artist](../skills_dir/escapeArtist#_escape-artist) +14, [Knowledge](../skills_dir/knowledge#_knowledge) (dungeoneering) +13, [Knowledge](../skills_dir/knowledge#_knowledge) (engineering) +10, Perception +14, [Stealth](../skills_dir/stealth#_stealth) +18, [Use Magic Device](../skills_dir/useMagicDevice#_use-magic-device) +11
 
 **Languages** Common, Draconic, Dwarven, Gnome, Sylvan
 
 **SQ** rogue talents (ledge walker, quick disable, resiliency, trap spotter), trapfinding +4
 
-**Combat Gear** _potion of [cure moderate wounds](spells_dir/cureModerateWounds#_cure-moderate-wounds)_, _scroll of [knock](spells_dir/knock#_knock)_, _wand of [detect magic](spells_dir/detectMagic#_detect-magic)_ (20 charges); **Other Gear** mwk studded leather, mwk dagger, mwk light crossbow with 10 bolts, _ [cloak of resistance](magicItems_dir/wondrousItems#_cloak-of-resistance) +1_, _goggles of minute seeing_, _ [ring of protection](magicItems_dir/rings#_ring-of-protection) +1_, mwk artisan's tools, thieves' tools, 577 gp
+**Combat Gear** _potion of [cure moderate wounds](../spells_dir/cureModerateWounds#_cure-moderate-wounds)_, _scroll of [knock](../spells_dir/knock#_knock)_, _wand of [detect magic](../spells_dir/detectMagic#_detect-magic)_ (20 charges); **Other Gear** mwk studded leather, mwk dagger, mwk light crossbow with 10 bolts, _ [cloak of resistance](../magicItems_dir/wondrousItems#_cloak-of-resistance) +1_, _goggles of minute seeing_, _ [ring of protection](../magicItems_dir/rings#_ring-of-protection) +1_, mwk artisan's tools, thieves' tools, 577 gp
 
 This rogue excels at building, setting, and bypassing traps.
 
@@ -518,7 +518,7 @@ Offense
 
 Tactics
 
-**Before Combat** The rogue understands that fighting and killing raises too many questions, and thus uses [Diplomacy](skills_dir/diplomacy#_diplomacy) and [Bluff](skills_dir/bluff#_bluff) to avoid combat and maintain his cover if at all possible.
+**Before Combat** The rogue understands that fighting and killing raises too many questions, and thus uses [Diplomacy](../skills_dir/diplomacy#_diplomacy) and [Bluff](../skills_dir/bluff#_bluff) to avoid combat and maintain his cover if at all possible.
 
 **During Combat** The rogue prefers to use sneak attacks and disarm combat maneuvers against his opponents, and flees if he can get away safely. If any who are present can identify him as a spy—or if their continued existence is against the interests of his shadowy paymasters—he strikes to kill.
 
@@ -528,15 +528,15 @@ Statistics
 
 **Base Atk** +6; **CMB** +10 (+14 disarm); **CMD** 20 (22 vs. disarm)
 
-**Feats** [Agile Maneuvers](feats#_agile-maneuvers), [Combat Expertise](feats#_combat-expertise), [Deceitful](feats#_deceitful), Greater Disarm, Improved Disarm, [Weapon Finesse](feats#_weapon-finesse)
+**Feats** [Agile Maneuvers](../feats#_agile-maneuvers), [Combat Expertise](../feats#_combat-expertise), [Deceitful](../feats#_deceitful), Greater Disarm, Improved Disarm, [Weapon Finesse](../feats#_weapon-finesse)
 
-**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +16, [Bluff](skills_dir/bluff#_bluff) +16, [Diplomacy](skills_dir/diplomacy#_diplomacy) +14, [Disable Device](skills_dir/disableDevice#_disable-device) +16, [Disguise](skills_dir/disguise#_disguise) +16, [Escape Artist](skills_dir/escapeArtist#_escape-artist) +16, [Knowledge](skills_dir/knowledge#_knowledge) (local) +14, Perception +13, [Sense Motive](skills_dir/senseMotive#_sense-motive) +11, [Sleight of Hand](skills_dir/sleightOfHand#_sleight-of-hand) +16, [Stealth](skills_dir/stealth#_stealth) +16
+**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +16, [Bluff](../skills_dir/bluff#_bluff) +16, [Diplomacy](../skills_dir/diplomacy#_diplomacy) +14, [Disable Device](../skills_dir/disableDevice#_disable-device) +16, [Disguise](../skills_dir/disguise#_disguise) +16, [Escape Artist](../skills_dir/escapeArtist#_escape-artist) +16, [Knowledge](../skills_dir/knowledge#_knowledge) (local) +14, Perception +13, [Sense Motive](../skills_dir/senseMotive#_sense-motive) +11, [Sleight of Hand](../skills_dir/sleightOfHand#_sleight-of-hand) +16, [Stealth](../skills_dir/stealth#_stealth) +16
 
 **Languages** Common, Draconic, Dwarven, Elven
 
 **SQ** elven magic, rogue talents (bleeding attack +5, finesse rogue, quick disable, surprise attack), trapfinding +4, weapon familiarity
 
-**Combat Gear** _potion of [cure moderate wounds](spells_dir/cureModerateWounds#_cure-moderate-wounds)_, _potion of [invisibility](spells_dir/invisibility#_invisibility)_, _potion of [tongues](spells_dir/tongues#_tongues)_; **Other Gear** _+2 studded leather_, _+1 rapier_, _ [hat of disguise](magicItems_dir/wondrousItems#_hat-of-disguise)_, dagger, thieves' tools, 373 gp
+**Combat Gear** _potion of [cure moderate wounds](../spells_dir/cureModerateWounds#_cure-moderate-wounds)_, _potion of [invisibility](../spells_dir/invisibility#_invisibility)_, _potion of [tongues](../spells_dir/tongues#_tongues)_; **Other Gear** _+2 studded leather_, _+1 rapier_, _ [hat of disguise](../magicItems_dir/wondrousItems#_hat-of-disguise)_, dagger, thieves' tools, 373 gp
 
 The deadly spy is highly trained in the arts of diplomacy, mimicry, psychology, and assassination.
 
@@ -574,7 +574,7 @@ Offense
 
 **Speed** 30 ft.
 
-**Melee** _+1 [keen](magicItems_dir/weapons#_weapons-keen) rapier_ +13_dir/+8 (1d6+3_dir/15–20)
+**Melee** _+1 [keen](../magicItems_dir/weapons#_weapons-keen) rapier_ +13_dir/+8 (1d6+3_dir/15–20)
 
 **Ranged** light crossbow +11 (1d8_dir/19–20)
 
@@ -592,15 +592,15 @@ Statistics
 
 **Base Atk** +7; **CMB** +9; **CMD** 25
 
-**Feats** [Combat Expertise](feats#_combat-expertise), [Dodge](feats#_dodge), [Improved Initiative](feats#_improved-initiative), Mobility, [Nimble Moves](feats#_nimble-moves), Spring Attack, [Weapon Finesse](feats#_weapon-finesse), [Weapon Focus](feats#_weapon-focus) (rapier), Whirlwind Attack
+**Feats** [Combat Expertise](../feats#_combat-expertise), [Dodge](../feats#_dodge), [Improved Initiative](../feats#_improved-initiative), Mobility, [Nimble Moves](../feats#_nimble-moves), Spring Attack, [Weapon Finesse](../feats#_weapon-finesse), [Weapon Focus](../feats#_weapon-focus) (rapier), Whirlwind Attack
 
-**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +17, [Climb](skills_dir/climb#_climb) +15, [Disable Device](skills_dir/disableDevice#_disable-device) +19, [Escape Artist](skills_dir/escapeArtist#_escape-artist) +17, [Intimidate](skills_dir/intimidate#_intimidate) +13, Perception +12, [Perform](skills_dir/perform#_perform) (dance) +13, [Sleight of Hand](skills_dir/sleightOfHand#_sleight-of-hand) +17, [Stealth](skills_dir/stealth#_stealth) +17, [Swim](skills_dir/swim#_swim) +15
+**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +17, [Climb](../skills_dir/climb#_climb) +15, [Disable Device](../skills_dir/disableDevice#_disable-device) +19, [Escape Artist](../skills_dir/escapeArtist#_escape-artist) +17, [Intimidate](../skills_dir/intimidate#_intimidate) +13, Perception +12, [Perform](../skills_dir/perform#_perform) (dance) +13, [Sleight of Hand](../skills_dir/sleightOfHand#_sleight-of-hand) +17, [Stealth](../skills_dir/stealth#_stealth) +17, [Swim](../skills_dir/swim#_swim) +15
 
 **Languages** Common, Elven
 
 **SQ** rogue talents (combat trick, finesse rogue, opportunist, surprise attack, weapon training), trapfinding +5
 
-**Combat Gear** _potion of [blur](spells_dir/blur#_blur)_, _potion of [cat's grace](spells_dir/catSGrace#_cat-s-grace)_, alchemist's fire (2); **Other Gear** _+1 studded leather_, _+1 [keen](magicItems_dir/weapons#_weapons-keen) rapier_, light crossbow with 20 bolts, _ [ring of protection](magicItems_dir/rings#_ring-of-protection) +1_, masterwork thieves' tools, 480 gp
+**Combat Gear** _potion of [blur](../spells_dir/blur#_blur)_, _potion of [cat's grace](../spells_dir/catSGrace#_cat-s-grace)_, alchemist's fire (2); **Other Gear** _+1 studded leather_, _+1 [keen](../magicItems_dir/weapons#_weapons-keen) rapier_, light crossbow with 20 bolts, _ [ring of protection](../magicItems_dir/rings#_ring-of-protection) +1_, masterwork thieves' tools, 480 gp
 
 The dancing dervish spins as a way to focus himself on achieving harmony with the gods.
 
@@ -646,7 +646,7 @@ Tactics
 
 **Before Combat** The rogue applies blue whinnis poison to his rapier and dagger.
 
-**During Combat** The rogue focuses on one target, using [Power Attack](feats#_power-attack), sneak attack, and the ongoing effects of his bleeding attack ability and blue whinnis poison to deal as much damage as possible in a short amount of time. If the target tries to flee, the contract killer uses Stand Still to prevent escape, or throws his poisoned dagger.
+**During Combat** The rogue focuses on one target, using [Power Attack](../feats#_power-attack), sneak attack, and the ongoing effects of his bleeding attack ability and blue whinnis poison to deal as much damage as possible in a short amount of time. If the target tries to flee, the contract killer uses Stand Still to prevent escape, or throws his poisoned dagger.
 
 Statistics
 
@@ -654,15 +654,15 @@ Statistics
 
 **Base Atk** +8; **CMB** +10; **CMD** 26
 
-**Feats** [Combat Reflexes](feats#_combat-reflexes), [Improved Critical](feats#_improved-critical) (rapier), [Power Attack](feats#_power-attack), Stand Still, [Toughness](feats#_toughness), [Weapon Finesse](feats#_weapon-finesse), [Weapon Focus](feats#_weapon-focus) (rapier)
+**Feats** [Combat Reflexes](../feats#_combat-reflexes), [Improved Critical](../feats#_improved-critical) (rapier), [Power Attack](../feats#_power-attack), Stand Still, [Toughness](../feats#_toughness), [Weapon Finesse](../feats#_weapon-finesse), [Weapon Focus](../feats#_weapon-focus) (rapier)
 
-**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +19, [Bluff](skills_dir/bluff#_bluff) +13, [Climb](skills_dir/climb#_climb) +16, [Disable Device](skills_dir/disableDevice#_disable-device) +21, [Disguise](skills_dir/disguise#_disguise) +13, [Intimidate](skills_dir/intimidate#_intimidate) +13, [Knowledge](skills_dir/knowledge#_knowledge) (local) +15, Perception +17, [Stealth](skills_dir/stealth#_stealth) +19
+**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +19, [Bluff](../skills_dir/bluff#_bluff) +13, [Climb](../skills_dir/climb#_climb) +16, [Disable Device](../skills_dir/disableDevice#_disable-device) +21, [Disguise](../skills_dir/disguise#_disguise) +13, [Intimidate](../skills_dir/intimidate#_intimidate) +13, [Knowledge](../skills_dir/knowledge#_knowledge) (local) +15, Perception +17, [Stealth](../skills_dir/stealth#_stealth) +19
 
 **Languages** Common, Dwarven, Elven
 
 **SQ** elven magic, rogue talents (bleeding attack +6, combat trick, crippling strike, fast stealth, surprise attack), trapfinding +5, weapon familiarity
 
-**Combat Gear** _ [elixir of hiding](magicItems_dir/wondrousItems#_elixir-of-hiding)_, _potion of [cure serious wounds](spells_dir/cureSeriousWounds#_cure-serious-wounds)_, _potion of [invisibility](spells_dir/invisibility#_invisibility),_ antitoxin, blue whinnis poison (4); **Other Gear** _+2 studded leather_, _+1 rapier_, masterwork dagger, _belt of incredible dexterity +2_, _ [cloak of resistance](magicItems_dir/wondrousItems#_cloak-of-resistance) +1_, _ [ring of protection](magicItems_dir/rings#_ring-of-protection) +1_, masterwork thieves' tools, sunrods (3), 617 gp
+**Combat Gear** _ [elixir of hiding](../magicItems_dir/wondrousItems#_elixir-of-hiding)_, _potion of [cure serious wounds](../spells_dir/cureSeriousWounds#_cure-serious-wounds)_, _potion of [invisibility](../spells_dir/invisibility#_invisibility),_ antitoxin, blue whinnis poison (4); **Other Gear** _+2 studded leather_, _+1 rapier_, masterwork dagger, _belt of incredible dexterity +2_, _ [cloak of resistance](../magicItems_dir/wondrousItems#_cloak-of-resistance) +1_, _ [ring of protection](../magicItems_dir/rings#_ring-of-protection) +1_, masterwork thieves' tools, sunrods (3), 617 gp
 
 The contract killer uses stealth and poison to kill his latest target.
 
@@ -698,7 +698,7 @@ Offense
 
 **Speed** 30 ft.
 
-**Melee** _+1 [frost](magicItems_dir/weapons#_weapons-frost) dagger_ +12_dir/+7 (1d4_dir/19–20 plus 1d6 cold)
+**Melee** _+1 [frost](../magicItems_dir/weapons#_weapons-frost) dagger_ +12_dir/+7 (1d4_dir/19–20 plus 1d6 cold)
 
 **Ranged** dagger +11 (1d4–1_dir/19–20)
 
@@ -706,17 +706,17 @@ Offense
 
 **Rogue Spell-Like Abilities** (CL 12th, concentration +16)
 
-3_dir/day—_ [message](spells_dir/message#_message)_
+3_dir/day—_ [message](../spells_dir/message#_message)_
 
-2_dir/day—_ [comprehend languages](spells_dir/comprehendLanguages#_comprehend-languages)_
+2_dir/day—_ [comprehend languages](../spells_dir/comprehendLanguages#_comprehend-languages)_
 
 Tactics
 
-**Before Combat** The rogue uses his _wand of [mage armor](spells_dir/mageArmor#_mage-armor)_.
+**Before Combat** The rogue uses his _wand of [mage armor](../spells_dir/mageArmor#_mage-armor)_.
 
 **During Combat** If forced to fight, the rogue uses the disarm combat maneuver against his opponent's weapon to defuse the situation.
 
-**Base Statistics** Without _ [mage armor](spells_dir/mageArmor#_mage-armor)_, the rogue's statistics are **AC** 14, touch 14, flat-footed 11.
+**Base Statistics** Without _ [mage armor](../spells_dir/mageArmor#_mage-armor)_, the rogue's statistics are **AC** 14, touch 14, flat-footed 11.
 
 Statistics
 
@@ -724,15 +724,15 @@ Statistics
 
 **Base Atk** +9; **CMB** +8; **CMD** 22
 
-**Feats** [Alertness](feats#_alertness), [Combat Expertise](feats#_combat-expertise), [Deceitful](feats#_deceitful), [Dodge](feats#_dodge), Greater Disarm, Improved Disarm, [Weapon Finesse](feats#_weapon-finesse)
+**Feats** [Alertness](../feats#_alertness), [Combat Expertise](../feats#_combat-expertise), [Deceitful](../feats#_deceitful), [Dodge](../feats#_dodge), Greater Disarm, Improved Disarm, [Weapon Finesse](../feats#_weapon-finesse)
 
-**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +17, [Bluff](skills_dir/bluff#_bluff) +22, [Diplomacy](skills_dir/diplomacy#_diplomacy) +18, [Disable Device](skills_dir/disableDevice#_disable-device) +19, [Disguise](skills_dir/disguise#_disguise) +22, [Knowledge](skills_dir/knowledge#_knowledge) (local) +19, [Knowledge](skills_dir/knowledge#_knowledge) (nobility, religion) +16, Perception +20, [Perform](skills_dir/perform#_perform) (dance, sing) +18, [Sense Motive](skills_dir/senseMotive#_sense-motive) +20, [Stealth](skills_dir/stealth#_stealth) +17, [Use Magic Device](skills_dir/useMagicDevice#_use-magic-device) +18
+**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +17, [Bluff](../skills_dir/bluff#_bluff) +22, [Diplomacy](../skills_dir/diplomacy#_diplomacy) +18, [Disable Device](../skills_dir/disableDevice#_disable-device) +19, [Disguise](../skills_dir/disguise#_disguise) +22, [Knowledge](../skills_dir/knowledge#_knowledge) (local) +19, [Knowledge](../skills_dir/knowledge#_knowledge) (nobility, religion) +16, Perception +20, [Perform](../skills_dir/perform#_perform) (dance, sing) +18, [Sense Motive](../skills_dir/senseMotive#_sense-motive) +20, [Stealth](../skills_dir/stealth#_stealth) +17, [Use Magic Device](../skills_dir/useMagicDevice#_use-magic-device) +18
 
 **Languages** Common, Dwarven, Elven, Gnome, Halfling
 
 **SQ** rogue talents (improved evasion, major magic, minor magic, quick disable, slippery mind, trap spotter), trapfinding +6
 
-**Combat Gear** _potions of [glibness](spells_dir/glibness#_glibness)_ (2), _scrolls of [tongues](spells_dir/tongues#_tongues)_ (2), _wand of [mage armor](spells_dir/mageArmor#_mage-armor)_ (20 charges); **Other Gear** _+1 [frost](magicItems_dir/weapons#_weapons-frost) dagger_, dagger, _ [cloak of resistance](magicItems_dir/wondrousItems#_cloak-of-resistance) +2_, _ [headband of alluring charisma](magicItems_dir/wondrousItems#_headband-of-alluring-charisma) +2_, _ [ring of protection](magicItems_dir/rings#_ring-of-protection) +1_, disguise kit, masterwork thieves' tools, jewelry (worth 200 gp), 696 gp
+**Combat Gear** _potions of [glibness](../spells_dir/glibness#_glibness)_ (2), _scrolls of [tongues](../spells_dir/tongues#_tongues)_ (2), _wand of [mage armor](../spells_dir/mageArmor#_mage-armor)_ (20 charges); **Other Gear** _+1 [frost](../magicItems_dir/weapons#_weapons-frost) dagger_, dagger, _ [cloak of resistance](../magicItems_dir/wondrousItems#_cloak-of-resistance) +2_, _ [headband of alluring charisma](../magicItems_dir/wondrousItems#_headband-of-alluring-charisma) +2_, _ [ring of protection](../magicItems_dir/rings#_ring-of-protection) +1_, disguise kit, masterwork thieves' tools, jewelry (worth 200 gp), 696 gp
 
 The dilettante developed magical abilities, but eventually decided to avoid both the arcane and divine paths.
 
@@ -778,7 +778,7 @@ _+1 short sword_ +14_dir/+9 (1d6+1_dir/17–20)
 
 **Rogue Spell-Like Abilities** (CL 13th, concentration +14)
 
-3_dir/day—_ [detect magic](spells_dir/detectMagic#_detect-magic)_
+3_dir/day—_ [detect magic](../spells_dir/detectMagic#_detect-magic)_
 
 Tactics
 
@@ -790,13 +790,13 @@ Statistics
 
 **Base Atk** +9; **CMB** +9; **CMD** 25 (29 vs. bull rush or trip)
 
-**Feats** [Dodge](feats#_dodge), [Improved Critical](feats#_improved-critical) (short sword), Improved [Two-Weapon Fighting](feats#_two-weapon-fighting), [Iron Will](feats#_iron-will), [Toughness](feats#_toughness), Two-Weapon Defense, [Two-Weapon Fighting](feats#_two-weapon-fighting), [Weapon Finesse](feats#_weapon-finesse)
+**Feats** [Dodge](../feats#_dodge), [Improved Critical](../feats#_improved-critical) (short sword), Improved [Two-Weapon Fighting](../feats#_two-weapon-fighting), [Iron Will](../feats#_iron-will), [Toughness](../feats#_toughness), Two-Weapon Defense, [Two-Weapon Fighting](../feats#_two-weapon-fighting), [Weapon Finesse](../feats#_weapon-finesse)
 
-**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +20 (+16 when jumping), [Bluff](skills_dir/bluff#_bluff) +17, [Climb](skills_dir/climb#_climb) +8, [Disable Device](skills_dir/disableDevice#_disable-device) +19, [Disguise](skills_dir/disguise#_disguise) +9, [Knowledge](skills_dir/knowledge#_knowledge) (arcana) +6, [Knowledge](skills_dir/knowledge#_knowledge) (dungeoneering) +5, [Knowledge](skills_dir/knowledge#_knowledge) (history) +2, [Knowledge](skills_dir/knowledge#_knowledge) (local) +14, Perception +18 (+20 to notice unusual stonework), [Sense Motive](skills_dir/senseMotive#_sense-motive) +18, [Sleight of Hand](skills_dir/sleightOfHand#_sleight-of-hand) +12, [Stealth](skills_dir/stealth#_stealth) +20, [Swim](skills_dir/swim#_swim) +8, [Use Magic Device](skills_dir/useMagicDevice#_use-magic-device) +9
+**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +20 (+16 when jumping), [Bluff](../skills_dir/bluff#_bluff) +17, [Climb](../skills_dir/climb#_climb) +8, [Disable Device](../skills_dir/disableDevice#_disable-device) +19, [Disguise](../skills_dir/disguise#_disguise) +9, [Knowledge](../skills_dir/knowledge#_knowledge) (arcana) +6, [Knowledge](../skills_dir/knowledge#_knowledge) (dungeoneering) +5, [Knowledge](../skills_dir/knowledge#_knowledge) (history) +2, [Knowledge](../skills_dir/knowledge#_knowledge) (local) +14, Perception +18 (+20 to notice unusual stonework), [Sense Motive](../skills_dir/senseMotive#_sense-motive) +18, [Sleight of Hand](../skills_dir/sleightOfHand#_sleight-of-hand) +12, [Stealth](../skills_dir/stealth#_stealth) +20, [Swim](../skills_dir/swim#_swim) +8, [Use Magic Device](../skills_dir/useMagicDevice#_use-magic-device) +9
 
 **SQ** rogue talents (bleeding attack +7, combat trick, defensive roll, improved evasion, minor magic, resiliency), trapfinding +6
 
-**Combat Gear** _potion of [cure serious wounds](spells_dir/cureSeriousWounds#_cure-serious-wounds)_, _potion of [invisibility](spells_dir/invisibility#_invisibility)_, antitoxin (2); **Other Gear** _+2 studded leather_, _+1 short swords_ (2), daggers (4), _ [amulet of natural armor](magicItems_dir/wondrousItems#_amulet-of-natural-armor) +1_, _ [belt of physical might](magicItems_dir/wondrousItems#_belt-of-physical-might) +2_ (Dex, Con), _ [cloak of resistance](magicItems_dir/wondrousItems#_cloak-of-resistance) +1_, _ [ring of protection](magicItems_dir/rings#_ring-of-protection) +1_, masterwork thieves' tools, 2,047 gp
+**Combat Gear** _potion of [cure serious wounds](../spells_dir/cureSeriousWounds#_cure-serious-wounds)_, _potion of [invisibility](../spells_dir/invisibility#_invisibility)_, antitoxin (2); **Other Gear** _+2 studded leather_, _+1 short swords_ (2), daggers (4), _ [amulet of natural armor](../magicItems_dir/wondrousItems#_amulet-of-natural-armor) +1_, _ [belt of physical might](../magicItems_dir/wondrousItems#_belt-of-physical-might) +2_ (Dex, Con), _ [cloak of resistance](../magicItems_dir/wondrousItems#_cloak-of-resistance) +1_, _ [ring of protection](../magicItems_dir/rings#_ring-of-protection) +1_, masterwork thieves' tools, 2,047 gp
 
 The guildmaster manipulates crime and politics—often the same thing—to create wealth and stability for himself and his devoted thieves.
 
@@ -832,7 +832,7 @@ Offense
 
 **Speed** 30 ft.
 
-**Melee** _+2 [vicious](magicItems_dir/weapons#_vicious) spiked chain_ +19_dir/+14 (2d4+5_dir/19–20 plus 2d6)
+**Melee** _+2 [vicious](../magicItems_dir/weapons#_vicious) spiked chain_ +19_dir/+14 (2d4+5_dir/19–20 plus 2d6)
 
 **Special Attacks** sneak attack +7d6
 
@@ -846,13 +846,13 @@ Statistics
 
 **Base Atk** +10; **CMB** +12 (+16 disarm or trip); **CMD** 29 (31 vs. disarm or trip)
 
-**Feats** [Combat Expertise](feats#_combat-expertise), [Exotic Weapon Proficiency](feats#_exotic-weapon-proficiency) (spiked chain), Greater Disarm, Greater Trip, [Improved Critical](feats#_improved-critical) (spiked chain), Improved Disarm, [Improved Initiative](feats#_improved-initiative), Improved Trip, [Toughness](feats#_toughness), [Weapon Finesse](feats#_weapon-finesse), [Weapon Focus](feats#_weapon-focus) (spiked chain)
+**Feats** [Combat Expertise](../feats#_combat-expertise), [Exotic Weapon Proficiency](../feats#_exotic-weapon-proficiency) (spiked chain), Greater Disarm, Greater Trip, [Improved Critical](../feats#_improved-critical) (spiked chain), Improved Disarm, [Improved Initiative](../feats#_improved-initiative), Improved Trip, [Toughness](../feats#_toughness), [Weapon Finesse](../feats#_weapon-finesse), [Weapon Focus](../feats#_weapon-focus) (spiked chain)
 
-**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +23, [Climb](skills_dir/climb#_climb) +19, [Disable Device](skills_dir/disableDevice#_disable-device) +23, [Escape Artist](skills_dir/escapeArtist#_escape-artist) +23, [Intimidate](skills_dir/intimidate#_intimidate) +17, [Knowledge](skills_dir/knowledge#_knowledge) (dungeoneering) +8, [Knowledge](skills_dir/knowledge#_knowledge) (local) +9, [Knowledge](skills_dir/knowledge#_knowledge) (religion) +6, Perception +16, [Sleight of Hand](skills_dir/sleightOfHand#_sleight-of-hand) +23, [Stealth](skills_dir/stealth#_stealth) +23, [Survival](skills_dir/survival#_survival) +13, [Swim](skills_dir/swim#_swim) +19
+**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +23, [Climb](../skills_dir/climb#_climb) +19, [Disable Device](../skills_dir/disableDevice#_disable-device) +23, [Escape Artist](../skills_dir/escapeArtist#_escape-artist) +23, [Intimidate](../skills_dir/intimidate#_intimidate) +17, [Knowledge](../skills_dir/knowledge#_knowledge) (dungeoneering) +8, [Knowledge](../skills_dir/knowledge#_knowledge) (local) +9, [Knowledge](../skills_dir/knowledge#_knowledge) (religion) +6, Perception +16, [Sleight of Hand](../skills_dir/sleightOfHand#_sleight-of-hand) +23, [Stealth](../skills_dir/stealth#_stealth) +23, [Survival](../skills_dir/survival#_survival) +13, [Swim](../skills_dir/swim#_swim) +19
 
 **SQ** rogue talents (bleeding attack +7, feat, finesse rogue, improved evasion, opportunist, stand up, weapon training), trapfinding +7
 
-**Combat Gear** _potions of [cure serious wounds](spells_dir/cureSeriousWounds#_cure-serious-wounds)_ (3), _potions of [haste](spells_dir/haste#_haste)_ (2); **Other Gear** _+1 studded leather_, _+2 [vicious](magicItems_dir/weapons#_vicious) spiked chain_, _ [amulet of natural armor](magicItems_dir/wondrousItems#_amulet-of-natural-armor) +1_, _ [belt of incredible dexterity](magicItems_dir/wondrousItems#_belt-of-incredible-dexterity) +2_, _ [brooch of shielding](magicItems_dir/wondrousItems#_brooch-of-shielding)_, _ [cloak of resistance](magicItems_dir/wondrousItems#_cloak-of-resistance) +1_, _ [ring of protection](magicItems_dir/rings#_ring-of-protection) +1_, thieves' tools, 1,020 gp
+**Combat Gear** _potions of [cure serious wounds](../spells_dir/cureSeriousWounds#_cure-serious-wounds)_ (3), _potions of [haste](../spells_dir/haste#_haste)_ (2); **Other Gear** _+1 studded leather_, _+2 [vicious](../magicItems_dir/weapons#_vicious) spiked chain_, _ [amulet of natural armor](../magicItems_dir/wondrousItems#_amulet-of-natural-armor) +1_, _ [belt of incredible dexterity](../magicItems_dir/wondrousItems#_belt-of-incredible-dexterity) +2_, _ [brooch of shielding](../magicItems_dir/wondrousItems#_brooch-of-shielding)_, _ [cloak of resistance](../magicItems_dir/wondrousItems#_cloak-of-resistance) +1_, _ [ring of protection](../magicItems_dir/rings#_ring-of-protection) +1_, thieves' tools, 1,020 gp
 
 The chain mauler is a vicious sadist whose weapon allows her the bloodiest satisfaction.
 
@@ -890,15 +890,15 @@ Offense
 
 **Melee** mwk rapier +14_dir/+9_dir/+4 (1d6+2_dir/18–20)
 
-**Ranged** _+1 [shock](magicItems_dir/weapons#_weapons-shock) composite longbow_ +19_dir/+14_dir/+9 (1d8+3_dir/×3 plus 1d6 electricity)
+**Ranged** _+1 [shock](../magicItems_dir/weapons#_weapons-shock) composite longbow_ +19_dir/+14_dir/+9 (1d8+3_dir/×3 plus 1d6 electricity)
 
 **Special Attacks** sneak attack +8d6
 
 Tactics
 
-**Before Combat** The rogue uses his _ [ring of invisibility](magicItems_dir/rings#_ring-of-invisibility)_ and finds a hiding place from which he can ambush the PCs.
+**Before Combat** The rogue uses his _ [ring of invisibility](../magicItems_dir/rings#_ring-of-invisibility)_ and finds a hiding place from which he can ambush the PCs.
 
-**During Combat** The rogue uses Manyshot and Rapid Shot against his foes. If discovered, he uses his _ [ring of invisibility](magicItems_dir/rings#_ring-of-invisibility)_ again and changes location.
+**During Combat** The rogue uses Manyshot and Rapid Shot against his foes. If discovered, he uses his _ [ring of invisibility](../magicItems_dir/rings#_ring-of-invisibility)_ again and changes location.
 
 Statistics
 
@@ -906,15 +906,15 @@ Statistics
 
 **Base Atk** +11; **CMB** +13; **CMD** 31
 
-**Feats** [Dodge](feats#_dodge), Improved Precise Shot, Manyshot, Mobility, [Point-Blank Shot](feats#_point-blank-shot), Precise Shot, Rapid Shot, Shot on the [Run](feats#_run), [Skill Focus](feats#_skill-focus) ( [Stealth](skills_dir/stealth#_stealth)), [Weapon Focus](feats#_weapon-focus) (composite longbow)
+**Feats** [Dodge](../feats#_dodge), Improved Precise Shot, Manyshot, Mobility, [Point-Blank Shot](../feats#_point-blank-shot), Precise Shot, Rapid Shot, Shot on the [Run](../feats#_run), [Skill Focus](../feats#_skill-focus) ( [Stealth](../skills_dir/stealth#_stealth)), [Weapon Focus](../feats#_weapon-focus) (composite longbow)
 
-**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +24, [Climb](skills_dir/climb#_climb) +20, [Disguise](skills_dir/disguise#_disguise) +17, [Knowledge](skills_dir/knowledge#_knowledge) (dungeoneering) +8, [Knowledge](skills_dir/knowledge#_knowledge) (geography) +5, [Knowledge](skills_dir/knowledge#_knowledge) (nature) +15, Perception +21, [Ride](skills_dir/ride#_ride) +21, [Stealth](skills_dir/stealth#_stealth) +30, [Swim](skills_dir/swim#_swim) +10
+**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +24, [Climb](../skills_dir/climb#_climb) +20, [Disguise](../skills_dir/disguise#_disguise) +17, [Knowledge](../skills_dir/knowledge#_knowledge) (dungeoneering) +8, [Knowledge](../skills_dir/knowledge#_knowledge) (geography) +5, [Knowledge](../skills_dir/knowledge#_knowledge) (nature) +15, Perception +21, [Ride](../skills_dir/ride#_ride) +21, [Stealth](../skills_dir/stealth#_stealth) +30, [Swim](../skills_dir/swim#_swim) +10
 
 **Languages** Common, Elven
 
 **SQ** rogue talents (bleeding attack +8, defensive roll, fast stealth, improved evasion, rogue crawl, slippery mind, weapon training), trapfinding +7, elf blood
 
-**Combat Gear** _+1 human-bane arrows_ (5), _+1 magical beast-bane arrows_ (5), _ [silversheen](magicItems_dir/wondrousItems#_silversheen)_ (2); **Other Gear** _+2 studded leather_, _+1 [shock](magicItems_dir/weapons#_weapons-shock) composite longbow_ (+2 Str) with 50 arrows, masterwork rapier, _ [belt of incredible dexterity](magicItems_dir/wondrousItems#_belt-of-incredible-dexterity) +2_, _ [cloak of resistance](magicItems_dir/wondrousItems#_cloak-of-resistance) +1_, _ [efficient quiver](magicItems_dir/wondrousItems#_efficient-quiver)_, _ [ring of invisibility](magicItems_dir/rings#_ring-of-invisibility)_, _ [ring of protection](magicItems_dir/rings#_ring-of-protection) +1_, disguise kit, sunrods (4), 1,587 gp
+**Combat Gear** _+1 human-bane arrows_ (5), _+1 magical beast-bane arrows_ (5), _ [silversheen](../magicItems_dir/wondrousItems#_silversheen)_ (2); **Other Gear** _+2 studded leather_, _+1 [shock](../magicItems_dir/weapons#_weapons-shock) composite longbow_ (+2 Str) with 50 arrows, masterwork rapier, _ [belt of incredible dexterity](../magicItems_dir/wondrousItems#_belt-of-incredible-dexterity) +2_, _ [cloak of resistance](../magicItems_dir/wondrousItems#_cloak-of-resistance) +1_, _ [efficient quiver](../magicItems_dir/wondrousItems#_efficient-quiver)_, _ [ring of invisibility](../magicItems_dir/rings#_ring-of-invisibility)_, _ [ring of protection](../magicItems_dir/rings#_ring-of-protection) +1_, disguise kit, sunrods (4), 1,587 gp
 
 The unseen archer strikes from concealment, planning for his target to die before it has a chance to see him.
 
@@ -950,7 +950,7 @@ Offense
 
 **Speed** 30 ft.
 
-**Melee** _ [sword of subtlety](magicItems_dir/weapons#_sword-of-subtlety)_ +18_dir/+13_dir/+8 (1d6+5_dir/17–20)
+**Melee** _ [sword of subtlety](../magicItems_dir/weapons#_sword-of-subtlety)_ +18_dir/+13_dir/+8 (1d6+5_dir/17–20)
 
 **Ranged** mwk dagger +17 (1d4+4_dir/19–20)
 
@@ -958,15 +958,15 @@ Offense
 
 **Rogue Spell-Like Abilities** (CL 16th, concentration +16)
 
-3_dir/day—_ [detect magic](spells_dir/detectMagic#_detect-magic)_
+3_dir/day—_ [detect magic](../spells_dir/detectMagic#_detect-magic)_
 
-2_dir/day—_ [shield](spells_dir/shield#_shield)_
+2_dir/day—_ [shield](../spells_dir/shield#_shield)_
 
 Tactics
 
-**Before Combat** The rogue drinks a _potion of [resist energy](spells_dir/resistEnergy#_resist-energy)_ if he expects his target to use energy attacks and uses _ [shield](spells_dir/shield#_shield)_ on himself.
+**Before Combat** The rogue drinks a _potion of [resist energy](../spells_dir/resistEnergy#_resist-energy)_ if he expects his target to use energy attacks and uses _ [shield](../spells_dir/shield#_shield)_ on himself.
 
-**During Combat** The rogue uses Sickening Critical or [Intimidate](skills_dir/intimidate#_intimidate) to hinder opponents so he can use Shatter Defenses to sneak attack them. If the opponent has magical protections, the rogue uses the dispelling attack rogue talent to break those defenses.
+**During Combat** The rogue uses Sickening Critical or [Intimidate](../skills_dir/intimidate#_intimidate) to hinder opponents so he can use Shatter Defenses to sneak attack them. If the opponent has magical protections, the rogue uses the dispelling attack rogue talent to break those defenses.
 
 Statistics
 
@@ -974,15 +974,15 @@ Statistics
 
 **Base Atk** +12; **CMB** +16; **CMD** 30
 
-**Feats** [Critical Focus](feats#_critical-focus), Dazzling Display, [Improved Critical](feats#_improved-critical) (short sword), [Improved Initiative](feats#_improved-initiative), Improved [Iron Will](feats#_iron-will), [Iron Will](feats#_iron-will), Shatter Defenses, Sickening Critical, [Step Up](feats#_step-up), [Weapon Finesse](feats#_weapon-finesse), [Weapon Focus](feats#_weapon-focus) (short sword)
+**Feats** [Critical Focus](../feats#_critical-focus), Dazzling Display, [Improved Critical](../feats#_improved-critical) (short sword), [Improved Initiative](../feats#_improved-initiative), Improved [Iron Will](../feats#_iron-will), [Iron Will](../feats#_iron-will), Shatter Defenses, Sickening Critical, [Step Up](../feats#_step-up), [Weapon Finesse](../feats#_weapon-finesse), [Weapon Focus](../feats#_weapon-focus) (short sword)
 
-**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +23, [Disable Device](skills_dir/disableDevice#_disable-device) +25, [Fly](skills_dir/fly#_fly) +20, [Intimidate](skills_dir/intimidate#_intimidate) +20, [Knowledge](skills_dir/knowledge#_knowledge) (arcana) +16, Perception +20, [Spellcraft](skills_dir/spellcraft#_spellcraft) +16, [Stealth](skills_dir/stealth#_stealth) +23
+**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +23, [Disable Device](../skills_dir/disableDevice#_disable-device) +25, [Fly](../skills_dir/fly#_fly) +20, [Intimidate](../skills_dir/intimidate#_intimidate) +20, [Knowledge](../skills_dir/knowledge#_knowledge) (arcana) +16, Perception +20, [Spellcraft](../skills_dir/spellcraft#_spellcraft) +16, [Stealth](../skills_dir/stealth#_stealth) +23
 
 **Languages** Common
 
 **SQ** orc blood, rogue talents (combat trick, dispelling attack [CL 16th], feat, improved evasion, major magic, minor magic, slippery mind, weapon training), trapfinding +8, weapon familiarity
 
-**Combat Gear** _potions of [cure serious wounds](spells_dir/cureSeriousWounds#_cure-serious-wounds)_ (2), _potion of [fly](spells_dir/fly)_, _potion of [invisibility](spells_dir/invisibility#_invisibility)_, _potions of [resist energy](spells_dir/resistEnergy#_resist-energy)_ (acid, cold, fire); **Other Gear** _+1 studded leather_, _ [sword of subtlety](magicItems_dir/weapons#_sword-of-subtlety)_, masterwork dagger, _ [belt of incredible dexterity](magicItems_dir/wondrousItems#_belt-of-incredible-dexterity) +2_, _ [brooch of shielding](magicItems_dir/wondrousItems#_brooch-of-shielding)_, _ [cloak of resistance](magicItems_dir/wondrousItems#_cloak-of-resistance) +5_, masterwork thieves' tools, 1,413 gp
+**Combat Gear** _potions of [cure serious wounds](../spells_dir/cureSeriousWounds#_cure-serious-wounds)_ (2), _potion of [fly](../spells_dir/fly)_, _potion of [invisibility](../spells_dir/invisibility#_invisibility)_, _potions of [resist energy](../spells_dir/resistEnergy#_resist-energy)_ (acid, cold, fire); **Other Gear** _+1 studded leather_, _ [sword of subtlety](../magicItems_dir/weapons#_sword-of-subtlety)_, masterwork dagger, _ [belt of incredible dexterity](../magicItems_dir/wondrousItems#_belt-of-incredible-dexterity) +2_, _ [brooch of shielding](../magicItems_dir/wondrousItems#_brooch-of-shielding)_, _ [cloak of resistance](../magicItems_dir/wondrousItems#_cloak-of-resistance) +5_, masterwork thieves' tools, 1,413 gp
 
 The mage slayer is trained and equipped to murder arcane spellcasters. Each one has some minor magical training, either from a church or arcane study.
 
@@ -1018,7 +1018,7 @@ Offense
 
 **Speed** 30 ft.
 
-**Melee** _+1 [shock](magicItems_dir/weapons#_weapons-shock) rapier_ +19_dir/+14_dir/+9 (1d6+1_dir/15–20 plus 1d6 electricity)
+**Melee** _+1 [shock](../magicItems_dir/weapons#_weapons-shock) rapier_ +19_dir/+14_dir/+9 (1d6+1_dir/15–20 plus 1d6 electricity)
 
 **Ranged** _+1 shortbow_ +19_dir/+14_dir/+9 (1d6+1_dir/x3)
 
@@ -1028,7 +1028,7 @@ Tactics
 
 **Before Combat** The rogue prefers to work from the shadows, manipulating events and people to do his bidding. If combat is needed, he always attacks from surprise, when his foes least expect it.
 
-**During Combat** The rogue prefers to move up, strike suddenly, withdraw before his foes can respond, and use his _ [hat of disguise](magicItems_dir/wondrousItems#_hat-of-disguise)_ to change his appearance once he's out of sight. He relies on his rogue talents to protect him.
+**During Combat** The rogue prefers to move up, strike suddenly, withdraw before his foes can respond, and use his _ [hat of disguise](../magicItems_dir/wondrousItems#_hat-of-disguise)_ to change his appearance once he's out of sight. He relies on his rogue talents to protect him.
 
 Statistics
 
@@ -1036,15 +1036,15 @@ Statistics
 
 **Base Atk** +12; **CMB** +12; **CMD** 32
 
-**Feats** [Combat Expertise](feats#_combat-expertise), [Dodge](feats#_dodge), Greater Feint, [Improved Critical](feats#_improved-critical) (rapier), Improved Feint, [Iron Will](feats#_iron-will), Mobility, Spring Attack, [Toughness](feats#_toughness), [Weapon Finesse](feats#_weapon-finesse)
+**Feats** [Combat Expertise](../feats#_combat-expertise), [Dodge](../feats#_dodge), Greater Feint, [Improved Critical](../feats#_improved-critical) (rapier), Improved Feint, [Iron Will](../feats#_iron-will), Mobility, Spring Attack, [Toughness](../feats#_toughness), [Weapon Finesse](../feats#_weapon-finesse)
 
-**Skills** [Bluff](skills_dir/bluff#_bluff) +21, [Climb](skills_dir/climb#_climb) +8, [Diplomacy](skills_dir/diplomacy#_diplomacy) +21, [Disable Device](skills_dir/disableDevice#_disable-device) +23, [Disguise](skills_dir/disguise#_disguise) +21, [Escape Artist](skills_dir/escapeArtist#_escape-artist) +19, [Intimidate](skills_dir/intimidate#_intimidate) +9, [Knowledge](skills_dir/knowledge#_knowledge) (arcana, geography) +7, [Knowledge](skills_dir/knowledge#_knowledge) (local) +22, [Knowledge](skills_dir/knowledge#_knowledge) (nobility) +12, Perception +15, [Perform](skills_dir/perform#_perform) (act) +8, [Ride](skills_dir/ride#_ride) +11, [Sense Motive](skills_dir/senseMotive#_sense-motive) +15, [Sleight of Hand](skills_dir/sleightOfHand#_sleight-of-hand) +14, [Stealth](skills_dir/stealth#_stealth) +26, [Use Magic Device](skills_dir/useMagicDevice#_use-magic-device) +16
+**Skills** [Bluff](../skills_dir/bluff#_bluff) +21, [Climb](../skills_dir/climb#_climb) +8, [Diplomacy](../skills_dir/diplomacy#_diplomacy) +21, [Disable Device](../skills_dir/disableDevice#_disable-device) +23, [Disguise](../skills_dir/disguise#_disguise) +21, [Escape Artist](../skills_dir/escapeArtist#_escape-artist) +19, [Intimidate](../skills_dir/intimidate#_intimidate) +9, [Knowledge](../skills_dir/knowledge#_knowledge) (arcana, geography) +7, [Knowledge](../skills_dir/knowledge#_knowledge) (local) +22, [Knowledge](../skills_dir/knowledge#_knowledge) (nobility) +12, Perception +15, [Perform](../skills_dir/perform#_perform) (act) +8, [Ride](../skills_dir/ride#_ride) +11, [Sense Motive](../skills_dir/senseMotive#_sense-motive) +15, [Sleight of Hand](../skills_dir/sleightOfHand#_sleight-of-hand) +14, [Stealth](../skills_dir/stealth#_stealth) +26, [Use Magic Device](../skills_dir/useMagicDevice#_use-magic-device) +16
 
 **Languages** Common, Dwarven, Elven
 
 **SQ** rogue talents (bleeding attack +9, crippling strike, defensive roll, fast stealth, improved evasion, slippery mind, stand up, trap spotter), trapfinding +8
 
-**Combat Gear** _potions of [cure serious wounds](spells_dir/cureSeriousWounds#_cure-serious-wounds)_ (2), _scroll of [dimension door](spells_dir/dimensionDoor#_dimension-door)_, _scroll of [heal](spells_dir/heal#_heal)_,_ scrolls of [invisibility](spells_dir/invisibility#_invisibility)_ (2); **Other Gear** _+4 [shadow](magicItems_dir/armor#_armor-shadow) studded leather_, _+1 [shock](magicItems_dir/weapons#_weapons-shock) rapier_, _+1 shortbow_ with 20 arrows, _ [amulet of natural armor](magicItems_dir/wondrousItems#_amulet-of-natural-armor) +1_, _ [bag of holding](magicItems_dir/wondrousItems#_bag-of-holding)_ (type I),_ [belt of incredible dexterity](magicItems_dir/wondrousItems#_belt-of-incredible-dexterity) +4_, _ [cloak of resistance](magicItems_dir/wondrousItems#_cloak-of-resistance) +2_, _ [hat of disguise](magicItems_dir/wondrousItems#_hat-of-disguise)_, _ [ring of protection](magicItems_dir/rings#_ring-of-protection) +3_, everburning torch, masterwork thieves' tools, 1,765 gp
+**Combat Gear** _potions of [cure serious wounds](../spells_dir/cureSeriousWounds#_cure-serious-wounds)_ (2), _scroll of [dimension door](../spells_dir/dimensionDoor#_dimension-door)_, _scroll of [heal](../spells_dir/heal#_heal)_,_ scrolls of [invisibility](../spells_dir/invisibility#_invisibility)_ (2); **Other Gear** _+4 [shadow](../magicItems_dir/armor#_armor-shadow) studded leather_, _+1 [shock](../magicItems_dir/weapons#_weapons-shock) rapier_, _+1 shortbow_ with 20 arrows, _ [amulet of natural armor](../magicItems_dir/wondrousItems#_amulet-of-natural-armor) +1_, _ [bag of holding](../magicItems_dir/wondrousItems#_bag-of-holding)_ (type I),_ [belt of incredible dexterity](../magicItems_dir/wondrousItems#_belt-of-incredible-dexterity) +4_, _ [cloak of resistance](../magicItems_dir/wondrousItems#_cloak-of-resistance) +2_, _ [hat of disguise](../magicItems_dir/wondrousItems#_hat-of-disguise)_, _ [ring of protection](../magicItems_dir/rings#_ring-of-protection) +3_, everburning torch, masterwork thieves' tools, 1,765 gp
 
 The masked lord manipulates events from the shadows, using a thousand different names. He creates conspiracies and topples empires without anyone ever knowing his true identity.
 
@@ -1080,7 +1080,7 @@ Offense
 
 **Speed** 20 ft.
 
-**Melee** _+1 [wounding](magicItems_dir/weapons#_wounding) dagger_ +19_dir/+14_dir/+9 (1d3+1_dir/17–20 plus 1 bleed), _+1 dagger_ +19_dir/+14_dir/+9 (1d3+1_dir/17–20) or _+1 [wounding](magicItems_dir/weapons#_wounding) dagger_ +21_dir/+16_dir/+11 (1d3+1_dir/17–20 plus 1 bleed)
+**Melee** _+1 [wounding](../magicItems_dir/weapons#_wounding) dagger_ +19_dir/+14_dir/+9 (1d3+1_dir/17–20 plus 1 bleed), _+1 dagger_ +19_dir/+14_dir/+9 (1d3+1_dir/17–20) or _+1 [wounding](../magicItems_dir/weapons#_wounding) dagger_ +21_dir/+16_dir/+11 (1d3+1_dir/17–20 plus 1 bleed)
 
 **Ranged** mwk dagger +21_dir/+16_dir/+11 (1d3_dir/17–20)
 
@@ -1088,7 +1088,7 @@ Offense
 
 Tactics
 
-**During Combat** The rogue uses his _ [boots of speed](magicItems_dir/wondrousItems#_boots-of-speed)_ and enters melee, trying to kill one opponent as quickly as possible before moving to another. In ranged combat, he uses [Quick Draw](feats#_quick-draw) to draw and throw multiple daggers in 1 round.
+**During Combat** The rogue uses his _ [boots of speed](../magicItems_dir/wondrousItems#_boots-of-speed)_ and enters melee, trying to kill one opponent as quickly as possible before moving to another. In ranged combat, he uses [Quick Draw](../feats#_quick-draw) to draw and throw multiple daggers in 1 round.
 
 Statistics
 
@@ -1096,15 +1096,15 @@ Statistics
 
 **Base Atk** +13; **CMB** +12; **CMD** 29
 
-**Feats** [Combat Expertise](feats#_combat-expertise), [Critical Focus](feats#_critical-focus), Greater Feint, Greater [Two-Weapon Fighting](feats#_two-weapon-fighting), [Improved Critical](feats#_improved-critical) (dagger), Improved Feint, Improved [Two-Weapon Fighting](feats#_two-weapon-fighting), [Quick Draw](feats#_quick-draw), Two-Weapon Defense, [Two-Weapon Fighting](feats#_two-weapon-fighting), [Weapon Finesse](feats#_weapon-finesse), [Weapon Focus](feats#_weapon-focus) (dagger)
+**Feats** [Combat Expertise](../feats#_combat-expertise), [Critical Focus](../feats#_critical-focus), Greater Feint, Greater [Two-Weapon Fighting](../feats#_two-weapon-fighting), [Improved Critical](../feats#_improved-critical) (dagger), Improved Feint, Improved [Two-Weapon Fighting](../feats#_two-weapon-fighting), [Quick Draw](../feats#_quick-draw), Two-Weapon Defense, [Two-Weapon Fighting](../feats#_two-weapon-fighting), [Weapon Finesse](../feats#_weapon-finesse), [Weapon Focus](../feats#_weapon-focus) (dagger)
 
-**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +28 (+24 when jumping), [Bluff](skills_dir/bluff#_bluff) +21, [Climb](skills_dir/climb#_climb) +23, [Diplomacy](skills_dir/diplomacy#_diplomacy) +12, [Disable Device](skills_dir/disableDevice#_disable-device) +28, [Escape Artist](skills_dir/escapeArtist#_escape-artist) +26, [Intimidate](skills_dir/intimidate#_intimidate) +12, [Knowledge](skills_dir/knowledge#_knowledge) (local) +14, Perception +23, [Sleight of Hand](skills_dir/sleightOfHand#_sleight-of-hand) +26, [Stealth](skills_dir/stealth#_stealth) +30, [Swim](skills_dir/swim#_swim) +12
+**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +28 (+24 when jumping), [Bluff](../skills_dir/bluff#_bluff) +21, [Climb](../skills_dir/climb#_climb) +23, [Diplomacy](../skills_dir/diplomacy#_diplomacy) +12, [Disable Device](../skills_dir/disableDevice#_disable-device) +28, [Escape Artist](../skills_dir/escapeArtist#_escape-artist) +26, [Intimidate](../skills_dir/intimidate#_intimidate) +12, [Knowledge](../skills_dir/knowledge#_knowledge) (local) +14, Perception +23, [Sleight of Hand](../skills_dir/sleightOfHand#_sleight-of-hand) +26, [Stealth](../skills_dir/stealth#_stealth) +30, [Swim](../skills_dir/swim#_swim) +12
 
 **Languages** Common, Halfling
 
 **SQ** rogue talents (bleeding attack +9, combat trick, crippling strike, defensive roll, feat, finesse rogue, improved evasion, slow reactions, surprise attack), trapfinding +9
 
-**Gear** _+4 leather armor_, _+1 dagger_, _+1 [wounding](magicItems_dir/weapons#_wounding) dagger_, daggers (4), masterwork daggers (4), _ [amulet of natural armor](magicItems_dir/wondrousItems#_amulet-of-natural-armor) +2_, _ [boots of speed](magicItems_dir/wondrousItems#_boots-of-speed)_, _cloak of minor [displacement](spells_dir/displacement#_displacement)_, _ [dust of appearance](magicItems_dir/wondrousItems#_dust-of-appearance)_, _ [ring of protection](magicItems_dir/rings#_ring-of-protection) +2_, _ [salve of slipperiness](magicItems_dir/wondrousItems#_salve-of-slipperiness)_, masterwork thieves' tools, 1,770 gp
+**Gear** _+4 leather armor_, _+1 dagger_, _+1 [wounding](../magicItems_dir/weapons#_wounding) dagger_, daggers (4), masterwork daggers (4), _ [amulet of natural armor](../magicItems_dir/wondrousItems#_amulet-of-natural-armor) +2_, _ [boots of speed](../magicItems_dir/wondrousItems#_boots-of-speed)_, _cloak of minor [displacement](../spells_dir/displacement#_displacement)_, _ [dust of appearance](../magicItems_dir/wondrousItems#_dust-of-appearance)_, _ [ring of protection](../magicItems_dir/rings#_ring-of-protection) +2_, _ [salve of slipperiness](../magicItems_dir/wondrousItems#_salve-of-slipperiness)_, masterwork thieves' tools, 1,770 gp
 
 The dagger master has perfected the technique of killing with a small blade.
 
@@ -1140,7 +1140,7 @@ Offense
 
 **Speed** 30 ft.
 
-**Melee** _ [rapier of puncturing](magicItems_dir/weapons#_rapier-of-puncturing)_ +23_dir/+18_dir/+13 (1d6+4_dir/15–20 plus 1 bleed)
+**Melee** _ [rapier of puncturing](../magicItems_dir/weapons#_rapier-of-puncturing)_ +23_dir/+18_dir/+13 (1d6+4_dir/15–20 plus 1 bleed)
 
 **Ranged** mwk dagger +21 (1d4+2_dir/19–20)
 
@@ -1148,7 +1148,7 @@ Offense
 
 Tactics
 
-**During Combat** The rogue uses Spring Attack and Lightning Stance to reach opponents, and uses his _ [rapier of puncturing](magicItems_dir/weapons#_rapier-of-puncturing)_ to make sneak attacks.
+**During Combat** The rogue uses Spring Attack and Lightning Stance to reach opponents, and uses his _ [rapier of puncturing](../magicItems_dir/weapons#_rapier-of-puncturing)_ to make sneak attacks.
 
 Statistics
 
@@ -1156,15 +1156,15 @@ Statistics
 
 **Base Atk** +14; **CMB** +16; **CMD** 35
 
-**Feats** [Critical Focus](feats#_critical-focus), [Dodge](feats#_dodge), [Improved Critical](feats#_improved-critical) (rapier), [Improved Initiative](feats#_improved-initiative), Improved [Vital Strike](feats#_vital-strike), [Iron Will](feats#_iron-will), Lightning Stance, Mobility, Spring Attack, Staggering Critical, [Toughness](feats#_toughness), [Vital Strike](feats#_vital-strike), [Weapon Finesse](feats#_weapon-finesse), [Weapon Focus](feats#_weapon-focus) (rapier), Wind Stance
+**Feats** [Critical Focus](../feats#_critical-focus), [Dodge](../feats#_dodge), [Improved Critical](../feats#_improved-critical) (rapier), [Improved Initiative](../feats#_improved-initiative), Improved [Vital Strike](../feats#_vital-strike), [Iron Will](../feats#_iron-will), Lightning Stance, Mobility, Spring Attack, Staggering Critical, [Toughness](../feats#_toughness), [Vital Strike](../feats#_vital-strike), [Weapon Finesse](../feats#_weapon-finesse), [Weapon Focus](../feats#_weapon-focus) (rapier), Wind Stance
 
-**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +28, [Bluff](skills_dir/bluff#_bluff) +21, [Climb](skills_dir/climb#_climb) +24, [Disable Device](skills_dir/disableDevice#_disable-device) +39, [Escape Artist](skills_dir/escapeArtist#_escape-artist) +28, Perception +23, [Sense Motive](skills_dir/senseMotive#_sense-motive) +23, [Stealth](skills_dir/stealth#_stealth) +28, [Swim](skills_dir/swim#_swim) +24
+**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +28, [Bluff](../skills_dir/bluff#_bluff) +21, [Climb](../skills_dir/climb#_climb) +24, [Disable Device](../skills_dir/disableDevice#_disable-device) +39, [Escape Artist](../skills_dir/escapeArtist#_escape-artist) +28, Perception +23, [Sense Motive](../skills_dir/senseMotive#_sense-motive) +23, [Stealth](../skills_dir/stealth#_stealth) +28, [Swim](../skills_dir/swim#_swim) +24
 
 **Languages** Common
 
 **SQ** rogue talents (bleeding attack +10, combat trick, defensive roll, feat, finesse rogue, improved evasion, rogue crawl, slippery mind, weapon training), trapfinding +9
 
-**Combat Gear** _potions of [cure serious wounds](spells_dir/cureSeriousWounds#_cure-serious-wounds)_ (2), _potion of [fly](spells_dir/fly)_, _potions of [haste](spells_dir/haste#_haste)_ (2), _potions of [invisibility](spells_dir/invisibility#_invisibility)_ (3); **Other Gear** _+3 [shadow](magicItems_dir/armor#_armor-shadow) studded leather_, _ [rapier of puncturing](magicItems_dir/weapons#_rapier-of-puncturing)_, masterwork dagger, _ [amulet of natural armor](magicItems_dir/wondrousItems#_amulet-of-natural-armor) +2_, _ [belt of incredible dexterity](magicItems_dir/wondrousItems#_belt-of-incredible-dexterity) +4_, _ [cloak of resistance](magicItems_dir/wondrousItems#_cloak-of-resistance) +3_, _ [ring of force shield](magicItems_dir/rings#_ring-of-force-shield), [ring of protection](magicItems_dir/rings#_ring-of-protection) +2_, masterwork dagger (4), masterwork rapier, masterwork thieves' tools, 3,977 gp
+**Combat Gear** _potions of [cure serious wounds](../spells_dir/cureSeriousWounds#_cure-serious-wounds)_ (2), _potion of [fly](../spells_dir/fly)_, _potions of [haste](../spells_dir/haste#_haste)_ (2), _potions of [invisibility](../spells_dir/invisibility#_invisibility)_ (3); **Other Gear** _+3 [shadow](../magicItems_dir/armor#_armor-shadow) studded leather_, _ [rapier of puncturing](../magicItems_dir/weapons#_rapier-of-puncturing)_, masterwork dagger, _ [amulet of natural armor](../magicItems_dir/wondrousItems#_amulet-of-natural-armor) +2_, _ [belt of incredible dexterity](../magicItems_dir/wondrousItems#_belt-of-incredible-dexterity) +4_, _ [cloak of resistance](../magicItems_dir/wondrousItems#_cloak-of-resistance) +3_, _ [ring of force shield](../magicItems_dir/rings#_ring-of-force-shield), [ring of protection](../magicItems_dir/rings#_ring-of-protection) +2_, masterwork dagger (4), masterwork rapier, masterwork thieves' tools, 3,977 gp
 
 The death whisperer ends lives with a quiet sigh, freeing a last breath and a soul with one strike.
 
@@ -1200,7 +1200,7 @@ Offense
 
 **Speed** 30 ft.
 
-**Melee** _+2 [brilliant energy](magicItems_dir/weapons#_weapons-brilliant-energy) longsword_ +19_dir/+14_dir/+9 (1d8+5_dir/19–20), _+1 [frost](magicItems_dir/weapons#_weapons-frost) short sword_ +20_dir/+15_dir/+10 (1d6+4_dir/19–20 plus 1d6 cold) or _+2 [brilliant energy](magicItems_dir/weapons#_weapons-brilliant-energy) longsword_ +21_dir/+16_dir/+11 (1d8+5_dir/19–20) or _+1 [keen](magicItems_dir/weapons#_weapons-keen) rapier_ +22_dir/+17_dir/+12 (1d6+4_dir/15–20) or _+1 [frost](magicItems_dir/weapons#_weapons-frost) short sword_ +22_dir/+17_dir/+12 (1d6+4_dir/19–20 plus 1d6 cold)
+**Melee** _+2 [brilliant energy](../magicItems_dir/weapons#_weapons-brilliant-energy) longsword_ +19_dir/+14_dir/+9 (1d8+5_dir/19–20), _+1 [frost](../magicItems_dir/weapons#_weapons-frost) short sword_ +20_dir/+15_dir/+10 (1d6+4_dir/19–20 plus 1d6 cold) or _+2 [brilliant energy](../magicItems_dir/weapons#_weapons-brilliant-energy) longsword_ +21_dir/+16_dir/+11 (1d8+5_dir/19–20) or _+1 [keen](../magicItems_dir/weapons#_weapons-keen) rapier_ +22_dir/+17_dir/+12 (1d6+4_dir/15–20) or _+1 [frost](../magicItems_dir/weapons#_weapons-frost) short sword_ +22_dir/+17_dir/+12 (1d6+4_dir/19–20 plus 1d6 cold)
 
 **Special Attacks** master strike (DC 23), sneak attack +10d6
 
@@ -1214,13 +1214,13 @@ Statistics
 
 **Base Atk** +15; **CMB** +18; **CMD** 38
 
-**Feats** [Combat Expertise](feats#_combat-expertise), [Dodge](feats#_dodge), Greater Disarm, Greater [Two-Weapon Fighting](feats#_two-weapon-fighting), Improved Disarm, Improved [Two-Weapon Fighting](feats#_two-weapon-fighting), Mobility, Spring Attack, [Toughness](feats#_toughness), Two-Weapon Defense, [Two-Weapon Fighting](feats#_two-weapon-fighting), [Weapon Finesse](feats#_weapon-finesse), [Weapon Focus](feats#_weapon-focus) (longsword), Whirlwind Attack
+**Feats** [Combat Expertise](../feats#_combat-expertise), [Dodge](../feats#_dodge), Greater Disarm, Greater [Two-Weapon Fighting](../feats#_two-weapon-fighting), Improved Disarm, Improved [Two-Weapon Fighting](../feats#_two-weapon-fighting), Mobility, Spring Attack, [Toughness](../feats#_toughness), Two-Weapon Defense, [Two-Weapon Fighting](../feats#_two-weapon-fighting), [Weapon Finesse](../feats#_weapon-finesse), [Weapon Focus](../feats#_weapon-focus) (longsword), Whirlwind Attack
 
-**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +29, [Climb](skills_dir/climb#_climb) +26, [Diplomacy](skills_dir/diplomacy#_diplomacy) +22, [Disable Device](skills_dir/disableDevice#_disable-device) +31, [Disguise](skills_dir/disguise#_disguise) +22, [Escape Artist](skills_dir/escapeArtist#_escape-artist) +29, [Intimidate](skills_dir/intimidate#_intimidate) +22, [Knowledge](skills_dir/knowledge#_knowledge) (local) +26, Perception +25, [Sense Motive](skills_dir/senseMotive#_sense-motive) +23, [Stealth](skills_dir/stealth#_stealth) +29
+**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +29, [Climb](../skills_dir/climb#_climb) +26, [Diplomacy](../skills_dir/diplomacy#_diplomacy) +22, [Disable Device](../skills_dir/disableDevice#_disable-device) +31, [Disguise](../skills_dir/disguise#_disguise) +22, [Escape Artist](../skills_dir/escapeArtist#_escape-artist) +29, [Intimidate](../skills_dir/intimidate#_intimidate) +22, [Knowledge](../skills_dir/knowledge#_knowledge) (local) +26, Perception +25, [Sense Motive](../skills_dir/senseMotive#_sense-motive) +23, [Stealth](../skills_dir/stealth#_stealth) +29
 
 **SQ** elven magic, rogue talents (bleeding attack +10, combat trick, crippling strike, fast stealth, feat, finesse rogue, improved evasion, slippery mind, surprise attack, weapon training), trapfinding +10, weapon familiarity
 
-**Combat Gear** _potions of [cure serious wounds](spells_dir/cureSeriousWounds#_cure-serious-wounds)_ (3), _potions of [heroism](spells_dir/heroism#_heroism)_ (2),_ potions of [invisibility](spells_dir/invisibility#_invisibility)_ (3); **Other Gear** _+4 chain shirt_, _+2 [brilliant energy](magicItems_dir/weapons#_weapons-brilliant-energy) longsword_, _+1 [frost](magicItems_dir/weapons#_weapons-frost) short sword_, _+1 [keen](magicItems_dir/weapons#_weapons-keen) rapier_, _ [amulet of natural armor](magicItems_dir/wondrousItems#_amulet-of-natural-armor) +1_, _ [belt of physical perfection](magicItems_dir/wondrousItems#_belt-of-physical-perfection) +2_, _ [cloak of resistance](magicItems_dir/wondrousItems#_cloak-of-resistance) +2_, _ [headband of vast intelligence](magicItems_dir/wondrousItems#_headband-of-vast-intelligence) +2_, _ [ring of protection](magicItems_dir/rings#_ring-of-protection) +3_, masterwork thieves' tools, 4,055 gp
+**Combat Gear** _potions of [cure serious wounds](../spells_dir/cureSeriousWounds#_cure-serious-wounds)_ (3), _potions of [heroism](../spells_dir/heroism#_heroism)_ (2),_ potions of [invisibility](../spells_dir/invisibility#_invisibility)_ (3); **Other Gear** _+4 chain shirt_, _+2 [brilliant energy](../magicItems_dir/weapons#_weapons-brilliant-energy) longsword_, _+1 [frost](../magicItems_dir/weapons#_weapons-frost) short sword_, _+1 [keen](../magicItems_dir/weapons#_weapons-keen) rapier_, _ [amulet of natural armor](../magicItems_dir/wondrousItems#_amulet-of-natural-armor) +1_, _ [belt of physical perfection](../magicItems_dir/wondrousItems#_belt-of-physical-perfection) +2_, _ [cloak of resistance](../magicItems_dir/wondrousItems#_cloak-of-resistance) +2_, _ [headband of vast intelligence](../magicItems_dir/wondrousItems#_headband-of-vast-intelligence) +2_, _ [ring of protection](../magicItems_dir/rings#_ring-of-protection) +3_, masterwork thieves' tools, 4,055 gp
 
 The blade lord has attained mastery with swords by forsaking all other weapons.
 

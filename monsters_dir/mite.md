@@ -10,9 +10,9 @@ _This squat humanoid seems to be nearly all head—an unfortunate circumstance, 
 
 **XP 100**
 
-LE Small [fey](creatureTypes#_fey)
+LE Small [fey](../creatureTypes#_fey)
 
-**Init** +1; **Senses** darkvision 120 ft., low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skills_dir/perception#_perception) +5
+**Init** +1; **Senses** darkvision 120 ft., low-light vision, [scent](../universalMonsterRules#_scent); [Perception](../../skills_dir/perception#_perception) +5
 
 **Defense**
 
@@ -24,7 +24,7 @@ LE Small [fey](creatureTypes#_fey)
 
 **DR** 2_dir/cold iron
 
-**Weaknesses** [light sensitivity](universalMonsterRules#_light-sensitivity)
+**Weaknesses** [light sensitivity](../universalMonsterRules#_light-sensitivity)
 
 **Offense**
 
@@ -38,9 +38,9 @@ LE Small [fey](creatureTypes#_fey)
 
 **Spell-Like Abilities** (CL 1st)
 
-At will—_ [prestidigitation](../spells_dir/prestidigitation#_prestidigitation)_
+At will—_ [prestidigitation](../../spells_dir/prestidigitation#_prestidigitation)_
 
-1_dir/day—_ [doom](../spells_dir/doom#_doom)_ (DC 10)
+1_dir/day—_ [doom](../../spells_dir/doom#_doom)_ (DC 10)
 
 **Statistics**
 
@@ -48,9 +48,9 @@ At will—_ [prestidigitation](../spells_dir/prestidigitation#_prestidigitation)
 
 **Base Atk** +0; **CMB** –2; **CMD** 9
 
-**Feats** [Point-Blank Shot](../feats#_point-blank-shot)
+**Feats** [Point-Blank Shot](../../feats#_point-blank-shot)
 
-**Skills** [Climb](../skills_dir/climb#_climb) +7, [Handle Animal](../skills_dir/handleAnimal#_handle-animal) +0, [Perception](../skills_dir/perception#_perception) +5, [Ride](../skills_dir/ride#_ride) +2, [Sleight of Hand](../skills_dir/sleightOfHand#_sleight-of-hand) +9, [Stealth](../skills_dir/stealth#_stealth) +13; **Racial Modifiers** +4 [Sleight of Hand](../skills_dir/sleightOfHand#_sleight-of-hand), +4 [Stealth](../skills_dir/stealth#_stealth)
+**Skills** [Climb](../../skills_dir/climb#_climb) +7, [Handle Animal](../../skills_dir/handleAnimal#_handle-animal) +0, [Perception](../../skills_dir/perception#_perception) +5, [Ride](../../skills_dir/ride#_ride) +2, [Sleight of Hand](../../skills_dir/sleightOfHand#_sleight-of-hand) +9, [Stealth](../../skills_dir/stealth#_stealth) +13; **Racial Modifiers** +4 [Sleight of Hand](../../skills_dir/sleightOfHand#_sleight-of-hand), +4 [Stealth](../../skills_dir/stealth#_stealth)
 
 **Languages** Undercommon
 
@@ -74,7 +74,7 @@ Descended from even smaller fey, the mites are among the most pitiful and craven
 
 Mites, once closer to the strange realm of the fey, have grown larger and stockier after countless generations spent on the Material Plane. Yet still, their stature places them at the bottom of the pile in the dangerous caverns in which they live. Their traditional enemies are dwarves and gnomes, particularly the svirfneblin of the deep underground caves. The one thing that gives them a significant edge over an enemy in a fight is their natural ability to empathize with normally mindless vermin—mites are particularly fond of spiders, centipedes, and cave fishers, and a mite colony usually has a few of these far more dangerous monsters on hand to defend the group.
 
-Although they have lost the supernatural ability to tinker with magic items, luck, or mechanical objects possessed by their more sinister and dangerous gremlin kin, mites retain the ability to perform minor magical tricks with _ [prestidigitation](../spells_dir/prestidigitation#_prestidigitation)_, and often use these tricks to annoy their enemies. When faced with dangerous foes, a mite uses its _ [doom](../spells_dir/doom#_doom)_ ability to hex a foe—a mite's eyes bulge hideously open when it uses this spell-like ability.
+Although they have lost the supernatural ability to tinker with magic items, luck, or mechanical objects possessed by their more sinister and dangerous gremlin kin, mites retain the ability to perform minor magical tricks with _ [prestidigitation](../../spells_dir/prestidigitation#_prestidigitation)_, and often use these tricks to annoy their enemies. When faced with dangerous foes, a mite uses its _ [doom](../../spells_dir/doom#_doom)_ ability to hex a foe—a mite's eyes bulge hideously open when it uses this spell-like ability.
 
 A mite is 3 feet tall and weighs 40 pounds.
 

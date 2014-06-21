@@ -10,9 +10,9 @@ _This flame-red humanoid appears to be a strange mix of insect and reptile, with
 
 **XP 2,400**
 
-LE Medium [outsider](creatureTypes#_outsider) ( [evil](creatureTypes#_evil-subtype), [extraplanar](creatureTypes#_extraplanar-subtype))
+LE Medium [outsider](../creatureTypes#_outsider) ( [evil](../creatureTypes#_evil-subtype), [extraplanar](../creatureTypes#_extraplanar-subtype))
 
-**Init** +8; **Senses** darkvision 60 ft.; [Perception](../skills_dir/perception#_perception) +13
+**Init** +8; **Senses** darkvision 60 ft.; [Perception](../../skills_dir/perception#_perception) +13
 
 **Defense**
 
@@ -28,7 +28,7 @@ LE Medium [outsider](creatureTypes#_outsider) ( [evil](creatureTypes#_evil-subty
 
 **Speed** 40 ft.
 
-**Melee** short swords +13_dir/+13_dir/+8 (1d6+3_dir/19–20), claw +13 (1d4+3 plus [grab](universalMonsterRules#_grab)), bite +7 (1d3+1 plus paralysis), or 4 claws +13 (1d4+3 plus [grab](universalMonsterRules#_grab)), bite +12 (1d3+3 plus paralysis)
+**Melee** short swords +13_dir/+13_dir/+8 (1d6+3_dir/19–20), claw +13 (1d4+3 plus [grab](../universalMonsterRules#_grab)), bite +7 (1d3+1 plus paralysis), or 4 claws +13 (1d4+3 plus [grab](../universalMonsterRules#_grab)), bite +12 (1d3+3 plus paralysis)
 
 **Ranged** 2 longbows +13 (1d8_dir/×3)
 
@@ -40,9 +40,9 @@ LE Medium [outsider](creatureTypes#_outsider) ( [evil](creatureTypes#_evil-subty
 
 **Base**  **Atk** +9; **CMB** +12 (+16 grapple); **CMD** 26
 
-**Feats** [Combat Reflexes](../feats#_combat-reflexes), [Improved Initiative](../feats#_improved-initiative), [Iron Will](../feats#_iron-will), [Weapon Focus](../feats#_weapon-focus) (claw, short sword)
+**Feats** [Combat Reflexes](../../feats#_combat-reflexes), [Improved Initiative](../../feats#_improved-initiative), [Iron Will](../../feats#_iron-will), [Weapon Focus](../../feats#_weapon-focus) (claw, short sword)
 
-**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +16, [Bluff](../skills_dir/bluff#_bluff) +12, [Intimidate](../skills_dir/intimidate#_intimidate) +12, [Knowledge](../skills_dir/knowledge#_knowledge) (arcana) +14, [Knowledge](../skills_dir/knowledge#_knowledge) (planes) +14, [Perception](../skills_dir/perception#_perception) +13, [Sense Motive](../skills_dir/senseMotive#_sense-motive) +13, [Stealth](../skills_dir/stealth#_stealth) +14
+**Skills** [Acrobatics](../../skills_dir/acrobatics#_acrobatics) +16, [Bluff](../../skills_dir/bluff#_bluff) +12, [Intimidate](../../skills_dir/intimidate#_intimidate) +12, [Knowledge](../../skills_dir/knowledge#_knowledge) (arcana) +14, [Knowledge](../../skills_dir/knowledge#_knowledge) (planes) +14, [Perception](../../skills_dir/perception#_perception) +13, [Sense Motive](../../skills_dir/senseMotive#_sense-motive) +13, [Stealth](../../skills_dir/stealth#_stealth) +14
 
 **Languages** Common, Infernal
 
@@ -58,7 +58,7 @@ LE Medium [outsider](creatureTypes#_outsider) ( [evil](creatureTypes#_evil-subty
 
 **Special Abilities**
 
-**Implant (Ex)** As a standard action, a xill can lay 2d6 eggs in a helpless creature. A xill's eggs hatch in 24 hours, at which point the young consume the host from within, inflicting 1 point of Con damage per hour per young until the host dies. The young then emerge and planewalk to the Ethereal Plane, if possible, to mature. A _ [remove disease](../spells_dir/removeDisease#_remove-disease)_ spell (or similar effect) rids a victim of all implanted eggs or active young, or they can be cut out one at a time with DC 20 [Heal](../skills_dir/heal#_heal) checks (each attempt takes 10 minutes). If a check fails, the healer can try again, but each attempt (successful or not) deals 1d4 points of damage to the patient.
+**Implant (Ex)** As a standard action, a xill can lay 2d6 eggs in a helpless creature. A xill's eggs hatch in 24 hours, at which point the young consume the host from within, inflicting 1 point of Con damage per hour per young until the host dies. The young then emerge and planewalk to the Ethereal Plane, if possible, to mature. A _ [remove disease](../../spells_dir/removeDisease#_remove-disease)_ spell (or similar effect) rids a victim of all implanted eggs or active young, or they can be cut out one at a time with DC 20 [Heal](../../skills_dir/heal#_heal) checks (each attempt takes 10 minutes). If a check fails, the healer can try again, but each attempt (successful or not) deals 1d4 points of damage to the patient.
 
 **Multiweapon Mastery (Ex)** A xill never takes penalties to an attack roll when fighting with multiple weapons, and treats claws as primary attacks even when also wielding weapons.
 

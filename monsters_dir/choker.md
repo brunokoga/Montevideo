@@ -10,9 +10,9 @@ _This hunched-over wretch has long, pliable arms like tentacles capped with five
 
 **XP 600**
 
-CE Small [aberration](creatureTypes#_aberration)
+CE Small [aberration](../creatureTypes#_aberration)
 
-**Init** +6; **Senses** darkvision 60 ft.; [Perception](../skills_dir/perception#_perception) +1
+**Init** +6; **Senses** darkvision 60 ft.; [Perception](../../skills_dir/perception#_perception) +1
 
 **Defense**
 
@@ -26,11 +26,11 @@ CE Small [aberration](creatureTypes#_aberration)
 
 **Speed** 20 ft., climb 10 ft.
 
-**Melee** 2 tentacles +6 (1d4+3 plus [grab](universalMonsterRules#_grab))
+**Melee** 2 tentacles +6 (1d4+3 plus [grab](../universalMonsterRules#_grab))
 
 **Space** 5 ft.; **Reach** 10 ft.
 
-**Special Attacks** [constrict](universalMonsterRules#_constrict) (1d4+3), strangle, grab (Large)
+**Special Attacks** [constrict](../universalMonsterRules#_constrict) (1d4+3), strangle, grab (Large)
 
 **Statistics**
 
@@ -38,9 +38,9 @@ CE Small [aberration](creatureTypes#_aberration)
 
 **Base**  **Atk** +2; **CMB** +4 (+8 grappling); **CMD** 16
 
-**Feats** [Improved Initiative](../feats#_improved-initiative), [Skill Focus](../feats#_skill-focus) ( [Stealth](../skills_dir/stealth#_stealth))
+**Feats** [Improved Initiative](../../feats#_improved-initiative), [Skill Focus](../../feats#_skill-focus) ( [Stealth](../../skills_dir/stealth#_stealth))
 
-**Skills** [Climb](../skills_dir/climb#_climb) +16, [Stealth](../skills_dir/stealth#_stealth) +13
+**Skills** [Climb](../../skills_dir/climb#_climb) +16, [Stealth](../../skills_dir/stealth#_stealth) +13
 
 **Language** Undercommon
 

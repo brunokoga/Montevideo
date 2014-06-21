@@ -10,9 +10,9 @@ Adaro CR 3
 
 XP 800
 
-NE Medium monstrous humanoid ( [aquatic](monsters_dir/creatureTypes#_aquatic-subtype))
+NE Medium monstrous humanoid ( [aquatic](../monsters_dir/creatureTypes#_aquatic-subtype))
 
-**Init** +3; **Senses** [blindsense](monsters_dir/universalMonsterRules#_blindsense) 30 ft., darkvision 6o ft., low-light vision, keen [scent](monsters_dir/universalMonsterRules#_scent); [Perception](skills_dir/perception#_perception) +8
+**Init** +3; **Senses** [blindsense](../monsters_dir/universalMonsterRules#_blindsense) 30 ft., darkvision 6o ft., low-light vision, keen [scent](../monsters_dir/universalMonsterRules#_scent); [Perception](../skills_dir/perception#_perception) +8
 
 Defense
 
@@ -26,7 +26,7 @@ Offense
 
 **Speed** 10 ft., swim 50 ft.
 
-**Melee** spear +8 (1d8+4_dir/×3 plus [poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su))), bite +2 (1d6+3)
+**Melee** spear +8 (1d8+4_dir/×3 plus [poison](../monsters_dir/universalMonsterRules#_poison-(ex-or-su))), bite +2 (1d6+3)
 
 **Ranged** spear +8 (1d8+3_dir/×3)
 
@@ -38,13 +38,13 @@ Statistics
 
 **Base Atk** +4; **CMB** +7; **CMD** 20
 
-**Feats** [Deadly Aim](feats#_deadly-aim), [Weapon Focus](feats#_weapon-focus) (spear)
+**Feats** [Deadly Aim](../feats#_deadly-aim), [Weapon Focus](../feats#_weapon-focus) (spear)
 
-**Skills** [Intimidate](skills_dir/intimidate#_intimidate) +8, [Perception](skills_dir/perception#_perception) +8, [Stealth](skills_dir/stealth#_stealth) +10, [Swim](skills_dir/swim#_swim) +18
+**Skills** [Intimidate](../skills_dir/intimidate#_intimidate) +8, [Perception](../skills_dir/perception#_perception) +8, [Stealth](../skills_dir/stealth#_stealth) +10, [Swim](../skills_dir/swim#_swim) +18
 
 **Languages** Aquan, Common; speak with sharks
 
-**SQ** amphibious, [poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)) use
+**SQ** amphibious, [poison](../monsters_dir/universalMonsterRules#_poison-(ex-or-su)) use
 
 Ecology
 
@@ -56,13 +56,13 @@ Ecology
 
 Special Abilities
 
-**[Poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)) (Ex)** Adaros favor a paralytic toxin secreted by the flying nettlefin pufferfish—a sticky venom that doesn't wash away in [water](monsters_dir/creatureTypes#_water-subtype).
+**[Poison](../monsters_dir/universalMonsterRules#_poison-(ex-or-su)) (Ex)** Adaros favor a paralytic toxin secreted by the flying nettlefin pufferfish—a sticky venom that doesn't wash away in [water](../monsters_dir/creatureTypes#_water-subtype).
 
 _Nettlefin Toxin_: Spear—injury; _save_ Fort DC 15; _frequency_ 1_dir/minute for 4 minutes; _effect_ paralyzed for 1 minute; _cure_ 2 consecutive saves.
 
-**Poison Use (Ex)** Adaros are skilled in the use of [poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)) and never risk accidentally poisoning themselves.
+**Poison Use (Ex)** Adaros are skilled in the use of [poison](../monsters_dir/universalMonsterRules#_poison-(ex-or-su)) and never risk accidentally poisoning themselves.
 
-**Rain Frenzy (Su)** Adaros revere storms, and their lust for blood is amplified exponentially while it is raining. While fighting in the rain or during other stormy weather, adaros act as though affected by the _ [rage](spells_dir/rage#_rage)_ spell. An adaro gains this benefit even if it is underwater, but only as long as it remains within a move action away from the [water](monsters_dir/creatureTypes#_water-subtype)'s surface (50 feet for most adaros).
+**Rain Frenzy (Su)** Adaros revere storms, and their lust for blood is amplified exponentially while it is raining. While fighting in the rain or during other stormy weather, adaros act as though affected by the _ [rage](../spells_dir/rage#_rage)_ spell. An adaro gains this benefit even if it is underwater, but only as long as it remains within a move action away from the [water](../monsters_dir/creatureTypes#_water-subtype)'s surface (50 feet for most adaros).
 
 **Speak with Sharks (Su)** An adaro can communicate telepathically with sharks to a distance of 100 feet. This communication is limited to simple concepts, such as “come,” “defend,” or “attack.”
 

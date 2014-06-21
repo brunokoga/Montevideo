@@ -10,9 +10,9 @@ _This insectile monster has four legs, a strange propeller-shaped protrusion at 
 
 **XP 800**
 
-N Medium [aberration](creatureTypes#_aberration)
+N Medium [aberration](../creatureTypes#_aberration)
 
-**Init** +3; **Senses** darkvision 60 ft., scent metals 90 ft.; [Perception](../skills_dir/perception#_perception) +12
+**Init** +3; **Senses** darkvision 60 ft., scent metals 90 ft.; [Perception](../../skills_dir/perception#_perception) +12
 
 **Defense**
 
@@ -34,9 +34,9 @@ N Medium [aberration](creatureTypes#_aberration)
 
 **Base**  **Atk** +3; **CMB** +3; **CMD** 16 (20 vs. trip)
 
-**Feats** [Ability Focus](monsterFeats#_ability-focus) (rust), [Skill Focus](../feats#_skill-focus) ( [Perception](../skills_dir/perception#_perception)), [Weapon Finesse](../feats#_weapon-finesse)
+**Feats** [Ability Focus](../monsterFeats#_ability-focus) (rust), [Skill Focus](../../feats#_skill-focus) ( [Perception](../../skills_dir/perception#_perception)), [Weapon Finesse](../../feats#_weapon-finesse)
 
-**Skills** [Climb](../skills_dir/climb#_climb) +8, [Perception](../skills_dir/perception#_perception) +12
+**Skills** [Climb](../../skills_dir/climb#_climb) +8, [Perception](../../skills_dir/perception#_perception) +12
 
 **Ecology**
 

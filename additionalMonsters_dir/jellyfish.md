@@ -10,9 +10,9 @@ Giant Jellyfish CR 7
 
 **XP 3,200**
 
-N Large [vermin](monsters_dir/creatureTypes#_vermin) ( [aquatic](monsters_dir/creatureTypes#_aquatic-subtype))
+N Large [vermin](../monsters_dir/creatureTypes#_vermin) ( [aquatic](../monsters_dir/creatureTypes#_aquatic-subtype))
 
-**Init** +2; **Senses** darkvision 60 ft.; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +0
+**Init** +2; **Senses** darkvision 60 ft.; [Perception](../additionalMonsters_dir/../skills_dir/perception#_perception) +0
 
 Defense
 
@@ -22,13 +22,13 @@ Defense
 
 **Fort** +12, **Ref** +5, **Will** +3
 
-**Defensive Abilities** [amorphous](monsters_dir/universalMonsterRules#_amorphous); **DR** 10_dir/piercing or slashing; **Immune** mind-affecting effects
+**Defensive Abilities** [amorphous](../monsters_dir/universalMonsterRules#_amorphous); **DR** 10_dir/piercing or slashing; **Immune** mind-affecting effects
 
 Offense
 
 **Speed** swim 20 ft.
 
-**Melee** 4 tentacles +9 (1d6+4 plus [poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)))
+**Melee** 4 tentacles +9 (1d6+4 plus [poison](../monsters_dir/universalMonsterRules#_poison-(ex-or-su)))
 
 **Space** 10 ft.; **Reach** 15 ft.
 
@@ -38,9 +38,9 @@ Statistics
 
 **Base Atk** +6; **CMB** +11; **CMD** 23 (can't be tripped)
 
-**Skills** [Swim](additionalMonsters_dir/../skills_dir/swim#_swim) +12
+**Skills** [Swim](../additionalMonsters_dir/../skills_dir/swim#_swim) +12
 
-**SQ** [compression](monsters_dir/universalMonsterRules#_compression)
+**SQ** [compression](../monsters_dir/universalMonsterRules#_compression)
 
 Ecology
 
@@ -52,7 +52,7 @@ Ecology
 
 Special Abilities
 
-**[Poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)) (Ex)** Tentacles—injury; _save_ Fort DC 17; _frequency_ 1_dir/round for 6 rounds; _effect_ 1d4 Con; _cure_ 2 consecutive saves. The save DC is Constitution based.
+**[Poison](../monsters_dir/universalMonsterRules#_poison-(ex-or-su)) (Ex)** Tentacles—injury; _save_ Fort DC 17; _frequency_ 1_dir/round for 6 rounds; _effect_ 1d4 Con; _cure_ 2 consecutive saves. The save DC is Constitution based.
 
 Unlike its smaller cousins, the giant jellyfish is an active predator that seeks out prey. Capable of slithering through narrow cracks, a giant jellyfish is a horrifying beast to encounter lurking in the hold of a flooded or sunken ship. Other species of these vermin exist, as summarized on the following table—these variants often have different types of poison or other abilities like translucency or constriction.
 
@@ -76,9 +76,9 @@ Jellyfish Swarm CR 6
 
 **XP 2,400**
 
-N Diminutive [vermin](monsters_dir/creatureTypes#_vermin) ( [aquatic](monsters_dir/creatureTypes#_aquatic-subtype), [swarm](monsters_dir/creatureTypes#_swarm-subtype))
+N Diminutive [vermin](../monsters_dir/creatureTypes#_vermin) ( [aquatic](../monsters_dir/creatureTypes#_aquatic-subtype), [swarm](../monsters_dir/creatureTypes#_swarm-subtype))
 
-**Init** +1; **Senses** darkvision 60 ft.; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +0
+**Init** +1; **Senses** darkvision 60 ft.; [Perception](../additionalMonsters_dir/../skills_dir/perception#_perception) +0
 
 Defense
 
@@ -88,17 +88,17 @@ Defense
 
 **Fort** +8, **Ref** +5, **Will** +4
 
-**Immune** [swarm](monsters_dir/creatureTypes#_swarm-subtype) traits, weapon damage
+**Immune** [swarm](../monsters_dir/creatureTypes#_swarm-subtype) traits, weapon damage
 
 Offense
 
 **Speed** swim 20 ft.
 
-**Melee** [swarm](monsters_dir/creatureTypes#_swarm-subtype) (3d6 plus [poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)))
+**Melee** [swarm](../monsters_dir/creatureTypes#_swarm-subtype) (3d6 plus [poison](../monsters_dir/universalMonsterRules#_poison-(ex-or-su)))
 
 **Space** 10 ft.; **Reach** 0 ft.
 
-**Special Attacks** [distraction](monsters_dir/universalMonsterRules#_distraction) (DC 16)
+**Special Attacks** [distraction](../monsters_dir/universalMonsterRules#_distraction) (DC 16)
 
 Statistics
 
@@ -106,11 +106,11 @@ Statistics
 
 **Base Atk** +9; **CMB** —; **CMD** —
 
-**Skills** [Swim](additionalMonsters_dir/../skills_dir/swim#_swim) +9, [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) +29; **Racial Modifiers** [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) +16
+**Skills** [Swim](../additionalMonsters_dir/../skills_dir/swim#_swim) +9, [Stealth](../additionalMonsters_dir/../skills_dir/stealth#_stealth) +29; **Racial Modifiers** [Stealth](../additionalMonsters_dir/../skills_dir/stealth#_stealth) +16
 
 Ecology
 
-**Environment** any [aquatic](monsters_dir/creatureTypes#_aquatic-subtype)
+**Environment** any [aquatic](../monsters_dir/creatureTypes#_aquatic-subtype)
 
 **Organization** solitary or bloom (2–8)
 
@@ -118,7 +118,7 @@ Ecology
 
 Special Abilities
 
-**[Poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)) (Ex)** [Swarm](monsters_dir/creatureTypes#_swarm-subtype)–injury; _save_ Fort DC 16; _frequency_ 1_dir/round for 6 rounds; _effect_ 1d4 Dex; _cure_ 2 consecutive saves.
+**[Poison](../monsters_dir/universalMonsterRules#_poison-(ex-or-su)) (Ex)** [Swarm](../monsters_dir/creatureTypes#_swarm-subtype)–injury; _save_ Fort DC 16; _frequency_ 1_dir/round for 6 rounds; _effect_ 1d4 Dex; _cure_ 2 consecutive saves.
 
 Jellyfish often cluster together during springtime or when environmental conditions such as an increase in ocean temperature favor it. When conditions are right, jellyfish shift from being a nuisance to being a menace, if accidentally so, for a jellyfish swarm, unlike more aggressive monstrous kin like the giant jellyfish, comprises not aggressive hunters but rather opportunistic strikers. They do not generally move to attack nearby prey, but their nearly translucent coloration makes it horrifically easy for a creature to swim into a swarm unawares. Once a jellyfish swarm deals damage to a creature, the swarm pursues it for several rounds before giving up the chase. Many aquatic races use jellyfish swarms as defensive guardians, trusting a swarm's lack of interest in moving to keep it stationary for long periods of time.
 

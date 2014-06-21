@@ -18,5 +18,5 @@ title: advanced_dir/spells_dir/detectAberration
 
 **Saving Throw** none; **Spell Resistance** no
 
-This spell functions like _ [detect animals or plants](../../spells_dir/detectAnimalsOrPlants#_detect-animals-or-plants),_ except it detects creatures of the aberration type.
+This spell functions like _ [detect animals or plants](../../../spells_dir/detectAnimalsOrPlants#_detect-animals-or-plants),_ except it detects creatures of the aberration type.
 

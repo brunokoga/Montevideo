@@ -18,5 +18,5 @@ title: advanced_dir/spells_dir/defileArmor
 
 **Saving Throw** Will negates (harmless, object); **Spell Resistance** yes (harmless, object)
 
-As _ [sanctify armor](sanctifyArmor#_sanctify-armor)_, except you gain DR 5_dir/good when using your judgment or smite ability.
+As _ [sanctify armor](../sanctifyArmor#_sanctify-armor)_, except you gain DR 5_dir/good when using your judgment or smite ability.
 

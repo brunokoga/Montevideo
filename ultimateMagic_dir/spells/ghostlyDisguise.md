@@ -2,7 +2,7 @@
 layout: default
 title: ultimateMagic_dir/spells_dir/ghostlyDisguise
 ---
-Ghostly [Disguise](skills_dir/disguise#_disguise)
+Ghostly [Disguise](../skills_dir/disguise#_disguise)
 
 **School** illusion (glamer); **Level** alchemist 2, bard 2, inquisitor 2, sorcerer_dir/wizard 2, witch 2
 

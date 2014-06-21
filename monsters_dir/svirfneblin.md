@@ -12,9 +12,9 @@ _This bald gnome has rocky gray skin and a wiry physique. Its pale eyes are over
 
 Svirfneblin ranger 1
 
-N Small [humanoid](creatureTypes#_humanoid) (gnome)
+N Small [humanoid](../creatureTypes#_humanoid) (gnome)
 
-**Init** +2; **Senses** darkvision 120 ft., low-light vision; [Perception](../skills_dir/perception#_perception) +6
+**Init** +2; **Senses** darkvision 120 ft., low-light vision; [Perception](../../skills_dir/perception#_perception) +6
 
 **Defense**
 
@@ -38,9 +38,9 @@ N Small [humanoid](creatureTypes#_humanoid) (gnome)
 
 **Spell-Like Abilities** (CL 1st)
 
-Constant—_ [nondetection](../spells_dir/nondetection#_nondetection)_
+Constant—_ [nondetection](../../spells_dir/nondetection#_nondetection)_
 
-1_dir/day—_ [blindness_dir/deafness](../spells_dir/blindnessDeafness#_blindness-deafness)_ (DC 12), _ [blur](../spells_dir/blur#_blur)_, _ [disguise self](../spells_dir/disguiseSelf#_disguise-self)_
+1_dir/day—_ [blindness_dir/deafness](../../spells_dir/blindnessDeafness#_blindness-deafness)_ (DC 12), _ [blur](../../spells_dir/blur#_blur)_, _ [disguise self](../../spells_dir/disguiseSelf#_disguise-self)_
 
 **Statistics**
 
@@ -48,9 +48,9 @@ Constant—_ [nondetection](../spells_dir/nondetection#_nondetection)_
 
 **Base Atk** +1; **CMB** +1; **CMD** 15
 
-**Feats** [Toughness](../feats#_toughness)
+**Feats** [Toughness](../../feats#_toughness)
 
-**Skills** [Craft](../skills_dir/craft#_craft) (alchemy) +6, [Heal](../skills_dir/heal#_heal) +4, [Knowledge](../skills_dir/knowledge#_knowledge) (dungeoneering) +4, [Perception](../skills_dir/perception#_perception) +6, [Stealth](../skills_dir/stealth#_stealth) +12 (+14 underground), [Survival](../skills_dir/survival#_survival) +4 (+5 tracking); **Racial Modifiers** +2 [Craft](../skills_dir/craft#_craft) (alchemy), +2 [Perception](../skills_dir/perception#_perception), +2 [Stealth](../skills_dir/stealth#_stealth) (+4 [Stealth](../skills_dir/stealth#_stealth) underground)
+**Skills** [Craft](../../skills_dir/craft#_craft) (alchemy) +6, [Heal](../../skills_dir/heal#_heal) +4, [Knowledge](../../skills_dir/knowledge#_knowledge) (dungeoneering) +4, [Perception](../../skills_dir/perception#_perception) +6, [Stealth](../../skills_dir/stealth#_stealth) +12 (+14 underground), [Survival](../../skills_dir/survival#_survival) +4 (+5 tracking); **Racial Modifiers** +2 [Craft](../../skills_dir/craft#_craft) (alchemy), +2 [Perception](../../skills_dir/perception#_perception), +2 [Stealth](../../skills_dir/stealth#_stealth) (+4 [Stealth](../../skills_dir/stealth#_stealth) underground)
 
 **Languages** Gnome, Undercommon
 
@@ -72,7 +72,7 @@ Svirfneblin are defined by their class levels—they do not possess racial Hit D
 
 **–2 Strength, +2 Dexterity, +2 Wisdom, –4 Charisma** : Svirfneblin are fast and observant, but relatively weak and emotionally distant.
 
-**Small** : Svirfneblin are Small creatures and gain a +1 size bonus to their AC, a +1 size bonus on attack rolls, a –1 penalty to their CMB and CMD, and a +4 size bonus on [Stealth](../skills_dir/stealth#_stealth) checks.
+**Small** : Svirfneblin are Small creatures and gain a +1 size bonus to their AC, a +1 size bonus on attack rolls, a –1 penalty to their CMB and CMD, and a +4 size bonus on [Stealth](../../skills_dir/stealth#_stealth) checks.
 
 **Defensive Training** : Svirfneblin gain a +2 dodge bonus to Armor Class.
 
@@ -80,7 +80,7 @@ Svirfneblin are defined by their class levels—they do not possess racial Hit D
 
 **Fortunate** : Svirfneblin gain a +2 racial bonus on all saving throws.
 
-**Skilled** : Svirfneblin gain a +2 racial bonus on [Stealth](../skills_dir/stealth#_stealth) checks; this improves to a +4 bonus underground. They gain a +2 racial bonus on [Craft](../skills_dir/craft#_craft) (alchemy) checks and [Perception](../skills_dir/perception#_perception) checks.
+**Skilled** : Svirfneblin gain a +2 racial bonus on [Stealth](../../skills_dir/stealth#_stealth) checks; this improves to a +4 bonus underground. They gain a +2 racial bonus on [Craft](../../skills_dir/craft#_craft) (alchemy) checks and [Perception](../../skills_dir/perception#_perception) checks.
 
 **Hatred** : Svirfneblin receive a +1 bonus on attack rolls against humanoid creatures of the reptilian and dwarven subtypes due to training against these hated foes.
 

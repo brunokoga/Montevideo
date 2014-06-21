@@ -10,9 +10,9 @@ Allip CR 3
 
 XP 800
 
-CE Medium undead ( [incorporeal](monsters_dir/creatureTypes#_incorporeal-subtype))
+CE Medium undead ( [incorporeal](../monsters_dir/creatureTypes#_incorporeal-subtype))
 
-**Init** +5; **Senses** darkvision 60 ft.; [Perception](skills_dir/perception#_perception) +7
+**Init** +5; **Senses** darkvision 60 ft.; [Perception](../skills_dir/perception#_perception) +7
 
 **Aura** babble (60 ft., DC 15)
 
@@ -24,13 +24,13 @@ Defense
 
 **Fort** +4, **Ref** +4, **Will** +4
 
-**Defensive Abilities** channel [resistance](monsters_dir/universalMonsterRules#_resistance) +2, [incorporeal](monsters_dir/creatureTypes#_incorporeal-subtype); **Immune** undead traits
+**Defensive Abilities** channel [resistance](../monsters_dir/universalMonsterRules#_resistance) +2, [incorporeal](../monsters_dir/creatureTypes#_incorporeal-subtype); **Immune** undead traits
 
 Offense
 
 **Speed** fly 30 ft. (perfect)
 
-**Melee** [incorporeal](monsters_dir/creatureTypes#_incorporeal-subtype) touch +4 (1d4 Wisdom damage)
+**Melee** [incorporeal](../monsters_dir/creatureTypes#_incorporeal-subtype) touch +4 (1d4 Wisdom damage)
 
 **Special Attacks** babble, touch of insanity
 
@@ -40,9 +40,9 @@ Statistics
 
 **Base Atk** +3; **CMB** +4; **CMD** 17
 
-**Feats** [Improved Initiative](feats#_improved-initiative), [Lightning Reflexes](feats#_lightning-reflexes)
+**Feats** [Improved Initiative](../feats#_improved-initiative), [Lightning Reflexes](../feats#_lightning-reflexes)
 
-**Skills** [Fly](skills_dir/fly#_fly) +16, [Intimidate](skills_dir/intimidate#_intimidate) +10, [Perception](skills_dir/perception#_perception) +7, [Stealth](skills_dir/stealth#_stealth) +8
+**Skills** [Fly](../skills_dir/fly#_fly) +16, [Intimidate](../skills_dir/intimidate#_intimidate) +10, [Perception](../skills_dir/perception#_perception) +7, [Stealth](../skills_dir/stealth#_stealth) +8
 
 **Languages** Aklo, Common
 

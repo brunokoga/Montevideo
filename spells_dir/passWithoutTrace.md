@@ -16,7 +16,7 @@ title: spells_dir/passWithoutTrace
 
 **Duration** 1 hour_dir/level (D)
 
-**Saving Throw** [Will](../combat#_will) negates (harmless); **[Spell Resistance](../glossary#_spell-resistance)** yes (harmless)
+**Saving Throw** [Will](../../combat#_will) negates (harmless); **[Spell Resistance](../../glossary#_spell-resistance)** yes (harmless)
 
-The subject or subjects of this spell do not leave footprints or a [scent](../glossary#_scent) trail while moving. Tracking the subjects is impossible by nonmagical means.
+The subject or subjects of this spell do not leave footprints or a [scent](../../glossary#_scent) trail while moving. Tracking the subjects is impossible by nonmagical means.
 

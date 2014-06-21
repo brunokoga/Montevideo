@@ -4,7 +4,7 @@ title: mythicAdventures_dir/mythicSpells_dir/healingThief
 ---
 Healing Thief
 
-**Source** [_healing thief_](ultimateCombat_dir/spells_dir/healingThief#_healing-thief)
+**Source** [_healing thief_](../ultimateCombat_dir/spells_dir/healingThief#_healing-thief)
 
 Instead of stealing half the target's healing, you steal all of it. The amount of damage you steal before the spell is discharged increases to 10 points per caster level (maximum 100 points).
 

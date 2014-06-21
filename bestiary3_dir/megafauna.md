@@ -12,7 +12,7 @@ XP 1,600
 
 N Huge animal
 
-**Init** +5; **Senses** low-light vision, [scent](monsters_dir/universalMonsterRules#_scent); [Perception](skills_dir/perception#_perception) +10
+**Init** +5; **Senses** low-light vision, [scent](../monsters_dir/universalMonsterRules#_scent); [Perception](../skills_dir/perception#_perception) +10
 
 Defense
 
@@ -38,15 +38,15 @@ Statistics
 
 **Base Atk** +5; **CMB** +13; **CMD** 24 (28 vs. trip)
 
-**Feats** [Improved Initiative](feats#_improved-initiative), [Iron Will](feats#_iron-will), [Lunge](feats#_lunge), [Weapon Focus](feats#_weapon-focus) (bite)
+**Feats** [Improved Initiative](../feats#_improved-initiative), [Iron Will](../feats#_iron-will), [Lunge](../feats#_lunge), [Weapon Focus](../feats#_weapon-focus) (bite)
 
-**Skills** [Perception](skills_dir/perception#_perception) +10, [Swim](skills_dir/swim#_swim) +18
+**Skills** [Perception](../skills_dir/perception#_perception) +10, [Swim](../skills_dir/swim#_swim) +18
 
-**SQ** [hold breath](monsters_dir/universalMonsterRules#_hold-breath)
+**SQ** [hold breath](../monsters_dir/universalMonsterRules#_hold-breath)
 
 Ecology
 
-**Environment** warm or temperate [water](monsters_dir/creatureTypes#_water-subtype) or coastlines
+**Environment** warm or temperate [water](../monsters_dir/creatureTypes#_water-subtype) or coastlines
 
 **Organization** solitary or bale (2–6)
 
@@ -68,7 +68,7 @@ XP 4,800
 
 N Huge animal
 
-**Init** +0; **Senses** low-light vision, [scent](monsters_dir/universalMonsterRules#_scent); [Perception](skills_dir/perception#_perception) +16
+**Init** +0; **Senses** low-light vision, [scent](../monsters_dir/universalMonsterRules#_scent); [Perception](../skills_dir/perception#_perception) +16
 
 Defense
 
@@ -86,7 +86,7 @@ Offense
 
 **Space** 15 ft.; **Reach** 10 ft.
 
-**Special Attacks** [trample](monsters_dir/universalMonsterRules#_trample) (2d8+13, DC 25)
+**Special Attacks** [trample](../monsters_dir/universalMonsterRules#_trample) (2d8+13, DC 25)
 
 Statistics
 
@@ -94,9 +94,9 @@ Statistics
 
 **Base Atk** +9; **CMB** +20 (+22 bull rush); **CMD** 30 (32 vs. bull rush, 34 vs. trip)
 
-**Feats** [Awesome Blow](monsters_dir/monsterFeats#_awesome-blow), [Great Fortitude](feats#_great-fortitude), [Improved Bull Rush](feats#_improved-bull-rush), [Iron Will](feats#_iron-will), [Power Attack](feats#_power-attack), [Skill Focus](feats#_skill-focus) ( [Perception](skills_dir/perception#_perception))
+**Feats** [Awesome Blow](../monsters_dir/monsterFeats#_awesome-blow), [Great Fortitude](../feats#_great-fortitude), [Improved Bull Rush](../feats#_improved-bull-rush), [Iron Will](../feats#_iron-will), [Power Attack](../feats#_power-attack), [Skill Focus](../feats#_skill-focus) ( [Perception](../skills_dir/perception#_perception))
 
-**Skills** [Perception](skills_dir/perception#_perception) +16, [Swim](skills_dir/swim#_swim) +15
+**Skills** [Perception](../skills_dir/perception#_perception) +16, [Swim](../skills_dir/swim#_swim) +15
 
 Ecology
 
@@ -120,7 +120,7 @@ XP 19,200
 
 N Gargantuan animal
 
-**Init** +5; **Senses** [blindsense](monsters_dir/universalMonsterRules#_blindsense) 60 ft., low-light vision; [Perception](skills_dir/perception#_perception) +25
+**Init** +5; **Senses** [blindsense](../monsters_dir/universalMonsterRules#_blindsense) 60 ft., low-light vision; [Perception](../skills_dir/perception#_perception) +25
 
 Defense
 
@@ -134,7 +134,7 @@ Offense
 
 **Speed** swim 40 ft.
 
-**Melee** bite +23 (4d6+15_dir/19–20 plus [grab](monsters_dir/universalMonsterRules#_grab)), tail slap +18 (2d8+7)
+**Melee** bite +23 (4d6+15_dir/19–20 plus [grab](../monsters_dir/universalMonsterRules#_grab)), tail slap +18 (2d8+7)
 
 **Space** 20 ft.; **Reach** 20 ft.
 
@@ -146,11 +146,11 @@ Statistics
 
 **Base Atk** +12; **CMB** +31; **CMD** 42
 
-**Feats** [Diehard](feats#_diehard), [Endurance](feats#_endurance), [Great Fortitude](feats#_great-fortitude), [Improved Critical](feats#_improved-critical) (bite), [Improved Initiative](feats#_improved-initiative), [Iron Will](feats#_iron-will), [Power Attack](feats#_power-attack), [Skill Focus](feats#_skill-focus) ( [Perception](skills_dir/perception#_perception)), [Vital Strike](feats#_vital-strike)
+**Feats** [Diehard](../feats#_diehard), [Endurance](../feats#_endurance), [Great Fortitude](../feats#_great-fortitude), [Improved Critical](../feats#_improved-critical) (bite), [Improved Initiative](../feats#_improved-initiative), [Iron Will](../feats#_iron-will), [Power Attack](../feats#_power-attack), [Skill Focus](../feats#_skill-focus) ( [Perception](../skills_dir/perception#_perception)), [Vital Strike](../feats#_vital-strike)
 
-**Skills** [Perception](skills_dir/perception#_perception) +25, [Swim](skills_dir/swim#_swim) +31; **Racial Modifiers** +4 [Perception](skills_dir/perception#_perception)
+**Skills** [Perception](../skills_dir/perception#_perception) +25, [Swim](../skills_dir/swim#_swim) +31; **Racial Modifiers** +4 [Perception](../skills_dir/perception#_perception)
 
-**SQ** [hold breath](monsters_dir/universalMonsterRules#_hold-breath)
+**SQ** [hold breath](../monsters_dir/universalMonsterRules#_hold-breath)
 
 Ecology
 
@@ -175,7 +175,7 @@ XP 3,200
 
 N Huge animal
 
-**Init** +1; **Senses** low-light vision, [scent](monsters_dir/universalMonsterRules#_scent); [Perception](skills_dir/perception#_perception) +10
+**Init** +1; **Senses** low-light vision, [scent](../monsters_dir/universalMonsterRules#_scent); [Perception](../skills_dir/perception#_perception) +10
 
 Defense
 
@@ -189,7 +189,7 @@ Offense
 
 **Speed** 30 ft., swim 30 ft.
 
-**Melee** bite +14 (2d8+12 plus [grab](monsters_dir/universalMonsterRules#_grab) and [poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)))
+**Melee** bite +14 (2d8+12 plus [grab](../monsters_dir/universalMonsterRules#_grab) and [poison](../monsters_dir/universalMonsterRules#_poison-(ex-or-su)))
 
 **Space** 15 ft.; **Reach** 10 ft.
 
@@ -201,9 +201,9 @@ Statistics
 
 **Base Atk** +7; **CMB** +17; **CMD** 28 (32 vs. trip)
 
-**Feats** [Iron Will](feats#_iron-will), [Lunge](feats#_lunge), [Skill Focus](feats#_skill-focus) ( [Perception](skills_dir/perception#_perception)), [Skill Focus](feats#_skill-focus) ( [Stealth](skills_dir/stealth#_stealth)), [Weapon Focus](feats#_weapon-focus) (bite)
+**Feats** [Iron Will](../feats#_iron-will), [Lunge](../feats#_lunge), [Skill Focus](../feats#_skill-focus) ( [Perception](../skills_dir/perception#_perception)), [Skill Focus](../feats#_skill-focus) ( [Stealth](../skills_dir/stealth#_stealth)), [Weapon Focus](../feats#_weapon-focus) (bite)
 
-**Skills** [Climb](skills_dir/climb#_climb) +12, [Perception](skills_dir/perception#_perception) +10, [Stealth](skills_dir/stealth#_stealth) +10 (+14 in rocks or undergrowth), [Swim](skills_dir/swim#_swim) +16; **Racial Modifiers** +4 [Stealth](skills_dir/stealth#_stealth) (+8 in rocks or undergrowth)
+**Skills** [Climb](../skills_dir/climb#_climb) +12, [Perception](../skills_dir/perception#_perception) +10, [Stealth](../skills_dir/stealth#_stealth) +10 (+14 in rocks or undergrowth), [Swim](../skills_dir/swim#_swim) +16; **Racial Modifiers** +4 [Stealth](../skills_dir/stealth#_stealth) (+8 in rocks or undergrowth)
 
 Ecology
 
@@ -215,7 +215,7 @@ Ecology
 
 Special Abilities
 
-**[Poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)) (Ex)** Bite; _save_ Fort DC 19; _frequency_ 1_dir/round for 6 rounds;   
+**[Poison](../monsters_dir/universalMonsterRules#_poison-(ex-or-su)) (Ex)** Bite; _save_ Fort DC 19; _frequency_ 1_dir/round for 6 rounds;   
 _effect_ 1d4 Dex damage; _cure_ 2 consecutive saves.
 
 The immense megalania is often mistaken for a dragon or dinosaur. Certainly the lizard's aggressive attitude and deep, rumbling roars only encourage such misidentifications. Large enough to catch and eat rhinos and elephants, a megalania prefers hunting much smaller prey that it can gulp down in one greedy swallow. Humanoids are among its favorite meals.

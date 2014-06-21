@@ -12,7 +12,7 @@ XP 800
 
 N Large animal
 
-**Init** +6; **Senses** low-light vision, [scent](monsters_dir/universalMonsterRules#_scent); [Perception](skills_dir/perception#_perception) +6
+**Init** +6; **Senses** low-light vision, [scent](../monsters_dir/universalMonsterRules#_scent); [Perception](../skills_dir/perception#_perception) +6
 
 Defense
 
@@ -38,9 +38,9 @@ Statistics
 
 **Base Atk** +3; **CMB** +9; **CMD** 21 (25 vs. trip)
 
-**Feats** [Improved Initiative](feats#_improved-initiative), [Weapon Focus](feats#_weapon-focus) (bite)
+**Feats** [Improved Initiative](../feats#_improved-initiative), [Weapon Focus](../feats#_weapon-focus) (bite)
 
-**Skills** [Perception](skills_dir/perception#_perception) +6, [Stealth](skills_dir/stealth#_stealth) +3
+**Skills** [Perception](../skills_dir/perception#_perception) +6, [Stealth](../skills_dir/stealth#_stealth) +3
 
 Ecology
 
@@ -68,7 +68,7 @@ XP 2,400
 
 N Huge animal
 
-**Init** +2; **Senses** low-light vision, [scent](monsters_dir/universalMonsterRules#_scent); [Perception](skills_dir/perception#_perception) +12
+**Init** +2; **Senses** low-light vision, [scent](../monsters_dir/universalMonsterRules#_scent); [Perception](../skills_dir/perception#_perception) +12
 
 Defense
 
@@ -94,9 +94,9 @@ Statistics
 
 **Base Atk** +6; **CMB** +16; **CMD** 28 (32 vs. trip)
 
-**Feats** [Power Attack](feats#_power-attack), [Run](feats#_run), [Skill Focus](feats#_skill-focus) ( [Perception](skills_dir/perception#_perception)), [Skill Focus](feats#_skill-focus) ( [Stealth](skills_dir/stealth#_stealth)), [Weapon Focus](feats#_weapon-focus) (claw)
+**Feats** [Power Attack](../feats#_power-attack), [Run](../feats#_run), [Skill Focus](../feats#_skill-focus) ( [Perception](../skills_dir/perception#_perception)), [Skill Focus](../feats#_skill-focus) ( [Stealth](../skills_dir/stealth#_stealth)), [Weapon Focus](../feats#_weapon-focus) (claw)
 
-**Skills** [Perception](skills_dir/perception#_perception) +12, [Stealth](skills_dir/stealth#_stealth) +4
+**Skills** [Perception](../skills_dir/perception#_perception) +12, [Stealth](../skills_dir/stealth#_stealth) +4
 
 Ecology
 
@@ -125,7 +125,7 @@ XP 1,200
 
 N Large animal
 
-**Init** +2; **Senses** low-light vision, [scent](monsters_dir/universalMonsterRules#_scent); [Perception](skills_dir/perception#_perception) +8
+**Init** +2; **Senses** low-light vision, [scent](../monsters_dir/universalMonsterRules#_scent); [Perception](../skills_dir/perception#_perception) +8
 
 Defense
 
@@ -151,9 +151,9 @@ Statistics
 
 **Base Atk** +3; **CMB** +10; **CMD** 22
 
-**Feats** Improved Bull Rush, [Power Attack](feats#_power-attack), [Run](feats#_run)
+**Feats** Improved Bull Rush, [Power Attack](../feats#_power-attack), [Run](../feats#_run)
 
-**Skills** [Perception](skills_dir/perception#_perception) +8, [Stealth](skills_dir/stealth#_stealth) +2
+**Skills** [Perception](../skills_dir/perception#_perception) +8, [Stealth](../skills_dir/stealth#_stealth) +2
 
 Ecology
 
@@ -181,7 +181,7 @@ XP 12,800
 
 N Gargantuan animal
 
-**Init** +6; **Senses** low-light vision, [scent](monsters_dir/universalMonsterRules#_scent); [Perception](skills_dir/perception#_perception) +25
+**Init** +6; **Senses** low-light vision, [scent](../monsters_dir/universalMonsterRules#_scent); [Perception](../skills_dir/perception#_perception) +25
 
 Defense
 
@@ -195,11 +195,11 @@ Offense
 
 **Speed** 40 ft., swim 30 ft.
 
-**Melee** bite +23 (2d8+12_dir/19–20 plus [grab](monsters_dir/universalMonsterRules#_grab)), 2 claws +23 (2d6+12)
+**Melee** bite +23 (2d8+12_dir/19–20 plus [grab](../monsters_dir/universalMonsterRules#_grab)), 2 claws +23 (2d6+12)
 
 **Space** 20 ft.; **Reach** 20 ft.
 
-**Special Attacks** [pounce](monsters_dir/universalMonsterRules#_pounce), swallow whole (2d8+12, AC 18, 17 hp)
+**Special Attacks** [pounce](../monsters_dir/universalMonsterRules#_pounce), swallow whole (2d8+12, AC 18, 17 hp)
 
 Statistics
 
@@ -207,11 +207,11 @@ Statistics
 
 **Base Atk** +15; **CMB** +31 (+35 grapple); **CMD** 43
 
-**Feats** [Critical Focus](feats#_critical-focus), [Diehard](feats#_diehard), [Endurance](feats#_endurance), [Improved Critical](feats#_improved-critical) (bite), [Improved Initiative](feats#_improved-initiative), [Iron Will](feats#_iron-will), [Lightning Reflexes](feats#_lightning-reflexes), [Run](feats#_run), [Skill Focus](feats#_skill-focus) ( [Perception](skills_dir/perception#_perception)), [Staggering Critical](feats#_staggering-critical)
+**Feats** [Critical Focus](../feats#_critical-focus), [Diehard](../feats#_diehard), [Endurance](../feats#_endurance), [Improved Critical](../feats#_improved-critical) (bite), [Improved Initiative](../feats#_improved-initiative), [Iron Will](../feats#_iron-will), [Lightning Reflexes](../feats#_lightning-reflexes), [Run](../feats#_run), [Skill Focus](../feats#_skill-focus) ( [Perception](../skills_dir/perception#_perception)), [Staggering Critical](../feats#_staggering-critical)
 
-**Skills** [Perception](skills_dir/perception#_perception) +25, [Swim](skills_dir/swim#_swim) +28
+**Skills** [Perception](../skills_dir/perception#_perception) +25, [Swim](../skills_dir/swim#_swim) +28
 
-**SQ** [hold breath](monsters_dir/universalMonsterRules#_hold-breath)
+**SQ** [hold breath](../monsters_dir/universalMonsterRules#_hold-breath)
 
 Ecology
 

@@ -12,7 +12,7 @@ XP 51,200
 
 N Huge dragon
 
-**Init** +7; **Senses** darkvision 60 ft., low-light vision; [Perception](skills_dir/perception#_perception) +23
+**Init** +7; **Senses** darkvision 60 ft., low-light vision; [Perception](../skills_dir/perception#_perception) +23
 
 Defense
 
@@ -22,7 +22,7 @@ Defense
 
 **Fort** +19, **Ref** +16, **Will** +13
 
-**DR** 10_dir/magic; **Immune** magic paralysis and sleep; **Resist** acid 10, [cold](monsters_dir/creatureTypes#_cold-subtype) 10, electricity 10, [fire](monsters_dir/creatureTypes#_fire-subtype) 10; **SR** 26
+**DR** 10_dir/magic; **Immune** magic paralysis and sleep; **Resist** acid 10, [cold](../monsters_dir/creatureTypes#_cold-subtype) 10, electricity 10, [fire](../monsters_dir/creatureTypes#_fire-subtype) 10; **SR** 26
 
 Offense
 
@@ -32,7 +32,7 @@ Offense
 
 **Space** 15 ft.; **Reach** 15 ft.
 
-**Special Attacks** wailing dive, [breath weapon](monsters_dir/universalMonsterRules#_breath-weapon) (50-ft. cone, 14d6 sonic damage, Reflex DC 20 for half, usable every 1d4 rounds)
+**Special Attacks** wailing dive, [breath weapon](../monsters_dir/universalMonsterRules#_breath-weapon) (50-ft. cone, 14d6 sonic damage, Reflex DC 20 for half, usable every 1d4 rounds)
 
 Statistics
 
@@ -40,13 +40,13 @@ Statistics
 
 **Base Atk** +18; **CMB** +32; **CMD** 45 (49 vs. trip)
 
-**Feats** [Flyby Attack](monsters_dir/monsterFeats#_flyby-attack), [Hover](monsters_dir/monsterFeats#_hover), [Improved Initiative](feats#_improved-initiative), [Improved Sunder](feats#_improved-sunder), [Lightning Reflexes](feats#_lightning-reflexes), [Multiattack](monsters_dir/monsterFeats#_multiattack), [Power Attack](feats#_power-attack), [Snatch](monsters_dir/monsterFeats#_snatch), [Wingover](monsters_dir/monsterFeats#_wingover)
+**Feats** [Flyby Attack](../monsters_dir/monsterFeats#_flyby-attack), [Hover](../monsters_dir/monsterFeats#_hover), [Improved Initiative](../feats#_improved-initiative), [Improved Sunder](../feats#_improved-sunder), [Lightning Reflexes](../feats#_lightning-reflexes), [Multiattack](../monsters_dir/monsterFeats#_multiattack), [Power Attack](../feats#_power-attack), [Snatch](../monsters_dir/monsterFeats#_snatch), [Wingover](../monsters_dir/monsterFeats#_wingover)
 
-**Skills** [Climb](skills_dir/climb#_climb) +19, [Fly](skills_dir/fly#_fly) +20, [Intimidate](skills_dir/intimidate#_intimidate) +16, [Perception](skills_dir/perception#_perception) +23, [Sense Motive](skills_dir/senseMotive#_sense-motive) +15, [Stealth](skills_dir/stealth#_stealth) +13, [Survival](skills_dir/survival#_survival) +20
+**Skills** [Climb](../skills_dir/climb#_climb) +19, [Fly](../skills_dir/fly#_fly) +20, [Intimidate](../skills_dir/intimidate#_intimidate) +16, [Perception](../skills_dir/perception#_perception) +23, [Sense Motive](../skills_dir/senseMotive#_sense-motive) +15, [Stealth](../skills_dir/stealth#_stealth) +13, [Survival](../skills_dir/survival#_survival) +20
 
 **Languages** Draconic
 
-**SQ** [compression](monsters_dir/universalMonsterRules#_compression), piercing beak
+**SQ** [compression](../monsters_dir/universalMonsterRules#_compression), piercing beak
 
 Ecology
 
@@ -60,7 +60,7 @@ Special Abilities
 
 **Piercing Beak (Ex)** A kongamato's beak is extremely hard and adept at breaking objects. When attempting to damage an item, a kongamato's beak attack does double damage and is treated as if it were adamantine for the purposes of overcoming the object's hardness.
 
-**Wailing Dive (Su)** When a kongamato makes a charge while flying or uses its [Flyby Attack](monsters_dir/monsterFeats#_flyby-attack) feat, the creature's body becomes infused with energy, causing its bite to deal an extra +1d6 points of sonic damage on that attack.
+**Wailing Dive (Su)** When a kongamato makes a charge while flying or uses its [Flyby Attack](../monsters_dir/monsterFeats#_flyby-attack) feat, the creature's body becomes infused with energy, causing its bite to deal an extra +1d6 points of sonic damage on that attack.
 
 Kongamatos are primeval dragons that hunt the deep jungles of the world. Although not as intelligent or magically adept as their “true” cousins, kongamatos are respected and feared for their resilience and awesome strength. While the kongamato's body is clearly draconic—squat and dense with sharp claws capping each of its four limbs—the creature's head is distinctly avian, with a long, toothless beak and a pronounced crest. A kongamato's hide is a rich emerald hue, with an ash-colored underbelly and crimson webbing on its broad wings. Females have smaller head-crests than males, and a rosy hue colors both the undersides of their wings and their underbellies.
 

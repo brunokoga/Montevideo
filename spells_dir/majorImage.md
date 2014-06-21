@@ -8,7 +8,7 @@ title: spells_dir/majorImage
 
 **Duration** Concentration + 3 rounds
 
-This spell functions like _ [silent image](silentImage#_silent-image), _except that sound, smell, and thermal illusions are included in the spell effect. While concentrating, you can move the image within the range.
+This spell functions like _ [silent image](../silentImage#_silent-image), _except that sound, smell, and thermal illusions are included in the spell effect. While concentrating, you can move the image within the range.
 
 The image disappears when struck by an opponent unless you cause the illusion to react appropriately.
 

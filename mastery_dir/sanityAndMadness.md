@@ -12,7 +12,7 @@ In-game, a person has a chance of going insane every time he suffers a tremendou
 
 At your option, a creature can run the risk of going insane under extremely unusual situations, even when his mental ability scores are unharmed. A character suffering from long imprisonment might have to make a save against developing agoraphobia or claustrophobia. Someone repeatedly betrayed by allies might have to make a save against developing paranoia. And a poor soul whose mind is possessed by a powerful demon might have to make a save upon being exorcized to keep from becoming psychotic. The causes of such insanities are left to you as the GM to determine.
 
-Insanity can also be inflicted via magic. Consider allowing the spell _ [insanity](../spells_dir/insanity#_insanity)_ to merely inflict 1 randomly determined insanity per 5 caster levels on its victim rather than causing permanent confusion. _ [Bestow curse](../spells_dir/bestowCurse#_bestow-curse)_ can also inflict a single insanity on a foe, although in this case the insanity is also a curse.
+Insanity can also be inflicted via magic. Consider allowing the spell _ [insanity](../../spells_dir/insanity#_insanity)_ to merely inflict 1 randomly determined insanity per 5 caster levels on its victim rather than causing permanent confusion. _ [Bestow curse](../../spells_dir/bestowCurse#_bestow-curse)_ can also inflict a single insanity on a foe, although in this case the insanity is also a curse.
 
 It's possible to suffer from multiple forms of insanity. If you become afflicted with a form of insanity you are already suffering from, the current DC of that insanity increases by +5.
 
@@ -20,7 +20,7 @@ It's possible to suffer from multiple forms of insanity. If you become afflicted
 
 All insanities have a DC that represents the insanity's strength. An insanity's DC indicates the Will save you need to roll in order to resist contracting the insanity when you are initially exposed to it, but also the DC you need to make to recover. Recovering from an insanity naturally is a lengthy process—once per week, you make a Will save against the insanity's current DC. If you succeed on this save, the insanity's DC is reduced by a number of points equal to your Charisma bonus (minimum of 1). You continue to suffer the full effects of the insanity until its DC is reduced to 0, at which point you are cured and the insanity vanishes completely.
 
-_ [Lesser restoration](../spells_dir/restoration#_restoration-lesser)_ has no effect on insanity, but _ [restoration](../spells_dir/restoration#_restoration)_ reduces the current DC of one insanity currently affecting a target by an amount equal to the caster's level. _ [Greater restoration](../spells_dir/restoration#_restoration-greater)_, _ [heal](../spells_dir/heal#_heal)_, _ [limited wish](../spells_dir/limitedWish#_limited-wish)_, _ [miracle](../spells_dir/miracle#_miracle)_, or _ [wish](../spells_dir/wish#_wish)_ immediately cures a target of all insanity.
+_ [Lesser restoration](../../spells_dir/restoration#_restoration-lesser)_ has no effect on insanity, but _ [restoration](../../spells_dir/restoration#_restoration)_ reduces the current DC of one insanity currently affecting a target by an amount equal to the caster's level. _ [Greater restoration](../../spells_dir/restoration#_restoration-greater)_, _ [heal](../../spells_dir/heal#_heal)_, _ [limited wish](../../spells_dir/limitedWish#_limited-wish)_, _ [miracle](../../spells_dir/miracle#_miracle)_, or _ [wish](../../spells_dir/wish#_wish)_ immediately cures a target of all insanity.
 
 # Types of Insanity
 
@@ -93,7 +93,7 @@ The paranoid character is convinced that the world and all that dwell within it 
 
 **Onset** 3d6 days
 
-**Effect** character becomes chaotic evil; gains +10 competence bonus on [Bluff](../skills_dir/bluff#_bluff) checks to hide insanity
+**Effect** character becomes chaotic evil; gains +10 competence bonus on [Bluff](../../skills_dir/bluff#_bluff) checks to hide insanity
 
 **Description**
 

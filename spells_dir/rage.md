@@ -16,7 +16,7 @@ title: spells_dir/rage
 
 **Duration** concentration + 1 round_dir/level (D)
 
-**Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** yes
+**Saving Throw** none; **[Spell Resistance](../../glossary#_spell-resistance)** yes
 
-Each affected creature gains a +2 morale bonus to [Strength](../gettingStarted#_strength) and [Constitution](../gettingStarted#_constitution), a +1 morale bonus on [Will](../combat#_will) saves, and a –2 penalty to [AC](../combat#_armor-class). The effect is otherwise identical with a barbarian's rage except that the subjects aren't [fatigued](../glossary#_fatigued) at the end of the rage.
+Each affected creature gains a +2 morale bonus to [Strength](../../gettingStarted#_strength) and [Constitution](../../gettingStarted#_constitution), a +1 morale bonus on [Will](../../combat#_will) saves, and a –2 penalty to [AC](../../combat#_armor-class). The effect is otherwise identical with a barbarian's rage except that the subjects aren't [fatigued](../../glossary#_fatigued) at the end of the rage.
 

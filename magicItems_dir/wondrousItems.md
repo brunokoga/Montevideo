@@ -322,7 +322,7 @@ This is a catch all category for anything that doesn't fall into the other group
 
 **Activation** : Usually use-activated or command word, but details vary from item to item.
 
-**Special Qualities** : Roll d%. An 01 result indicates the wondrous item is intelligent, 02–31 indicates that something (a design, inscription, or the like) provides a clue to its function, and 32–100 indicates no special qualities. Intelligent items have extra abilities and sometimes extraordinary powers and special purposes (see [Intelligent Items](intelligentItems)).
+**Special Qualities** : Roll d%. An 01 result indicates the wondrous item is intelligent, 02–31 indicates that something (a design, inscription, or the like) provides a clue to its function, and 32–100 indicates no special qualities. Intelligent items have extra abilities and sometimes extraordinary powers and special purposes (see [Intelligent Items](../intelligentItems)).
 
 Wondrous items with charges can never be intelligent.
 
@@ -342,7 +342,7 @@ Alternatively, this amulet can grant melee weapon special abilities, so long as 
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item), _ [greater magic fang](../spells_dir/magicFang#_magic-fang-greater)_, creator's caster level must be at least three times the amulet's bonus, plus any requirements of the melee weapon special abilities; **Cost** 2,000 gp (+1), 8,000 gp (+2), 18,000 gp (+3), 32,000 (+4), 50,000 (+5)
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [greater magic fang](../../spells_dir/magicFang#_magic-fang-greater)_, creator's caster level must be at least three times the amulet's bonus, plus any requirements of the melee weapon special abilities; **Cost** 2,000 gp (+1), 8,000 gp (+2), 18,000 gp (+3), 32,000 (+4), 50,000 (+5)
 
 **Amulet of Natural Armor**
 
@@ -356,7 +356,7 @@ This amulet, usually crafted from bone or beast scales, toughens the wearer's bo
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item), _ [barkskin](../spells_dir/barkskin#_barkskin),_ creator's caster level must be at least three times the amulet's bonus; **Cost** 1,000 gp (+1), 4,000 gp (+2), 9,000 gp (+3), 16,000 gp (+4), 25,000 gp (+5)
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [barkskin](../../spells_dir/barkskin#_barkskin),_ creator's caster level must be at least three times the amulet's bonus; **Cost** 1,000 gp (+1), 4,000 gp (+2), 9,000 gp (+3), 16,000 gp (+4), 25,000 gp (+5)
 
 **Amulet of the Planes**
 
@@ -366,11 +366,11 @@ This amulet, usually crafted from bone or beast scales, toughens the wearer's bo
 
 **Description**
 
-This device usually appears to be a black circular amulet, although any character looking closely at it sees a dark, moving swirl of color. The amulet allows its wearer to utilize _ [plane shift](../spells_dir/planeShift#_plane-shift)_. However, this is a difficult item to master. The user must make a DC 15 [Intelligence](../gettingStarted#_intelligence) check in order to get the amulet to take her to the plane (and the specific location on that plane) that she wants. If she fails, the amulet transports her and all those traveling with her to a random location on that plane (01–60 on d%) or to a random plane (61–100).
+This device usually appears to be a black circular amulet, although any character looking closely at it sees a dark, moving swirl of color. The amulet allows its wearer to utilize _ [plane shift](../../spells_dir/planeShift#_plane-shift)_. However, this is a difficult item to master. The user must make a DC 15 [Intelligence](../../gettingStarted#_intelligence) check in order to get the amulet to take her to the plane (and the specific location on that plane) that she wants. If she fails, the amulet transports her and all those traveling with her to a random location on that plane (01–60 on d%) or to a random plane (61–100).
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item), _ [plane shift](../spells_dir/planeShift#_plane-shift)_; **Cost** 60,000 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [plane shift](../../spells_dir/planeShift#_plane-shift)_; **Cost** 60,000 gp
 
 **Amulet of Proof against Detection and Location**
 
@@ -380,11 +380,11 @@ This device usually appears to be a black circular amulet, although any characte
 
 **Description**
 
-This silver amulet protects the wearer from scrying and magical location just as a _ [nondetection](../spells_dir/nondetection#_nondetection) _spell does. If a divination spell is attempted against the wearer, the caster of the divination must succeed on a caster level check (1d20 + caster level) against a DC of 19 (as if the wearer had cast _ [nondetection](../spells_dir/nondetection#_nondetection) _on herself ).
+This silver amulet protects the wearer from scrying and magical location just as a _ [nondetection](../../spells_dir/nondetection#_nondetection) _spell does. If a divination spell is attempted against the wearer, the caster of the divination must succeed on a caster level check (1d20 + caster level) against a DC of 19 (as if the wearer had cast _ [nondetection](../../spells_dir/nondetection#_nondetection) _on herself ).
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item), _ [nondetection](../spells_dir/nondetection#_nondetection)_; **Cost** 17,500 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [nondetection](../../spells_dir/nondetection#_nondetection)_; **Cost** 17,500 gp
 
 **Apparatus of the Crab**
 
@@ -405,17 +405,17 @@ At first glance, an inactive _apparatus of the crab_ appears to be a large, seal
 | 5 | Snap pincers |
 | 6 | Move forward_dir/backward |
 | 7 | Turn left_dir/right |
-| 8 | Open_dir/close “eyes” with _ [continual flame](../spells_dir/continualFlame#_continual-flame) _inside |
+| 8 | Open_dir/close “eyes” with _ [continual flame](../../spells_dir/continualFlame#_continual-flame) _inside |
 | 9 | Rise_dir/sink in water |
 | 10 | Open_dir/close hatch |
 
 Operating a lever is a full-round action, and no lever may be operated more than once per round. However, since two characters can fit inside, the apparatus can move and attack in the same round. The device can function in water up to 900 feet deep. It holds enough air for a crew of two to survive 1d4+1 hours (twice as long for a single occupant). When activated, the apparatus looks something like a giant lobster.
 
-When active, an _apparatus of the crab_ has the following characteristics: **hp** 200; **hardness** 15; **Spd** 20 ft., swim 20 ft.; **[AC](../combat#_armor-class)** 20 (–1 size, +11 natural); **Attack** 2 pincers +12 melee (2d8); **[CMB](../combat#_combat-maneuver-bonus)** +14; **[CMD](../combat#_combat-maneuver-defense)** 24.
+When active, an _apparatus of the crab_ has the following characteristics: **hp** 200; **hardness** 15; **Spd** 20 ft., swim 20 ft.; **[AC](../../combat#_armor-class)** 20 (–1 size, +11 natural); **Attack** 2 pincers +12 melee (2d8); **[CMB](../../combat#_combat-maneuver-bonus)** +14; **[CMD](../../combat#_combat-maneuver-defense)** 24.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item), _ [animate objects](../spells_dir/animateObjects#_animate-objects), [continual flame](../spells_dir/continualFlame#_continual-flame), _creator must have 8 ranks in [Knowledge](../skills_dir/knowledge#_knowledge) (engineering); **Cost** 45,000 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [animate objects](../../spells_dir/animateObjects#_animate-objects), [continual flame](../../spells_dir/continualFlame#_continual-flame), _creator must have 8 ranks in [Knowledge](../../skills_dir/knowledge#_knowledge) (engineering); **Cost** 45,000 gp
 
 **Bag of Holding**
 
@@ -440,7 +440,7 @@ If a _bag of holding _is placed within a _portable hole,_ a rift to the Astral P
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item), _ [secret chest](../spells_dir/secretChest#_secret-chest)_; **Cost** 1,250 gp (type I), 2,500 gp (type II), 3,700 gp (type III), 5,000 gp (type IV)
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [secret chest](../../spells_dir/secretChest#_secret-chest)_; **Cost** 1,250 gp (type I), 2,500 gp (type II), 3,700 gp (type III), 5,000 gp (type IV)
 
 **Bag of Tricks**
 
@@ -468,7 +468,7 @@ Animals produced are always random, and only one may exist at a time. Up to 10 a
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item), _ [summon nature's ally II](../spells_dir/summonNatureSAlly#_summon-nature-s-ally-ii) _(gray), _ [summon nature's ally III](../spells_dir/summonNatureSAlly#_summon-nature-s-ally-iii) _(rust), or _ [summon nature's ally V](../spells_dir/summonNatureSAlly#_summon-nature-s-ally-v)_ [](../spells_dir/summonNatureSAlly#_summon-nature-s-ally-v)(tan); **Cost** 1,700 gp (gray); 4,250 gp (rust); 8,000 gp (tan)
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [summon nature's ally II](../../spells_dir/summonNatureSAlly#_summon-nature-s-ally-ii) _(gray), _ [summon nature's ally III](../../spells_dir/summonNatureSAlly#_summon-nature-s-ally-iii) _(rust), or _ [summon nature's ally V](../../spells_dir/summonNatureSAlly#_summon-nature-s-ally-v)_ [](../../spells_dir/summonNatureSAlly#_summon-nature-s-ally-v)(tan); **Cost** 1,700 gp (gray); 4,250 gp (rust); 8,000 gp (tan)
 
 **Bead of Force**
 
@@ -480,11 +480,11 @@ Animals produced are always random, and only one may exist at a time. Up to 10 a
 
 This small black sphere appears to be a lusterless pearl. A _bead of force_ can be thrown up to 60 feet with no range penalties. Upon sharp impact, the bead explodes, sending forth a burst that deals 5d6 points of force damage to all creatures within a 10-foot radius.
 
-Once thrown, a _bead of force_ functions like a_ [resilient sphere](../spells_dir/resilientSphere#_resilient-sphere) _spell ( [Reflex](../combat#_reflex) DC 16 negates) with a radius of 10 feet and a duration of 10 minutes. A globe of shimmering force encloses a creature, provided the latter is small enough to fit within the diameter of the sphere. The sphere contains its subject for the spell's duration. The sphere is not subject to damage of any sort except from a _rod of cancellation, _a _rod of negation, [disintegrate](../spells_dir/disintegrate#_disintegrate), _or a targeted _ [dispel magic](../spells_dir/dispelMagic#_dispel-magic) _spell. These effects destroy the sphere without harm to the subject. Nothing can pass through the sphere, inside or out, though the subject can breathe normally. The subject may struggle, but the globe cannot be physically moved either by people outside it or by the struggles of those within. The explosion completely consumes the bead, making this a one-use item.
+Once thrown, a _bead of force_ functions like a_ [resilient sphere](../../spells_dir/resilientSphere#_resilient-sphere) _spell ( [Reflex](../../combat#_reflex) DC 16 negates) with a radius of 10 feet and a duration of 10 minutes. A globe of shimmering force encloses a creature, provided the latter is small enough to fit within the diameter of the sphere. The sphere contains its subject for the spell's duration. The sphere is not subject to damage of any sort except from a _rod of cancellation, _a _rod of negation, [disintegrate](../../spells_dir/disintegrate#_disintegrate), _or a targeted _ [dispel magic](../../spells_dir/dispelMagic#_dispel-magic) _spell. These effects destroy the sphere without harm to the subject. Nothing can pass through the sphere, inside or out, though the subject can breathe normally. The subject may struggle, but the globe cannot be physically moved either by people outside it or by the struggles of those within. The explosion completely consumes the bead, making this a one-use item.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item), _ [resilient sphere](../spells_dir/resilientSphere#_resilient-sphere)_; **Cost** 1,500 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [resilient sphere](../../spells_dir/resilientSphere#_resilient-sphere)_; **Cost** 1,500 gp
 
 **Belt of Dwarvenkind**
 
@@ -494,11 +494,11 @@ Once thrown, a _bead of force_ functions like a_ [resilient sphere](../spells_di
 
 **Description**
 
-This belt gives the wearer a +4 competence bonus on [Charisma](../gettingStarted#_charisma-new) checks and [Charisma](../gettingStarted#_charisma-new)-based skill checks as they relate to dealing with dwarves, a +2 competence bonus on similar checks when dealing with gnomes and halflings, and a –2 competence penalty on similar checks when dealing with anyone else. The wearer can understand, speak, and read Dwarven. If the wearer is not a dwarf, he gains 60-foot [darkvision](../glossary#_darkvision), dwarven stonecunning, a +2 enhancement bonus to [Constitution](../gettingStarted#_constitution), and a +2 resistance bonus on saves against poison, spells, and spell-like effects.
+This belt gives the wearer a +4 competence bonus on [Charisma](../../gettingStarted#_charisma-new) checks and [Charisma](../../gettingStarted#_charisma-new)-based skill checks as they relate to dealing with dwarves, a +2 competence bonus on similar checks when dealing with gnomes and halflings, and a –2 competence penalty on similar checks when dealing with anyone else. The wearer can understand, speak, and read Dwarven. If the wearer is not a dwarf, he gains 60-foot [darkvision](../../glossary#_darkvision), dwarven stonecunning, a +2 enhancement bonus to [Constitution](../../gettingStarted#_constitution), and a +2 resistance bonus on saves against poison, spells, and spell-like effects.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item), _ [tongues](../spells_dir/tongues#_tongues)_, creator must be a dwarf; **Cost** 7,450 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [tongues](../../spells_dir/tongues#_tongues)_, creator must be a dwarf; **Cost** 7,450 gp
 
 **Belt of Giant Strength**
 
@@ -512,7 +512,7 @@ This belt is a thick leather affair, often decorated with huge metal buckles. Th
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item), _ [bull's strength](../spells_dir/bullSStrength#_bull-s-strength)_; **Cost** 2,000 gp (+2), 8,000 gp (+4), 18,000 gp (+6)
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [bull's strength](../../spells_dir/bullSStrength#_bull-s-strength)_; **Cost** 2,000 gp (+2), 8,000 gp (+4), 18,000 gp (+6)
 
 **Belt of Incredible Dexterity**
 
@@ -522,11 +522,11 @@ This belt is a thick leather affair, often decorated with huge metal buckles. Th
 
 **Description**
 
-This belt has a large silver buckle, usually depicting the image of a tiger. The belt grants the wearer an enhancement bonus to [Dexterity](../gettingStarted#_dexterity) of +2, +4, or +6. Treat this as a temporary ability bonus for the first 24 hours the belt is worn.
+This belt has a large silver buckle, usually depicting the image of a tiger. The belt grants the wearer an enhancement bonus to [Dexterity](../../gettingStarted#_dexterity) of +2, +4, or +6. Treat this as a temporary ability bonus for the first 24 hours the belt is worn.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item), _ [cat's grace](../spells_dir/catSGrace#_cat-s-grace)_; **Cost** 2,000 gp (+2), 8,000 gp (+4), 18,000 gp (+6)
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [cat's grace](../../spells_dir/catSGrace#_cat-s-grace)_; **Cost** 2,000 gp (+2), 8,000 gp (+4), 18,000 gp (+6)
 
 **Belt of Mighty Constitution**
 
@@ -536,11 +536,11 @@ This belt has a large silver buckle, usually depicting the image of a tiger. The
 
 **Description**
 
-This belt's golden buckle depicts a bear. The belt grants the wearer an enhancement bonus to [Constitution](../gettingStarted#_constitution) of +2, +4, or +6.Treat this as a temporary ability bonus for the first 24 hours the belt is worn.
+This belt's golden buckle depicts a bear. The belt grants the wearer an enhancement bonus to [Constitution](../../gettingStarted#_constitution) of +2, +4, or +6.Treat this as a temporary ability bonus for the first 24 hours the belt is worn.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item), _ [bear's endurance](../spells_dir/bearSEndurance#_bear-s-endurance)_; **Cost** 2,000 gp (+2), 8,000 gp (+4), 18,000 gp (+6)
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [bear's endurance](../../spells_dir/bearSEndurance#_bear-s-endurance)_; **Cost** 2,000 gp (+2), 8,000 gp (+4), 18,000 gp (+6)
 
 **Belt of Physical Might**
 
@@ -550,11 +550,11 @@ This belt's golden buckle depicts a bear. The belt grants the wearer an enhancem
 
 **Description**
 
-This belt has a large steel buckle, usually depicting the image of a giant. The belt grants the wearer an enhancement bonus to two physical ability scores (Strength, [Dexterity](../gettingStarted#_dexterity), or [Constitution](../gettingStarted#_constitution)) of +2, +4, or +6. Treat this as a temporary ability bonus for the first 24 hours the belt is worn. These bonuses are chosen when the belt is created and cannot be changed.
+This belt has a large steel buckle, usually depicting the image of a giant. The belt grants the wearer an enhancement bonus to two physical ability scores (Strength, [Dexterity](../../gettingStarted#_dexterity), or [Constitution](../../gettingStarted#_constitution)) of +2, +4, or +6. Treat this as a temporary ability bonus for the first 24 hours the belt is worn. These bonuses are chosen when the belt is created and cannot be changed.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item), _ [bear's endurance](../spells_dir/bearSEndurance#_bear-s-endurance), [bull's strength](../spells_dir/bullSStrength#_bull-s-strength), _and_dir/or_ [cat's grace](../spells_dir/catSGrace#_cat-s-grace)_; **Cost** 5,000 gp (+2), 20,000 gp (+4), 45,000 gp (+6)
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [bear's endurance](../../spells_dir/bearSEndurance#_bear-s-endurance), [bull's strength](../../spells_dir/bullSStrength#_bull-s-strength), _and_dir/or_ [cat's grace](../../spells_dir/catSGrace#_cat-s-grace)_; **Cost** 5,000 gp (+2), 20,000 gp (+4), 45,000 gp (+6)
 
 **Belt of Physical Perfection**
 
@@ -564,11 +564,11 @@ This belt has a large steel buckle, usually depicting the image of a giant. The 
 
 **Description**
 
-This belt has a large platinum buckle, usually depicting the image of a titan. The belt grants the wearer an enhancement bonus to all physical ability scores (Strength, [Dexterity](../gettingStarted#_dexterity), and [Constitution](../gettingStarted#_constitution)) of +2, +4, or +6. Treat this as a temporary ability bonus for the first 24 hours the belt is worn.
+This belt has a large platinum buckle, usually depicting the image of a titan. The belt grants the wearer an enhancement bonus to all physical ability scores (Strength, [Dexterity](../../gettingStarted#_dexterity), and [Constitution](../../gettingStarted#_constitution)) of +2, +4, or +6. Treat this as a temporary ability bonus for the first 24 hours the belt is worn.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item), _ [bear's endurance](../spells_dir/bearSEndurance#_bear-s-endurance), [bull's strength](../spells_dir/bullSStrength#_bull-s-strength), [cat's grace](../spells_dir/catSGrace#_cat-s-grace)_; **Cost** 8,000 gp (+2), 32,000 gp (+4), 77,000 gp (+6)
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [bear's endurance](../../spells_dir/bearSEndurance#_bear-s-endurance), [bull's strength](../../spells_dir/bullSStrength#_bull-s-strength), [cat's grace](../../spells_dir/catSGrace#_cat-s-grace)_; **Cost** 8,000 gp (+2), 32,000 gp (+4), 77,000 gp (+6)
 
 **Blessed Book**
 
@@ -584,7 +584,7 @@ A wizard can fill the 1,000 pages of a _blessed book_ with spells without paying
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item), _ [secret page](../spells_dir/secretPage#_secret-page)_; **Cost** 6,250 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [secret page](../../spells_dir/secretPage#_secret-page)_; **Cost** 6,250 gp
 
 **Boat, Folding**
 
@@ -602,7 +602,7 @@ A third word of command causes the boat or ship to fold itself into a box once a
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item), _ [fabricate](../spells_dir/fabricate#_fabricate)_, creator must have 2 ranks in the [Craft](../skills_dir/craft#_craft) (ships) skill; **Cost** 3,600 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [fabricate](../../spells_dir/fabricate#_fabricate)_, creator must have 2 ranks in the [Craft](../../skills_dir/craft#_craft) (ships) skill; **Cost** 3,600 gp
 
 **Boots of Elvenkind**
 
@@ -612,11 +612,11 @@ A third word of command causes the boat or ship to fold itself into a box once a
 
 **Description**
 
-These soft boots enable the wearer to move nimbly about in virtually any surroundings, granting a +5 competence bonus on [Acrobatics](../skills_dir/acrobatics#_acrobatics) checks.
+These soft boots enable the wearer to move nimbly about in virtually any surroundings, granting a +5 competence bonus on [Acrobatics](../../skills_dir/acrobatics#_acrobatics) checks.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item), creator must be an elf; **Cost** 1,250 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), creator must be an elf; **Cost** 1,250 gp
 
 **Boots of Levitation**
 
@@ -626,11 +626,11 @@ These soft boots enable the wearer to move nimbly about in virtually any surroun
 
 **Description**
 
-These soft leather boots are incredibly light and comfortable, with thin soles reinforced by strips of tough hide that provide an unexpected amount of support and protection to the foot. On command, these boots allow the wearer to levitate as if she had cast _ [levitate](../spells_dir/levitate#_levitate) _on herself.
+These soft leather boots are incredibly light and comfortable, with thin soles reinforced by strips of tough hide that provide an unexpected amount of support and protection to the foot. On command, these boots allow the wearer to levitate as if she had cast _ [levitate](../../spells_dir/levitate#_levitate) _on herself.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item), _ [levitate](../spells_dir/levitate#_levitate)_; **Cost** 3,750 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [levitate](../../spells_dir/levitate#_levitate)_; **Cost** 3,750 gp
 
 **Boots of Speed**
 
@@ -640,11 +640,11 @@ These soft leather boots are incredibly light and comfortable, with thin soles r
 
 **Description**
 
-As a free action, the wearer can click her heels together, letting her act as though affected by a _ [haste](../spells_dir/haste#_haste) _spell for up to 10 rounds each day. The _ [haste](../spells_dir/haste#_haste) _effect's duration need not be consecutive rounds.
+As a free action, the wearer can click her heels together, letting her act as though affected by a _ [haste](../../spells_dir/haste#_haste) _spell for up to 10 rounds each day. The _ [haste](../../spells_dir/haste#_haste) _effect's duration need not be consecutive rounds.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item), _ [haste](../spells_dir/haste#_haste)_; **Cost** 6,000 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [haste](../../spells_dir/haste#_haste)_; **Cost** 6,000 gp
 
 **Boots of Striding and Springing**
 
@@ -654,11 +654,11 @@ As a free action, the wearer can click her heels together, letting her act as th
 
 **Description**
 
-These boots increase the wearer's base land speed by 10 feet. In addition to this striding ability (considered an enhancement bonus), these boots allow the wearer to make great leaps. She can jump with a +5 competence bonus on [Acrobatics](../skills_dir/acrobatics#_acrobatics) checks.
+These boots increase the wearer's base land speed by 10 feet. In addition to this striding ability (considered an enhancement bonus), these boots allow the wearer to make great leaps. She can jump with a +5 competence bonus on [Acrobatics](../../skills_dir/acrobatics#_acrobatics) checks.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item), _ [longstrider](../spells_dir/longstrider#_longstrider)_, creator must have 5 ranks in the [Acrobatics](../skills_dir/acrobatics#_acrobatics) skill; **Cost** 2,750 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [longstrider](../../spells_dir/longstrider#_longstrider)_, creator must have 5 ranks in the [Acrobatics](../../skills_dir/acrobatics#_acrobatics) skill; **Cost** 2,750 gp
 
 **Boots of Teleportation**
 
@@ -668,11 +668,11 @@ These boots increase the wearer's base land speed by 10 feet. In addition to thi
 
 **Description**
 
-Any character wearing this footwear may _ [teleport](../spells_dir/teleport#_teleport) _three times per day, exactly as if he had cast the spell of the same name.
+Any character wearing this footwear may _ [teleport](../../spells_dir/teleport#_teleport) _three times per day, exactly as if he had cast the spell of the same name.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item), _ [teleport](../spells_dir/teleport#_teleport)_; **Cost** 24,500 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [teleport](../../spells_dir/teleport#_teleport)_; **Cost** 24,500 gp
 
 **Boots of the Winterlands**
 
@@ -682,11 +682,11 @@ Any character wearing this footwear may _ [teleport](../spells_dir/teleport#_tel
 
 **Description**
 
-This footgear bestows many powers upon the wearer. First, he is able to travel across snow at his normal speed, leaving no tracks. Second, the boots also enable him to travel at normal speed across the most slippery ice (horizontal surfaces only, not vertical or sharply slanted ones) without falling or slipping. Finally, _boots of the winterlands _warm the wearer, as if he were affected by an _ [endure elements](../spells_dir/endureElements#_endure-elements) _spell.
+This footgear bestows many powers upon the wearer. First, he is able to travel across snow at his normal speed, leaving no tracks. Second, the boots also enable him to travel at normal speed across the most slippery ice (horizontal surfaces only, not vertical or sharply slanted ones) without falling or slipping. Finally, _boots of the winterlands _warm the wearer, as if he were affected by an _ [endure elements](../../spells_dir/endureElements#_endure-elements) _spell.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item)_, [cat's grace](../spells_dir/catSGrace#_cat-s-grace), [endure elements](../spells_dir/endureElements#_endure-elements), [pass without trace](../spells_dir/passWithoutTrace#_pass-without-trace)_; **Cost** 1,250 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item)_, [cat's grace](../../spells_dir/catSGrace#_cat-s-grace), [endure elements](../../spells_dir/endureElements#_endure-elements), [pass without trace](../../spells_dir/passWithoutTrace#_pass-without-trace)_; **Cost** 1,250 gp
 
 **Boots, Winged**
 
@@ -696,11 +696,11 @@ This footgear bestows many powers upon the wearer. First, he is able to travel a
 
 **Description**
 
-These boots appear to be ordinary footgear. On command, they sprout wings at the heel and let the wearer fly, without having to maintain concentration, as if affected by a _fly _spell (including a +4 bonus on [Fly](../skills_dir/fly#_fly) skill checks). He can fly three per times day for up to 5 minutes per flight.
+These boots appear to be ordinary footgear. On command, they sprout wings at the heel and let the wearer fly, without having to maintain concentration, as if affected by a _fly _spell (including a +4 bonus on [Fly](../../skills_dir/fly#_fly) skill checks). He can fly three per times day for up to 5 minutes per flight.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item), _fly_; **Cost** 8,000 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _fly_; **Cost** 8,000 gp
 
 **Bottle of Air**
 
@@ -714,7 +714,7 @@ This item appears to be a normal glass bottle with a cork. When taken to any air
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item), _ [water breathing](../spells_dir/waterBreathing#_water-breathing)_; **Cost** 3,625 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [water breathing](../../spells_dir/waterBreathing#_water-breathing)_; **Cost** 3,625 gp
 
 **Bracelet of Friends**
 
@@ -728,7 +728,7 @@ This silver charm bracelet has four charms upon it when created. The owner may d
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item), _ [refuge](../spells_dir/refuge#_refuge)_; **Cost** 9,500 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [refuge](../../spells_dir/refuge#_refuge)_; **Cost** 9,500 gp
 
 **Bracers of Archery, Greater**
 
@@ -742,7 +742,7 @@ These wristbands look like normal protective wear. The bracers empower the weare
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item), [Craft Magic Arms and Armor](../feats#_craft-magic-arms-and-armor), crafter must be proficient with a longbow or shortbow; **Cost** 12,500 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), [Craft Magic Arms and Armor](../../feats#_craft-magic-arms-and-armor), crafter must be proficient with a longbow or shortbow; **Cost** 12,500 gp
 
 **Bracers of Archery, Lesser**
 
@@ -756,7 +756,7 @@ These wristbands function as _greater bracers of archery_, except that they gran
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item), [Craft Magic Arms and Armor](../feats#_craft-magic-arms-and-armor), crafter must be proficient with a longbow or shortbow; **Cost** 2,500 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), [Craft Magic Arms and Armor](../../feats#_craft-magic-arms-and-armor), crafter must be proficient with a longbow or shortbow; **Cost** 2,500 gp
 
 **Bracers of Armor**
 
@@ -768,11 +768,11 @@ These wristbands function as _greater bracers of archery_, except that they gran
 
 These items appear to be wrist or arm guards. They surround the wearer with an invisible but tangible field of force, granting him an armor bonus of +1 to +8, just as though he were wearing armor. Both bracers must be worn for the magic to be effective.
 
-Alternatively, _bracers of armor_ can be enchanted with armor special abilities. See Table: Armor Special Qualities for a list of abilities. Special abilities usually count as additional bonuses for determining the market value of an item, but do not improve [AC](../combat#_armor-class). _Bracers of armor_ cannot have a modified bonus (armor bonus plus armor special ability bonus equivalents) higher than +8. _Bracers of armor_ must have at least a +1 armor bonus to grant an armor special ability. _Bracers of armor _cannot have any armor special abilities that add a flat gp amount to their cost. _Bracers of armor_ and ordinary armor do not stack. If a creature receives a larger armor bonus from another source, the _bracers of armor_ cease functioning and do not grant their armor bonus or their armor special abilities. If the _bracers of armor_ grant a larger armor bonus, the other source of armor ceases functioning.
+Alternatively, _bracers of armor_ can be enchanted with armor special abilities. See Table: Armor Special Qualities for a list of abilities. Special abilities usually count as additional bonuses for determining the market value of an item, but do not improve [AC](../../combat#_armor-class). _Bracers of armor_ cannot have a modified bonus (armor bonus plus armor special ability bonus equivalents) higher than +8. _Bracers of armor_ must have at least a +1 armor bonus to grant an armor special ability. _Bracers of armor _cannot have any armor special abilities that add a flat gp amount to their cost. _Bracers of armor_ and ordinary armor do not stack. If a creature receives a larger armor bonus from another source, the _bracers of armor_ cease functioning and do not grant their armor bonus or their armor special abilities. If the _bracers of armor_ grant a larger armor bonus, the other source of armor ceases functioning.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item), _ [mage armor](../spells_dir/mageArmor#_mage-armor)_, creator's caster level must be at least two times that of the bonus placed in the bracers, plus any requirements of the armor special abilities; **Cost** 500 gp (+1), 2,000 gp (+2), 4,500 gp (+3), 8,000 gp (+4), 12,500 gp (+5), 18,000 gp (+6), 24,500 gp (+7), 32,000 gp (+8)
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [mage armor](../../spells_dir/mageArmor#_mage-armor)_, creator's caster level must be at least two times that of the bonus placed in the bracers, plus any requirements of the armor special abilities; **Cost** 500 gp (+1), 2,000 gp (+2), 4,500 gp (+3), 8,000 gp (+4), 12,500 gp (+5), 18,000 gp (+6), 24,500 gp (+7), 32,000 gp (+8)
 
 **Brooch of Shielding**
 
@@ -782,11 +782,11 @@ Alternatively, _bracers of armor_ can be enchanted with armor special abilities.
 
 **Description**
 
-This appears to be a piece of silver or gold jewelry used to fasten a cloak or cape. In addition to this mundane task, it can absorb _ [magic missile](../spells_dir/magicMissile#_magic-missile)s _of the sort generated by the spell or spell-like ability. A brooch can absorb up to 101 points of damage from _ [magic missile](../spells_dir/magicMissile#_magic-missile)s _before it melts and becomes useless.
+This appears to be a piece of silver or gold jewelry used to fasten a cloak or cape. In addition to this mundane task, it can absorb _ [magic missile](../../spells_dir/magicMissile#_magic-missile)s _of the sort generated by the spell or spell-like ability. A brooch can absorb up to 101 points of damage from _ [magic missile](../../spells_dir/magicMissile#_magic-missile)s _before it melts and becomes useless.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item), _ [shield](../spells_dir/shield#_shield)_; **Cost** 750 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [shield](../../spells_dir/shield#_shield)_; **Cost** 750 gp
 
 **Broom of Flying**
 
@@ -796,11 +796,11 @@ This appears to be a piece of silver or gold jewelry used to fasten a cloak or c
 
 **Description**
 
-This broom is able to fly through the air as if affected by an_ [overland flight](../spells_dir/overlandFlight#_overland-flight) _spell (+4 on Fly skill checks) for up to 9 hours per day (split up as its owner desires). The broom can carry 200 pounds and fly at a speed of 40 feet, or up to 400 pounds at a speed at 30 feet. In addition, the broom can travel alone to any destination named by the owner as long as she has a good idea of the location and layout of that destination. It flies to its owner from as far away as 300 yards when she speaks the command word. The _broom of flying _has a speed of 40 feet when it has no rider.
+This broom is able to fly through the air as if affected by an_ [overland flight](../../spells_dir/overlandFlight#_overland-flight) _spell (+4 on Fly skill checks) for up to 9 hours per day (split up as its owner desires). The broom can carry 200 pounds and fly at a speed of 40 feet, or up to 400 pounds at a speed at 30 feet. In addition, the broom can travel alone to any destination named by the owner as long as she has a good idea of the location and layout of that destination. It flies to its owner from as far away as 300 yards when she speaks the command word. The _broom of flying _has a speed of 40 feet when it has no rider.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item), _ [overland flight](../spells_dir/overlandFlight#_overland-flight), [permanency](../spells_dir/permanency#_permanency)_; **Cost** 8,500 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [overland flight](../../spells_dir/overlandFlight#_overland-flight), [permanency](../../spells_dir/permanency#_permanency)_; **Cost** 8,500 gp
 
 **Candle of Invocation**
 
@@ -814,11 +814,11 @@ Each of these special tapers is dedicated to one of the nine alignments. Simply 
 
 A cleric whose alignment matches the candle's operates as if two levels higher for purposes of determining spells per day if he burns the candle during or just prior to his spell preparation time. He can even cast spells normally unavailable to him as if he were of that higher level, but only so long as the candle continues to burn. Except in special cases (see below), a candle burns for 4 hours. It is possible to extinguish the candle simply by blowing it out, so users often place it in a lantern to protect it from drafts and the like. Doing this doesn't interfere with its magical properties.
 
-In addition, burning a candle also allows the owner to cast a _ [gate](../spells_dir/gate#_gate) _spell, the respondent being of the same alignment as the candle, but the taper is immediately consumed in the process.
+In addition, burning a candle also allows the owner to cast a _ [gate](../../spells_dir/gate#_gate) _spell, the respondent being of the same alignment as the candle, but the taper is immediately consumed in the process.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item), _ [gate](../spells_dir/gate#_gate),_ creator must be same alignment as candle created; **Cost** 4,200 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [gate](../../spells_dir/gate#_gate),_ creator must be same alignment as candle created; **Cost** 4,200 gp
 
 **Candle of Truth**
 
@@ -828,11 +828,11 @@ In addition, burning a candle also allows the owner to cast a _ [gate](../spells
 
 **Description**
 
-This white tallow candle, when burned, calls into place a _ [zone of truth](../spells_dir/zoneOfTruth#_zone-of-truth) _spell ( [Will](../combat#_will) DC 13 negates) in a 5-foot radius centered on the candle. The zone lasts for 1 hour, while the candle burns. If the candle is snuffed before that time, the effect is canceled and the candle ruined.
+This white tallow candle, when burned, calls into place a _ [zone of truth](../../spells_dir/zoneOfTruth#_zone-of-truth) _spell ( [Will](../../combat#_will) DC 13 negates) in a 5-foot radius centered on the candle. The zone lasts for 1 hour, while the candle burns. If the candle is snuffed before that time, the effect is canceled and the candle ruined.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item), _ [zone of truth](../spells_dir/zoneOfTruth#_zone-of-truth)_; **Cost** 1,250 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [zone of truth](../../spells_dir/zoneOfTruth#_zone-of-truth)_; **Cost** 1,250 gp
 
 **Cape of the Mountebank**
 
@@ -842,11 +842,11 @@ This white tallow candle, when burned, calls into place a _ [zone of truth](../s
 
 **Description**
 
-On command, this bright red and gold cape allows the wearer to use the magic of the _ [dimension door](../spells_dir/dimensionDoor#_dimension-door) _spell once per day. When he disappears, he leaves behind a cloud of smoke, appearing in a similar fashion at his destination.
+On command, this bright red and gold cape allows the wearer to use the magic of the _ [dimension door](../../spells_dir/dimensionDoor#_dimension-door) _spell once per day. When he disappears, he leaves behind a cloud of smoke, appearing in a similar fashion at his destination.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item), _ [dimension door](../spells_dir/dimensionDoor#_dimension-door)_; **Cost** 5,400 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [dimension door](../../spells_dir/dimensionDoor#_dimension-door)_; **Cost** 5,400 gp
 
 **Carpet of Flying**
 
@@ -856,7 +856,7 @@ On command, this bright red and gold cape allows the wearer to use the magic of 
 
 **Description**
 
-This rug is able to fly through the air as if affected by an _ [overland flight](../spells_dir/overlandFlight#_overland-flight) _spell of unlimited duration. The size, carrying capacity, and speed of the different _carpets of flying _are shown on the table below. Beautifully and intricately made, each carpet has its own command word to activate it—if the device is within voice range, the command word activates it, whether the speaker is on the rug or not. The carpet is then controlled by spoken directions.
+This rug is able to fly through the air as if affected by an _ [overland flight](../../spells_dir/overlandFlight#_overland-flight) _spell of unlimited duration. The size, carrying capacity, and speed of the different _carpets of flying _are shown on the table below. Beautifully and intricately made, each carpet has its own command word to activate it—if the device is within voice range, the command word activates it, whether the speaker is on the rug or not. The carpet is then controlled by spoken directions.
 
 | Size | Capacity | Speed | Weight | Market Price |
 | --- | --- | --- | --- | --- |
@@ -864,11 +864,11 @@ This rug is able to fly through the air as if affected by an _ [overland flight]
 | 5 ft. by 10 ft. | 400 lbs. | 40 ft. | 10 lbs. | 35,000 gp |
 | 10 ft. by 10 ft. | 800 lbs. | 40 ft. | 15 lbs. | 60,000 gp |
 
-A _carpet of flying _can carry up to double its capacity, but doing so reduces its speed to 30 feet. A _carpet of flying _can hover without making a [Fly](../skills_dir/fly#_fly) skill check and gives a +5 bonus to other [Fly](../skills_dir/fly#_fly) checks.
+A _carpet of flying _can carry up to double its capacity, but doing so reduces its speed to 30 feet. A _carpet of flying _can hover without making a [Fly](../../skills_dir/fly#_fly) skill check and gives a +5 bonus to other [Fly](../../skills_dir/fly#_fly) checks.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item), _ [overland flight](../spells_dir/overlandFlight#_overland-flight)_; **Cost** 10,000 gp (5 ft. by 5 ft.), 17,500 gp (5 ft. by 10 ft.), 30,000 gp (10 ft. by 10 ft.)
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [overland flight](../../spells_dir/overlandFlight#_overland-flight)_; **Cost** 10,000 gp (5 ft. by 5 ft.), 17,500 gp (5 ft. by 10 ft.), 30,000 gp (10 ft. by 10 ft.)
 
 **Chime of Interruption**
 
@@ -884,7 +884,7 @@ While the chime is resonating, no spell requiring a verbal component can be cast
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item), _ [shout](../spells_dir/shout#_shout)_; **Cost** 8,400 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [shout](../../spells_dir/shout#_shout)_; **Cost** 8,400 gp
 
 **Chime of Opening**
 
@@ -894,13 +894,13 @@ While the chime is resonating, no spell requiring a verbal component can be cast
 
 **Description**
 
-A _chime of opening _is a hollow mithral tube about 1 foot long. When struck, it sends forth magical vibrations that cause locks, lids, doors, valves, and portals to open. The device functions against normal bars, shackles, chains, bolts, and so on. A _chime of opening _also automatically dispels a _ [hold portal](../spells_dir/holdPortal#_hold-portal) _spell or even an _arcane lock _cast by a wizard of lower than 15th level.
+A _chime of opening _is a hollow mithral tube about 1 foot long. When struck, it sends forth magical vibrations that cause locks, lids, doors, valves, and portals to open. The device functions against normal bars, shackles, chains, bolts, and so on. A _chime of opening _also automatically dispels a _ [hold portal](../../spells_dir/holdPortal#_hold-portal) _spell or even an _arcane lock _cast by a wizard of lower than 15th level.
 
 The chime must be pointed at the item or gate to be loosed or opened (which must be visible and known to the user). The chime is then struck and a clear tone rings forth. The wielder can make a caster level check against the lock or binding, using the chime's caster level of 11th. The DC of this check is equal to the Disable Device DC to open the lock or binding. Each sounding only opens one form of locking, so if a chest is chained, padlocked, locked, and _arcane locked, _it takes four successful uses of a _chime of opening _to get it open. A _silence _spell negates the power of the device. A brand-new chime can be used a total of 10 times before it cracks and becomes useless.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item), _ [knock](../spells_dir/keenEdge#_keen-edge)_; **Cost** 1,500 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [knock](../../spells_dir/keenEdge#_keen-edge)_; **Cost** 1,500 gp
 
 **Circlet of Persuasion**
 
@@ -910,11 +910,11 @@ The chime must be pointed at the item or gate to be loosed or opened (which must
 
 **Description**
 
-This silver headband grants a +3 competence bonus on the wearer's [Charisma](../gettingStarted#_charisma-new)-based checks.
+This silver headband grants a +3 competence bonus on the wearer's [Charisma](../../gettingStarted#_charisma-new)-based checks.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item), _ [eagle's splendor](../spells_dir/eagleSSplendor#_eagle-s-splendor)_; **Cost** 2,250 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [eagle's splendor](../../spells_dir/eagleSSplendor#_eagle-s-splendor)_; **Cost** 2,250 gp
 
 **Cloak of Arachnida**
 
@@ -924,11 +924,11 @@ This silver headband grants a +3 competence bonus on the wearer's [Charisma](../
 
 **Description**
 
-This black garment, embroidered with a web-like pattern in silk, gives the wearer the ability to climb as if a _ [spider climb](../spells_dir/spiderClimb#_spider-climb) _spell had been placed upon her. In addition, the cloak grants her immunity to entrapment by _ [web](../spells_dir/web#_web) _spells or webs of any sort; she can actually move in webs at half her normal speed. Once per day, the wearer of this cloak can cast _web_. She also gains a +2 luck bonus on all [Fortitude](../combat#_fortitude) saves against poison from spiders.
+This black garment, embroidered with a web-like pattern in silk, gives the wearer the ability to climb as if a _ [spider climb](../../spells_dir/spiderClimb#_spider-climb) _spell had been placed upon her. In addition, the cloak grants her immunity to entrapment by _ [web](../../spells_dir/web#_web) _spells or webs of any sort; she can actually move in webs at half her normal speed. Once per day, the wearer of this cloak can cast _web_. She also gains a +2 luck bonus on all [Fortitude](../../combat#_fortitude) saves against poison from spiders.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item), _ [spider climb](../spells_dir/spiderClimb#_spider-climb), [web](../spells_dir/web#_web)_; **Cost** 7,000 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [spider climb](../../spells_dir/spiderClimb#_spider-climb), [web](../../spells_dir/web#_web)_; **Cost** 7,000 gp
 
 **Cloak of the Bat**
 
@@ -940,11 +940,11 @@ This black garment, embroidered with a web-like pattern in silk, gives the weare
 
 Fashioned of dark brown or black cloth, this cloak bestows a +5 competence bonus on Stealth checks. The wearer is also able to hang upside down from the ceiling like a bat.
 
-By holding the edges of the garment, the wearer is able to _fly _as per the spell (including a +7 bonus on [Fly](../skills_dir/fly#_fly) skill checks). If he desires, the wearer can actually polymorph himself into an ordinary bat and fly accordingly (as _ [beast shape III](../spells_dir/beastShape#_beast-shape-iii)_). All possessions worn or carried are part of the transformation. Flying, either with the cloak or in bat form, can be accomplished only in darkness (either under the night sky or in a lightless or near-lightless environment underground). Either of the flying powers is usable for up to 7 minutes at a time, but after a flight of any duration the cloak cannot bestow any flying power for a like period of time.
+By holding the edges of the garment, the wearer is able to _fly _as per the spell (including a +7 bonus on [Fly](../../skills_dir/fly#_fly) skill checks). If he desires, the wearer can actually polymorph himself into an ordinary bat and fly accordingly (as _ [beast shape III](../../spells_dir/beastShape#_beast-shape-iii)_). All possessions worn or carried are part of the transformation. Flying, either with the cloak or in bat form, can be accomplished only in darkness (either under the night sky or in a lightless or near-lightless environment underground). Either of the flying powers is usable for up to 7 minutes at a time, but after a flight of any duration the cloak cannot bestow any flying power for a like period of time.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item), _ [beast shape III](../spells_dir/beastShape#_beast-shape-iii), fly_; **Cost** 13,000 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [beast shape III](../../spells_dir/beastShape#_beast-shape-iii), fly_; **Cost** 13,000 gp
 
 **Cloak of Displacement, Major**
 
@@ -954,11 +954,11 @@ By holding the edges of the garment, the wearer is able to _fly _as per the spel
 
 **Description**
 
-This item appears to be a normal cloak, but on command its magical properties distort and warp light waves. This displacement works just like the _ [displacement](../spells_dir/displacement#_displacement) _spell and lasts for a total of 15 rounds per day, which the wearer can divide up as she sees fit.
+This item appears to be a normal cloak, but on command its magical properties distort and warp light waves. This displacement works just like the _ [displacement](../../spells_dir/displacement#_displacement) _spell and lasts for a total of 15 rounds per day, which the wearer can divide up as she sees fit.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item), [Extend Spell](../feats#_extend-spell), _ [displacement](../spells_dir/displacement#_displacement)_; **Cost** 25,000 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), [Extend Spell](../../feats#_extend-spell), _ [displacement](../../spells_dir/displacement#_displacement)_; **Cost** 25,000 gp
 
 **Cloak of Displacement, Minor**
 
@@ -968,11 +968,11 @@ This item appears to be a normal cloak, but on command its magical properties di
 
 **Description**
 
-This item appears to be a normal cloak, but when worn by a character, its magical properties distort and warp light waves. This displacement works similar to the _ [blur](../spells_dir/blur#_blur) _spell, granting a 20% miss chance on attacks against the wearer. It functions continually.
+This item appears to be a normal cloak, but when worn by a character, its magical properties distort and warp light waves. This displacement works similar to the _ [blur](../../spells_dir/blur#_blur) _spell, granting a 20% miss chance on attacks against the wearer. It functions continually.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item), _ [blur](../spells_dir/blur#_blur)_; **Cost** 12,000 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [blur](../../spells_dir/blur#_blur)_; **Cost** 12,000 gp
 
 **Cloak of Elvenkind**
 
@@ -986,7 +986,7 @@ When this plain gray cloak is worn with the hood drawn up around the head, the w
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item), _ [invisibility](../spells_dir/invisibility#_invisibility),_ creator must be an elf; **Cost** 1,250 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [invisibility](../../spells_dir/invisibility#_invisibility),_ creator must be an elf; **Cost** 1,250 gp
 
 **Cloak of Etherealness**
 
@@ -996,11 +996,11 @@ When this plain gray cloak is worn with the hood drawn up around the head, the w
 
 **Description**
 
-This silvery gray cloak seems to absorb light rather than be illuminated by it. On command, the cloak makes its wearer ethereal (as the _ [ethereal jaunt](../spells_dir/etherealJaunt#_ethereal-jaunt) _spell). The effect is dismissible. The cloak works for a total of up to 10 minutes per day. This duration need not be continuous, but it must be used in 1 minute increments.
+This silvery gray cloak seems to absorb light rather than be illuminated by it. On command, the cloak makes its wearer ethereal (as the _ [ethereal jaunt](../../spells_dir/etherealJaunt#_ethereal-jaunt) _spell). The effect is dismissible. The cloak works for a total of up to 10 minutes per day. This duration need not be continuous, but it must be used in 1 minute increments.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item), _ [ethereal jaunt](../spells_dir/etherealJaunt#_ethereal-jaunt)_; **Cost** 27,500 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [ethereal jaunt](../../spells_dir/etherealJaunt#_ethereal-jaunt)_; **Cost** 27,500 gp
 
 **Cloak of the Manta Ray**
 
@@ -1010,13 +1010,13 @@ This silvery gray cloak seems to absorb light rather than be illuminated by it. 
 
 **Description**
 
-This cloak appears to be made of leather until the wearer enters salt water. At that time, the _cloak of the manta ray _adheres to the individual, and he appears nearly identical to a manta ray (as the _ [beast shape II](../spells_dir/beastShape#_beast-shape-ii) _spell, except that it allows only manta ray form). He gains a +3 natural armor bonus, the ability to breathe underwater, and a swim speed of 60 feet, like a real manta ray.
+This cloak appears to be made of leather until the wearer enters salt water. At that time, the _cloak of the manta ray _adheres to the individual, and he appears nearly identical to a manta ray (as the _ [beast shape II](../../spells_dir/beastShape#_beast-shape-ii) _spell, except that it allows only manta ray form). He gains a +3 natural armor bonus, the ability to breathe underwater, and a swim speed of 60 feet, like a real manta ray.
 
 The cloak does allow the wearer to attack with a manta ray's tail spine, dealing 1d6 points of damage. This attack can be used in addition to any other attack the character has, using his highest melee attack bonus. The wearer can release his arms from the cloak without sacrificing underwater movement if so desired.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item), _ [beast shape II](../spells_dir/beastShape#_beast-shape-ii)_, _ [water breathing](../spells_dir/waterBreathing#_water-breathing)_; **Cost** 3,600 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [beast shape II](../../spells_dir/beastShape#_beast-shape-ii)_, _ [water breathing](../../spells_dir/waterBreathing#_water-breathing)_; **Cost** 3,600 gp
 
 **Cloak of Resistance**
 
@@ -1026,11 +1026,11 @@ The cloak does allow the wearer to attack with a manta ray's tail spine, dealing
 
 **Description**
 
-These garments offer magic protection in the form of a +1 to +5 resistance bonus on all saving throws ( [Fortitude](../combat#_fortitude), [Reflex](../combat#_reflex), and [Will](../combat#_will)).
+These garments offer magic protection in the form of a +1 to +5 resistance bonus on all saving throws ( [Fortitude](../../combat#_fortitude), [Reflex](../../combat#_reflex), and [Will](../../combat#_will)).
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item), [resistance](../spells_dir/resistance#_resistance)_,_ creator's caster level must be at least three times the cloak's bonus; **Cost** 500 gp (+1), 2,000 gp (+2), 4,500 gp (+3), 8,000 gp (+4), 12,500 gp (+5)
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), [resistance](../../spells_dir/resistance#_resistance)_,_ creator's caster level must be at least three times the cloak's bonus; **Cost** 500 gp (+1), 2,000 gp (+2), 4,500 gp (+3), 8,000 gp (+4), 12,500 gp (+5)
 
 **Crown of Blasting, Minor**
 
@@ -1040,11 +1040,11 @@ These garments offer magic protection in the form of a +1 to +5 resistance bonus
 
 **Description**
 
-On command, this simple golden crown projects a blast of _ [searing light](../spells_dir/searingLight#_searing-light) _(3d8 points of damage) once per day.
+On command, this simple golden crown projects a blast of _ [searing light](../../spells_dir/searingLight#_searing-light) _(3d8 points of damage) once per day.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item), _ [searing light](../spells_dir/searingLight#_searing-light)_; **Cost** 3,240 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [searing light](../../spells_dir/searingLight#_searing-light)_; **Cost** 3,240 gp
 
 **Crown of Blasting, Major**
 
@@ -1054,11 +1054,11 @@ On command, this simple golden crown projects a blast of _ [searing light](../sp
 
 **Description**
 
-On command, this elaborate golden crown projects a blast of _ [searing light](../spells_dir/searingLight#_searing-light) _(5d8 maximized for 40 points of damage) once per day.
+On command, this elaborate golden crown projects a blast of _ [searing light](../../spells_dir/searingLight#_searing-light) _(5d8 maximized for 40 points of damage) once per day.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item), [Maximize Spell](../feats#_maximize-spell), _ [searing light](../spells_dir/searingLight#_searing-light)_; **Cost** 11,880 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), [Maximize Spell](../../feats#_maximize-spell), _ [searing light](../../spells_dir/searingLight#_searing-light)_; **Cost** 11,880 gp
 
 **Crystal Ball**
 
@@ -1068,21 +1068,21 @@ On command, this elaborate golden crown projects a blast of _ [searing light](..
 
 **Description**
 
-This is the most common form of scrying device, a crystal sphere about 6 inches in diameter. So well-known are these items that many so-called oracles or fortune-tellers use similar appearing (but completely non-magical) replicas of these items to ply their trades. A character can use a magical _crystal ball_ to see over virtually any distance or into other planes of existence, as with the spell _ [scrying](../spells_dir/scrying#_scrying) _( [Will](../combat#_will) DC 16 negates). A _crystal ball_ can be used multiple times per day, but the DC to resist its power decreases by 1 for each additional use.
+This is the most common form of scrying device, a crystal sphere about 6 inches in diameter. So well-known are these items that many so-called oracles or fortune-tellers use similar appearing (but completely non-magical) replicas of these items to ply their trades. A character can use a magical _crystal ball_ to see over virtually any distance or into other planes of existence, as with the spell _ [scrying](../../spells_dir/scrying#_scrying) _( [Will](../../combat#_will) DC 16 negates). A _crystal ball_ can be used multiple times per day, but the DC to resist its power decreases by 1 for each additional use.
 
 Certain _crystal balls _have additional powers that can be used through the _crystal ball _on the target viewed.
 
 | Crystal Ball Type | Market Price |
 | --- | --- |
 | _Crystal ball_ | 42,000 gp |
-| _Crystal ball _with _ [see invisibility](../spells_dir/seeInvisibility#_see-invisibility)_ | 50,000 gp |
+| _Crystal ball _with _ [see invisibility](../../spells_dir/seeInvisibility#_see-invisibility)_ | 50,000 gp |
 | _Crystal ball _with _telepathy_\* | 70,000 gp |
-| _Crystal ball _with _ [true seeing](../spells_dir/trueSeeing#_true-seeing)_ | 80,000 gp |
-| _Crystal ball _with _ [detect thoughts (](../spells_dir/detectThoughts#_detect-thoughts) [Will](../combat#_will) DC 13 negates) _ | 51,000 gp |
+| _Crystal ball _with _ [true seeing](../../spells_dir/trueSeeing#_true-seeing)_ | 80,000 gp |
+| _Crystal ball _with _ [detect thoughts (](../../spells_dir/detectThoughts#_detect-thoughts) [Will](../../combat#_will) DC 13 negates) _ | 51,000 gp |
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item), _ [scrying](../spells_dir/scrying#_scrying)_ (plus any additional spells put into item); **Cost** 21,000 gp (standard), 25,000 (with _ [see invisibility](../spells_dir/seeInvisibility#_see-invisibility)_), 25,500 gp (with _ [detect thoughts](../spells_dir/detectThoughts#_detect-thoughts)_), 35,000 gp (with _telepathy_), 40,000 gp (with _ [true seeing](../spells_dir/trueSeeing#_true-seeing)_)
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [scrying](../../spells_dir/scrying#_scrying)_ (plus any additional spells put into item); **Cost** 21,000 gp (standard), 25,000 (with _ [see invisibility](../../spells_dir/seeInvisibility#_see-invisibility)_), 25,500 gp (with _ [detect thoughts](../../spells_dir/detectThoughts#_detect-thoughts)_), 35,000 gp (with _telepathy_), 40,000 gp (with _ [true seeing](../../spells_dir/trueSeeing#_true-seeing)_)
 
 **Cube of Force**
 
@@ -1092,7 +1092,7 @@ Certain _crystal balls _have additional powers that can be used through the _cry
 
 **Description**
 
-This device is just under an inch across and can be made of ivory, bone, or any hard mineral. Typically, each of the cube's faces are polished smooth, but sometimes they are etched with runes. The device enables its possessor to put up a special cube made up of 6 individual _ [wall of force](../spells_dir/wallOfForce#_wall-of-force) _spells, 10 feet on a side around her person. This cubic screen moves with the character and is impervious to the attack forms mentioned on the table below. The cube has 36 charges when fully charged—charges used are automatically renewed each day. The possessor presses one face of the cube to activate a particular type of screen or to deactivate the device. Each effect costs a certain number of charges to maintain for every minute (or portion of a minute) it is in operation. Also, when an effect is active, the possessor's speed is limited to the maximum value given on the table.
+This device is just under an inch across and can be made of ivory, bone, or any hard mineral. Typically, each of the cube's faces are polished smooth, but sometimes they are etched with runes. The device enables its possessor to put up a special cube made up of 6 individual _ [wall of force](../../spells_dir/wallOfForce#_wall-of-force) _spells, 10 feet on a side around her person. This cubic screen moves with the character and is impervious to the attack forms mentioned on the table below. The cube has 36 charges when fully charged—charges used are automatically renewed each day. The possessor presses one face of the cube to activate a particular type of screen or to deactivate the device. Each effect costs a certain number of charges to maintain for every minute (or portion of a minute) it is in operation. Also, when an effect is active, the possessor's speed is limited to the maximum value given on the table.
 
 When the _cube of force _is active, attacks dealing more than 30 points of damage drain 1 charge for every 10 points of damage beyond 30 that they deal. The charge cost to maintain each of the cube's six walls is summarized below.
 
@@ -1109,18 +1109,18 @@ Spells that affect the integrity of the screen also drain extra charges. These s
 
 | Attack Form | Extra Charges |
 | --- | --- |
-| [Disintegrate](../spells_dir/disintegrate#_disintegrate) | 6 |
+| [Disintegrate](../../spells_dir/disintegrate#_disintegrate) | 6 |
 |
 | |
 | Horn of blasting | 6 |
-| [Passwall](../spells_dir/passwall#_passwall) | 3 |
-| [Phase door](../spells_dir/phaseDoor#_phase-door) | 5 |
-| [Prismatic spray](../spells_dir/prismaticSpray#_prismatic-spray) | 7 |
-| [Wall of fire](../spells_dir/wallOfFire#_wall-of-fire) | 2 |
+| [Passwall](../../spells_dir/passwall#_passwall) | 3 |
+| [Phase door](../../spells_dir/phaseDoor#_phase-door) | 5 |
+| [Prismatic spray](../../spells_dir/prismaticSpray#_prismatic-spray) | 7 |
+| [Wall of fire](../../spells_dir/wallOfFire#_wall-of-fire) | 2 |
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item), _ [wall of force](../spells_dir/wallOfForce#_wall-of-force)_; **Cost** 31,000 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [wall of force](../../spells_dir/wallOfForce#_wall-of-force)_; **Cost** 31,000 gp
 
 **Cube of Frost Resistance**
 
@@ -1134,7 +1134,7 @@ This cube is activated or deactivated by pressing one side. When activated, it c
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item), _ [protection from energy](../spells_dir/protectionFromEnergy#_protection-from-energy)_; **Cost** 13,500 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [protection from energy](../../spells_dir/protectionFromEnergy#_protection-from-energy)_; **Cost** 13,500 gp
 
 **Cubic Gate**
 
@@ -1146,13 +1146,13 @@ This cube is activated or deactivated by pressing one side. When activated, it c
 
 This potent magical item is a small cube fashioned from carnelian. Each of the six sides of the cube is keyed to a different plane of existence or dimension, one of which is the Material Plane. The character creating the item chooses the planes to which the other five sides are keyed.
 
-If a side of the _cubic gate _is pressed once, it opens a _ [gate](../spells_dir/gate#_gate) _to a random point on the plane keyed to that side. There is a 10% chance per minute that an outsider from that plane (determine randomly) comes through it looking for food, fun, or trouble. Pressing the side a second time closes the _ [gate](../spells_dir/gate#_gate)_. It is impossible to open more than one _ [gate](../spells_dir/gate#_gate) _at a time.
+If a side of the _cubic gate _is pressed once, it opens a _ [gate](../../spells_dir/gate#_gate) _to a random point on the plane keyed to that side. There is a 10% chance per minute that an outsider from that plane (determine randomly) comes through it looking for food, fun, or trouble. Pressing the side a second time closes the _ [gate](../../spells_dir/gate#_gate)_. It is impossible to open more than one _ [gate](../../spells_dir/gate#_gate) _at a time.
 
-If a side is pressed twice in quick succession, the character so doing is transported to a random point on the other plane, along with all creatures in adjacent squares. The other creatures may avoid this fate by succeeding on DC 23 [Will](../combat#_will) saves.
+If a side is pressed twice in quick succession, the character so doing is transported to a random point on the other plane, along with all creatures in adjacent squares. The other creatures may avoid this fate by succeeding on DC 23 [Will](../../combat#_will) saves.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item), _ [plane shift](../spells_dir/planeShift#_plane-shift)_; **Cost** 82,000 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [plane shift](../../spells_dir/planeShift#_plane-shift)_; **Cost** 82,000 gp
 
 **Darkskull**
 
@@ -1162,11 +1162,11 @@ If a side is pressed twice in quick succession, the character so doing is transp
 
 **Description**
 
-This skull, carved from ebony, is wholly evil. Wherever the skull goes, the area around it is treated as though an _ [unhallow](../spells_dir/unhallow#_unhallow) _spell had been cast with the skull as the touched point of origin. Each _darkskull _has a single spell effect tied to it. This spell is from the standard list given in the _ [unhallow](../spells_dir/unhallow#_unhallow) _spell description, and it cannot be changed.
+This skull, carved from ebony, is wholly evil. Wherever the skull goes, the area around it is treated as though an _ [unhallow](../../spells_dir/unhallow#_unhallow) _spell had been cast with the skull as the touched point of origin. Each _darkskull _has a single spell effect tied to it. This spell is from the standard list given in the _ [unhallow](../../spells_dir/unhallow#_unhallow) _spell description, and it cannot be changed.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item), _ [unhallow](../spells_dir/unhallow#_unhallow),_ creator must be evil; **Cost** 30,000 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [unhallow](../../spells_dir/unhallow#_unhallow),_ creator must be evil; **Cost** 30,000 gp
 
 **Decanter of Endless Water**
 
@@ -1186,7 +1186,7 @@ The geyser effect exerts considerable pressure, requiring the holder to make a D
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item), _ [control water](../spells_dir/controlWater#_control-water)_; **Cost** 4,500 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [control water](../../spells_dir/controlWater#_control-water)_; **Cost** 4,500 gp
 
 **Deck of Illusions**
 
@@ -1196,7 +1196,7 @@ The geyser effect exerts considerable pressure, requiring the holder to make a D
 
 **Description**
 
-This set of parchment cards is usually found in an ivory, leather, or wooden box. A full deck consists of 34 cards. When a card is drawn at random and thrown to the ground, a _ [major image](../spells_dir/majorImage#_major-image) _of a creature is formed. The figment lasts until dispelled. The illusory creature cannot move more than 30 feet away from where the card landed, but otherwise moves and acts as if it were real. At all times it obeys the desires of the character who drew the card. When the illusion is dispelled, the card becomes blank and cannot be used again. If the card is picked up, the illusion is automatically and instantly dispelled. The cards in a deck and the illusions they bring forth are summarized on the following table. (Use one of the first two columns to simulate the contents of a full deck using either ordinary playing cards or tarot cards.)
+This set of parchment cards is usually found in an ivory, leather, or wooden box. A full deck consists of 34 cards. When a card is drawn at random and thrown to the ground, a _ [major image](../../spells_dir/majorImage#_major-image) _of a creature is formed. The figment lasts until dispelled. The illusory creature cannot move more than 30 feet away from where the card landed, but otherwise moves and acts as if it were real. At all times it obeys the desires of the character who drew the card. When the illusion is dispelled, the card becomes blank and cannot be used again. If the card is picked up, the illusion is automatically and instantly dispelled. The cards in a deck and the illusions they bring forth are summarized on the following table. (Use one of the first two columns to simulate the contents of a full deck using either ordinary playing cards or tarot cards.)
 
 | Playing Card | Tarot Card | Creature |
 | --- | --- | --- |
@@ -1247,7 +1247,7 @@ A randomly generated deck is usually complete (11–100 on d%), but may be disco
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item), _ [major image](../spells_dir/majorImage#_major-image)_; **Cost** 4,050 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [major image](../../spells_dir/majorImage#_major-image)_; **Cost** 4,050 gp
 
 **Dimensional Shackles**
 
@@ -1257,11 +1257,11 @@ A randomly generated deck is usually complete (11–100 on d%), but may be disco
 
 **Description**
 
-These shackles have golden runes traced across their cold iron links. Any creature bound within them is affected as if a _ [dimensional anchor](../spells_dir/dimensionalAnchor#_dimensional-anchor) _spell were cast upon it (no save). They fit any Small to Large creature. The DC to break or slip out of the shackles is 30.
+These shackles have golden runes traced across their cold iron links. Any creature bound within them is affected as if a _ [dimensional anchor](../../spells_dir/dimensionalAnchor#_dimensional-anchor) _spell were cast upon it (no save). They fit any Small to Large creature. The DC to break or slip out of the shackles is 30.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item), _ [dimensional anchor](../spells_dir/dimensionalAnchor#_dimensional-anchor)_; **Cost** 14,000 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [dimensional anchor](../../spells_dir/dimensionalAnchor#_dimensional-anchor)_; **Cost** 14,000 gp
 
 **Drums of Panic**
 
@@ -1271,11 +1271,11 @@ These shackles have golden runes traced across their cold iron links. Any creatu
 
 **Description**
 
-These drums are kettle drums (hemispheres about 1-1_dir/2 feet in diameter on stands). They come in pairs and are unremarkable in appearance. If both of the pair are sounded, all creatures within 120 feet (with the exception of those within a 20-foot-radius safe zone around the drums) are affected as by a _ [fear](../spells_dir/fear#_fear)_ spell ( [Will](../combat#_will) DC 16 partial). _Drums of panic_ can be used once per day.
+These drums are kettle drums (hemispheres about 1-1_dir/2 feet in diameter on stands). They come in pairs and are unremarkable in appearance. If both of the pair are sounded, all creatures within 120 feet (with the exception of those within a 20-foot-radius safe zone around the drums) are affected as by a _ [fear](../../spells_dir/fear#_fear)_ spell ( [Will](../../combat#_will) DC 16 partial). _Drums of panic_ can be used once per day.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item)_, [fear](../spells_dir/fear#_fear); _ **Cost** 15,000 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item)_, [fear](../../spells_dir/fear#_fear); _ **Cost** 15,000 gp
 
 **Dust of Appearance**
 
@@ -1285,13 +1285,13 @@ These drums are kettle drums (hemispheres about 1-1_dir/2 feet in diameter on st
 
 **Description**
 
-This powder appears to be a very fine, very light metallic dust. A single handful of this substance flung into the air coats objects within a 10-foot radius, making them visible even if they are invisible. It likewise negates the effects of _ [blur](../spells_dir/blur#_blur)_ and _ [displacement](../spells_dir/displacement#_displacement)_. In this, it works just like the _ [faerie fire](../spells_dir/faerieFire#_faerie-fire)_ spell. The dust also reveals figments, [mirror image](../spells_dir/mirrorImage#_mirror-image)s, and projected images for what they are. A creature coated with the dust takes a –30 penalty on its Stealth checks. The dust's effect lasts for 5 minutes.
+This powder appears to be a very fine, very light metallic dust. A single handful of this substance flung into the air coats objects within a 10-foot radius, making them visible even if they are invisible. It likewise negates the effects of _ [blur](../../spells_dir/blur#_blur)_ and _ [displacement](../../spells_dir/displacement#_displacement)_. In this, it works just like the _ [faerie fire](../../spells_dir/faerieFire#_faerie-fire)_ spell. The dust also reveals figments, [mirror image](../../spells_dir/mirrorImage#_mirror-image)s, and projected images for what they are. A creature coated with the dust takes a –30 penalty on its Stealth checks. The dust's effect lasts for 5 minutes.
 
 _Dust of appearance_ is typically stored in small silk packets or hollow bone tubes.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item)_, [glitterdust](../spells_dir/glitterdust#_glitterdust); _ **Cost** 900 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item)_, [glitterdust](../../spells_dir/glitterdust#_glitterdust); _ **Cost** 900 gp
 
 **Dust of Disappearance**
 
@@ -1301,11 +1301,11 @@ _Dust of appearance_ is typically stored in small silk packets or hollow bone tu
 
 **Description**
 
-This dust looks like _dust of appearance_ and is typically stored in the same manner. A creature or object touched by it becomes invisible (as _ [greater invisibility](../spells_dir/invisibility#_invisibility-greater)_). Normal vision can't see dusted creatures or objects, nor can they be detected by magical means, including _ [see invisibility](../spells_dir/seeInvisibility#_see-invisibility)_ or _ [invisibility purge](../spells_dir/invisibilityPurge#_invisibility-purge)_. _Dust of appearance_, however, does reveal people and objects made invisible by _dust of disappearance_. Other factors, such as sound and smell, also allow possible detection. The _ [greater invisibility](../spells_dir/invisibility#_invisibility-greater)_ bestowed by the dust lasts for 2d6 rounds. The invisible creature doesn't know when the duration will end.
+This dust looks like _dust of appearance_ and is typically stored in the same manner. A creature or object touched by it becomes invisible (as _ [greater invisibility](../../spells_dir/invisibility#_invisibility-greater)_). Normal vision can't see dusted creatures or objects, nor can they be detected by magical means, including _ [see invisibility](../../spells_dir/seeInvisibility#_see-invisibility)_ or _ [invisibility purge](../../spells_dir/invisibilityPurge#_invisibility-purge)_. _Dust of appearance_, however, does reveal people and objects made invisible by _dust of disappearance_. Other factors, such as sound and smell, also allow possible detection. The _ [greater invisibility](../../spells_dir/invisibility#_invisibility-greater)_ bestowed by the dust lasts for 2d6 rounds. The invisible creature doesn't know when the duration will end.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item)_, [greater invisibility](../spells_dir/invisibility#_invisibility-greater);_ **Cost** 1,750 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item)_, [greater invisibility](../../spells_dir/invisibility#_invisibility-greater);_ **Cost** 1,750 gp
 
 **Dust of Dryness**
 
@@ -1317,11 +1317,11 @@ This dust looks like _dust of appearance_ and is typically stored in the same ma
 
 This special dust has many uses. If it is thrown into water, a volume of as much as 100 gallons is instantly transformed into nothingness, and the dust becomes a marble-sized pellet, floating or resting where it was thrown. If this pellet is hurled, it breaks and releases the same volume of water. The dust affects only water (fresh, salt, alkaline), not other liquids.
 
-If the dust is employed against an outsider with the elemental and water subtypes, the creature must make a DC 18 [Fortitude](../combat#_fortitude) save or be destroyed. The dust deals 5d6 points of damage to the creature even if its saving throw succeeds.
+If the dust is employed against an outsider with the elemental and water subtypes, the creature must make a DC 18 [Fortitude](../../combat#_fortitude) save or be destroyed. The dust deals 5d6 points of damage to the creature even if its saving throw succeeds.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item)_, [control water](../spells_dir/controlWater#_control-water);_ **Cost** 425 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item)_, [control water](../../spells_dir/controlWater#_control-water);_ **Cost** 425 gp
 
 **Dust of Illusion**
 
@@ -1331,11 +1331,11 @@ If the dust is employed against an outsider with the elemental and water subtype
 
 **Description**
 
-This unremarkable powder resembles chalk dust or powdered graphite. Stare at it, however, and the dust changes color and form. Put _dust of illusion _on a creature, and that creature is affected as if by a _ [disguise self](../spells_dir/disguiseSelf#_disguise-self)_ glamer, with the individual who sprinkles the dust envisioning the illusion desired. An unwilling target is allowed a DC 11 [Reflex](../combat#_reflex) save to avoid the dust. The glamer lasts for 2 hours.
+This unremarkable powder resembles chalk dust or powdered graphite. Stare at it, however, and the dust changes color and form. Put _dust of illusion _on a creature, and that creature is affected as if by a _ [disguise self](../../spells_dir/disguiseSelf#_disguise-self)_ glamer, with the individual who sprinkles the dust envisioning the illusion desired. An unwilling target is allowed a DC 11 [Reflex](../../combat#_reflex) save to avoid the dust. The glamer lasts for 2 hours.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item), _ [disguise self](../spells_dir/disguiseSelf#_disguise-self);_ **Cost** 600 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [disguise self](../../spells_dir/disguiseSelf#_disguise-self);_ **Cost** 600 gp
 
 **Dust of Tracelessness**
 
@@ -1351,7 +1351,7 @@ A handful of dust sprinkled along a trail causes evidence of the passage of as m
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item),_ [pass without trace](../spells_dir/passWithoutTrace#_pass-without-trace);_ **_ Cost _** 125 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item),_ [pass without trace](../../spells_dir/passWithoutTrace#_pass-without-trace);_ **_ Cost _** 125 gp
 
 **Efficient Quiver**
 
@@ -1365,7 +1365,7 @@ This appears to be a typical arrow container capable of holding about 20 arrows.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item)_, [secret chest](../spells_dir/secretChest#_secret-chest);_ **Cost** 900 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item)_, [secret chest](../../spells_dir/secretChest#_secret-chest);_ **Cost** 900 gp
 
 **Efreeti Bottle**
 
@@ -1379,7 +1379,7 @@ This item is typically fashioned of brass or bronze, with a lead stopper bearing
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item)_, [planar binding](../spells_dir/planarBinding#_planar-binding);_ **_ Cost _** 72,500 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item)_, [planar binding](../../spells_dir/planarBinding#_planar-binding);_ **_ Cost _** 72,500 gp
 
 **Elemental Gem**
 
@@ -1397,7 +1397,7 @@ The coloration of the gem varies with the type of elemental it summons. Air elem
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item)_, [summon monster V](../spells_dir/summonMonster#_summon-monster-v)_ or _ [summon nature's ally V](../spells_dir/summonNatureSAlly#_summon-nature-s-ally-v);_ **Cost** 1,125 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item)_, [summon monster V](../../spells_dir/summonMonster#_summon-monster-v)_ or _ [summon nature's ally V](../../spells_dir/summonNatureSAlly#_summon-nature-s-ally-v);_ **Cost** 1,125 gp
 
 **Elixir of Fire Breath**
 
@@ -1407,11 +1407,11 @@ The coloration of the gem varies with the type of elemental it summons. Air elem
 
 **Description**
 
-This strange bubbling elixir bestows upon the drinker the ability to spit gouts of flame. He can breathe fire up to three times, each time dealing 4d6 points of fire damage to a single target up to 25 feet away. The victim can attempt a DC 13 [Reflex](../combat#_reflex) save for half damage. Unused blasts of fire dissipate 1 hour after the liquid is consumed.
+This strange bubbling elixir bestows upon the drinker the ability to spit gouts of flame. He can breathe fire up to three times, each time dealing 4d6 points of fire damage to a single target up to 25 feet away. The victim can attempt a DC 13 [Reflex](../../combat#_reflex) save for half damage. Unused blasts of fire dissipate 1 hour after the liquid is consumed.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item), _ [scorching ray](../spells_dir/scorchingRay#_scorching-ray);_ **Cost** 550 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [scorching ray](../../spells_dir/scorchingRay#_scorching-ray);_ **Cost** 550 gp
 
 **Elixir of Hiding**
 
@@ -1425,7 +1425,7 @@ A character drinking this liquid gains an intuitive ability to sneak and hide (+
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item)_, [invisibility](../spells_dir/invisibility#_invisibility);_ **Cost** 125 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item)_, [invisibility](../../spells_dir/invisibility#_invisibility);_ **Cost** 125 gp
 
 **Elixir of Love**
 
@@ -1435,11 +1435,11 @@ A character drinking this liquid gains an intuitive ability to sneak and hide (+
 
 **Description**
 
-This sweet-tasting liquid causes the character drinking it to become enraptured with the first creature she sees after consuming the draft (as _ [charm person](../spells_dir/charmPerson#_charm-person)_—the drinker must be a humanoid of Medium or smaller size, [Will](../combat#_will) DC 14 negates). The charm effect wears off in 1d3 hours.
+This sweet-tasting liquid causes the character drinking it to become enraptured with the first creature she sees after consuming the draft (as _ [charm person](../../spells_dir/charmPerson#_charm-person)_—the drinker must be a humanoid of Medium or smaller size, [Will](../../combat#_will) DC 14 negates). The charm effect wears off in 1d3 hours.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item)_, [charm person](../spells_dir/charmPerson#_charm-person);_ **Cost** 75 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item)_, [charm person](../../spells_dir/charmPerson#_charm-person);_ **Cost** 75 gp
 
 **Elixir of Swimming**
 
@@ -1453,7 +1453,7 @@ This elixir bestows swimming ability. An almost imperceptible magic sheath surro
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item)_, _creator must have 5 ranks in the [Swim](../skills_dir/swim#_swim) skill; **Cost** 125 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item)_, _creator must have 5 ranks in the [Swim](../../skills_dir/swim#_swim) skill; **Cost** 125 gp
 
 **Elixir of Truth**
 
@@ -1463,11 +1463,11 @@ This elixir bestows swimming ability. An almost imperceptible magic sheath surro
 
 **Description**
 
-This elixir forces the drinker it to say nothing but the truth for 10 minutes ( [Will](../combat#_will) DC 13 negates). She must answer any questions put to her in that time, but with each question she can make a separate DC 13 [Will](../combat#_will) save. If one of these secondary saves is successful, she doesn't break free of the truth-compelling enchantment but also doesn't have to answer that particular question (if she does answer, she must tell the truth). No more than one question can be asked each round. This is a mind-affecting compulsion enchantment.
+This elixir forces the drinker it to say nothing but the truth for 10 minutes ( [Will](../../combat#_will) DC 13 negates). She must answer any questions put to her in that time, but with each question she can make a separate DC 13 [Will](../../combat#_will) save. If one of these secondary saves is successful, she doesn't break free of the truth-compelling enchantment but also doesn't have to answer that particular question (if she does answer, she must tell the truth). No more than one question can be asked each round. This is a mind-affecting compulsion enchantment.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item),_ [zone of truth](../spells_dir/zoneOfTruth#_zone-of-truth);_ **Cost** 250 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item),_ [zone of truth](../../spells_dir/zoneOfTruth#_zone-of-truth);_ **Cost** 250 gp
 
 **Elixir of Tumbling**
 
@@ -1481,7 +1481,7 @@ This draught of liquid grants the drinker the ability to tumble about, avoiding 
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item)_, [cat's grace](../spells_dir/catSGrace#_cat-s-grace);_ **Cost** 125 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item)_, [cat's grace](../../spells_dir/catSGrace#_cat-s-grace);_ **Cost** 125 gp
 
 **Elixir of Vision**
 
@@ -1495,7 +1495,7 @@ Drinking this elixir grants the imbiber the ability to notice acute details with
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item),_ [true seeing](../spells_dir/trueSeeing#_true-seeing);_ **Cost** 125 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item),_ [true seeing](../../spells_dir/trueSeeing#_true-seeing);_ **Cost** 125 gp
 
 **Eversmoking Bottle**
 
@@ -1511,7 +1511,7 @@ The bottle must be resealed by a command word, after which the smoke dissipates 
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item),_ [pyrotechnics](../spells_dir/pyrotechnics#_pyrotechnics);_ **Cost** 2,700 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item),_ [pyrotechnics](../../spells_dir/pyrotechnics#_pyrotechnics);_ **Cost** 2,700 gp
 
 **Eyes of Charming**
 
@@ -1521,11 +1521,11 @@ The bottle must be resealed by a command word, after which the smoke dissipates 
 
 **Description**
 
-These two crystal lenses fit over the user's eyes. The wearer is able to use _ [charm person](../spells_dir/charmPerson#_charm-person)_ (one target per round) merely by meeting a target's gaze. Those failing a DC 16 [Will](../combat#_will) save are charmed as per the spell. Both lenses must be worn for the magic item to take effect.
+These two crystal lenses fit over the user's eyes. The wearer is able to use _ [charm person](../../spells_dir/charmPerson#_charm-person)_ (one target per round) merely by meeting a target's gaze. Those failing a DC 16 [Will](../../combat#_will) save are charmed as per the spell. Both lenses must be worn for the magic item to take effect.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item), [Heighten Spell](../feats#_heighten-spell)_, [charm person](../spells_dir/charmPerson#_charm-person);_ **Cost** 28,000 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), [Heighten Spell](../../feats#_heighten-spell)_, [charm person](../../spells_dir/charmPerson#_charm-person);_ **Cost** 28,000 gp
 
 **Eyes of Doom**
 
@@ -1535,11 +1535,11 @@ These two crystal lenses fit over the user's eyes. The wearer is able to use _ [
 
 **Description**
 
-These crystal lenses fit over the user's eyes, enabling him to cast _ [doom](../spells_dir/doom#_doom)_ upon those around him (one target per round) as a gaze attack, except that the wearer must take a standard action, and those merely looking at the wearer are not affected. Those failing a DC 11 [Will](../combat#_will) save are affected as by the _ [doom](../spells_dir/doom#_doom)_ spell. The wearer also gains the additional power of a continual _ [deathwatch](../spells_dir/deathwatch#_deathwatch)_ effect and can use _ [fear](../spells_dir/fear#_fear) _( [Will](../combat#_will) DC 16 partial) as a normal gaze attack once per week. Both lenses must be worn for the magic item to take effect.
+These crystal lenses fit over the user's eyes, enabling him to cast _ [doom](../../spells_dir/doom#_doom)_ upon those around him (one target per round) as a gaze attack, except that the wearer must take a standard action, and those merely looking at the wearer are not affected. Those failing a DC 11 [Will](../../combat#_will) save are affected as by the _ [doom](../../spells_dir/doom#_doom)_ spell. The wearer also gains the additional power of a continual _ [deathwatch](../../spells_dir/deathwatch#_deathwatch)_ effect and can use _ [fear](../../spells_dir/fear#_fear) _( [Will](../../combat#_will) DC 16 partial) as a normal gaze attack once per week. Both lenses must be worn for the magic item to take effect.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item),_ [doom](../spells_dir/doom#_doom), [deathwatch](../spells_dir/deathwatch#_deathwatch), [fear](../spells_dir/fear#_fear);_ **Cost** 12,500 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item),_ [doom](../../spells_dir/doom#_doom), [deathwatch](../../spells_dir/deathwatch#_deathwatch), [fear](../../spells_dir/fear#_fear);_ **Cost** 12,500 gp
 
 **Eyes of the Eagle**
 
@@ -1549,11 +1549,11 @@ These crystal lenses fit over the user's eyes, enabling him to cast _ [doom](../
 
 **Description**
 
-These items are made of special crystal and fit over the eyes of the wearer. These lenses grant a +5 competence bonus on Perception checks. Wearing only one of the pair causes a character to become dizzy and [stunned](../glossary#_stunned) for 1 round. Both lenses must be worn for the magic item to take effect.
+These items are made of special crystal and fit over the eyes of the wearer. These lenses grant a +5 competence bonus on Perception checks. Wearing only one of the pair causes a character to become dizzy and [stunned](../../glossary#_stunned) for 1 round. Both lenses must be worn for the magic item to take effect.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item),_ [clairaudience_dir/clairvoyance](../spells_dir/clairaudienceClairvoyance#_clairaudience-clairvoyance);_ **Cost** 1,250 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item),_ [clairaudience_dir/clairvoyance](../../spells_dir/clairaudienceClairvoyance#_clairaudience-clairvoyance);_ **Cost** 1,250 gp
 
 **Feather Token**
 
@@ -1579,7 +1579,7 @@ _Whip_: A token that forms into a huge leather whip and wields itself against an
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item), _ [major creation](../spells_dir/majorCreation#_major-creation);_ **Cost** 25 gp (anchor), 150 gp (bird), 100 gp (fan), 225 gp (swan boat), 200 gp (tree), 250 gp (whip)
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [major creation](../../spells_dir/majorCreation#_major-creation);_ **Cost** 25 gp (anchor), 150 gp (bird), 100 gp (fan), 225 gp (swan boat), 200 gp (tree), 250 gp (whip)
 
 **Figurines of Wondrous Power**
 
@@ -1593,31 +1593,31 @@ Each of the several kinds of _figurines of wondrous power_ appears to be a minia
 
 If a _figurine of wondrous power _is broken or destroyed in its statuette form, it is forever ruined. All magic is lost, its power departed. If slain in animal form, the figurine simply reverts to a statuette that can be used again at a later time.
 
-**Bronze Griffon** : When animated, a bronze griffon acts in all ways like a normal griffon under the command of its possessor. The item can be used twice per week for up to 6 hours per use. When 6 hours have passed or when the command word is spoken, the bronze griffon once again becomes a tiny statuette. Moderate transmutation; CL 11th; [Craft Wondrous Item](../feats#_craft-wondrous-item),_ [animate objects](../spells_dir/animateObjects#_animate-objects)_.
+**Bronze Griffon** : When animated, a bronze griffon acts in all ways like a normal griffon under the command of its possessor. The item can be used twice per week for up to 6 hours per use. When 6 hours have passed or when the command word is spoken, the bronze griffon once again becomes a tiny statuette. Moderate transmutation; CL 11th; [Craft Wondrous Item](../../feats#_craft-wondrous-item),_ [animate objects](../../spells_dir/animateObjects#_animate-objects)_.
 
-**Ebony Fly** : When animated, an ebony fly is the size of a pony and has all the statistics of a pegasus but can make no attacks. The item can be used three times per week for up to 12 hours per use. When 12 hours have passed or when the command word is spoken, the ebony fly again becomes a tiny statuette. Moderate transmutation; CL 11th; [Craft Wondrous Item](../feats#_craft-wondrous-item),_ [animate objects](../spells_dir/animateObjects#_animate-objects)_.
+**Ebony Fly** : When animated, an ebony fly is the size of a pony and has all the statistics of a pegasus but can make no attacks. The item can be used three times per week for up to 12 hours per use. When 12 hours have passed or when the command word is spoken, the ebony fly again becomes a tiny statuette. Moderate transmutation; CL 11th; [Craft Wondrous Item](../../feats#_craft-wondrous-item),_ [animate objects](../../spells_dir/animateObjects#_animate-objects)_.
 
-**Golden Lions** : These figurines come in pairs. They become normal adult male lions. If slain in combat, the lions cannot be brought back from statuette form for 1 full week. Otherwise, they can be used once per day for up to 1 hour. They enlarge and shrink upon speaking the command word. Moderate transmutation; CL 11th; [Craft Wondrous Item](../feats#_craft-wondrous-item),_ [animate objects](../spells_dir/animateObjects#_animate-objects)_.
+**Golden Lions** : These figurines come in pairs. They become normal adult male lions. If slain in combat, the lions cannot be brought back from statuette form for 1 full week. Otherwise, they can be used once per day for up to 1 hour. They enlarge and shrink upon speaking the command word. Moderate transmutation; CL 11th; [Craft Wondrous Item](../../feats#_craft-wondrous-item),_ [animate objects](../../spells_dir/animateObjects#_animate-objects)_.
 
 **Ivory Goats** : These figurines come in threes. Each goat of this trio looks slightly different from the others, and each has a different function:
 
 - _The Goat of Traveling_: This statuette provides a speedy and enduring mount equal to that of a heavy horse in every way except appearance. The goat can travel for a maximum of 1 day each week—continuously or in any combination of periods totaling 24 hours. At this point, or when the command word is uttered, it returns to its statuette form for no less than 1 day before it can again be used.
 - _The Goat of Travail_: This statuette becomes an enormous creature, larger than a bull, with the statistics of a nightmare except for the addition of a pair of wicked horns of exceptional size (damage 1d8+4 for each horn). If it is charging to attack, it may only use its horns (but add 6 points of damage to each successful attack in that round). It can be called to life just once per month for up to 12 hours at a time.
-- _The Goat of Terror_: When called upon with the proper command word, this statuette becomes a destrier-like mount with the statistics of a light horse. However, its rider can employ the goat's horns as weapons (one horn as a _+3 heavy lance,_ the other as a _+5 longsword_). When ridden in an attack against an opponent, the goat of terror radiates _ [fear](../spells_dir/fear#_fear)_ as the spell in a 30-foot radius ( [Will](../combat#_will) DC 16 partial). It can be used once every 2 weeks for up to 3 hours per use. Moderate transmutation; CL 11th; [Craft Wondrous Item](../feats#_craft-wondrous-item)_, [animate objects](../spells_dir/animateObjects#_animate-objects)_.
+- _The Goat of Terror_: When called upon with the proper command word, this statuette becomes a destrier-like mount with the statistics of a light horse. However, its rider can employ the goat's horns as weapons (one horn as a _+3 heavy lance,_ the other as a _+5 longsword_). When ridden in an attack against an opponent, the goat of terror radiates _ [fear](../../spells_dir/fear#_fear)_ as the spell in a 30-foot radius ( [Will](../../combat#_will) DC 16 partial). It can be used once every 2 weeks for up to 3 hours per use. Moderate transmutation; CL 11th; [Craft Wondrous Item](../../feats#_craft-wondrous-item)_, [animate objects](../../spells_dir/animateObjects#_animate-objects)_.
 
-**Marble Elephant** : This is the largest of the figurines, the statuette being about the size of a human hand. Upon utterance of the command word, a marble elephant grows to the size and specifications of a true elephant. The animal created from the statuette is fully obedient to the figurine's owner, serving as a beast of burden, a mount, or a combatant. The statuette can be used four times per month for up to 24 hours at a time. Moderate transmutation; CL 11th; [Craft Wondrous Item](../feats#_craft-wondrous-item),_ [animate objects](../spells_dir/animateObjects#_animate-objects)_.
+**Marble Elephant** : This is the largest of the figurines, the statuette being about the size of a human hand. Upon utterance of the command word, a marble elephant grows to the size and specifications of a true elephant. The animal created from the statuette is fully obedient to the figurine's owner, serving as a beast of burden, a mount, or a combatant. The statuette can be used four times per month for up to 24 hours at a time. Moderate transmutation; CL 11th; [Craft Wondrous Item](../../feats#_craft-wondrous-item),_ [animate objects](../../spells_dir/animateObjects#_animate-objects)_.
 
-**Obsidian Steed** : This figurine appears to be a small, shapeless lump of black stone. Only careful inspection reveals that it vaguely resembles some form of quadruped. On command, the near-formless piece of obsidian becomes a fantastic mount. Treat it as a heavy horse with the following additional powers usable once per round at will: _ [overland flight](../spells_dir/overlandFlight#_overland-flight), [plane shift](../spells_dir/planeShift#_plane-shift),_ and _ [ethereal jaunt](../spells_dir/etherealJaunt#_ethereal-jaunt)._ The steed allows itself to be ridden, but if the rider is of good alignment, the steed is 10% likely per use to carry him to the lower planes and then return to its statuette form. The statuette can be used once per week for one continuous period of up to 24 hours. Note that when an obsidian steed becomes ethereal or [plane shift](../spells_dir/planeShift#_plane-shift)s, its rider and his gear follow suit. Thus, the user can travel to other planes via this means. Strong conjuration and transmutation; CL 15th; [Craft Wondrous Item](../feats#_craft-wondrous-item),_ [animate objects](../spells_dir/animateObjects#_animate-objects), [etherealness](../spells_dir/etherealness#_etherealness), fly, [plane shift](../spells_dir/planeShift#_plane-shift)_.
+**Obsidian Steed** : This figurine appears to be a small, shapeless lump of black stone. Only careful inspection reveals that it vaguely resembles some form of quadruped. On command, the near-formless piece of obsidian becomes a fantastic mount. Treat it as a heavy horse with the following additional powers usable once per round at will: _ [overland flight](../../spells_dir/overlandFlight#_overland-flight), [plane shift](../../spells_dir/planeShift#_plane-shift),_ and _ [ethereal jaunt](../../spells_dir/etherealJaunt#_ethereal-jaunt)._ The steed allows itself to be ridden, but if the rider is of good alignment, the steed is 10% likely per use to carry him to the lower planes and then return to its statuette form. The statuette can be used once per week for one continuous period of up to 24 hours. Note that when an obsidian steed becomes ethereal or [plane shift](../../spells_dir/planeShift#_plane-shift)s, its rider and his gear follow suit. Thus, the user can travel to other planes via this means. Strong conjuration and transmutation; CL 15th; [Craft Wondrous Item](../../feats#_craft-wondrous-item),_ [animate objects](../../spells_dir/animateObjects#_animate-objects), [etherealness](../../spells_dir/etherealness#_etherealness), fly, [plane shift](../../spells_dir/planeShift#_plane-shift)_.
 
-**Onyx Dog** : When commanded, this statuette changes into a creature with the same properties as a riding dog except that it is endowed with an [Intelligence](../gettingStarted#_intelligence) of 8, can communicate in Common, and has exceptional olfactory and visual abilities. It has the [scent](../glossary#_scent) ability and adds +4 on its Perception checks. It has 60-foot [darkvision](../glossary#_darkvision), and it can _ [see invisibility](../spells_dir/seeInvisibility#_see-invisibility)_. An onyx dog can be used once per week for up to 6 hours. It obeys only its owner. Moderate transmutation; CL 11th; [Craft Wondrous Item](../feats#_craft-wondrous-item),_ [animate objects](../spells_dir/animateObjects#_animate-objects)_.
+**Onyx Dog** : When commanded, this statuette changes into a creature with the same properties as a riding dog except that it is endowed with an [Intelligence](../../gettingStarted#_intelligence) of 8, can communicate in Common, and has exceptional olfactory and visual abilities. It has the [scent](../../glossary#_scent) ability and adds +4 on its Perception checks. It has 60-foot [darkvision](../../glossary#_darkvision), and it can _ [see invisibility](../../spells_dir/seeInvisibility#_see-invisibility)_. An onyx dog can be used once per week for up to 6 hours. It obeys only its owner. Moderate transmutation; CL 11th; [Craft Wondrous Item](../../feats#_craft-wondrous-item),_ [animate objects](../../spells_dir/animateObjects#_animate-objects)_.
 
-**Serpentine Owl** : This figurine becomes either a normal-sized horned owl or a giant owl (use the stats for the giant eagle) according to the command word used. The transformation can take place once per day, with a maximum duration of 8 continuous hours. However, after three transformations into giant owl form, the statuette loses all its magical properties. The owl communicates with its owner by telepathic means, informing her of all it sees and hears. Moderate transmutation; CL 11th; [Craft Wondrous Item](../feats#_craft-wondrous-item),_ [animate objects](../spells_dir/animateObjects#_animate-objects)_.
+**Serpentine Owl** : This figurine becomes either a normal-sized horned owl or a giant owl (use the stats for the giant eagle) according to the command word used. The transformation can take place once per day, with a maximum duration of 8 continuous hours. However, after three transformations into giant owl form, the statuette loses all its magical properties. The owl communicates with its owner by telepathic means, informing her of all it sees and hears. Moderate transmutation; CL 11th; [Craft Wondrous Item](../../feats#_craft-wondrous-item),_ [animate objects](../../spells_dir/animateObjects#_animate-objects)_.
 
-**Silver Raven** : This silver figurine turns into a raven on command (but it retains its metallic consistency, which gives it hardness 10). Another command sends it off into the air, bearing a message just like a creature affected by an _ [animal messenger](../spells_dir/animalMessenger#_animal-messenger)_ spell. If not commanded to carry a message, the raven obeys the commands of its owner, although it has no special powers or telepathic abilities. It can maintain its nonfigurine status for only 24 hours per week, but the duration need not be continuous. Moderate enchantment and transmutation; CL 6th; [Craft Wondrous Item](../feats#_craft-wondrous-item), _ [animal messenger](../spells_dir/animalMessenger#_animal-messenger), [animate objects](../spells_dir/animateObjects#_animate-objects)_.
+**Silver Raven** : This silver figurine turns into a raven on command (but it retains its metallic consistency, which gives it hardness 10). Another command sends it off into the air, bearing a message just like a creature affected by an _ [animal messenger](../../spells_dir/animalMessenger#_animal-messenger)_ spell. If not commanded to carry a message, the raven obeys the commands of its owner, although it has no special powers or telepathic abilities. It can maintain its nonfigurine status for only 24 hours per week, but the duration need not be continuous. Moderate enchantment and transmutation; CL 6th; [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [animal messenger](../../spells_dir/animalMessenger#_animal-messenger), [animate objects](../../spells_dir/animateObjects#_animate-objects)_.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item), _ [animate objects](../spells_dir/animateObjects#_animate-objects), _additional spells, see text_;_ **Cost** 5,000 gp (bronze griffon), 5,000 gp (ebony fly), 8,250 gp (golden lions), 10,500 gp (ivory goats), 8,500 gp (marble elephant), 14,250 gp (obsidian steed), 7,750 gp (onyx dog), 4,550 gp (serpentine owl), 1,900 gp (silver raven)
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [animate objects](../../spells_dir/animateObjects#_animate-objects), _additional spells, see text_;_ **Cost** 5,000 gp (bronze griffon), 5,000 gp (ebony fly), 8,250 gp (golden lions), 10,500 gp (ivory goats), 8,500 gp (marble elephant), 14,250 gp (obsidian steed), 7,750 gp (onyx dog), 4,550 gp (serpentine owl), 1,900 gp (silver raven)
 
 **Gauntlet of Rust**
 
@@ -1627,11 +1627,11 @@ If a _figurine of wondrous power _is broken or destroyed in its statuette form, 
 
 **Description**
 
-This single metal gauntlet looks rusted and pitted but is actually quite powerful. Once per day, it can affect an object as with the _ [rusting grasp](../spells_dir/rustingGrasp#_rusting-grasp)_ spell. It also completely protects the wearer and her gear from rust (magical or otherwise), including the attack of a rust monster.
+This single metal gauntlet looks rusted and pitted but is actually quite powerful. Once per day, it can affect an object as with the _ [rusting grasp](../../spells_dir/rustingGrasp#_rusting-grasp)_ spell. It also completely protects the wearer and her gear from rust (magical or otherwise), including the attack of a rust monster.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item)_, [rusting grasp](../spells_dir/rustingGrasp#_rusting-grasp);_ **Cost** 5,750 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item)_, [rusting grasp](../../spells_dir/rustingGrasp#_rusting-grasp);_ **Cost** 5,750 gp
 
 **Gem of Brightness**
 
@@ -1644,14 +1644,14 @@ This single metal gauntlet looks rusted and pitted but is actually quite powerfu
 This crystal appears to be a long, rough prism. Upon utterance of a command word, though, the gem's facets suddenly grow highly polished as the crystal emits bright light of one of three sorts.
 
 - One command word causes the gem to shed light as a hooded lantern. This use of the gem does not expend any charges, and it continues to emit light until this command word is spoken a second time to extinguish the illumination.
-- Another command word causes the _gem of brightness_ to send out a bright ray 1 foot in diameter and 50 feet long. This strikes as a ranged touch attack, and any creature struck by this beam is [blinded](../glossary#_blinded) for 1d4 rounds unless it makes a DC 14 [Fortitude](../combat#_fortitude) save. This use of the gem expends 1 charge.
-- The third command word causes the gem to flare in a blinding flash of light that fills a 30-foot cone. Although this glare lasts but a moment, any creature within the cone must make a DC 14 [Fortitude](../combat#_fortitude) save or be [blinded](../glossary#_blinded) for 1d4 rounds. This use expends 5 charges.
+- Another command word causes the _gem of brightness_ to send out a bright ray 1 foot in diameter and 50 feet long. This strikes as a ranged touch attack, and any creature struck by this beam is [blinded](../../glossary#_blinded) for 1d4 rounds unless it makes a DC 14 [Fortitude](../../combat#_fortitude) save. This use of the gem expends 1 charge.
+- The third command word causes the gem to flare in a blinding flash of light that fills a 30-foot cone. Although this glare lasts but a moment, any creature within the cone must make a DC 14 [Fortitude](../../combat#_fortitude) save or be [blinded](../../glossary#_blinded) for 1d4 rounds. This use expends 5 charges.
 
 A newly created _gem of brightness_ has 50 charges. When all its charges are expended, the gem becomes nonmagical and its facets grow cloudy with a fine network of cracks.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item),_ [daylight](../spells_dir/daylight#_daylight);_ **Cost** 6,500 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item),_ [daylight](../../spells_dir/daylight#_daylight);_ **Cost** 6,500 gp
 
 **Gem of Seeing**
 
@@ -1661,11 +1661,11 @@ A newly created _gem of brightness_ has 50 charges. When all its charges are exp
 
 **Description**
 
-This finely cut and polished stone is indistinguishable from an ordinary jewel in appearance. When it is gazed through, a _gem of seeing_ enables the user to see as though she were affected by the _ [true seeing](../spells_dir/trueSeeing#_true-seeing)_ spell. A _gem of seeing_ can be used for as many as 30 minutes a day, in increments of 5 minutes. These increments do not need to be consecutive.
+This finely cut and polished stone is indistinguishable from an ordinary jewel in appearance. When it is gazed through, a _gem of seeing_ enables the user to see as though she were affected by the _ [true seeing](../../spells_dir/trueSeeing#_true-seeing)_ spell. A _gem of seeing_ can be used for as many as 30 minutes a day, in increments of 5 minutes. These increments do not need to be consecutive.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item)_, [true seeing](../spells_dir/trueSeeing#_true-seeing);_ **Cost** 37,500 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item)_, [true seeing](../../spells_dir/trueSeeing#_true-seeing);_ **Cost** 37,500 gp
 
 **Gloves of Arrow Snaring**
 
@@ -1675,11 +1675,11 @@ This finely cut and polished stone is indistinguishable from an ordinary jewel i
 
 **Description**
 
-Once worn, these snug gloves seem to meld with the hands, becoming almost invisible to casual observation. Twice per day, the wearer can act as if he had the [Snatch Arrows](../feats#_snatch-arrows) feat (see [Feats](../feats) for details), even if he does not meet the prerequisites for the feat. Both gloves must be worn for the magic to be effective, and at least one hand must be free to take advantage of the magic.
+Once worn, these snug gloves seem to meld with the hands, becoming almost invisible to casual observation. Twice per day, the wearer can act as if he had the [Snatch Arrows](../../feats#_snatch-arrows) feat (see [Feats](../../feats) for details), even if he does not meet the prerequisites for the feat. Both gloves must be worn for the magic to be effective, and at least one hand must be free to take advantage of the magic.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item),_ [shield](../spells_dir/shield#_shield);_ **Cost** 2,000 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item),_ [shield](../../spells_dir/shield#_shield);_ **Cost** 2,000 gp
 
 **Glove of Storing**
 
@@ -1693,7 +1693,7 @@ This device is a single leather glove. On command, one item held in the hand wea
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item),_ [shrink item](../spells_dir/shrinkItem#_shrink-item);_ **Cost** 5,000 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item),_ [shrink item](../../spells_dir/shrinkItem#_shrink-item);_ **Cost** 5,000 gp
 
 **Gloves of Swimming and Climbing**
 
@@ -1703,11 +1703,11 @@ This device is a single leather glove. On command, one item held in the hand wea
 
 **Description**
 
-These apparently normal lightweight gloves grant a +5 competence bonus on [Swim](../skills_dir/swim#_swim) checks and [Climb](../skills_dir/climb#_climb) checks. Both gloves must be worn for the magic to be effective.
+These apparently normal lightweight gloves grant a +5 competence bonus on [Swim](../../skills_dir/swim#_swim) checks and [Climb](../../skills_dir/climb#_climb) checks. Both gloves must be worn for the magic to be effective.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item)_, [bull's strength](../spells_dir/bullSStrength#_bull-s-strength), [cat's grace](../spells_dir/catSGrace#_cat-s-grace);_ **Cost** 3,125 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item)_, [bull's strength](../../spells_dir/bullSStrength#_bull-s-strength), [cat's grace](../../spells_dir/catSGrace#_cat-s-grace);_ **Cost** 3,125 gp
 
 **Goggles of Minute Seeing**
 
@@ -1721,7 +1721,7 @@ The lenses of this item are made of special crystal. When placed over the eyes o
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item)_, [true seeing](../spells_dir/trueSeeing#_true-seeing);_ **Cost** 1,250 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item)_, [true seeing](../../spells_dir/trueSeeing#_true-seeing);_ **Cost** 1,250 gp
 
 **Goggles of Night**
 
@@ -1731,11 +1731,11 @@ The lenses of this item are made of special crystal. When placed over the eyes o
 
 **Description**
 
-The lenses of this item are made of dark crystal. Even though the lenses are opaque, when placed over the eyes of the wearer, they enable him to see normally and also grant him 60-foot [darkvision](../glossary#_darkvision). Both lenses must be worn for the magic to be effective.
+The lenses of this item are made of dark crystal. Even though the lenses are opaque, when placed over the eyes of the wearer, they enable him to see normally and also grant him 60-foot [darkvision](../../glossary#_darkvision). Both lenses must be worn for the magic to be effective.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item)_, [darkvision](../glossary#_darkvision);_ **Cost** 6,000 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item)_, [darkvision](../../glossary#_darkvision);_ **Cost** 6,000 gp
 
 **Golem Manual**
 
@@ -1749,15 +1749,15 @@ A _golem manual_ contains information, incantations, and magical power that help
 
 The spells included in a _golem manual_ require a spell trigger activation and can be activated only to assist in the construction of a golem. The cost of the book does not include the cost of constructing the golem's body. Once the golem is finished, the writing in the manual fades and the book is consumed in flames. When the book's ashes are sprinkled upon the golem, it becomes fully animated.
 
-_Clay Golem Manual_: The book contains _ [animate objects](../spells_dir/animateObjects#_animate-objects), [bless](../spells_dir/bless#_bless), [commune](../spells_dir/commune#_commune), [prayer](../spells_dir/prayer#_prayer), _and _ [resurrection](../spells_dir/resurrection#_resurrection)_. The reader may treat her caster level as two levels higher than normal for the purpose of crafting a clay golem. Moderate conjuration, divination, enchantment, and transmutation; CL 11th; Craft Construct, creator must be caster level 11th,_ [animate objects](../spells_dir/animateObjects#_animate-objects), [commune](../spells_dir/commune#_commune), [prayer](../spells_dir/prayer#_prayer), [resurrection](../spells_dir/resurrection#_resurrection)._
+_Clay Golem Manual_: The book contains _ [animate objects](../../spells_dir/animateObjects#_animate-objects), [bless](../../spells_dir/bless#_bless), [commune](../../spells_dir/commune#_commune), [prayer](../../spells_dir/prayer#_prayer), _and _ [resurrection](../../spells_dir/resurrection#_resurrection)_. The reader may treat her caster level as two levels higher than normal for the purpose of crafting a clay golem. Moderate conjuration, divination, enchantment, and transmutation; CL 11th; Craft Construct, creator must be caster level 11th,_ [animate objects](../../spells_dir/animateObjects#_animate-objects), [commune](../../spells_dir/commune#_commune), [prayer](../../spells_dir/prayer#_prayer), [resurrection](../../spells_dir/resurrection#_resurrection)._
 
-_Flesh Golem Manual_: The book contains _ [animate dead](../spells_dir/animateDead#_animate-dead), [bull's strength](../spells_dir/bullSStrength#_bull-s-strength), [geas_dir/quest](../spells_dir/geasQuest#_geas-quest),_ and _ [limited wish](../spells_dir/limitedWish#_limited-wish)_. The reader may treat her caster level as one level higher than normal for the purpose of crafting a flesh golem. Moderate enchantment, necromancy [evil], and transmutation; CL 8th; Craft Construct, creator must be caster level 8th,_ [animate dead](../spells_dir/animateDead#_animate-dead), [bull's strength](../spells_dir/bullSStrength#_bull-s-strength), [geas_dir/quest](../spells_dir/geasQuest#_geas-quest), [limited wish](../spells_dir/limitedWish#_limited-wish)._
+_Flesh Golem Manual_: The book contains _ [animate dead](../../spells_dir/animateDead#_animate-dead), [bull's strength](../../spells_dir/bullSStrength#_bull-s-strength), [geas_dir/quest](../../spells_dir/geasQuest#_geas-quest),_ and _ [limited wish](../../spells_dir/limitedWish#_limited-wish)_. The reader may treat her caster level as one level higher than normal for the purpose of crafting a flesh golem. Moderate enchantment, necromancy [evil], and transmutation; CL 8th; Craft Construct, creator must be caster level 8th,_ [animate dead](../../spells_dir/animateDead#_animate-dead), [bull's strength](../../spells_dir/bullSStrength#_bull-s-strength), [geas_dir/quest](../../spells_dir/geasQuest#_geas-quest), [limited wish](../../spells_dir/limitedWish#_limited-wish)._
 
-_Iron Golem Manual_: The book contains _ [cloudkill](../spells_dir/cloudkill#_cloudkill), [geas_dir/quest](../spells_dir/geasQuest#_geas-quest), [limited wish](../spells_dir/limitedWish#_limited-wish),_ and _ [polymorph any object](../spells_dir/polymorphAnyObject#_polymorph-any-object)._ The reader may treat her caster level as four levels higher than normal for the purpose of crafting a iron golem. Strong conjuration, enchantment, and transmutation; CL 16th; Craft Construct, creator must be caster level 16th,_ [cloudkill](../spells_dir/cloudkill#_cloudkill), [geas_dir/quest](../spells_dir/geasQuest#_geas-quest), [limited wish](../spells_dir/limitedWish#_limited-wish), [polymorph any object](../spells_dir/polymorphAnyObject#_polymorph-any-object)._
+_Iron Golem Manual_: The book contains _ [cloudkill](../../spells_dir/cloudkill#_cloudkill), [geas_dir/quest](../../spells_dir/geasQuest#_geas-quest), [limited wish](../../spells_dir/limitedWish#_limited-wish),_ and _ [polymorph any object](../../spells_dir/polymorphAnyObject#_polymorph-any-object)._ The reader may treat her caster level as four levels higher than normal for the purpose of crafting a iron golem. Strong conjuration, enchantment, and transmutation; CL 16th; Craft Construct, creator must be caster level 16th,_ [cloudkill](../../spells_dir/cloudkill#_cloudkill), [geas_dir/quest](../../spells_dir/geasQuest#_geas-quest), [limited wish](../../spells_dir/limitedWish#_limited-wish), [polymorph any object](../../spells_dir/polymorphAnyObject#_polymorph-any-object)._
 
-_Stone Golem Manual_: The book contains _ [geas_dir/quest](../spells_dir/geasQuest#_geas-quest), [limited wish](../spells_dir/limitedWish#_limited-wish), [polymorph any object](../spells_dir/polymorphAnyObject#_polymorph-any-object),_ and _ [slow](../spells_dir/slow#_slow)_. The reader may treat her caster level as three levels higher than normal for the purpose of crafting a stone golem. Strong abjuration and enchantment; CL 14th; Craft Construct, creator must be caster level 14th,_ [antimagic field](../spells_dir/antimagicField#_antimagic-field), [geas_dir/quest](../spells_dir/geasQuest#_geas-quest), [limited wish](../spells_dir/limitedWish#_limited-wish), [symbol of stunning](../spells_dir/symbolOfStunning#_symbol-of-stunning)._
+_Stone Golem Manual_: The book contains _ [geas_dir/quest](../../spells_dir/geasQuest#_geas-quest), [limited wish](../../spells_dir/limitedWish#_limited-wish), [polymorph any object](../../spells_dir/polymorphAnyObject#_polymorph-any-object),_ and _ [slow](../../spells_dir/slow#_slow)_. The reader may treat her caster level as three levels higher than normal for the purpose of crafting a stone golem. Strong abjuration and enchantment; CL 14th; Craft Construct, creator must be caster level 14th,_ [antimagic field](../../spells_dir/antimagicField#_antimagic-field), [geas_dir/quest](../../spells_dir/geasQuest#_geas-quest), [limited wish](../../spells_dir/limitedWish#_limited-wish), [symbol of stunning](../../spells_dir/symbolOfStunning#_symbol-of-stunning)._
 
-_Stone Golem Guardian Manual_: The book contains_ [geas_dir/quest](../spells_dir/geasQuest#_geas-quest), [imbue with spell-like ability](../spells_dir/imbueWithSpellAbility#_imbue-with-spell-ability), [limited wish](../spells_dir/limitedWish#_limited-wish), [polymorph any object](../spells_dir/polymorphAnyObject#_polymorph-any-object), [shield other](../spells_dir/shieldOther#_shield-other), _and_ [slow](../spells_dir/slow#_slow). _The reader may treat her caster level as three levels higher than normal for the purpose of crafting a stone golem guardian. Strong abjuration and enchantment; CL 14th; Craft Construct, creator must be caster level 14th,_ [antimagic field](../spells_dir/antimagicField#_antimagic-field), [geas_dir/quest](../spells_dir/geasQuest#_geas-quest), [imbue with spell-like ability](../spells_dir/imbueWithSpellAbility#_imbue-with-spell-ability), [limited wish](../spells_dir/limitedWish#_limited-wish), [polymorph any object](../spells_dir/polymorphAnyObject#_polymorph-any-object), [shield other](../spells_dir/shieldOther#_shield-other), [slow](../spells_dir/slow#_slow)._
+_Stone Golem Guardian Manual_: The book contains_ [geas_dir/quest](../../spells_dir/geasQuest#_geas-quest), [imbue with spell-like ability](../../spells_dir/imbueWithSpellAbility#_imbue-with-spell-ability), [limited wish](../../spells_dir/limitedWish#_limited-wish), [polymorph any object](../../spells_dir/polymorphAnyObject#_polymorph-any-object), [shield other](../../spells_dir/shieldOther#_shield-other), _and_ [slow](../../spells_dir/slow#_slow). _The reader may treat her caster level as three levels higher than normal for the purpose of crafting a stone golem guardian. Strong abjuration and enchantment; CL 14th; Craft Construct, creator must be caster level 14th,_ [antimagic field](../../spells_dir/antimagicField#_antimagic-field), [geas_dir/quest](../../spells_dir/geasQuest#_geas-quest), [imbue with spell-like ability](../../spells_dir/imbueWithSpellAbility#_imbue-with-spell-ability), [limited wish](../../spells_dir/limitedWish#_limited-wish), [polymorph any object](../../spells_dir/polymorphAnyObject#_polymorph-any-object), [shield other](../../spells_dir/shieldOther#_shield-other), [slow](../../spells_dir/slow#_slow)._
 
 **Construction**
 
@@ -1771,11 +1771,11 @@ _Stone Golem Guardian Manual_: The book contains_ [geas_dir/quest](../spells_dir
 
 **Description**
 
-This mummified human hand hangs by a leather cord around a character's neck (taking up space as a magic necklace would). If a magic ring is placed on one of the fingers of the hand, the wearer benefits from the ring as if wearing it herself, and it does not count against her two-ring limit. The hand can wear only one ring at a time. Even without a ring, the hand itself allows its wearer to use _ [daylight](../spells_dir/daylight#_daylight)_ and _ [see invisibility](../spells_dir/seeInvisibility#_see-invisibility)_ each once per day.
+This mummified human hand hangs by a leather cord around a character's neck (taking up space as a magic necklace would). If a magic ring is placed on one of the fingers of the hand, the wearer benefits from the ring as if wearing it herself, and it does not count against her two-ring limit. The hand can wear only one ring at a time. Even without a ring, the hand itself allows its wearer to use _ [daylight](../../spells_dir/daylight#_daylight)_ and _ [see invisibility](../../spells_dir/seeInvisibility#_see-invisibility)_ each once per day.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item)_, [animate dead](../spells_dir/animateDead#_animate-dead), [daylight](../spells_dir/daylight#_daylight), [see invisibility](../spells_dir/seeInvisibility#_see-invisibility);_ **Cost** 4,000 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item)_, [animate dead](../../spells_dir/animateDead#_animate-dead), [daylight](../../spells_dir/daylight#_daylight), [see invisibility](../../spells_dir/seeInvisibility#_see-invisibility);_ **Cost** 4,000 gp
 
 **Hand of the Mage**
 
@@ -1785,11 +1785,11 @@ This mummified human hand hangs by a leather cord around a character's neck (tak
 
 **Description**
 
-This mummified elf hand hangs by a golden chain around a character's neck (taking up space as a magic necklace would). It allows the wearer to utilize the spell _ [mage hand](../spells_dir/mageHand#_mage-hand)_ at will.
+This mummified elf hand hangs by a golden chain around a character's neck (taking up space as a magic necklace would). It allows the wearer to utilize the spell _ [mage hand](../../spells_dir/mageHand#_mage-hand)_ at will.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item),_ [mage hand](../spells_dir/mageHand#_mage-hand);_ **Cost** 450 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item),_ [mage hand](../../spells_dir/mageHand#_mage-hand);_ **Cost** 450 gp
 
 **Handy Haversack**
 
@@ -1805,7 +1805,7 @@ While such storage is useful enough, the pack has an even greater power. When th
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item),_ [secret chest](../spells_dir/secretChest#_secret-chest);_ **Cost** 1,000 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item),_ [secret chest](../../spells_dir/secretChest#_secret-chest);_ **Cost** 1,000 gp
 
 **Harp of Charming**
 
@@ -1815,11 +1815,11 @@ While such storage is useful enough, the pack has an even greater power. When th
 
 **Description**
 
-This beautiful and intricately carved harp can be held comfortably in one hand, but both hands are required to utilize its magic. When played, a _harp of charming_ enables the performer to work one _ [suggestion](../spells_dir/suggestion#_suggestion) _(as the spell, [Will](../combat#_will) DC 14 negates) into the music for each 10 minutes of playing if he can succeed on a DC 14 Perform (string instruments) check. If the check fails, the audience cannot be affected by any further performances from the harpist for 24 hours.
+This beautiful and intricately carved harp can be held comfortably in one hand, but both hands are required to utilize its magic. When played, a _harp of charming_ enables the performer to work one _ [suggestion](../../spells_dir/suggestion#_suggestion) _(as the spell, [Will](../../combat#_will) DC 14 negates) into the music for each 10 minutes of playing if he can succeed on a DC 14 Perform (string instruments) check. If the check fails, the audience cannot be affected by any further performances from the harpist for 24 hours.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item),_ [suggestion](../spells_dir/suggestion#_suggestion);_ **Cost** 3,750 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item),_ [suggestion](../../spells_dir/suggestion#_suggestion);_ **Cost** 3,750 gp
 
 **Hat of Disguise**
 
@@ -1829,11 +1829,11 @@ This beautiful and intricately carved harp can be held comfortably in one hand, 
 
 **Description**
 
-This apparently normal hat allows its wearer to alter her appearance as with a _ [disguise self](../spells_dir/disguiseSelf#_disguise-self)_ spell. As part of the disguise, the hat can be changed to appear as a comb, ribbon, headband, cap, coif, hood, helmet, and so on.
+This apparently normal hat allows its wearer to alter her appearance as with a _ [disguise self](../../spells_dir/disguiseSelf#_disguise-self)_ spell. As part of the disguise, the hat can be changed to appear as a comb, ribbon, headband, cap, coif, hood, helmet, and so on.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item),_ [disguise self](../spells_dir/disguiseSelf#_disguise-self);_ **Cost** 900 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item),_ [disguise self](../../spells_dir/disguiseSelf#_disguise-self);_ **Cost** 900 gp
 
 **Headband of Alluring Charisma**
 
@@ -1843,11 +1843,11 @@ This apparently normal hat allows its wearer to alter her appearance as with a _
 
 **Description**
 
-This attractive silver headband is decorated with a number of small red and orange gemstones. The headband grants the wearer an enhancement bonus to [Charisma](../gettingStarted#_charisma-new) of +2, +4, or +6. Treat this as a temporary ability bonus for the first 24 hours the headband is worn.
+This attractive silver headband is decorated with a number of small red and orange gemstones. The headband grants the wearer an enhancement bonus to [Charisma](../../gettingStarted#_charisma-new) of +2, +4, or +6. Treat this as a temporary ability bonus for the first 24 hours the headband is worn.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item), _ [eagle's splendor](../spells_dir/eagleSSplendor#_eagle-s-splendor)_; **Cost** 2,000 gp (+2), 8,000 gp (+4), 18,000 gp (+6)
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [eagle's splendor](../../spells_dir/eagleSSplendor#_eagle-s-splendor)_; **Cost** 2,000 gp (+2), 8,000 gp (+4), 18,000 gp (+6)
 
 **Headband of Inspired Wisdom**
 
@@ -1857,11 +1857,11 @@ This attractive silver headband is decorated with a number of small red and oran
 
 **Description**
 
-This simple bronze headband is decorated with an intricate pattern of small green gemstones. The headband grants the wearer an enhancement bonus to [Wisdom](../gettingStarted#_wisdom) of +2, +4, or +6. Treat this as a temporary ability bonus for the first 24 hours the headband is worn.
+This simple bronze headband is decorated with an intricate pattern of small green gemstones. The headband grants the wearer an enhancement bonus to [Wisdom](../../gettingStarted#_wisdom) of +2, +4, or +6. Treat this as a temporary ability bonus for the first 24 hours the headband is worn.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item), _ [owl's wisdom](../spells_dir/owlSWisdom#_owl-s-wisdom)_; **Cost** 2,000 gp (+2), 8,000 gp (+4), 18,000 gp (+6)
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [owl's wisdom](../../spells_dir/owlSWisdom#_owl-s-wisdom)_; **Cost** 2,000 gp (+2), 8,000 gp (+4), 18,000 gp (+6)
 
 **Headband of Mental Prowess**
 
@@ -1873,11 +1873,11 @@ This simple bronze headband is decorated with an intricate pattern of small gree
 
 This simple copper headband has a small yellow gem set so that when it rests upon the forehead of the wearer, the yellow gem sits perched on the wearer's brow as if it were a third eye in the middle of his forehead. Often, the headband contains additional designs to further accentuate the appearance of a third, crystal eye.
 
-The headband grants the wearer an enhancement bonus to two mental ability scores ( [Intelligence](../gettingStarted#_intelligence), [Wisdom](../gettingStarted#_wisdom), or [Charisma](../gettingStarted#_charisma-new)) of +2, +4, or +6. Treat this as a temporary ability bonus for the first 24 hours the headband is worn. These bonuses are chosen when the headband is created and cannot be changed. If the headband grants a bonus to [Intelligence](../gettingStarted#_intelligence), it also grants skill ranks as a _headband of vast intelligence._
+The headband grants the wearer an enhancement bonus to two mental ability scores ( [Intelligence](../../gettingStarted#_intelligence), [Wisdom](../../gettingStarted#_wisdom), or [Charisma](../../gettingStarted#_charisma-new)) of +2, +4, or +6. Treat this as a temporary ability bonus for the first 24 hours the headband is worn. These bonuses are chosen when the headband is created and cannot be changed. If the headband grants a bonus to [Intelligence](../../gettingStarted#_intelligence), it also grants skill ranks as a _headband of vast intelligence._
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item), _ [eagle's splendor](../spells_dir/eagleSSplendor#_eagle-s-splendor), [fox's cunning](../spells_dir/foxSCunning#_fox-s-cunning), _and_dir/or _ [owl's wisdom](../spells_dir/owlSWisdom#_owl-s-wisdom)_; **Cost** 5,000 gp (+2), 20,000 gp (+4), 45,000 gp (+6)
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [eagle's splendor](../../spells_dir/eagleSSplendor#_eagle-s-splendor), [fox's cunning](../../spells_dir/foxSCunning#_fox-s-cunning), _and_dir/or _ [owl's wisdom](../../spells_dir/owlSWisdom#_owl-s-wisdom)_; **Cost** 5,000 gp (+2), 20,000 gp (+4), 45,000 gp (+6)
 
 **headband of Mental Superiority**
 
@@ -1887,11 +1887,11 @@ The headband grants the wearer an enhancement bonus to two mental ability scores
 
 **Description**
 
-This ornate headband is decorated with numerous small white gemstones. The headband grants the wearer an enhancement bonus to all mental ability scores ( [Intelligence](../gettingStarted#_intelligence), [Wisdom](../gettingStarted#_wisdom), and [Charisma](../gettingStarted#_charisma-new)) of +2, +4, or +6. Treat this as a temporary ability bonus for the first 24 hours the headband is worn. The headband also grants skill ranks as a _headband of vast intelligence._
+This ornate headband is decorated with numerous small white gemstones. The headband grants the wearer an enhancement bonus to all mental ability scores ( [Intelligence](../../gettingStarted#_intelligence), [Wisdom](../../gettingStarted#_wisdom), and [Charisma](../../gettingStarted#_charisma-new)) of +2, +4, or +6. Treat this as a temporary ability bonus for the first 24 hours the headband is worn. The headband also grants skill ranks as a _headband of vast intelligence._
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item), _ [eagle's splendor](../spells_dir/eagleSSplendor#_eagle-s-splendor), [fox's cunning](../spells_dir/foxSCunning#_fox-s-cunning), [owl's wisdom](../spells_dir/owlSWisdom#_owl-s-wisdom)_; **Cost** 8,000 gp (+2), 32,000 gp (+4), 77,000 gp (+6)
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [eagle's splendor](../../spells_dir/eagleSSplendor#_eagle-s-splendor), [fox's cunning](../../spells_dir/foxSCunning#_fox-s-cunning), [owl's wisdom](../../spells_dir/owlSWisdom#_owl-s-wisdom)_; **Cost** 8,000 gp (+2), 32,000 gp (+4), 77,000 gp (+6)
 
 **Headband of Vast Intelligence**
 
@@ -1901,11 +1901,11 @@ This ornate headband is decorated with numerous small white gemstones. The headb
 
 **Description**
 
-This intricate gold headband is decorated with several small blue and deep purple gemstones. The headband grants the wearer an enhancement bonus to [Intelligence](../gettingStarted#_intelligence) of +2, +4, or +6. Treat this as a temporary ability bonus for the first 24 hours the headband is worn. A _headband of vast intelligence _has one skill associated with it per +2 bonus it grants. After being worn for 24 hours, the headband grants a number of skill ranks in those skills equal to the wearer's total Hit Dice. These ranks do not stack with the ranks a creature already possesses. These skills are chosen when the headband is created. If no skill is listed, the headband is assumed to grant skill ranks in randomly determined [Knowledge](../skills_dir/knowledge#_knowledge) skills.
+This intricate gold headband is decorated with several small blue and deep purple gemstones. The headband grants the wearer an enhancement bonus to [Intelligence](../../gettingStarted#_intelligence) of +2, +4, or +6. Treat this as a temporary ability bonus for the first 24 hours the headband is worn. A _headband of vast intelligence _has one skill associated with it per +2 bonus it grants. After being worn for 24 hours, the headband grants a number of skill ranks in those skills equal to the wearer's total Hit Dice. These ranks do not stack with the ranks a creature already possesses. These skills are chosen when the headband is created. If no skill is listed, the headband is assumed to grant skill ranks in randomly determined [Knowledge](../../skills_dir/knowledge#_knowledge) skills.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item), _ [fox's cunning](../spells_dir/foxSCunning#_fox-s-cunning)_; **Cost** 2,000 gp (+2), 8,000 gp (+4), 18,000 gp (+6)
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [fox's cunning](../../spells_dir/foxSCunning#_fox-s-cunning)_; **Cost** 2,000 gp (+2), 8,000 gp (+4), 18,000 gp (+6)
 
 **Helm of Brilliance**
 
@@ -1917,24 +1917,24 @@ This intricate gold headband is decorated with several small blue and deep purpl
 
 This normal-looking helm takes its true form and manifests its powers when the user dons it and speaks the command word. Made of brilliant silver and polished steel, a newly created helm is set with large magic gems: 10 diamonds, 20 rubies, 30 fire opals, and 40 opals. When struck by bright light, the helm scintillates and sends forth reflective rays in all directions from its crown-like, gem-tipped spikes. The jewels' functions are as follows:
 
-- Diamond: [Prismatic spray](../spells_dir/prismaticSpray#_prismatic-spray) (save DC 20)
-- Ruby: _ [Wall of fire](../spells_dir/wallOfFire#_wall-of-fire)_
-- Fire opal: _ [Fireball](../spells_dir/fireball#_fireball)_ (10d6, [Reflex](../combat#_reflex) DC 20 half)
-- Opal: _ [Daylight](../spells_dir/daylight#_daylight)_
+- Diamond: [Prismatic spray](../../spells_dir/prismaticSpray#_prismatic-spray) (save DC 20)
+- Ruby: _ [Wall of fire](../../spells_dir/wallOfFire#_wall-of-fire)_
+- Fire opal: _ [Fireball](../../spells_dir/fireball#_fireball)_ (10d6, [Reflex](../../combat#_reflex) DC 20 half)
+- Opal: _ [Daylight](../../spells_dir/daylight#_daylight)_
 
 The helm may be used once per round, but each gem can perform its spell-like power just once. Until all its jewels are depleted, a _helm of brilliance_ also has the following magical properties when activated.
 
 - It emanates a bluish light when undead are within 30 feet. This light causes 1d6 points of damage per round to all such creatures within that range.
-- The wearer may command any weapon he wields to become a _ [flaming weapon](weapons#_weapons-flaming)_. This is in addition to whatever abilities the weapon may already have (unless the weapon already is a _ [flaming weapon](weapons#_weapons-flaming)_). The command takes 1 round to take effect.
+- The wearer may command any weapon he wields to become a _ [flaming weapon](../weapons#_weapons-flaming)_. This is in addition to whatever abilities the weapon may already have (unless the weapon already is a _ [flaming weapon](../weapons#_weapons-flaming)_). The command takes 1 round to take effect.
 - The helm provides fire resistance 30. This protection does not stack with similar protection from other sources.
 
 Once all its jewels have lost their magic, the helm loses its powers and the gems turn to worthless powder. Removing a jewel destroys it.
 
-If a creature wearing the helm is damaged by magical fire (after the fire protection is taken into account) and fails an additional DC 15 [Will](../combat#_will) save, the remaining gems on the helm overload and detonate. Remaining diamonds become _ [prismatic spray](../spells_dir/prismaticSpray#_prismatic-spray)s_ that each randomly target a creature within range (possibly the wearer), rubies become straight-line _ [walls of fire](../spells_dir/wallOfFire#_wall-of-fire)_ extending outward in a random direction from the helm wearer, and fire opals become _ [fireball](../spells_dir/fireball#_fireball)s _centered on the helm wearer. The opals and the helm itself are destroyed.
+If a creature wearing the helm is damaged by magical fire (after the fire protection is taken into account) and fails an additional DC 15 [Will](../../combat#_will) save, the remaining gems on the helm overload and detonate. Remaining diamonds become _ [prismatic spray](../../spells_dir/prismaticSpray#_prismatic-spray)s_ that each randomly target a creature within range (possibly the wearer), rubies become straight-line _ [walls of fire](../../spells_dir/wallOfFire#_wall-of-fire)_ extending outward in a random direction from the helm wearer, and fire opals become _ [fireball](../../spells_dir/fireball#_fireball)s _centered on the helm wearer. The opals and the helm itself are destroyed.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item),_ [detect undead](../spells_dir/detectUndead#_detect-undead), [fireball](../spells_dir/fireball#_fireball), [flame blade](../spells_dir/flameBlade#_flame-blade), [daylight](../spells_dir/daylight#_daylight), [prismatic spray](../spells_dir/prismaticSpray#_prismatic-spray), [protection from energy](../spells_dir/protectionFromEnergy#_protection-from-energy), [wall of fire](../spells_dir/wallOfFire#_wall-of-fire);_ **Cost** 62,500 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item),_ [detect undead](../../spells_dir/detectUndead#_detect-undead), [fireball](../../spells_dir/fireball#_fireball), [flame blade](../../spells_dir/flameBlade#_flame-blade), [daylight](../../spells_dir/daylight#_daylight), [prismatic spray](../../spells_dir/prismaticSpray#_prismatic-spray), [protection from energy](../../spells_dir/protectionFromEnergy#_protection-from-energy), [wall of fire](../../spells_dir/wallOfFire#_wall-of-fire);_ **Cost** 62,500 gp
 
 **Helm of Comprehend Languages and Read Magic**
 
@@ -1944,11 +1944,11 @@ If a creature wearing the helm is damaged by magical fire (after the fire protec
 
 **Description**
 
-Appearing as a normal helmet, a _helm of [comprehend languages](../spells_dir/comprehendLanguages#_comprehend-languages) and [read magic](../spells_dir/readMagic#_read-magic)_ grants its wearer the ability to understand the spoken words of any creature and to read text in any language and any magical writing. The wearer gains a +5 competence bonus on Linguistics checks to understand messages written in incomplete, archaic, or exotic forms. Note that understanding a magical text does not necessarily imply spell use.
+Appearing as a normal helmet, a _helm of [comprehend languages](../../spells_dir/comprehendLanguages#_comprehend-languages) and [read magic](../../spells_dir/readMagic#_read-magic)_ grants its wearer the ability to understand the spoken words of any creature and to read text in any language and any magical writing. The wearer gains a +5 competence bonus on Linguistics checks to understand messages written in incomplete, archaic, or exotic forms. Note that understanding a magical text does not necessarily imply spell use.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item),_ [comprehend languages](../spells_dir/comprehendLanguages#_comprehend-languages), [read magic](../spells_dir/readMagic#_read-magic);_ **Cost** 2,600 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item),_ [comprehend languages](../../spells_dir/comprehendLanguages#_comprehend-languages), [read magic](../../spells_dir/readMagic#_read-magic);_ **Cost** 2,600 gp
 
 **Helm of Telepathy**
 
@@ -1958,11 +1958,11 @@ Appearing as a normal helmet, a _helm of [comprehend languages](../spells_dir/co
 
 **Description**
 
-This pale metal or ivory helm covers much of the head when worn. The wearer can use_ [detect thoughts](../spells_dir/detectThoughts#_detect-thoughts) _at will. Furthermore, he can send a telepathic message to anyone whose surface thoughts he is reading (allowing two-way communication). Once per day, the wearer of the helm can implant a_ [suggestion](../spells_dir/suggestion#_suggestion) _(as the spell, [Will](../combat#_will) DC 14 negates) along with his telepathic message.
+This pale metal or ivory helm covers much of the head when worn. The wearer can use_ [detect thoughts](../../spells_dir/detectThoughts#_detect-thoughts) _at will. Furthermore, he can send a telepathic message to anyone whose surface thoughts he is reading (allowing two-way communication). Once per day, the wearer of the helm can implant a_ [suggestion](../../spells_dir/suggestion#_suggestion) _(as the spell, [Will](../../combat#_will) DC 14 negates) along with his telepathic message.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item),_ [detect thoughts](../spells_dir/detectThoughts#_detect-thoughts), [suggestion](../spells_dir/suggestion#_suggestion);_ **Cost** 13,500 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item),_ [detect thoughts](../../spells_dir/detectThoughts#_detect-thoughts), [suggestion](../../spells_dir/suggestion#_suggestion);_ **Cost** 13,500 gp
 
 **Helm of Teleportation**
 
@@ -1972,11 +1972,11 @@ This pale metal or ivory helm covers much of the head when worn. The wearer can 
 
 **Description**
 
-A character wearing this device may _ [teleport](../spells_dir/teleport#_teleport)_ three times per day, exactly as if he had cast the spell of the same name.
+A character wearing this device may _ [teleport](../../spells_dir/teleport#_teleport)_ three times per day, exactly as if he had cast the spell of the same name.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item),_ [teleport](../spells_dir/teleport#_teleport);_ **Cost** 36,750 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item),_ [teleport](../../spells_dir/teleport#_teleport);_ **Cost** 36,750 gp
 
 **Helm of Underwater Action**
 
@@ -1990,7 +1990,7 @@ The wearer of this helmet can see underwater. Drawing the small lenses in compar
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item), _ [water breathing](../spells_dir/waterBreathing#_water-breathing)_; **Cost** 12,000 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [water breathing](../../spells_dir/waterBreathing#_water-breathing)_; **Cost** 12,000 gp
 
 **Horn of Blasting**
 
@@ -2000,13 +2000,13 @@ The wearer of this helmet can see underwater. Drawing the small lenses in compar
 
 **Description**
 
-This horn appears to be a normal trumpet. It can be sounded as a normal horn, but if the command word is spoken and the instrument is then played, it deals 5d6 points of sonic damage to creatures within a 40-foot cone and causes them to be [deafened](../glossary#_deafened) for 2d6 rounds (a DC 16 [Fortitude](../combat#_fortitude) save reduces the damage by half and negates the deafening). Crystalline objects and creatures take 7d6 points of sonic damage, with no save unless they're held, worn, or carried by creatures ( [Fortitude](../combat#_fortitude) DC 16 negates).
+This horn appears to be a normal trumpet. It can be sounded as a normal horn, but if the command word is spoken and the instrument is then played, it deals 5d6 points of sonic damage to creatures within a 40-foot cone and causes them to be [deafened](../../glossary#_deafened) for 2d6 rounds (a DC 16 [Fortitude](../../combat#_fortitude) save reduces the damage by half and negates the deafening). Crystalline objects and creatures take 7d6 points of sonic damage, with no save unless they're held, worn, or carried by creatures ( [Fortitude](../../combat#_fortitude) DC 16 negates).
 
 If a _horn of blasting_ is used magically more than once in a given day, there is a 20% cumulative chance with each extra use that it explodes and deals 10d6 points of sonic damage to the person sounding it.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item),_ [shout](../spells_dir/shout#_shout);_ **Cost** 10,000 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item),_ [shout](../../spells_dir/shout#_shout);_ **Cost** 10,000 gp
 
 **Horn of Blasting, Greater**
 
@@ -2016,11 +2016,11 @@ If a _horn of blasting_ is used magically more than once in a given day, there i
 
 **Description**
 
-This horn functions as a _horn of blasting,_ except that it deals 10d6 points of sonic damage, stuns creatures for 1 round, and deafens them for 4d6 rounds (a DC 19 [Fortitude](../combat#_fortitude) reduces the damage by half and negates the stunning and deafening). Crystalline objects take 16d6 points of sonic damage as described for the _horn of blasting._ A _greater horn of blasting_ also has a 20% cumulative chance of exploding for each usage beyond the first each day.
+This horn functions as a _horn of blasting,_ except that it deals 10d6 points of sonic damage, stuns creatures for 1 round, and deafens them for 4d6 rounds (a DC 19 [Fortitude](../../combat#_fortitude) reduces the damage by half and negates the stunning and deafening). Crystalline objects take 16d6 points of sonic damage as described for the _horn of blasting._ A _greater horn of blasting_ also has a 20% cumulative chance of exploding for each usage beyond the first each day.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item),_ [greater shout](../spells_dir/shout#_shout-greater);_ **Cost** 35,000 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item),_ [greater shout](../../spells_dir/shout#_shout-greater);_ **Cost** 35,000 gp
 
 **Horn of Fog**
 
@@ -2030,11 +2030,11 @@ This horn functions as a _horn of blasting,_ except that it deals 10d6 points of
 
 **Description**
 
-This small bugle allows its possessor to blow forth a thick cloud of heavy fog similar to that of an _ [obscuring mist](../spells_dir/obscuringMist#_obscuring-mist)_ spell. The fog covers a 10-foot square next to the horn blower each round that the user continues to blow the horn; a fog cloud travels 10 feet each round in a straight line from the emanation point unless blocked by something substantial such as a wall. The device makes a deep, foghorn-like noise, with the note dropping abruptly to a lower register at the end of each blast. The fog dissipates after 3 minutes. A moderate wind (11+ mph) disperses the fog in 4 rounds; a strong wind (21+ mph) disperses the fog in 1 round.
+This small bugle allows its possessor to blow forth a thick cloud of heavy fog similar to that of an _ [obscuring mist](../../spells_dir/obscuringMist#_obscuring-mist)_ spell. The fog covers a 10-foot square next to the horn blower each round that the user continues to blow the horn; a fog cloud travels 10 feet each round in a straight line from the emanation point unless blocked by something substantial such as a wall. The device makes a deep, foghorn-like noise, with the note dropping abruptly to a lower register at the end of each blast. The fog dissipates after 3 minutes. A moderate wind (11+ mph) disperses the fog in 4 rounds; a strong wind (21+ mph) disperses the fog in 1 round.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item),_ [obscuring mist](../spells_dir/obscuringMist#_obscuring-mist);_ **Cost** 1,000 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item),_ [obscuring mist](../../spells_dir/obscuringMist#_obscuring-mist);_ **Cost** 1,000 gp
 
 **Horn of Goodness_dir/Evil**
 
@@ -2044,11 +2044,11 @@ This small bugle allows its possessor to blow forth a thick cloud of heavy fog s
 
 **Description**
 
-This trumpet adapts itself to its owner, so it produces either a good or an evil effect depending on the owner's alignment. If the owner is neither good nor evil, the horn has no power whatsoever. If he is good, then blowing the horn has the effect of a _ [magic circle against evil](../spells_dir/magicCircleAgainstEvil#_magic-circle-against-evil)_. If he is evil, then blowing the horn has the effect of a _ [magic circle against good](../spells_dir/magicCircleAgainstGood#_magic-circle-against-good)_. In either case, this ward lasts for 1 hour. The horn can be blown once per day.
+This trumpet adapts itself to its owner, so it produces either a good or an evil effect depending on the owner's alignment. If the owner is neither good nor evil, the horn has no power whatsoever. If he is good, then blowing the horn has the effect of a _ [magic circle against evil](../../spells_dir/magicCircleAgainstEvil#_magic-circle-against-evil)_. If he is evil, then blowing the horn has the effect of a _ [magic circle against good](../../spells_dir/magicCircleAgainstGood#_magic-circle-against-good)_. In either case, this ward lasts for 1 hour. The horn can be blown once per day.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item),_ [magic circle against good](../spells_dir/magicCircleAgainstGood#_magic-circle-against-good), [magic circle against evil](../spells_dir/magicCircleAgainstEvil#_magic-circle-against-evil);_ **Cost** 3,250 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item),_ [magic circle against good](../../spells_dir/magicCircleAgainstGood#_magic-circle-against-good), [magic circle against evil](../../spells_dir/magicCircleAgainstEvil#_magic-circle-against-evil);_ **Cost** 3,250 gp
 
 **Horn of Valhalla**
 
@@ -2072,7 +2072,7 @@ Summoned barbarians are constructs, not actual people (though they seem to be); 
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item),_ [summon monster VI](../spells_dir/summonMonster#_summon-monster-vi);_ **Cost** 25,000 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item),_ [summon monster VI](../../spells_dir/summonMonster#_summon-monster-vi);_ **Cost** 25,000 gp
 
 **Horseshoes of Speed**
 
@@ -2082,11 +2082,11 @@ Summoned barbarians are constructs, not actual people (though they seem to be); 
 
 **Description**
 
-These iron shoes come in sets of four like ordinary horseshoes. When affixed to an animal's hooves, they increase the animal's base land speed by 30 feet; this counts as an enhancement bonus. As with other effects that increase speed, jumping distances increase proportionally (see [Using Skills](../usingSkills)). All four shoes must be worn by the same animal for the magic to be effective.
+These iron shoes come in sets of four like ordinary horseshoes. When affixed to an animal's hooves, they increase the animal's base land speed by 30 feet; this counts as an enhancement bonus. As with other effects that increase speed, jumping distances increase proportionally (see [Using Skills](../../usingSkills)). All four shoes must be worn by the same animal for the magic to be effective.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item)_, [haste](../spells_dir/haste#_haste);_ **Cost** 1,500 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item)_, [haste](../../spells_dir/haste#_haste);_ **Cost** 1,500 gp
 
 **Horseshoes of a Zephyr**
 
@@ -2100,7 +2100,7 @@ These four iron shoes are affixed like normal horseshoes. They allow a horse to 
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item), _ [levitate](../spells_dir/levitate#_levitate);_ **Cost** 3,000 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [levitate](../../spells_dir/levitate#_levitate);_ **Cost** 3,000 gp
 
 **Incense of Meditation**
 
@@ -2110,7 +2110,7 @@ These four iron shoes are affixed like normal horseshoes. They allow a horse to 
 
 **Description**
 
-This small rectangular block of sweet-smelling incense is visually indistinguishable from nonmagical incense until lit. When it is burned, the special fragrance and pearly hued smoke of this special incense are recognizable by anyone making a DC 15 [Spellcraft](../skills_dir/spellcraft#_spellcraft) check.
+This small rectangular block of sweet-smelling incense is visually indistinguishable from nonmagical incense until lit. When it is burned, the special fragrance and pearly hued smoke of this special incense are recognizable by anyone making a DC 15 [Spellcraft](../../skills_dir/spellcraft#_spellcraft) check.
 
 When a divine spellcaster lights a block of _incense of meditation_ and then spends 8 hours praying and meditating nearby, the incense enables him to prepare all his spells as though affected by the Maximize Spell feat. However, all the spells prepared in this way are at their normal level, not at three levels higher (as with the regular metamagic feat).
 
@@ -2118,7 +2118,7 @@ Each block of incense burns for 8 hours, and the effects persist for 24 hours.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item), [Maximize Spell](../feats#_maximize-spell),_ [bless](../spells_dir/bless#_bless);_ **Cost** 2,450 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), [Maximize Spell](../../feats#_maximize-spell),_ [bless](../../spells_dir/bless#_bless);_ **Cost** 2,450 gp
 
 **Instant Fortress**
 
@@ -2128,17 +2128,17 @@ Each block of incense burns for 8 hours, and the effects persist for 24 hours.
 
 **Description**
 
-This metal cube is small, but when activated by speaking a command word it grows to form a tower 20 feet square and 30 feet high, with arrow slits on all sides and a crenellated battlement atop it. The metal walls extend 10 feet into the ground, rooting it to the spot and preventing it from being tipped over. The fortress has a small door that opens only at the command of the owner of the fortress—even _ [knock](../spells_dir/keenEdge#_keen-edge)_ spells can't open the door.
+This metal cube is small, but when activated by speaking a command word it grows to form a tower 20 feet square and 30 feet high, with arrow slits on all sides and a crenellated battlement atop it. The metal walls extend 10 feet into the ground, rooting it to the spot and preventing it from being tipped over. The fortress has a small door that opens only at the command of the owner of the fortress—even _ [knock](../../spells_dir/keenEdge#_keen-edge)_ spells can't open the door.
 
-The [adamantine](../equipment#_adamantine) walls of an _instant fortress_ have 100 hit points and hardness 20. The fortress cannot be repaired except by a _ [wish](../spells_dir/wish#_wish)_ or a _ [miracle](../spells_dir/miracle#_miracle)_, which restores 50 points of damage taken.
+The [adamantine](../../equipment#_adamantine) walls of an _instant fortress_ have 100 hit points and hardness 20. The fortress cannot be repaired except by a _ [wish](../../spells_dir/wish#_wish)_ or a _ [miracle](../../spells_dir/miracle#_miracle)_, which restores 50 points of damage taken.
 
-The fortress springs up in just 1 round, with the door facing the device's owner. The door opens and closes instantly at his command. People and creatures nearby (except the owner) must be careful not to be caught by the fortress's sudden growth. Anyone so caught takes 10d10 points of damage ( [Reflex](../combat#_reflex) DC 19 half).
+The fortress springs up in just 1 round, with the door facing the device's owner. The door opens and closes instantly at his command. People and creatures nearby (except the owner) must be careful not to be caught by the fortress's sudden growth. Anyone so caught takes 10d10 points of damage ( [Reflex](../../combat#_reflex) DC 19 half).
 
 The fortress is deactivated by speaking a command word (different from the one used to activate it). It cannot be deactivated unless it is empty.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item),_ [mage's magnificent mansion](../spells_dir/mageSMagnificentMansion#_mage-s-magnificent-mansion);_ **Cost** 27,500 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item),_ [mage's magnificent mansion](../../spells_dir/mageSMagnificentMansion#_mage-s-magnificent-mansion);_ **Cost** 27,500 gp
 
 **Ioun Stones**
 
@@ -2148,33 +2148,33 @@ The fortress is deactivated by speaking a command word (different from the one u
 
 **Description**
 
-These crystalline stones always float in the air and must be within 3 feet of their owner to be of any use. When a character first acquires a stone, she must hold it and then release it, whereupon it takes up a circling orbit 1d3 feet from her head. Thereafter, a stone must be grasped or netted to separate it from its owner. The owner may voluntarily seize and stow a stone (to keep it safe while she is sleeping, for example), but she loses the benefits of the stone during that time. Ioun stones have [AC](../combat#_armor-class) 24, 10 hit points, and hardness 5. The powers of each stone vary depending on its color and shape (see the table).
+These crystalline stones always float in the air and must be within 3 feet of their owner to be of any use. When a character first acquires a stone, she must hold it and then release it, whereupon it takes up a circling orbit 1d3 feet from her head. Thereafter, a stone must be grasped or netted to separate it from its owner. The owner may voluntarily seize and stow a stone (to keep it safe while she is sleeping, for example), but she loses the benefits of the stone during that time. Ioun stones have [AC](../../combat#_armor-class) 24, 10 hit points, and hardness 5. The powers of each stone vary depending on its color and shape (see the table).
 
 [Ioun Stones]
 | **Color** | Shape | Effect | Market Price |
 | --- | --- | --- | --- |
 | Clear | Spindle | Sustains creature without food or water | 4,000 gp |
-| Dusty rose | Prism | +1 insight bonus to [AC](../combat#_armor-class) | 5,000 gp |
-| Deep red | Sphere | +2 enhancement bonus to [Dexterity](../gettingStarted#_dexterity) | 8,000 gp |
-| Incandescent blue | Sphere | +2 enhancement bonus to [Wisdom](../gettingStarted#_wisdom) | 8,000 gp |
-| Pale blue | Rhomboid | +2 enhancement bonus to [Strength](../gettingStarted#_strength) | 8,000 gp |
-| Pink | Rhomboid | +2 enhancement bonus to [Constitution](../gettingStarted#_constitution) | 8,000 gp |
-| Pink and green | Sphere | +2 enhancement bonus to [Charisma](../gettingStarted#_charisma-new) | 8,000 gp |
-| Scarlet and blue | Sphere | +2 enhancement bonus to [Intelligence](../gettingStarted#_intelligence) | 8,000 gp |
-| Dark blue | Rhomboid | [Alertness](../feats#_alertness) (as the feat) | 10,000 gp |
+| Dusty rose | Prism | +1 insight bonus to [AC](../../combat#_armor-class) | 5,000 gp |
+| Deep red | Sphere | +2 enhancement bonus to [Dexterity](../../gettingStarted#_dexterity) | 8,000 gp |
+| Incandescent blue | Sphere | +2 enhancement bonus to [Wisdom](../../gettingStarted#_wisdom) | 8,000 gp |
+| Pale blue | Rhomboid | +2 enhancement bonus to [Strength](../../gettingStarted#_strength) | 8,000 gp |
+| Pink | Rhomboid | +2 enhancement bonus to [Constitution](../../gettingStarted#_constitution) | 8,000 gp |
+| Pink and green | Sphere | +2 enhancement bonus to [Charisma](../../gettingStarted#_charisma-new) | 8,000 gp |
+| Scarlet and blue | Sphere | +2 enhancement bonus to [Intelligence](../../gettingStarted#_intelligence) | 8,000 gp |
+| Dark blue | Rhomboid | [Alertness](../../feats#_alertness) (as the feat) | 10,000 gp |
 | Iridescent | Spindle | Sustains creature without air | 18,000 gp |
 | Pale lavender | Ellipsoid | Absorbs spells of 4th level or lower\* | 20,000 gp |
 | Pearly white | Spindle | Regenerate 1 point of damage per 10 minutes | 20,000 gp |
 | Pale green | Prism | +1 competence bonus on attack rolls, saves, skill checks, and ability checks | 30,000 gp |
 | Orange | Prism | +1 caster level | 30,000 gp |
-| Vibrant purple | Prism | Stores three levels of spells, as a_ [ring of spell storing](rings#_ring-of-spell-storing-major)_ | 36,000 gp |
+| Vibrant purple | Prism | Stores three levels of spells, as a_ [ring of spell storing](../rings#_ring-of-spell-storing-major)_ | 36,000 gp |
 | Lavender and green | Ellipsoid | Absorbs spells of 8th level or lower\*\* | 40,000 gp |
 
 Regeneration from the pearly white _ioun stone_ works like a _ring of regeneration._ It only cures damage taken while the character is using the stone. The pale lavender and lavender-and-green stones work like a _rod of absorption,_ but absorbing a spell requires a readied action, and these stones cannot be used to empower spells. Stored spells in the vibrant purple stone must be placed by a spellcaster but can be used by anyone (see _ring of minor spell storing_).
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item), creator must be 12th level; **Cost** half the market price
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), creator must be 12th level; **Cost** half the market price
 
 **Iron Bands of Binding**
 
@@ -2186,11 +2186,11 @@ Regeneration from the pearly white _ioun stone_ works like a _ring of regenerati
 
 This potent item appears to be a 3-inch-diameter rusty iron sphere with bandings on the globe.
 
-When the proper command word is spoken and the spherical iron device is hurled at an opponent, the bands expand and then contract to bind the target creature on a successful ranged touch attack. A single Large or smaller creature can be captured thus and held immobile (as if [pinned](../glossary#_pinned)) until the command word is spoken to bring the bands into spherical form again. The creature can break (and destroy) the bands with a DC 30 Strength check or escape them with a DC 30 combat maneuver check or Escape Artist check. _Iron bands of binding_ are usable once per day.
+When the proper command word is spoken and the spherical iron device is hurled at an opponent, the bands expand and then contract to bind the target creature on a successful ranged touch attack. A single Large or smaller creature can be captured thus and held immobile (as if [pinned](../../glossary#_pinned)) until the command word is spoken to bring the bands into spherical form again. The creature can break (and destroy) the bands with a DC 30 Strength check or escape them with a DC 30 combat maneuver check or Escape Artist check. _Iron bands of binding_ are usable once per day.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item),_ [grasping hand](../spells_dir/graspingHand#_grasping-hand);_ **Cost** 13,000 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item),_ [grasping hand](../../spells_dir/graspingHand#_grasping-hand);_ **Cost** 13,000 gp
 
 **Iron Flask**
 
@@ -2200,7 +2200,7 @@ When the proper command word is spoken and the spherical iron device is hurled a
 
 **Description**
 
-These special containers are typically inlaid with runes of silver and stoppered by a brass plug bearing a seal engraved with sigils, glyphs, and special symbols. When the user speaks the command word, he can force any creature from another plane into the container, provided that creature fails a DC 19 [Will](../combat#_will) save. The range of this effect is 60 feet. Only one creature at a time can be so contained. Loosing the stopper frees the captured creature.
+These special containers are typically inlaid with runes of silver and stoppered by a brass plug bearing a seal engraved with sigils, glyphs, and special symbols. When the user speaks the command word, he can force any creature from another plane into the container, provided that creature fails a DC 19 [Will](../../combat#_will) save. The range of this effect is 60 feet. Only one creature at a time can be so contained. Loosing the stopper frees the captured creature.
 
 The command word can be used only once per day.
 
@@ -2236,7 +2236,7 @@ If the individual freeing the captured creature speaks the command word, the cre
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item),_ [trap the soul](../spells_dir/trapTheSoul#_trap-the-soul);_ **Cost** 85,000 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item),_ [trap the soul](../../spells_dir/trapTheSoul#_trap-the-soul);_ **Cost** 85,000 gp
 
 **Lantern of Revealing**
 
@@ -2246,11 +2246,11 @@ If the individual freeing the captured creature speaks the command word, the cre
 
 **Description**
 
-This lantern operates as a normal hooded lantern. While it is lit, it also reveals all invisible creatures and objects within 25 feet of it, just like the spell _ [invisibility purge](../spells_dir/invisibilityPurge#_invisibility-purge)_.
+This lantern operates as a normal hooded lantern. While it is lit, it also reveals all invisible creatures and objects within 25 feet of it, just like the spell _ [invisibility purge](../../spells_dir/invisibilityPurge#_invisibility-purge)_.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item),_ [invisibility purge](../spells_dir/invisibilityPurge#_invisibility-purge);_ **Cost** 15,000 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item),_ [invisibility purge](../../spells_dir/invisibilityPurge#_invisibility-purge);_ **Cost** 15,000 gp
 
 **Lens of Detection**
 
@@ -2264,7 +2264,7 @@ This circular prism lets its user detect minute details, granting a +5 competenc
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item),_ [true seeing](../spells_dir/trueSeeing#_true-seeing);_ **Cost** 1,750 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item),_ [true seeing](../../spells_dir/trueSeeing#_true-seeing);_ **Cost** 1,750 gp
 
 **Lyre of Building**
 
@@ -2274,13 +2274,13 @@ This circular prism lets its user detect minute details, granting a +5 competenc
 
 **Description**
 
-This magical instrument is usually made of gold and inlaid with numerous gems. If the proper chords are struck, a single use of this lyre negates any attacks made against inanimate construction (walls, roof, floor, and so on) within 300 feet. This includes the effects of a _horn of blasting_, a _ [disintegrate](../spells_dir/disintegrate#_disintegrate)_ spell, or an attack from a ram or similar siege weapon. The lyre can be used in this way once per day, with the protection lasting for 30 minutes.
+This magical instrument is usually made of gold and inlaid with numerous gems. If the proper chords are struck, a single use of this lyre negates any attacks made against inanimate construction (walls, roof, floor, and so on) within 300 feet. This includes the effects of a _horn of blasting_, a _ [disintegrate](../../spells_dir/disintegrate#_disintegrate)_ spell, or an attack from a ram or similar siege weapon. The lyre can be used in this way once per day, with the protection lasting for 30 minutes.
 
 The lyre is also useful with respect to building. Once a week, its strings can be strummed so as to produce chords that magically construct buildings, mines, tunnels, ditches, etc. The effect produced in 30 minutes of playing is equal to the work of 100 humans laboring for 3 days. Each hour after the first, a character playing the lyre must make a DC 18 Perform (string instruments) check. If it fails, she must stop and cannot play the lyre again for this purpose until a week has passed.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item),_ [fabricate](../spells_dir/fabricate#_fabricate);_ **Cost** 6,500 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item),_ [fabricate](../../spells_dir/fabricate#_fabricate);_ **Cost** 6,500 gp
 
 **Mantle of Faith**
 
@@ -2290,11 +2290,11 @@ The lyre is also useful with respect to building. Once a week, its strings can b
 
 **Description**
 
-This holy garment, worn over normal clothing, grants [damage reduction](../glossary#_damage-reduction) 5_dir/evil to the character wearing it.
+This holy garment, worn over normal clothing, grants [damage reduction](../../glossary#_damage-reduction) 5_dir/evil to the character wearing it.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item),_ [stoneskin](../spells_dir/stoneskin#_stoneskin);_ **Cost** 38,000 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item),_ [stoneskin](../../spells_dir/stoneskin#_stoneskin);_ **Cost** 38,000 gp
 
 **Mantle of Spell Resistance**
 
@@ -2304,29 +2304,29 @@ This holy garment, worn over normal clothing, grants [damage reduction](../gloss
 
 **Description**
 
-This garment, worn over normal clothing or armor, grants the wearer [spell resistance](../glossary#_spell-resistance) 21.
+This garment, worn over normal clothing or armor, grants the wearer [spell resistance](../../glossary#_spell-resistance) 21.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item),_ [spell resistance](../spells_dir/spellResistance#_spell-resistance);_ **Cost** 45,000 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item),_ [spell resistance](../../spells_dir/spellResistance#_spell-resistance);_ **Cost** 45,000 gp
 
 **Manual of Bodily Health**
 
-**Aura** strong evocation (if _ [miracle](../spells_dir/miracle#_miracle)_ is used); **CL** 17th
+**Aura** strong evocation (if _ [miracle](../../spells_dir/miracle#_miracle)_ is used); **CL** 17th
 
 **Slot** none; **Price** 27,500 gp (+1), 55,000 gp (+2), 82,500 gp (+3), 110,000 gp (+4), 137,500 gp (+5); **Weight** 5 lbs.
 
 **Description**
 
-This thick tome contains tips on health and fitness, but entwined within the words is a powerful magical effect. If anyone reads this book, which takes a total of 48 hours over a minimum of 6 days, he gains an inherent bonus from +1 to +5 (depending on the type of manual) to his [Constitution](../gettingStarted#_constitution) score. Once the book is read, the magic disappears from the pages and it becomes a normal book.
+This thick tome contains tips on health and fitness, but entwined within the words is a powerful magical effect. If anyone reads this book, which takes a total of 48 hours over a minimum of 6 days, he gains an inherent bonus from +1 to +5 (depending on the type of manual) to his [Constitution](../../gettingStarted#_constitution) score. Once the book is read, the magic disappears from the pages and it becomes a normal book.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item),_ [wish](../spells_dir/wish#_wish)_ or_ [miracle](../spells_dir/miracle#_miracle); _ **Cost** 26,250 gp (+1), 52,500 gp (+2), 78,750 gp (+3), 105,000 gp (+4), 131,250 gp (+5)
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item),_ [wish](../../spells_dir/wish#_wish)_ or_ [miracle](../../spells_dir/miracle#_miracle); _ **Cost** 26,250 gp (+1), 52,500 gp (+2), 78,750 gp (+3), 105,000 gp (+4), 131,250 gp (+5)
 
 **Manual of Gainful Exercise**
 
-**Aura** strong evocation (if _ [miracle](../spells_dir/miracle#_miracle)_ is used); **CL** 17th
+**Aura** strong evocation (if _ [miracle](../../spells_dir/miracle#_miracle)_ is used); **CL** 17th
 
 **Slot** none; **Price** 27,500 gp (+1), 55,000 gp (+2), 82,500 gp (+3), 110,000 gp (+4), 137,500 gp (+5); **Weight** 5 lbs.
 
@@ -2336,21 +2336,21 @@ This thick tome contains exercise descriptions and diet suggestions, but entwine
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item),_ [wish](../spells_dir/wish#_wish) _or_ [miracle](../spells_dir/miracle#_miracle); _ **Cost** 26,250 gp (+1), 52,500 gp (+2), 78,750 gp (+3), 105,000 gp (+4), 131,250 gp (+5)
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item),_ [wish](../../spells_dir/wish#_wish) _or_ [miracle](../../spells_dir/miracle#_miracle); _ **Cost** 26,250 gp (+1), 52,500 gp (+2), 78,750 gp (+3), 105,000 gp (+4), 131,250 gp (+5)
 
 **Manual of Quickness of Action**
 
-**Aura** strong evocation (if _ [miracle](../spells_dir/miracle#_miracle)_ is used); **CL** 17th
+**Aura** strong evocation (if _ [miracle](../../spells_dir/miracle#_miracle)_ is used); **CL** 17th
 
 **Slot** none; **Price** 27,500 gp (+1), 55,000 gp (+2), 82,500 gp (+3), 110,000 gp (+4), 137,500 gp (+5); **Weight** 5 lbs.
 
 **Description**
 
-This thick tome contains tips on coordination exercises and balance, but entwined within the words is a powerful magical effect. If anyone reads this book, which takes a total of 48 hours over a minimum of 6 days, he gains an inherent bonus from +1 to +5 (depending on the type of manual) to his [Dexterity](../gettingStarted#_dexterity) score. Once the book is read, the magic disappears from the pages and it becomes a normal book.
+This thick tome contains tips on coordination exercises and balance, but entwined within the words is a powerful magical effect. If anyone reads this book, which takes a total of 48 hours over a minimum of 6 days, he gains an inherent bonus from +1 to +5 (depending on the type of manual) to his [Dexterity](../../gettingStarted#_dexterity) score. Once the book is read, the magic disappears from the pages and it becomes a normal book.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item),_ [wish](../spells_dir/wish#_wish) _o_r [miracle](../spells_dir/miracle#_miracle); _ **Cost** 26,250 gp (+1), 52,500 gp (+2), 78,750 gp (+3), 105,000 gp (+4), 131,250 gp (+5)
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item),_ [wish](../../spells_dir/wish#_wish) _o_r [miracle](../../spells_dir/miracle#_miracle); _ **Cost** 26,250 gp (+1), 52,500 gp (+2), 78,750 gp (+3), 105,000 gp (+4), 131,250 gp (+5)
 
 **Marvelous Pigments**
 
@@ -2366,7 +2366,7 @@ Only normal, inanimate objects can be created. Creatures can't be created. The p
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item),_ [major creation](../spells_dir/majorCreation#_major-creation);_ **Cost** 2,000 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item),_ [major creation](../../spells_dir/majorCreation#_major-creation);_ **Cost** 2,000 gp
 
 **Mask of the Skull**
 
@@ -2378,11 +2378,11 @@ Only normal, inanimate objects can be created. Creatures can't be created. The p
 
 This fearsome-looking mask of ivory, beaten copper, or pale wood is typically fashioned into the likeness of a human skull with a missing lower jaw, allowing the bottom half of the wearer's face to remain visible when the mask is worn.
 
-Once per day, after it has been worn for at least 1 hour, the mask can be loosed to fly from the wearer's face. It travels up to 50 feet away from the wearer and attacks a target assigned to it. The grinning skull mask makes a touch attack against the target based on the wearer's base attack bonus. If the attack succeeds, the target must make a DC 20 [Fortitude](../combat#_fortitude) save or take 130 points of damage, as if affected by a _ [finger of death](../spells_dir/fingerOfDeath#_finger-of-death)_ spell. If the target succeeds on his saving throw, he nevertheless takes 3d6+13 points of damage. After attacking (whether successful or not), the mask flies back to its user. The mask has [AC](../combat#_armor-class) 16, 10 hit points, and hardness 6.
+Once per day, after it has been worn for at least 1 hour, the mask can be loosed to fly from the wearer's face. It travels up to 50 feet away from the wearer and attacks a target assigned to it. The grinning skull mask makes a touch attack against the target based on the wearer's base attack bonus. If the attack succeeds, the target must make a DC 20 [Fortitude](../../combat#_fortitude) save or take 130 points of damage, as if affected by a _ [finger of death](../../spells_dir/fingerOfDeath#_finger-of-death)_ spell. If the target succeeds on his saving throw, he nevertheless takes 3d6+13 points of damage. After attacking (whether successful or not), the mask flies back to its user. The mask has [AC](../../combat#_armor-class) 16, 10 hit points, and hardness 6.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item)_, [animate objects](../spells_dir/animateObjects#_animate-objects), [finger of death](../spells_dir/fingerOfDeath#_finger-of-death), [fly](../spells_dir/fly);_ **Cost** 11,000 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item)_, [animate objects](../../spells_dir/animateObjects#_animate-objects), [finger of death](../../spells_dir/fingerOfDeath#_finger-of-death), [fly](../../spells_dir/fly);_ **Cost** 11,000 gp
 
 **Mattock of the Titans**
 
@@ -2392,11 +2392,11 @@ Once per day, after it has been worn for at least 1 hour, the mask can be loosed
 
 **Description**
 
-This digging tool is 10 feet long. Any creature of at least Huge size can use it to loosen or tumble earth or earthen ramparts (a 10-foot cube every 10 minutes). It also smashes rock (a 10-foot cube per hour). If used as a weapon, it is the equivalent of a Gargantuan_ +3 [adamantine](../equipment#_adamantine) warhammer,_ dealing 4d6 points of base damage.
+This digging tool is 10 feet long. Any creature of at least Huge size can use it to loosen or tumble earth or earthen ramparts (a 10-foot cube every 10 minutes). It also smashes rock (a 10-foot cube per hour). If used as a weapon, it is the equivalent of a Gargantuan_ +3 [adamantine](../../equipment#_adamantine) warhammer,_ dealing 4d6 points of base damage.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item), [Craft Magic Arms and Armor](../feats#_craft-magic-arms-and-armor),_ [move earth](../spells_dir/moveEarth#_move-earth); _ **Cost** 13,348 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), [Craft Magic Arms and Armor](../../feats#_craft-magic-arms-and-armor),_ [move earth](../../spells_dir/moveEarth#_move-earth); _ **Cost** 13,348 gp
 
 **Maul of the Titans**
 
@@ -2410,7 +2410,7 @@ This mallet is 8 feet long. If used as a weapon, it is the equivalent of a _+3 g
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item), [Craft Magic Arms and Armor](../feats#_craft-magic-arms-and-armor)_, [clenched fist](../spells_dir/clenchedFist#_clenched-fist); _ **Cost** 12,805 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), [Craft Magic Arms and Armor](../../feats#_craft-magic-arms-and-armor)_, [clenched fist](../../spells_dir/clenchedFist#_clenched-fist); _ **Cost** 12,805 gp
 
 **Medallion of Thoughts**
 
@@ -2420,11 +2420,11 @@ This mallet is 8 feet long. If used as a weapon, it is the equivalent of a _+3 g
 
 **Description**
 
-This appears to be a normal pendant disk hung from a neck chain. Usually fashioned from bronze, copper, or silver, the medallion allows the wearer to read the thoughts of others, as with the spell _ [detect thoughts](../spells_dir/detectThoughts#_detect-thoughts)_.
+This appears to be a normal pendant disk hung from a neck chain. Usually fashioned from bronze, copper, or silver, the medallion allows the wearer to read the thoughts of others, as with the spell _ [detect thoughts](../../spells_dir/detectThoughts#_detect-thoughts)_.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item),_ [detect thoughts](../spells_dir/detectThoughts#_detect-thoughts);_ **Cost** 6,000 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item),_ [detect thoughts](../../spells_dir/detectThoughts#_detect-thoughts);_ **Cost** 6,000 gp
 
 **Mirror of Life Trapping**
 
@@ -2434,7 +2434,7 @@ This appears to be a normal pendant disk hung from a neck chain. Usually fashion
 
 **Description**
 
-This crystal device is usually about 4 feet square and framed in metal or wood. The frame typically depicts dragons, demons, devils, genies, coiling nagas, or other powerful creatures that are well known for their magical powers. It can be hung or placed on a surface and then activated by giving a command word. The same command word deactivates the mirror. A _mirror of life trapping_ has 15 extradimensional compartments within it. Any creature coming within 30 feet of the device and looking at its own reflection must make a DC 23 [Will](../combat#_will) save or be trapped within the mirror in one of the cells. A creature not aware of the nature of the device always sees its own reflection. The probability of a creature seeing its reflection, and thus needing to make the saving throw, drops to 50% if the creature is aware that the mirror traps life and seeks to avoid looking at it (treat as a gaze attack).
+This crystal device is usually about 4 feet square and framed in metal or wood. The frame typically depicts dragons, demons, devils, genies, coiling nagas, or other powerful creatures that are well known for their magical powers. It can be hung or placed on a surface and then activated by giving a command word. The same command word deactivates the mirror. A _mirror of life trapping_ has 15 extradimensional compartments within it. Any creature coming within 30 feet of the device and looking at its own reflection must make a DC 23 [Will](../../combat#_will) save or be trapped within the mirror in one of the cells. A creature not aware of the nature of the device always sees its own reflection. The probability of a creature seeing its reflection, and thus needing to make the saving throw, drops to 50% if the creature is aware that the mirror traps life and seeks to avoid looking at it (treat as a gaze attack).
 
 When a creature is trapped, it is taken bodily into the mirror. Size is not a factor, but constructs and undead are not trapped, nor are inanimate objects and other nonliving matter. A victim's equipment (including clothing and anything being carried) remains behind. If the mirror's owner knows the right command word, he can call the reflection of any creature trapped within to its surface and engage his powerless prisoner in conversation. Another command word frees the trapped creature. Each pair of command words is specific to each prisoner.
 
@@ -2442,7 +2442,7 @@ If the mirror's capacity is exceeded, one victim (determined randomly) is set fr
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item),_ [imprisonment](../spells_dir/imprisonment#_imprisonment);_ **Cost** 100,000 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item),_ [imprisonment](../../spells_dir/imprisonment#_imprisonment);_ **Cost** 100,000 gp
 
 **Mirror of Opposition**
 
@@ -2456,7 +2456,7 @@ This item resembles a normal mirror about 4 feet long and 3 feet wide. It can be
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item),_ [clone](../spells_dir/clone#_clone);_ **Cost** 46,000 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item),_ [clone](../../spells_dir/clone#_clone);_ **Cost** 46,000 gp
 
 **Necklace of Adaptation**
 
@@ -2466,11 +2466,11 @@ This item resembles a normal mirror about 4 feet long and 3 feet wide. It can be
 
 **Description**
 
-This necklace is a heavy chain with a platinum medallion. The magic of the necklace wraps the wearer in a shell of fresh air, making him immune to all harmful vapors and gases (such as _ [cloudkill](../spells_dir/cloudkill#_cloudkill) _and _ [stinking cloud](../spells_dir/stinkingCloud#_stinking-cloud) _effects, as well as inhaled poisons) and allowing him to breathe, even underwater or in a vacuum.
+This necklace is a heavy chain with a platinum medallion. The magic of the necklace wraps the wearer in a shell of fresh air, making him immune to all harmful vapors and gases (such as _ [cloudkill](../../spells_dir/cloudkill#_cloudkill) _and _ [stinking cloud](../../spells_dir/stinkingCloud#_stinking-cloud) _effects, as well as inhaled poisons) and allowing him to breathe, even underwater or in a vacuum.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item), _ [alter self](../spells_dir/alterSelf#_alter-self)_; **Cost** 4,500 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [alter self](../../spells_dir/alterSelf#_alter-self)_; **Cost** 4,500 gp
 
 **Necklace of Fireballs**
 
@@ -2480,7 +2480,7 @@ This necklace is a heavy chain with a platinum medallion. The magic of the neckl
 
 **Description**
 
-This item appears to be a string of beads, sometimes with the ends tied together to form a necklace. (It does not count as an item worn around the neck for the purpose of determining which of a character's worn magic items is effective.) If a character holds it, however, all can see the strand as it really is—a golden chain from which hang a number of golden spheres. The spheres are detachable by the wearer (and only by the wearer), who can easily hurl one of them up to 70 feet. When a sphere arrives at the end of its trajectory, it detonates as a_ [fireball](../spells_dir/fireball#_fireball)_ spell ( [Reflex](../combat#_reflex) DC 14 half).
+This item appears to be a string of beads, sometimes with the ends tied together to form a necklace. (It does not count as an item worn around the neck for the purpose of determining which of a character's worn magic items is effective.) If a character holds it, however, all can see the strand as it really is—a golden chain from which hang a number of golden spheres. The spheres are detachable by the wearer (and only by the wearer), who can easily hurl one of them up to 70 feet. When a sphere arrives at the end of its trajectory, it detonates as a_ [fireball](../../spells_dir/fireball#_fireball)_ spell ( [Reflex](../../combat#_reflex) DC 14 half).
 
 Spheres come in different strengths, ranging from those that deal 2d6 points of fire damage to those that deal 10d6. The market price of a sphere is 150 gp for each die of damage it deals.
 
@@ -2501,7 +2501,7 @@ If the necklace is being worn or carried by a character who fails her saving thr
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item),_ [fireball](../spells_dir/fireball#_fireball);_ **Cost** 825 gp (type I), 1,350 gp (type II), 2,175 gp (type III), 2,700 gp (type IV), 2,925 gp (type V), 4,050 gp (type VI), 4,350 gp (type VII)
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item),_ [fireball](../../spells_dir/fireball#_fireball);_ **Cost** 825 gp (type I), 1,350 gp (type II), 2,175 gp (type III), 2,700 gp (type IV), 2,925 gp (type V), 4,050 gp (type VI), 4,350 gp (type VII)
 
 **Orb of Storms**
 
@@ -2511,11 +2511,11 @@ If the necklace is being worn or carried by a character who fails her saving thr
 
 **Description**
 
-This glass sphere is 8 inches in diameter. The possessor can call forth all manner of weather, even supernaturally destructive storms. Once per day, she can call upon the orb to use a _ [control weather](../spells_dir/controlWeather#_control-weather)_ spell. Once per month, she can conjure a _ [storm of vengeance](../spells_dir/stormOfVengeance#_storm-of-vengeance). _The possessor of the orb is continually protected by an _ [endure elements](../spells_dir/endureElements#_endure-elements)_ effect.
+This glass sphere is 8 inches in diameter. The possessor can call forth all manner of weather, even supernaturally destructive storms. Once per day, she can call upon the orb to use a _ [control weather](../../spells_dir/controlWeather#_control-weather)_ spell. Once per month, she can conjure a _ [storm of vengeance](../../spells_dir/stormOfVengeance#_storm-of-vengeance). _The possessor of the orb is continually protected by an _ [endure elements](../../spells_dir/endureElements#_endure-elements)_ effect.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item),_ [control weather](../spells_dir/controlWeather#_control-weather), [endure elements](../spells_dir/endureElements#_endure-elements), [storm of vengeance](../spells_dir/stormOfVengeance#_storm-of-vengeance);_ **Cost** 24,000 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item),_ [control weather](../../spells_dir/controlWeather#_control-weather), [endure elements](../../spells_dir/endureElements#_endure-elements), [storm of vengeance](../../spells_dir/stormOfVengeance#_storm-of-vengeance);_ **Cost** 24,000 gp
 
 **Pearl of Power**
 
@@ -2529,7 +2529,7 @@ This seemingly normal pearl of average size and luster is a potent aid to all sp
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item), creator must be able to cast spells of the spell level to be recalled; **Cost** 500 gp (1st), 2,000 gp (2nd), 4,500 gp (3rd), 8,000 gp (4th), 12,500 gp (5th), 18,000 gp (6th), 24,500 gp (7th), 32,000 gp (8th), 40,500 gp (9th), 35,000 gp (two spells)
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), creator must be able to cast spells of the spell level to be recalled; **Cost** 500 gp (1st), 2,000 gp (2nd), 4,500 gp (3rd), 8,000 gp (4th), 12,500 gp (5th), 18,000 gp (6th), 24,500 gp (7th), 32,000 gp (8th), 40,500 gp (9th), 35,000 gp (two spells)
 
 **Pearl of the Sirines**
 
@@ -2545,7 +2545,7 @@ The pearl enables its possessor to breathe in water as if she were in clean, fre
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item),_ [freedom of movement](../spells_dir/freedomOfMovement#_freedom-of-movement), [water breathing](../spells_dir/waterBreathing#_water-breathing);_ **Cost** 8,150 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item),_ [freedom of movement](../../spells_dir/freedomOfMovement#_freedom-of-movement), [water breathing](../../spells_dir/waterBreathing#_water-breathing);_ **Cost** 8,150 gp
 
 **Periapt of Health**
 
@@ -2559,7 +2559,7 @@ The wearer of this blue gem on a silver chain (worn on the neck) is immune to di
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item),_ [remove disease](../spells_dir/removeDisease#_remove-disease);_ **Cost** 3,750 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item),_ [remove disease](../../spells_dir/removeDisease#_remove-disease);_ **Cost** 3,750 gp
 
 **Periapt of Proof against Poison**
 
@@ -2573,7 +2573,7 @@ This item is a brilliant-cut black gem on a delicate silver chain meant to be wo
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item),_ [neutralize poison](../spells_dir/neutralizePoison#_neutralize-poison);_ **Cost** 13,500 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item),_ [neutralize poison](../../spells_dir/neutralizePoison#_neutralize-poison);_ **Cost** 13,500 gp
 
 **Periapt of Wound Closure**
 
@@ -2583,11 +2583,11 @@ This item is a brilliant-cut black gem on a delicate silver chain meant to be wo
 
 **Description**
 
-This stone is bright red and dangles on a gold chain meant to be worn on the neck. The wearer of this periapt automatically becomes [stable](../glossary#_stable) if his hit points drop below 0 (but not if the damage is enough to kill the wearer). The periapt doubles the wearer's normal rate of healing or allows normal healing of wounds that would not do so normally. Hit point damage caused by bleeding is negated for the wearer of the periapt, but he is still susceptible to damage from bleeding that causes ability damage or drain.
+This stone is bright red and dangles on a gold chain meant to be worn on the neck. The wearer of this periapt automatically becomes [stable](../../glossary#_stable) if his hit points drop below 0 (but not if the damage is enough to kill the wearer). The periapt doubles the wearer's normal rate of healing or allows normal healing of wounds that would not do so normally. Hit point damage caused by bleeding is negated for the wearer of the periapt, but he is still susceptible to damage from bleeding that causes ability damage or drain.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item),_ [heal](../spells_dir/heal#_heal);_ **Cost** 7,500 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item),_ [heal](../../spells_dir/heal#_heal);_ **Cost** 7,500 gp
 
 **Phylactery of Faithfulness**
 
@@ -2601,7 +2601,7 @@ This item is a tiny box containing religious scripture. The box is affixed to a 
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item), _ [detect chaos](../spells_dir/detectChaos#_detect-chaos), [detect evil](../spells_dir/detectEvil#_detect-evil), [detect good](../spells_dir/detectGood#_detect-good), [detect law](../spells_dir/detectLaw#_detect-law);_ **Cost** 500 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [detect chaos](../../spells_dir/detectChaos#_detect-chaos), [detect evil](../../spells_dir/detectEvil#_detect-evil), [detect good](../../spells_dir/detectGood#_detect-good), [detect law](../../spells_dir/detectLaw#_detect-law);_ **Cost** 500 gp
 
 **Phylactery of Negative Channeling**
 
@@ -2615,7 +2615,7 @@ This item is a boon to any character able to channel negative energy, increasing
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item), creator must be a 10th-level cleric; **Cost** 5,500 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), creator must be a 10th-level cleric; **Cost** 5,500 gp
 
 **Phylactery of Positive Channeling**
 
@@ -2629,7 +2629,7 @@ This item allows channelers of positive energy to increase the amount of damage 
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item), creator must be a 10th-level cleric; **Cost** 5,500 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), creator must be a 10th-level cleric; **Cost** 5,500 gp
 
 **Pipes of Haunting**
 
@@ -2639,11 +2639,11 @@ This item allows channelers of positive energy to increase the amount of damage 
 
 **Description**
 
-This magic item appears to be a small set of pan pipes. When played by a person who succeeds on a DC 15 Perform (wind instruments) check, the pipes create an eerie, spellbinding tune. Those within 30 feet who hear the tune must succeed on a DC 13 [Will](../combat#_will) save or become [frightened](../glossary#_frightened) for 4 rounds. Creatures with 6 or more Hit Dice are unaffected. _Pipes of haunting_ can be sounded twice a day.
+This magic item appears to be a small set of pan pipes. When played by a person who succeeds on a DC 15 Perform (wind instruments) check, the pipes create an eerie, spellbinding tune. Those within 30 feet who hear the tune must succeed on a DC 13 [Will](../../combat#_will) save or become [frightened](../../glossary#_frightened) for 4 rounds. Creatures with 6 or more Hit Dice are unaffected. _Pipes of haunting_ can be sounded twice a day.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item),_ [scare](../spells_dir/scare#_scare);_ **Cost** 3,000 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item),_ [scare](../../spells_dir/scare#_scare);_ **Cost** 3,000 gp
 
 **Pipes of the Sewers**
 
@@ -2659,7 +2659,7 @@ If the rats are under the control of another creature, add the HD of the control
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item),_ [charm animal](../spells_dir/charmAnimal#_charm-animal), [summon nature's ally I](../spells_dir/summonNatureSAlly#_summon-nature-s-ally-i), _ [wild empathy](../classes_dir/druid#_wild-empathy-druid) ability_;_ **Cost** 575 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item),_ [charm animal](../../spells_dir/charmAnimal#_charm-animal), [summon nature's ally I](../../spells_dir/summonNatureSAlly#_summon-nature-s-ally-i), _ [wild empathy](../../classes_dir/druid#_wild-empathy-druid) ability_;_ **Cost** 575 gp
 
 **Pipes of Sounding**
 
@@ -2669,11 +2669,11 @@ If the rats are under the control of another creature, add the HD of the control
 
 **Description**
 
-When played by a character who has the Perform (wind instruments) skill, these shiny metallic pan pipes create a variety of sounds. The figment sounds are the equivalent of _ [ghost sound](../spells_dir/ghostSound#_ghost-sound)_.
+When played by a character who has the Perform (wind instruments) skill, these shiny metallic pan pipes create a variety of sounds. The figment sounds are the equivalent of _ [ghost sound](../../spells_dir/ghostSound#_ghost-sound)_.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item),_ [ghost sound](../spells_dir/ghostSound#_ghost-sound);_ **Cost** 900 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item),_ [ghost sound](../../spells_dir/ghostSound#_ghost-sound);_ **Cost** 900 gp
 
 **Portable Hole**
 
@@ -2689,7 +2689,7 @@ The only air in the hole is that which enters when the hole is opened. It contai
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item),_ [plane shift](../spells_dir/planeShift#_plane-shift);_ **Cost** 10,000 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item),_ [plane shift](../../spells_dir/planeShift#_plane-shift);_ **Cost** 10,000 gp
 
 **Restorative Ointment**
 
@@ -2699,11 +2699,11 @@ The only air in the hole is that which enters when the hole is opened. It contai
 
 **Description**
 
-A jar of this unguent is 3 inches in diameter and 1 inch deep, and contains five applications. Placed upon a poisoned wound or swallowed, the ointment detoxifies any poison (as _ [neutralize poison](../spells_dir/neutralizePoison#_neutralize-poison)_ with a +5 bonus on the check). Applied to a diseased area, it removes disease (as _ [remove disease](../spells_dir/removeDisease#_remove-disease) _with a +5 bonus on the check). Rubbed on a wound, the ointment cures 1d8+5 points of damage (as _ [cure light wounds](../spells_dir/cureLightWounds#_cure-light-wounds)_).
+A jar of this unguent is 3 inches in diameter and 1 inch deep, and contains five applications. Placed upon a poisoned wound or swallowed, the ointment detoxifies any poison (as _ [neutralize poison](../../spells_dir/neutralizePoison#_neutralize-poison)_ with a +5 bonus on the check). Applied to a diseased area, it removes disease (as _ [remove disease](../../spells_dir/removeDisease#_remove-disease) _with a +5 bonus on the check). Rubbed on a wound, the ointment cures 1d8+5 points of damage (as _ [cure light wounds](../../spells_dir/cureLightWounds#_cure-light-wounds)_).
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item),_ [cure light wounds](../spells_dir/cureLightWounds#_cure-light-wounds), [neutralize poison](../spells_dir/neutralizePoison#_neutralize-poison), [remove disease](../spells_dir/removeDisease#_remove-disease);_ **Cost** 2,000 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item),_ [cure light wounds](../../spells_dir/cureLightWounds#_cure-light-wounds), [neutralize poison](../../spells_dir/neutralizePoison#_neutralize-poison), [remove disease](../../spells_dir/removeDisease#_remove-disease);_ **Cost** 2,000 gp
 
 **Ring Gates**
 
@@ -2717,7 +2717,7 @@ These always come in pairs—two iron rings, each about 18 inches in diameter. T
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item),_ [gate](../spells_dir/gate#_gate);_ **Cost** 20,000 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item),_ [gate](../../spells_dir/gate#_gate);_ **Cost** 20,000 gp
 
 **Robe of the Archmagi**
 
@@ -2729,16 +2729,16 @@ These always come in pairs—two iron rings, each about 18 inches in diameter. T
 
 This normal-appearing garment can be white (01–45 on d%, good alignment), gray (46–75, neither good nor evil alignment), or black (76–100, evil alignment). To most wearers, the robe offers no powers or has no effects unless the wearer's alignment doesn't match that of the robe (see below). Only an arcane spellcaster can fully realize this potent magic item's powers once the robe is donned. These powers are as follows.
 
-- +5 armor bonus to [AC](../combat#_armor-class).
-- [Spell resistance](../glossary#_spell-resistance) 18.
+- +5 armor bonus to [AC](../../combat#_armor-class).
+- [Spell resistance](../../glossary#_spell-resistance) 18.
 - +4 resistance bonus on all saving throws.
-- +2 enhancement bonus on caster level checks made to overcome [spell resistance](../glossary#_spell-resistance).
+- +2 enhancement bonus on caster level checks made to overcome [spell resistance](../../glossary#_spell-resistance).
 
-As mentioned above, all _robes of the archmagi_ are attuned to a specific alignment. If a white robe is donned by an evil character, she immediately gains three permanent [negative levels](../glossary#_energy-drain-and-negative-levels). The same is true with respect to a black robe donned by a good character. An evil or good character who puts on a gray robe, or a neutral character who dons either a white or black robe, gains two permanent [negative levels](../glossary#_energy-drain-and-negative-levels). While these [negative levels](../glossary#_energy-drain-and-negative-levels) remain as long as the garment is worn and cannot be overcome in any way (including _restoration_ spells), they are immediately removed if the robe is removed.
+As mentioned above, all _robes of the archmagi_ are attuned to a specific alignment. If a white robe is donned by an evil character, she immediately gains three permanent [negative levels](../../glossary#_energy-drain-and-negative-levels). The same is true with respect to a black robe donned by a good character. An evil or good character who puts on a gray robe, or a neutral character who dons either a white or black robe, gains two permanent [negative levels](../../glossary#_energy-drain-and-negative-levels). While these [negative levels](../../glossary#_energy-drain-and-negative-levels) remain as long as the garment is worn and cannot be overcome in any way (including _restoration_ spells), they are immediately removed if the robe is removed.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item), _ [antimagic field](../spells_dir/antimagicField#_antimagic-field), [mage armor](../spells_dir/mageArmor#_mage-armor) _or_ [shield of faith](../spells_dir/shieldOfFaith#_shield-of-faith), _creator must be of same alignment as robe; **Cost** 37,500 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [antimagic field](../../spells_dir/antimagicField#_antimagic-field), [mage armor](../../spells_dir/mageArmor#_mage-armor) _or_ [shield of faith](../../spells_dir/shieldOfFaith#_shield-of-faith), _creator must be of same alignment as robe; **Cost** 37,500 gp
 
 **Robe of Blending**
 
@@ -2748,11 +2748,11 @@ As mentioned above, all _robes of the archmagi_ are attuned to a specific alignm
 
 **Description**
 
-Once per day this simple wool robe allows you to assume the form of another humanoid creature, as if using _ [alter self](../spells_dir/alterSelf#_alter-self)_. This change lasts for 1 hour, although you can end it prematurely as a free action. While in this form, you also gain the ability to speak and understand the basic racial languages of your chosen form. For example, if you take the form of an orc, you can speak and understand Orc.
+Once per day this simple wool robe allows you to assume the form of another humanoid creature, as if using _ [alter self](../../spells_dir/alterSelf#_alter-self)_. This change lasts for 1 hour, although you can end it prematurely as a free action. While in this form, you also gain the ability to speak and understand the basic racial languages of your chosen form. For example, if you take the form of an orc, you can speak and understand Orc.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item),_ [alter self](../spells_dir/alterSelf#_alter-self), [tongues](../spells_dir/tongues#_tongues);_ **Cost** 4,200 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item),_ [alter self](../../spells_dir/alterSelf#_alter-self), [tongues](../../spells_dir/tongues#_tongues);_ **Cost** 4,200 gp
 
 **Robe of Bones**
 
@@ -2773,7 +2773,7 @@ This sinister item functions much like a _robe of useful items_ for the serious 
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item), _ [animate dead](../spells_dir/animateDead#_animate-dead);_ **Cost** 1,200 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [animate dead](../../spells_dir/animateDead#_animate-dead);_ **Cost** 1,200 gp
 
 **Robe of Eyes**
 
@@ -2783,17 +2783,17 @@ This sinister item functions much like a _robe of useful items_ for the serious 
 
 **Description**
 
-This valuable garment appears to be a normal robe until it is put on. Its wearer is able to see in all directions at the same moment due to scores of visible, magical eye-like patterns that adorn the robe. She also gains 120-foot [darkvision](../glossary#_darkvision).
+This valuable garment appears to be a normal robe until it is put on. Its wearer is able to see in all directions at the same moment due to scores of visible, magical eye-like patterns that adorn the robe. She also gains 120-foot [darkvision](../../glossary#_darkvision).
 
 The _robe of eyes_ sees all forms of invisible or ethereal creatures or objects within 120 feet.
 
-The wearer of a _robe of eyes_ gains a +10 competence bonus on Perception checks. She retains her [Dexterity](../gettingStarted#_dexterity) bonus to [AC](../combat#_armor-class) even when [flat-footed](../glossary#_flat-footed), and can't be flanked. She is not able to avert or close her eyes when confronted by a creature with a gaze attack.
+The wearer of a _robe of eyes_ gains a +10 competence bonus on Perception checks. She retains her [Dexterity](../../gettingStarted#_dexterity) bonus to [AC](../../combat#_armor-class) even when [flat-footed](../../glossary#_flat-footed), and can't be flanked. She is not able to avert or close her eyes when confronted by a creature with a gaze attack.
 
-A _light_ or _ [continual flame](../spells_dir/continualFlame#_continual-flame)_ spell cast directly on a _robe of eyes_ causes it to be [blinded](../glossary#_blinded) for 1d3 minutes. A _ [daylight](../spells_dir/daylight#_daylight)_ spell blinds it for 2d4 minutes.
+A _light_ or _ [continual flame](../../spells_dir/continualFlame#_continual-flame)_ spell cast directly on a _robe of eyes_ causes it to be [blinded](../../glossary#_blinded) for 1d3 minutes. A _ [daylight](../../spells_dir/daylight#_daylight)_ spell blinds it for 2d4 minutes.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item),_ [true seeing](../spells_dir/trueSeeing#_true-seeing);_ **Cost** 60,000 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item),_ [true seeing](../../spells_dir/trueSeeing#_true-seeing);_ **Cost** 60,000 gp
 
 **Robe, Monk's**
 
@@ -2803,11 +2803,11 @@ A _light_ or _ [continual flame](../spells_dir/continualFlame#_continual-flame)_
 
 **Description**
 
-This simple brown robe, when worn, confers great ability in unarmed combat. If the wearer has levels in monk, her [AC](../combat#_armor-class) and unarmed damage is treated as a monk of five levels higher. If donned by a character with the [Stunning Fist](../feats#_stunning-fist) feat, the robe lets her make one additional stunning attack per day. If the character is not a monk, she gains the [AC](../combat#_armor-class) and unarmed damage of a 5th-level monk (although she does not add her [Wisdom](../gettingStarted#_wisdom) bonus to her [AC](../combat#_armor-class)). This [AC](../combat#_armor-class) bonus functions just like the monk's [AC](../combat#_armor-class) bonus.
+This simple brown robe, when worn, confers great ability in unarmed combat. If the wearer has levels in monk, her [AC](../../combat#_armor-class) and unarmed damage is treated as a monk of five levels higher. If donned by a character with the [Stunning Fist](../../feats#_stunning-fist) feat, the robe lets her make one additional stunning attack per day. If the character is not a monk, she gains the [AC](../../combat#_armor-class) and unarmed damage of a 5th-level monk (although she does not add her [Wisdom](../../gettingStarted#_wisdom) bonus to her [AC](../../combat#_armor-class)). This [AC](../../combat#_armor-class) bonus functions just like the monk's [AC](../../combat#_armor-class) bonus.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item), _ [righteous might](../spells_dir/righteousMight#_righteous-might) _or _transformation_; **Cost** 6,500 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [righteous might](../../spells_dir/righteousMight#_righteous-might) _or _transformation_; **Cost** 6,500 gp
 
 **Robe of Scintillating Colors**
 
@@ -2817,7 +2817,7 @@ This simple brown robe, when worn, confers great ability in unarmed combat. If t
 
 **Description**
 
-The wearer of this robe can cause the garment to display a shifting pattern of incredible hues, color after color cascading from the upper part of the robe to the hem in sparkling rainbows of dazzling light. The colors daze those near the wearer, conceal the wearer, and illuminate the surroundings. It takes 1 full round after the wearer speaks the command word for the colors to start flowing on the robe. The colors create the equivalent of a gaze attack with a 30-foot range. Those who look at the wearer are [dazed](../glossary#_dazed) for 1d4+1 rounds ( [Will](../combat#_will) DC 16 negates). This is a mind-affecting pattern effect.
+The wearer of this robe can cause the garment to display a shifting pattern of incredible hues, color after color cascading from the upper part of the robe to the hem in sparkling rainbows of dazzling light. The colors daze those near the wearer, conceal the wearer, and illuminate the surroundings. It takes 1 full round after the wearer speaks the command word for the colors to start flowing on the robe. The colors create the equivalent of a gaze attack with a 30-foot range. Those who look at the wearer are [dazed](../../glossary#_dazed) for 1d4+1 rounds ( [Will](../../combat#_will) DC 16 negates). This is a mind-affecting pattern effect.
 
 Every round of continuous scintillation of the robe gives the wearer better concealment. The miss chance on attacks against the wearer starts at 10% and increases by 10% each round until it reaches 50% (total concealment).
 
@@ -2827,7 +2827,7 @@ The effect can be used no more than a total of 10 rounds per day.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item),_ [blur](../spells_dir/blur#_blur), [rainbow pattern](../spells_dir/rainbowPattern#_rainbow-pattern);_ **Cost** 13,500 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item),_ [blur](../../spells_dir/blur#_blur), [rainbow pattern](../../spells_dir/rainbowPattern#_rainbow-pattern);_ **Cost** 13,500 gp
 
 **Robe of Stars**
 
@@ -2845,7 +2845,7 @@ This garment is typically black or dark blue and embroidered with small white or
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item),_ [magic missile](../spells_dir/magicMissile#_magic-missile), [astral projection](../spells_dir/astralProjection#_astral-projection) _or_ [plane shift](../spells_dir/planeShift#_plane-shift);_ **Cost** 29,000 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item),_ [magic missile](../../spells_dir/magicMissile#_magic-missile), [astral projection](../../spells_dir/astralProjection#_astral-projection) _or_ [plane shift](../../spells_dir/planeShift#_plane-shift);_ **Cost** 29,000 gp
 
 **Robe of Useful Items**
 
@@ -2875,7 +2875,7 @@ In addition, the robe has several other patches. Roll 4d4 for the number of othe
 | 31–44 | Ladder, wooden (24 ft. long) |
 | 45–51 | Mule (with saddle bags) |
 | 52–59 | Pit, open (10 ft. by 10 ft. by 10 ft.) |
-| 60–68 | _Potion of [cure serious wounds](../spells_dir/cureSeriousWounds#_cure-serious-wounds)_ |
+| 60–68 | _Potion of [cure serious wounds](../../spells_dir/cureSeriousWounds#_cure-serious-wounds)_ |
 | 69–75 | Rowboat (12 ft. long) |
 | 76–83 | Minor scroll of one randomly determined spell |
 | 84–90 | War dogs, pair (treat as riding dogs) |
@@ -2886,7 +2886,7 @@ Multiple items of the same kind are permissible. Once removed, a patch cannot be
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item),_ [fabricate](../spells_dir/fabricate#_fabricate);_ **Cost** 3,500 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item),_ [fabricate](../../spells_dir/fabricate#_fabricate);_ **Cost** 3,500 gp
 
 **Rope of Climbing**
 
@@ -2902,7 +2902,7 @@ A _rope of climbing_ can be commanded to knot or unknot itself. This causes larg
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item),_ [animate rope](../spells_dir/animateRope#_animate-rope);_ **Cost** 1,500 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item),_ [animate rope](../../spells_dir/animateRope#_animate-rope);_ **Cost** 1,500 gp
 
 **Rope of Entanglement**
 
@@ -2912,13 +2912,13 @@ A _rope of climbing_ can be commanded to knot or unknot itself. This causes larg
 
 **Description**
 
-A _rope of entanglement_ looks just like any other hempen rope about 30 feet long. Upon command, the rope lashes forward 20 feet or upward 10 feet to entangle a victim. An [entangled](../glossary#_entangled) creature can break free with a DC 20 Strength check or a DC 20 Escape Artist check.
+A _rope of entanglement_ looks just like any other hempen rope about 30 feet long. Upon command, the rope lashes forward 20 feet or upward 10 feet to entangle a victim. An [entangled](../../glossary#_entangled) creature can break free with a DC 20 Strength check or a DC 20 Escape Artist check.
 
-A _rope of entanglement_ has [AC](../combat#_armor-class) 22, 12 hit points, hardness 10, and [damage reduction](../glossary#_damage-reduction) 5_dir/slashing. The rope repairs damage to itself at a rate of 1 point per 5 minutes, but if a _rope of entanglement_ is severed (all 12 hit points lost to damage), it is destroyed.
+A _rope of entanglement_ has [AC](../../combat#_armor-class) 22, 12 hit points, hardness 10, and [damage reduction](../../glossary#_damage-reduction) 5_dir/slashing. The rope repairs damage to itself at a rate of 1 point per 5 minutes, but if a _rope of entanglement_ is severed (all 12 hit points lost to damage), it is destroyed.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item),_ [animate objects](../spells_dir/animateObjects#_animate-objects), [animate rope](../spells_dir/animateRope#_animate-rope) or [entangle](../spells_dir/entangle#_entangle);_ **Cost** 10,500 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item),_ [animate objects](../../spells_dir/animateObjects#_animate-objects), [animate rope](../../spells_dir/animateRope#_animate-rope) or [entangle](../../spells_dir/entangle#_entangle);_ **Cost** 10,500 gp
 
 **Salve of Slipperiness**
 
@@ -2928,13 +2928,13 @@ A _rope of entanglement_ has [AC](../combat#_armor-class) 22, 12 hit points, har
 
 **Description**
 
-This substance provides a +20 competence bonus on all Escape Artist checks and combat maneuver checks made to escape from a grapple. The salve also grants a +10 competence bonus to the wearer's [Combat Maneuver Defense](../combat#_combat-maneuver-defense) for the purpose of avoiding grapple attempts. In addition, such obstructions as webs (magical or otherwise) do not affect an anointed individual. Magic ropes and the like do not avail against this salve. If it is smeared on a floor or on steps, the area should be treated as a long-lasting _ [grease](../spells_dir/grease#_grease)_ spell. The salve requires 8 hours to wear off normally, or it can be wiped off with an alcohol solution (even wine).
+This substance provides a +20 competence bonus on all Escape Artist checks and combat maneuver checks made to escape from a grapple. The salve also grants a +10 competence bonus to the wearer's [Combat Maneuver Defense](../../combat#_combat-maneuver-defense) for the purpose of avoiding grapple attempts. In addition, such obstructions as webs (magical or otherwise) do not affect an anointed individual. Magic ropes and the like do not avail against this salve. If it is smeared on a floor or on steps, the area should be treated as a long-lasting _ [grease](../../spells_dir/grease#_grease)_ spell. The salve requires 8 hours to wear off normally, or it can be wiped off with an alcohol solution (even wine).
 
 _Salve of slipperiness_ is needed to coat the inside of a container meant to hold _sovereign glue_.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item),_ [grease](../spells_dir/grease#_grease);_ **Cost** 500 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item),_ [grease](../../spells_dir/grease#_grease);_ **Cost** 500 gp
 
 **Scabbard of Keen Edges**
 
@@ -2944,11 +2944,11 @@ _Salve of slipperiness_ is needed to coat the inside of a container meant to hol
 
 **Description**
 
-This scabbard can shrink or enlarge to accommodate any knife, dagger, sword, or similar weapon up to and including a greatsword. Up to three times per day on command, the scabbard casts _ [keen edge](../spells_dir/keenEdge#_keen-edge) _on any blade placed within it.
+This scabbard can shrink or enlarge to accommodate any knife, dagger, sword, or similar weapon up to and including a greatsword. Up to three times per day on command, the scabbard casts _ [keen edge](../../spells_dir/keenEdge#_keen-edge) _on any blade placed within it.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item),_ [keen edge](../spells_dir/keenEdge#_keen-edge);_ **Cost** 8,000 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item),_ [keen edge](../../spells_dir/keenEdge#_keen-edge);_ **Cost** 8,000 gp
 
 **Scarab of Protection**
 
@@ -2960,11 +2960,11 @@ This scabbard can shrink or enlarge to accommodate any knife, dagger, sword, or 
 
 This device appears to be a silver medallion in the shape of a beetle. If it is held for 1 round, an inscription appears on its surface letting the holder know that it is a protective device.
 
-The scarab's possessor gains [spell resistance](../glossary#_spell-resistance) 20. The scarab can also absorb energy-draining attacks, death effects, and negative energy effects. Upon absorbing 12 such attacks, the scarab turns to powder and is destroyed.
+The scarab's possessor gains [spell resistance](../../glossary#_spell-resistance) 20. The scarab can also absorb energy-draining attacks, death effects, and negative energy effects. Upon absorbing 12 such attacks, the scarab turns to powder and is destroyed.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item), _ [death ward](../spells_dir/deathWard#_death-ward), [spell resistance](../spells_dir/spellResistance#_spell-resistance);_ **Cost** 19,000 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [death ward](../../spells_dir/deathWard#_death-ward), [spell resistance](../../spells_dir/spellResistance#_spell-resistance);_ **Cost** 19,000 gp
 
 **Scarab, Golembane**
 
@@ -2974,11 +2974,11 @@ The scarab's possessor gains [spell resistance](../glossary#_spell-resistance) 2
 
 **Description**
 
-This beetle-shaped pin enables its wearer to detect any golem within 60 feet, although he must concentrate (a standard action) in order for the detection to take place. A scarab enables its possessor to combat golems with weapons, unarmed attacks, or natural weapons as if those golems had no [damage reduction](../glossary#_damage-reduction).
+This beetle-shaped pin enables its wearer to detect any golem within 60 feet, although he must concentrate (a standard action) in order for the detection to take place. A scarab enables its possessor to combat golems with weapons, unarmed attacks, or natural weapons as if those golems had no [damage reduction](../../glossary#_damage-reduction).
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item),_ [detect magic](../spells_dir/detectMagic#_detect-magic), _creator must be at least 10th level; **Cost** 1,250 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item),_ [detect magic](../../spells_dir/detectMagic#_detect-magic), _creator must be at least 10th level; **Cost** 1,250 gp
 
 **Silversheen**
 
@@ -2992,7 +2992,7 @@ This shimmering paste-like substance can be applied to a weapon as a standard ac
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item); **Cost** 125 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item); **Cost** 125 gp
 
 **Slippers of Spider Climbing**
 
@@ -3006,7 +3006,7 @@ When worn, a pair of these slippers enables movement on vertical surfaces or eve
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item),_ [spider climb](../spells_dir/spiderClimb#_spider-climb);_ **Cost** 2,400 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item),_ [spider climb](../../spells_dir/spiderClimb#_spider-climb);_ **Cost** 2,400 gp
 
 **Sovereign Glue**
 
@@ -3020,7 +3020,7 @@ This pale amber substance is thick and viscous. Because of its particular powers
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item),_ [make whole](../spells_dir/makeWhole#_make-whole);_ **Cost** 1,200 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item),_ [make whole](../../spells_dir/makeWhole#_make-whole);_ **Cost** 1,200 gp
 
 **Stone of Alarm**
 
@@ -3034,7 +3034,7 @@ This stone cube, when given the command word, affixes itself to any object. If t
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item),_ [alarm](../spells_dir/alarm#_alarm);_ **Cost** 1,350 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item),_ [alarm](../../spells_dir/alarm#_alarm);_ **Cost** 1,350 gp
 
 **Stone of Good Luck (Luckstone)**
 
@@ -3048,7 +3048,7 @@ This small bit of agate grants its possessor a +1 luck bonus on saving throws, a
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item),_ [divine favor](../spells_dir/divineFavor#_divine-favor);_ **Cost** 10,000 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item),_ [divine favor](../../spells_dir/divineFavor#_divine-favor);_ **Cost** 10,000 gp
 
 **Stone Salve**
 
@@ -3058,11 +3058,11 @@ This small bit of agate grants its possessor a +1 luck bonus on saving throws, a
 
 **Description**
 
-This ointment has two uses. If an ounce of it is applied to the flesh of a [petrified](../glossary#_petrified) creature, it returns the creature to flesh as the _ [stone to flesh](../spells_dir/stoneToFlesh#_stone-to-flesh)_ spell. If an ounce of it is applied to the flesh of a nonpetrified creature, it protects the creature as a _ [stoneskin](../spells_dir/stoneskin#_stoneskin)_ spell.
+This ointment has two uses. If an ounce of it is applied to the flesh of a [petrified](../../glossary#_petrified) creature, it returns the creature to flesh as the _ [stone to flesh](../../spells_dir/stoneToFlesh#_stone-to-flesh)_ spell. If an ounce of it is applied to the flesh of a nonpetrified creature, it protects the creature as a _ [stoneskin](../../spells_dir/stoneskin#_stoneskin)_ spell.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item),_ [stone to flesh](../spells_dir/stoneToFlesh#_stone-to-flesh), [stoneskin](../spells_dir/stoneskin#_stoneskin);_ **Cost** 2,000 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item),_ [stone to flesh](../../spells_dir/stoneToFlesh#_stone-to-flesh), [stoneskin](../../spells_dir/stoneskin#_stoneskin);_ **Cost** 2,000 gp
 
 **Strand of Prayer Beads**
 
@@ -3076,12 +3076,12 @@ This item appears to be nothing more than a string of prayer beads until the own
 
 | Special Bead Type | Special Bead Ability |
 | --- | --- |
-| _Bead of blessing_ | Wearer can cast _ [bless](../spells_dir/bless#_bless)._ |
-| _Bead of healing_ | Wearer can cast his choice of _ [cure serious wounds](../spells_dir/cureSeriousWounds#_cure-serious-wounds), [remove blindness_dir/deafness](../spells_dir/removeBlindnessDeafness#_remove-blindness-deafness), _or _ [remove disease](../spells_dir/removeDisease#_remove-disease)._ |
+| _Bead of blessing_ | Wearer can cast _ [bless](../../spells_dir/bless#_bless)._ |
+| _Bead of healing_ | Wearer can cast his choice of _ [cure serious wounds](../../spells_dir/cureSeriousWounds#_cure-serious-wounds), [remove blindness_dir/deafness](../../spells_dir/removeBlindnessDeafness#_remove-blindness-deafness), _or _ [remove disease](../../spells_dir/removeDisease#_remove-disease)._ |
 | _Bead of karma_ | Wearer casts his spells at +4 caster level. Effect lasts 10 minutes. |
-| _Bead of smiting_ | Wearer can cast _ [chaos hammer](../spells_dir/chaosHammer#_chaos-hammer), [holy smite](../spells_dir/holySmite#_holy-smite), [order's wrath](../spells_dir/orderSWrath#_order-s-wrath), _or _ [unholy blight](../spells_dir/unholyBlight#_unholy-blight) _( [Will](../combat#_will) DC 17 partial). |
+| _Bead of smiting_ | Wearer can cast _ [chaos hammer](../../spells_dir/chaosHammer#_chaos-hammer), [holy smite](../../spells_dir/holySmite#_holy-smite), [order's wrath](../../spells_dir/orderSWrath#_order-s-wrath), _or _ [unholy blight](../../spells_dir/unholyBlight#_unholy-blight) _( [Will](../../combat#_will) DC 17 partial). |
 | _Bead of summons_ | Summons a powerful creature of appropriate alignment from the Outer Planes (an angel, devil, etc.) to aid the wearer for 1 day. (If the wearer uses the _bead of summons _to summon a deity's emissary frivolously, the deity takes that character's items and places a _geas _upon him as punishment at the very least.) |
-| _Bead of wind walking_ | Wearer can cast _ [wind walk](../spells_dir/windWalk#_wind-walk)._ |
+| _Bead of wind walking_ | Wearer can cast _ [wind walk](../../spells_dir/windWalk#_wind-walk)._ |
 
 A _lesser strand of prayer beads_ has a _bead of blessing_ and a _bead of healing_. A _strand of prayer beads_ has a _bead of healing_, a _bead of karma,_ and a _bead of smiting_. A _greater strand of prayer beads_ has a _bead of healing_, a _bead of karma_, a _bead of summons_, and a _bead of wind walking_.
 
@@ -3091,7 +3091,7 @@ The power of a special bead is lost if it is removed from the strand. Reduce the
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item) and one of the following spells per bead, as appropriate:_ [bless](../spells_dir/bless#_bless) (blessing);_ _ [cure serious wounds](../spells_dir/cureSeriousWounds#_cure-serious-wounds), [remove blindness_dir/ deafness](../spells_dir/removeBlindnessDeafness#_remove-blindness-deafness), _or_ [remove disease](../spells_dir/removeDisease#_remove-disease) (healing); [righteous might](../spells_dir/righteousMight#_righteous-might) (karma); [gate](../spells_dir/gate#_gate) (summons); [chaos hammer](../spells_dir/chaosHammer#_chaos-hammer), [holy smite](../spells_dir/holySmite#_holy-smite), [order's wrath](../spells_dir/orderSWrath#_order-s-wrath),_ or_ [unholy blight](../spells_dir/unholyBlight#_unholy-blight) (smiting), [wind walk](../spells_dir/windWalk#_wind-walk) (wind walking);_ **Cost** 4,800 gp (lesser), 22,900 gp (standard), 47,900 gp (greater)
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item) and one of the following spells per bead, as appropriate:_ [bless](../../spells_dir/bless#_bless) (blessing);_ _ [cure serious wounds](../../spells_dir/cureSeriousWounds#_cure-serious-wounds), [remove blindness_dir/ deafness](../../spells_dir/removeBlindnessDeafness#_remove-blindness-deafness), _or_ [remove disease](../../spells_dir/removeDisease#_remove-disease) (healing); [righteous might](../../spells_dir/righteousMight#_righteous-might) (karma); [gate](../../spells_dir/gate#_gate) (summons); [chaos hammer](../../spells_dir/chaosHammer#_chaos-hammer), [holy smite](../../spells_dir/holySmite#_holy-smite), [order's wrath](../../spells_dir/orderSWrath#_order-s-wrath),_ or_ [unholy blight](../../spells_dir/unholyBlight#_unholy-blight) (smiting), [wind walk](../../spells_dir/windWalk#_wind-walk) (wind walking);_ **Cost** 4,800 gp (lesser), 22,900 gp (standard), 47,900 gp (greater)
 
 **Sustaining Spoon**
 
@@ -3105,49 +3105,49 @@ If this unremarkable appearing utensil is placed in an empty container, the vess
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item), _ [create food and water](../spells_dir/createFoodAndWater#_create-food-and-water);_ **Cost** 2,700 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [create food and water](../../spells_dir/createFoodAndWater#_create-food-and-water);_ **Cost** 2,700 gp
 
 **Tome of Clear Thought**
 
-**Aura** strong evocation (if _ [miracle](../spells_dir/miracle#_miracle)_ is used); **CL** 17th
+**Aura** strong evocation (if _ [miracle](../../spells_dir/miracle#_miracle)_ is used); **CL** 17th
 
 **Slot** none; **Price** 27,500 gp (+1), 55,000 gp (+2), 82,500 gp (+3), 110,000 gp (+4), 137,500 gp (+5); **Weight** 5 lbs.
 
 **Description**
 
-This heavy book contains instruction on improving memory and logic, but entwined within the words is a powerful magical effect. If anyone reads this book, which takes a total of 48 hours over a minimum of 6 days, she gains an inherent bonus from +1 to +5 (depending on the type of tome) to her [Intelligence](../gettingStarted#_intelligence) score. Once the book is read, the magic disappears from the pages and it becomes a normal book.
+This heavy book contains instruction on improving memory and logic, but entwined within the words is a powerful magical effect. If anyone reads this book, which takes a total of 48 hours over a minimum of 6 days, she gains an inherent bonus from +1 to +5 (depending on the type of tome) to her [Intelligence](../../gettingStarted#_intelligence) score. Once the book is read, the magic disappears from the pages and it becomes a normal book.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item),_ [miracle](../spells_dir/miracle#_miracle) _or_ [wish](../spells_dir/wish#_wish); _ **Cost** 26,250 gp (+1), 52,500 gp (+2), 78,750 gp (+3), 105,000 gp (+4), 131,250 gp (+5)
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item),_ [miracle](../../spells_dir/miracle#_miracle) _or_ [wish](../../spells_dir/wish#_wish); _ **Cost** 26,250 gp (+1), 52,500 gp (+2), 78,750 gp (+3), 105,000 gp (+4), 131,250 gp (+5)
 
 **Tome of Leadership and Influence**
 
-**Aura** strong evocation (if _ [miracle](../spells_dir/miracle#_miracle)_ is used); **CL** 17th
+**Aura** strong evocation (if _ [miracle](../../spells_dir/miracle#_miracle)_ is used); **CL** 17th
 
 **Slot** none; **Price** 27,500 gp (+1), 55,000 gp (+2), 82,500 gp (+3), 110,000 gp (+4), 137,500 gp (+5); **Weight** 5 lbs.
 
 **Description**
 
-This ponderous book details suggestions for persuading and inspiring others, but entwined within the words is a powerful magical effect. If anyone reads this book, which takes a total of 48 hours over a minimum of 6 days, he gains an inherent bonus from +1 to +5 (depending on the type of tome) to his [Charisma](../gettingStarted#_charisma-new) score. Once the book is read, the magic disappears from the pages and it becomes a normal book.
+This ponderous book details suggestions for persuading and inspiring others, but entwined within the words is a powerful magical effect. If anyone reads this book, which takes a total of 48 hours over a minimum of 6 days, he gains an inherent bonus from +1 to +5 (depending on the type of tome) to his [Charisma](../../gettingStarted#_charisma-new) score. Once the book is read, the magic disappears from the pages and it becomes a normal book.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item),_ [miracle](../spells_dir/miracle#_miracle)_ or_ [wish](../spells_dir/wish#_wish); _ **Cost** 26,250 gp (+1), 52,500 gp (+2), 78,750 gp (+3), 105,000 gp (+4), 131,250 gp (+5)
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item),_ [miracle](../../spells_dir/miracle#_miracle)_ or_ [wish](../../spells_dir/wish#_wish); _ **Cost** 26,250 gp (+1), 52,500 gp (+2), 78,750 gp (+3), 105,000 gp (+4), 131,250 gp (+5)
 
 **Tome of Understanding**
 
-**Aura** strong evocation (if _ [miracle](../spells_dir/miracle#_miracle) _is used); **CL** 17th
+**Aura** strong evocation (if _ [miracle](../../spells_dir/miracle#_miracle) _is used); **CL** 17th
 
 **Slot** none; **Price** 27,500 gp (+1), 55,000 gp (+2), 82,500 gp (+3), 110,000 gp (+4), 137,500 gp (+5); **Weight** 5 lbs.
 
 **Description**
 
-This thick book contains tips for improving instinct and perception, but entwined within the words is a powerful magical effect. If anyone reads this book, which takes a total of 48 hours over a minimum of 6 days, she gains an inherent bonus from +1 to +5 (depending on the type of tome) to her [Wisdom](../gettingStarted#_wisdom) score. Once the book is read, the magic disappears from the pages and it becomes a normal book.
+This thick book contains tips for improving instinct and perception, but entwined within the words is a powerful magical effect. If anyone reads this book, which takes a total of 48 hours over a minimum of 6 days, she gains an inherent bonus from +1 to +5 (depending on the type of tome) to her [Wisdom](../../gettingStarted#_wisdom) score. Once the book is read, the magic disappears from the pages and it becomes a normal book.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item), _ [miracle](../spells_dir/miracle#_miracle) or [wish](../spells_dir/wish#_wish); _ **Cost** 26,250 gp (+1), 52,500 gp (+2), 78,750 gp (+3), 105,000 gp (+4), 131,250 gp (+5)
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [miracle](../../spells_dir/miracle#_miracle) or [wish](../../spells_dir/wish#_wish); _ **Cost** 26,250 gp (+1), 52,500 gp (+2), 78,750 gp (+3), 105,000 gp (+4), 131,250 gp (+5)
 
 **Unguent of Timelessness**
 
@@ -3161,7 +3161,7 @@ When applied to any matter that was once alive, such as wood, paper, or a dead b
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item), _ [gentle repose](../spells_dir/gentleRepose#_gentle-repose)_; **Cost** 75 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [gentle repose](../../spells_dir/gentleRepose#_gentle-repose)_; **Cost** 75 gp
 
 **Universal Solvent**
 
@@ -3175,7 +3175,7 @@ This substance has the unique property of being able to dissolve _sovereign glue
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item),_ [acid arrow](../spells_dir/acidArrow#_acid-arrow);_ **Cost** 25 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item),_ [acid arrow](../../spells_dir/acidArrow#_acid-arrow);_ **Cost** 25 gp
 
 **Vest of Escape**
 
@@ -3189,7 +3189,7 @@ Hidden within secret pockets of this simple silk vest are magic lockpicks that p
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item),_ [knock](../spells_dir/keenEdge#_keen-edge), [grease](../spells_dir/grease#_grease);_ **Cost** 2,600 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item),_ [knock](../../spells_dir/keenEdge#_keen-edge), [grease](../../spells_dir/grease#_grease);_ **Cost** 2,600 gp
 
 **Vestment, Druid's**
 
@@ -3203,7 +3203,7 @@ This light garment is worn over normal clothing or armor. Most such vestments ar
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item),_ [polymorph](../spells_dir/polymorph#_polymorph) _or wild shape ability; **Cost** 1,375 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item),_ [polymorph](../../spells_dir/polymorph#_polymorph) _or wild shape ability; **Cost** 1,375 gp
 
 **Well of Many Worlds**
 
@@ -3217,7 +3217,7 @@ This strange, interdimensional device looks just like a _portable hole_. Anythin
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item),_ [gate](../spells_dir/gate#_gate);_ **Cost** 41,000 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item),_ [gate](../../spells_dir/gate#_gate);_ **Cost** 41,000 gp
 
 **Wind Fan**
 
@@ -3227,11 +3227,11 @@ This strange, interdimensional device looks just like a _portable hole_. Anythin
 
 **Description**
 
-A _wind fan_ appears to be nothing more than a wood and papyrus or cloth instrument with which to create a cooling breeze. By uttering the command word, its possessor causes the fan to duplicate a _ [gust of wind](../spells_dir/gustOfWind#_gust-of-wind)_ spell. The fan can be used once per day with no risk. If it is used more frequently, there is a 20% cumulative chance per usage during that day that the device tears into useless, nonmagical tatters.
+A _wind fan_ appears to be nothing more than a wood and papyrus or cloth instrument with which to create a cooling breeze. By uttering the command word, its possessor causes the fan to duplicate a _ [gust of wind](../../spells_dir/gustOfWind#_gust-of-wind)_ spell. The fan can be used once per day with no risk. If it is used more frequently, there is a 20% cumulative chance per usage during that day that the device tears into useless, nonmagical tatters.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item),_ [gust of wind](../spells_dir/gustOfWind#_gust-of-wind);_ **Cost** 2,750 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item),_ [gust of wind](../../spells_dir/gustOfWind#_gust-of-wind);_ **Cost** 2,750 gp
 
 **Wings of Flying**
 
@@ -3241,9 +3241,9 @@ A _wind fan_ appears to be nothing more than a wood and papyrus or cloth instrum
 
 **Description**
 
-A pair of these wings might appear to be nothing more than a plain cloak of old, black cloth, or they could be as elegant as a long cape of blue feathers. When the wearer speaks the command word, the cloak turns into a pair of bat or bird wings that empower her to fly with a speed of 60 feet (average maneuverability), also granting a +5 competence bonus on [Fly](../skills_dir/fly#_fly) skill checks.
+A pair of these wings might appear to be nothing more than a plain cloak of old, black cloth, or they could be as elegant as a long cape of blue feathers. When the wearer speaks the command word, the cloak turns into a pair of bat or bird wings that empower her to fly with a speed of 60 feet (average maneuverability), also granting a +5 competence bonus on [Fly](../../skills_dir/fly#_fly) skill checks.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item),_ fly;_ **Cost** 27,000 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item),_ fly;_ **Cost** 27,000 gp
 

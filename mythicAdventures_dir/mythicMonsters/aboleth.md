@@ -10,9 +10,9 @@ Mythic Aboleth CR 9_dir/MR 3
 
 XP 6,400
 
-LE Huge aberration ( [aquatic](monsters_dir/creatureTypes#_aquatic-subtype), [mythic](mythicAdventures_dir/mythicMonsters#_mythic-subtype))
+LE Huge aberration ( [aquatic](../monsters_dir/creatureTypes#_aquatic-subtype), [mythic](../mythicAdventures_dir/mythicMonsters#_mythic-subtype))
 
-**Init** +8M; **Senses** darkvision 60 ft.; [Perception](skills_dir/perception#_perception) +15
+**Init** +8M; **Senses** darkvision 60 ft.; [Perception](../skills_dir/perception#_perception) +15
 
 **Aura** mucus cloud (5 feet)
 
@@ -38,9 +38,9 @@ Offense
 
 **Spell-Like Abilities** (CL 16th; concentration +20)
 
-At will—_ [hypnotic pattern](spells_dir/hypnoticPattern#_hypnotic-pattern)_ (DC 16), _ [illusory wall](spells_dir/illusoryWall#_illusory-wall)_ (DC 18), _ [mirage arcana](spells_dir/mirageArcana#_mirage-arcana)_ (DC 19), _ [persistent image](spells_dir/persistentImage#_persistent-image)_ (DC 19), _ [programmed image](spells_dir/programmedImage#_programmed-image)_ (DC 20), _ [project image](spells_dir/projectImage#_project-image)_ (DC 21), _ [veil](spells_dir/veil#_veil)_ (DC 20)
+At will—_ [hypnotic pattern](../spells_dir/hypnoticPattern#_hypnotic-pattern)_ (DC 16), _ [illusory wall](../spells_dir/illusoryWall#_illusory-wall)_ (DC 18), _ [mirage arcana](../spells_dir/mirageArcana#_mirage-arcana)_ (DC 19), _ [persistent image](../spells_dir/persistentImage#_persistent-image)_ (DC 19), _ [programmed image](../spells_dir/programmedImage#_programmed-image)_ (DC 20), _ [project image](../spells_dir/projectImage#_project-image)_ (DC 21), _ [veil](../spells_dir/veil#_veil)_ (DC 20)
 
-3_dir/day—_ [dominate monster](spells_dir/dominateMonster#_dominate-monster)_ (DC 23)
+3_dir/day—_ [dominate monster](../spells_dir/dominateMonster#_dominate-monster)_ (DC 23)
 
 Statistics
 
@@ -48,9 +48,9 @@ Statistics
 
 **Base Atk** +6; **CMB** +13; **CMD** 24
 
-**Feats** [Combat Casting](feats#_combat-casting), [Improved Initiative](mythicAdventures_dir/mythicFeats#_improved-initiative-mythic)M, [Iron Will](mythicAdventures_dir/mythicFeats#_iron-will-mythic)M, [Lightning Reflexes](feats#_lightning-reflexes), [Weapon Focus](feats#_weapon-focus) (tentacle)
+**Feats** [Combat Casting](../feats#_combat-casting), [Improved Initiative](../mythicAdventures_dir/mythicFeats#_improved-initiative-mythic)M, [Iron Will](../mythicAdventures_dir/mythicFeats#_iron-will-mythic)M, [Lightning Reflexes](../feats#_lightning-reflexes), [Weapon Focus](../feats#_weapon-focus) (tentacle)
 
-**Skills** [Bluff](skills_dir/bluff#_bluff) +13, [Intimidate](skills_dir/intimidate#_intimidate) +16, [Knowledge](skills_dir/knowledge#_knowledge) (any one) +14, [Perception](skills_dir/perception#_perception) +15, [Spellcraft](skills_dir/spellcraft#_spellcraft) +14, [Swim](skills_dir/swim#_swim) +25
+**Skills** [Bluff](../skills_dir/bluff#_bluff) +13, [Intimidate](../skills_dir/intimidate#_intimidate) +16, [Knowledge](../skills_dir/knowledge#_knowledge) (any one) +14, [Perception](../skills_dir/perception#_perception) +15, [Spellcraft](../skills_dir/spellcraft#_spellcraft) +14, [Swim](../skills_dir/swim#_swim) +25
 
 **Languages** Aboleth, Aklo, Aquan, Undercommon
 
@@ -66,11 +66,11 @@ Ecology
 
 Special Abilities
 
-**Mucus Cloud (Ex)** While underwater, an aboleth exudes a cloud of transparent slime. All creatures adjacent to an aboleth must succeed at a DC 20 Fortitude save each round or lose the ability to breathe [air](monsters_dir/creatureTypes#_air-subtype) (but gain the ability to breathe water) for 3 hours. Renewed contact with an aboleth's mucus cloud and failing another save extends the effect for another 3 hours. The save DC is Constitution-based.
+**Mucus Cloud (Ex)** While underwater, an aboleth exudes a cloud of transparent slime. All creatures adjacent to an aboleth must succeed at a DC 20 Fortitude save each round or lose the ability to breathe [air](../monsters_dir/creatureTypes#_air-subtype) (but gain the ability to breathe water) for 3 hours. Renewed contact with an aboleth's mucus cloud and failing another save extends the effect for another 3 hours. The save DC is Constitution-based.
 
-**Mucus Mist (Ex)** When exposed to the air, a mythic aboleth can release its mucus as a fine mist. This obscures vision like _ [obscuring mist](spells_dir/obscuringMist#_obscuring-mist)_ and has the same properties as its mucus cloud. Creatures that breathe water are able to breathe normally while within the cloud. The mist moves with the aboleth.
+**Mucus Mist (Ex)** When exposed to the air, a mythic aboleth can release its mucus as a fine mist. This obscures vision like _ [obscuring mist](../spells_dir/obscuringMist#_obscuring-mist)_ and has the same properties as its mucus cloud. Creatures that breathe water are able to breathe normally while within the cloud. The mist moves with the aboleth.
 
-**Slime (Ex)** A creature hit by an aboleth's tentacle must succeed at a DC 20 Fortitude save or its skin and flesh transform into a clear, slimy membrane over the course of 1d4 rounds. The creature's new "flesh" is soft and tender, reducing its Constitution score by 4 as long as the transformation persists. If the creature's flesh isn't kept moist, it dries quickly and the victim takes 1d12 points of damage every 10 minutes. _ [Remove disease](spells_dir/removeDisease#_remove-disease)_ and similar effects can restore an afflicted creature to normal, but [immunity](monsters_dir/universalMonsterRules#_immunity) to [disease](monsters_dir/universalMonsterRules#_disease) offers no protection from this attack. The save DC is Constitution-based.
+**Slime (Ex)** A creature hit by an aboleth's tentacle must succeed at a DC 20 Fortitude save or its skin and flesh transform into a clear, slimy membrane over the course of 1d4 rounds. The creature's new "flesh" is soft and tender, reducing its Constitution score by 4 as long as the transformation persists. If the creature's flesh isn't kept moist, it dries quickly and the victim takes 1d12 points of damage every 10 minutes. _ [Remove disease](../spells_dir/removeDisease#_remove-disease)_ and similar effects can restore an afflicted creature to normal, but [immunity](../monsters_dir/universalMonsterRules#_immunity) to [disease](../monsters_dir/universalMonsterRules#_disease) offers no protection from this attack. The save DC is Constitution-based.
 
 **Slime Armor (Ex)** A mythic aboleth can spend 1 minute to create an armorlike carapace from hardened slime. This gives it a +4 armor bonus, reduces its swim speed to 30 feet, and increases its land speed to 30 feet. The aboleth can dissolve the armor as a full-round action.
 

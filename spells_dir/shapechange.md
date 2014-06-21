@@ -16,5 +16,5 @@ title: spells_dir/shapechange
 
 **Duration** 10 min._dir/level (D)
 
-This spell allows you to take the form of a wide variety of creatures. This spell can function as _ [alter self](alterSelf#_alter-self), [beast shape IV](spells_dir/beastShape#_beast-shape-iv), [elemental body IV](elementalBody#_elemental-body-iv), [form of the dragon III](formOfTheDragon#_form-of-the-dragon-iii), [giant form II](giantForm#_giant-form-ii), _and _ [plant shape III](plantShape#_plant-shape-iii)_ depending on what form you take. You can change form once each round as a free action. The change takes place either immediately before your regular action or immediately after it, but not during the action.
+This spell allows you to take the form of a wide variety of creatures. This spell can function as _ [alter self](../alterSelf#_alter-self), [beast shape IV](../spells_dir/beastShape#_beast-shape-iv), [elemental body IV](../elementalBody#_elemental-body-iv), [form of the dragon III](../formOfTheDragon#_form-of-the-dragon-iii), [giant form II](../giantForm#_giant-form-ii), _and _ [plant shape III](../plantShape#_plant-shape-iii)_ depending on what form you take. You can change form once each round as a free action. The change takes place either immediately before your regular action or immediately after it, but not during the action.
 

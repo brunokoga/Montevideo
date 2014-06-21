@@ -14,7 +14,7 @@ Human aristocrat 8
 
 N Medium humanoid
 
-**Init** +3; **Senses** [Perception](../../skills_dir/perception#_perception) +8
+**Init** +3; **Senses** [Perception](../../../skills_dir/perception#_perception) +8
 
 **Defense**
 
@@ -38,15 +38,15 @@ N Medium humanoid
 
 **Base Atk** +6; **CMB** +5; **CMD** 19
 
-**Feats** [Dodge](../../feats#_dodge), [Mobility](../../feats#_mobility), [Two-Weapon Defense](../../feats#_two-weapon-defense), [Two-Weapon Fighting](../../feats#_two-weapon-fighting), [Weapon Finesse](../../feats#_weapon-finesse)
+**Feats** [Dodge](../../../feats#_dodge), [Mobility](../../../feats#_mobility), [Two-Weapon Defense](../../../feats#_two-weapon-defense), [Two-Weapon Fighting](../../../feats#_two-weapon-fighting), [Weapon Finesse](../../../feats#_weapon-finesse)
 
-**Skills** [Bluff](../../skills_dir/bluff#_bluff) +13, [Diplomacy](../../skills_dir/diplomacy#_diplomacy) +13, [Disguise](../../skills_dir/disguise#_disguise) +13, [Escape Artist](../../skills_dir/escapeArtist#_escape-artist) +4, [Handle Animal](../../skills_dir/handleAnimal#_handle-animal) +8, [Intimidate](../../skills_dir/intimidate#_intimidate) +13, [Knowledge](../../skills_dir/knowledge#_knowledge) (nobility) +10, [Perception](../../skills_dir/perception#_perception) +8, [Perform](../../skills_dir/perform#_perform) (dance) +10, [Perform](../../skills_dir/perform#_perform) (string) +10, [Ride](../../skills_dir/ride#_ride) +8, [Sense Motive](../../skills_dir/senseMotive#_sense-motive) +5, [Sleight of Hand](../../skills_dir/sleightOfHand#_sleight-of-hand) +4, [Stealth](../../skills_dir/stealth#_stealth) +4
+**Skills** [Bluff](../../../skills_dir/bluff#_bluff) +13, [Diplomacy](../../../skills_dir/diplomacy#_diplomacy) +13, [Disguise](../../../skills_dir/disguise#_disguise) +13, [Escape Artist](../../../skills_dir/escapeArtist#_escape-artist) +4, [Handle Animal](../../../skills_dir/handleAnimal#_handle-animal) +8, [Intimidate](../../../skills_dir/intimidate#_intimidate) +13, [Knowledge](../../../skills_dir/knowledge#_knowledge) (nobility) +10, [Perception](../../../skills_dir/perception#_perception) +8, [Perform](../../../skills_dir/perform#_perform) (dance) +10, [Perform](../../../skills_dir/perform#_perform) (string) +10, [Ride](../../../skills_dir/ride#_ride) +8, [Sense Motive](../../../skills_dir/senseMotive#_sense-motive) +5, [Sleight of Hand](../../../skills_dir/sleightOfHand#_sleight-of-hand) +4, [Stealth](../../../skills_dir/stealth#_stealth) +4
 
 **Languages** Common, Elven
 
-**Gear** _+1 chain shirt_, masterwork rapier, masterwork dagger, _ [circlet of persuasion](../../magicItems_dir/wondrousItems#_circlet-of-persuasion)_, _ [cloak of resistance](../../magicItems_dir/wondrousItems#_cloak-of-resistance) +1_, disguise kit
+**Gear** _+1 chain shirt_, masterwork rapier, masterwork dagger, _ [circlet of persuasion](../../../magicItems_dir/wondrousItems#_circlet-of-persuasion)_, _ [cloak of resistance](../../../magicItems_dir/wondrousItems#_cloak-of-resistance) +1_, disguise kit
 
-**Boon** A princess can make a gift to PCs of up to a 300 gp value or get PCs out of minor legal trouble. A princess can also arrange a meeting with her royal parent, a knight, a noble, a minstrel or celebrity bard, or a merchant prince whose favor she has, with a +5 circumstance bonus on [Diplomacy](../../skills_dir/diplomacy#_diplomacy) checks with them.
+**Boon** A princess can make a gift to PCs of up to a 300 gp value or get PCs out of minor legal trouble. A princess can also arrange a meeting with her royal parent, a knight, a noble, a minstrel or celebrity bard, or a merchant prince whose favor she has, with a +5 circumstance bonus on [Diplomacy](../../../skills_dir/diplomacy#_diplomacy) checks with them.
 
 A princess is occasionally a ruler in her own right but is most often the daughter of a king and_dir/or queen. In many societies, princesses come behind any princely brothers in the line of succession, and may even be treated like a commodity to be brokered between noble houses through marriage alliances. Small wonder, then, that princesses often find ways of sneaking away from their gilded homes and out into the world to find a taste of adventure.
 
@@ -62,7 +62,7 @@ Human aristocrat 12
 
 N Medium humanoid
 
-**Init** +5; **Senses** [Perception](../../skills_dir/perception#_perception) +19
+**Init** +5; **Senses** [Perception](../../../skills_dir/perception#_perception) +19
 
 **Defense**
 
@@ -86,15 +86,15 @@ N Medium humanoid
 
 **Base Atk** +9; **CMB** +8; **CMD** 22
 
-**Feats** [Alertness](../../feats#_alertness), [Defensive Combat Training](../../feats#_defensive-combat-training), [Improved Initiative](../../feats#_improved-initiative), [Improved Iron Will](../../feats#_improved-iron-will), [Iron Will](../../feats#_iron-will), [Persuasive](../../feats#_persuasive), [Skill Focus](../../feats#_skill-focus) ( [Sense Motive](../../skills_dir/senseMotive#_sense-motive))
+**Feats** [Alertness](../../../feats#_alertness), [Defensive Combat Training](../../../feats#_defensive-combat-training), [Improved Initiative](../../../feats#_improved-initiative), [Improved Iron Will](../../../feats#_improved-iron-will), [Iron Will](../../../feats#_iron-will), [Persuasive](../../../feats#_persuasive), [Skill Focus](../../../feats#_skill-focus) ( [Sense Motive](../../../skills_dir/senseMotive#_sense-motive))
 
-**Skills** [Bluff](../../skills_dir/bluff#_bluff) +14, [Diplomacy](../../skills_dir/diplomacy#_diplomacy) +22, [Intimidate](../../skills_dir/intimidate#_intimidate) +22, [Knowledge](../../skills_dir/knowledge#_knowledge) (history) +10, [Knowledge](../../skills_dir/knowledge#_knowledge) (nobility) +16, [Linguistics](../../skills_dir/linguistics#_linguistics) +5, [Perception](../../skills_dir/perception#_perception) +19, [Perform](../../skills_dir/perform#_perform) (dance) +9, [Perform](../../skills_dir/perform#_perform) (sing) +9, [Perform](../../skills_dir/perform#_perform) (string) +9, [Ride](../../skills_dir/ride#_ride) +6, [Sense Motive](../../skills_dir/senseMotive#_sense-motive) +27
+**Skills** [Bluff](../../../skills_dir/bluff#_bluff) +14, [Diplomacy](../../../skills_dir/diplomacy#_diplomacy) +22, [Intimidate](../../../skills_dir/intimidate#_intimidate) +22, [Knowledge](../../../skills_dir/knowledge#_knowledge) (history) +10, [Knowledge](../../../skills_dir/knowledge#_knowledge) (nobility) +16, [Linguistics](../../../skills_dir/linguistics#_linguistics) +5, [Perception](../../../skills_dir/perception#_perception) +19, [Perform](../../../skills_dir/perform#_perform) (dance) +9, [Perform](../../../skills_dir/perform#_perform) (sing) +9, [Perform](../../../skills_dir/perform#_perform) (string) +9, [Ride](../../../skills_dir/ride#_ride) +6, [Sense Motive](../../../skills_dir/senseMotive#_sense-motive) +27
 
 **Languages** Common, Draconic, Elven
 
-**Gear** masterwork dagger, _ [bracers of armor](../../magicItems_dir/wondrousItems#_bracers-of-armor) +1_, _ [brooch of shielding](../../magicItems_dir/wondrousItems#_brooch-of-shielding)_, _ [cloak of resistance](../../magicItems_dir/wondrousItems#_cloak-of-resistance) +2_,_ [elixir of truth](../../magicItems_dir/wondrousItems#_elixir-of-truth)_, _ [elixir of vision](../../magicItems_dir/wondrousItems#_elixir-of-vision)_, _ [figurine of wondrous power](../../magicItems_dir/wondrousItems#_figurines-of-wondrous-power)_ (silver raven), _ [headband of mental prowess](../../magicItems_dir/wondrousItems#_headband-of-mental-prowess) +2 _(Wis, Cha)
+**Gear** masterwork dagger, _ [bracers of armor](../../../magicItems_dir/wondrousItems#_bracers-of-armor) +1_, _ [brooch of shielding](../../../magicItems_dir/wondrousItems#_brooch-of-shielding)_, _ [cloak of resistance](../../../magicItems_dir/wondrousItems#_cloak-of-resistance) +2_,_ [elixir of truth](../../../magicItems_dir/wondrousItems#_elixir-of-truth)_, _ [elixir of vision](../../../magicItems_dir/wondrousItems#_elixir-of-vision)_, _ [figurine of wondrous power](../../../magicItems_dir/wondrousItems#_figurines-of-wondrous-power)_ (silver raven), _ [headband of mental prowess](../../../magicItems_dir/wondrousItems#_headband-of-mental-prowess) +2 _(Wis, Cha)
 
-**Boon** A queen can arrange an audience with any noble in her land, including the king, and her favor provides a +10 bonus on [Diplomacy](../../skills_dir/diplomacy#_diplomacy) checks with them. A queen who rules in her own name can also grant knighthoods, lordships, and dispense royal justice as a king.
+**Boon** A queen can arrange an audience with any noble in her land, including the king, and her favor provides a +10 bonus on [Diplomacy](../../../skills_dir/diplomacy#_diplomacy) checks with them. A queen who rules in her own name can also grant knighthoods, lordships, and dispense royal justice as a king.
 
 A queen may be a monarch in her own right, or may be the wife of a king. Even in the latter case, she shares many of the duties of rulership, including managing affairs of state while the king is absent. A queen is generally wise and thoughtful, carefully considering the health of her nation as well as her royal house.
 
@@ -110,7 +110,7 @@ Human aristocrat 16
 
 N Medium humanoid
 
-**Init** +0; **Senses** [Perception](../../skills_dir/perception#_perception) +13
+**Init** +0; **Senses** [Perception](../../../skills_dir/perception#_perception) +13
 
 **Defense**
 
@@ -134,13 +134,13 @@ N Medium humanoid
 
 **Base Atk** +12; **CMB** +13; **CMD** 27
 
-**Feats** [Alertness](../../feats#_alertness), [Defensive Combat Training](../../feats#_defensive-combat-training), [Great Fortitude](../../feats#_great-fortitude), [Improved Great Fortitude](../../feats#_improved-great-fortitude), [Improved Vital Strike](../../feats#_improved-vital-strike), [Mounted Combat](../../feats#_mounted-combat), [Persuasive](../../feats#_persuasive), [Skill Focus](../../feats#_skill-focus) ( [Diplomacy](../../skills_dir/diplomacy#_diplomacy)), [Vital Strike](../../feats#_vital-strike)
+**Feats** [Alertness](../../../feats#_alertness), [Defensive Combat Training](../../../feats#_defensive-combat-training), [Great Fortitude](../../../feats#_great-fortitude), [Improved Great Fortitude](../../../feats#_improved-great-fortitude), [Improved Vital Strike](../../../feats#_improved-vital-strike), [Mounted Combat](../../../feats#_mounted-combat), [Persuasive](../../../feats#_persuasive), [Skill Focus](../../../feats#_skill-focus) ( [Diplomacy](../../../skills_dir/diplomacy#_diplomacy)), [Vital Strike](../../../feats#_vital-strike)
 
-**Skills** [Bluff](../../skills_dir/bluff#_bluff) +15, [Diplomacy](../../skills_dir/diplomacy#_diplomacy) +32, [Intimidate](../../skills_dir/intimidate#_intimidate) +26, [Knowledge](../../skills_dir/knowledge#_knowledge) (geography) +10, [Knowledge](../../skills_dir/knowledge#_knowledge) (local) +10, [Knowledge](../../skills_dir/knowledge#_knowledge) (nobility) +15, [Linguistics](../../skills_dir/linguistics#_linguistics) +8, [Perception](../../skills_dir/perception#_perception) +13, [Perform](../../skills_dir/perform#_perform) (oratory) +22, [Ride](../../skills_dir/ride#_ride) +14, [Sense Motive](../../skills_dir/senseMotive#_sense-motive) +23
+**Skills** [Bluff](../../../skills_dir/bluff#_bluff) +15, [Diplomacy](../../../skills_dir/diplomacy#_diplomacy) +32, [Intimidate](../../../skills_dir/intimidate#_intimidate) +26, [Knowledge](../../../skills_dir/knowledge#_knowledge) (geography) +10, [Knowledge](../../../skills_dir/knowledge#_knowledge) (local) +10, [Knowledge](../../../skills_dir/knowledge#_knowledge) (nobility) +15, [Linguistics](../../../skills_dir/linguistics#_linguistics) +8, [Perception](../../../skills_dir/perception#_perception) +13, [Perform](../../../skills_dir/perform#_perform) (oratory) +22, [Ride](../../../skills_dir/ride#_ride) +14, [Sense Motive](../../../skills_dir/senseMotive#_sense-motive) +23
 
 **Languages** Common, Dwarven, Elven, Gnome, Halfling, Sylvan
 
-**Combat Gear** smokestick; **Other Gear** _+1 [glamered](../../magicItems_dir/armor#_armor-glamered) full plate of [light](../../spells_dir/light#_light) [fortification](../../magicItems_dir/armor#_armor-fortification)_, _+1 longsword_, masterwork dagger, _ [cape of the mountebank](../../magicItems_dir/wondrousItems#_cape-of-the-mountebank)_, _ [medallion of thoughts](../../magicItems_dir/wondrousItems#_medallion-of-thoughts)_, _ [rod of splendor](../../magicItems_dir/rods#_rod-of-splendor)_
+**Combat Gear** smokestick; **Other Gear** _+1 [glamered](../../../magicItems_dir/armor#_armor-glamered) full plate of [light](../../../spells_dir/light#_light) [fortification](../../../magicItems_dir/armor#_armor-fortification)_, _+1 longsword_, masterwork dagger, _ [cape of the mountebank](../../../magicItems_dir/wondrousItems#_cape-of-the-mountebank)_, _ [medallion of thoughts](../../../magicItems_dir/wondrousItems#_medallion-of-thoughts)_, _ [rod of splendor](../../../magicItems_dir/rods#_rod-of-splendor)_
 
 **Boon** A king can grant knighthood or even lordship, along with lands and titles, if sufficient service is rendered to the kingdom. A king may also pardon criminals or order the exile or execution of the guilty. He can grant a monetary reward of up to 1,000 gp to PCs.
 

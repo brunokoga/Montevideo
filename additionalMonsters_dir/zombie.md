@@ -12,9 +12,9 @@ Human Juju ZombieCR 2
 
 Human juju zombie rogue 2
 
-NE Medium [undead](monsters_dir/creatureTypes#_undead) ( [augmented](monsters_dir/creatureTypes#_augmented-subtype) human)
+NE Medium [undead](../monsters_dir/creatureTypes#_undead) ( [augmented](../monsters_dir/creatureTypes#_augmented-subtype) human)
 
-**Init** +8; **Senses** darkvision 60 ft.; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +6
+**Init** +8; **Senses** darkvision 60 ft.; [Perception](../additionalMonsters_dir/../skills_dir/perception#_perception) +6
 
 Defense
 
@@ -24,8 +24,8 @@ Defense
 
 **Fort** +0, **Ref** +7, **Will** +1
 
-**Defensive Abilities** channel [resistance](monsters_dir/universalMonsterRules#_resistance) +4; evasion,   
-**DR** 5_dir/magic and slashing; **Immune** [cold](monsters_dir/creatureTypes#_cold-subtype), electricity, _ [magic missile](additionalMonsters_dir/../spells_dir/magicMissile#_magic-missile)_, [undead](monsters_dir/creatureTypes#_undead) traits; **Resist** [fire](monsters_dir/creatureTypes#_fire-subtype) 10
+**Defensive Abilities** channel [resistance](../monsters_dir/universalMonsterRules#_resistance) +4; evasion,   
+**DR** 5_dir/magic and slashing; **Immune** [cold](../monsters_dir/creatureTypes#_cold-subtype), electricity, _ [magic missile](../additionalMonsters_dir/../spells_dir/magicMissile#_magic-missile)_, [undead](../monsters_dir/creatureTypes#_undead) traits; **Resist** [fire](../monsters_dir/creatureTypes#_fire-subtype) 10
 
 Offense
 
@@ -41,9 +41,9 @@ Statistics
 
 **Base Atk** +1; **CMB** +5; **CMD** 19
 
-**Feats** [Dodge](additionalMonsters_dir/../feats#_dodge), [Improved Initiative](additionalMonsters_dir/../feats#_improved-initiative)B, [Toughness](additionalMonsters_dir/../feats#_toughness)B, [Weapon Finesse](additionalMonsters_dir/../feats#_weapon-finesse)
+**Feats** [Dodge](../additionalMonsters_dir/../feats#_dodge), [Improved Initiative](../additionalMonsters_dir/../feats#_improved-initiative)B, [Toughness](../additionalMonsters_dir/../feats#_toughness)B, [Weapon Finesse](../additionalMonsters_dir/../feats#_weapon-finesse)
 
-**Skills** [Acrobatics](additionalMonsters_dir/../skills_dir/acrobatics#_acrobatics) +8, [Climb](additionalMonsters_dir/../skills_dir/climb#_climb) +16, [Disable Device](additionalMonsters_dir/../skills_dir/disableDevice#_disable-device) +8, [Intimidate](additionalMonsters_dir/../skills_dir/intimidate#_intimidate) +5, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +6, [Sleight of Hand](additionalMonsters_dir/../skills_dir/sleightOfHand#_sleight-of-hand) +9, [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) +8, [Survival](additionalMonsters_dir/../skills_dir/survival#_survival) +3, [Swim](additionalMonsters_dir/../skills_dir/swim#_swim) +8, [Use Magic Device](additionalMonsters_dir/../skills_dir/useMagicDevice#_use-magic-device) +5; **Racial Modifiers** +8 [Climb](additionalMonsters_dir/../skills_dir/climb#_climb)
+**Skills** [Acrobatics](../additionalMonsters_dir/../skills_dir/acrobatics#_acrobatics) +8, [Climb](../additionalMonsters_dir/../skills_dir/climb#_climb) +16, [Disable Device](../additionalMonsters_dir/../skills_dir/disableDevice#_disable-device) +8, [Intimidate](../additionalMonsters_dir/../skills_dir/intimidate#_intimidate) +5, [Perception](../additionalMonsters_dir/../skills_dir/perception#_perception) +6, [Sleight of Hand](../additionalMonsters_dir/../skills_dir/sleightOfHand#_sleight-of-hand) +9, [Stealth](../additionalMonsters_dir/../skills_dir/stealth#_stealth) +8, [Survival](../additionalMonsters_dir/../skills_dir/survival#_survival) +3, [Swim](../additionalMonsters_dir/../skills_dir/swim#_swim) +8, [Use Magic Device](../additionalMonsters_dir/../skills_dir/useMagicDevice#_use-magic-device) +5; **Racial Modifiers** +8 [Climb](../additionalMonsters_dir/../skills_dir/climb#_climb)
 
 **Languages** Common
 
@@ -73,7 +73,7 @@ Creating a Juju Zombie
 
 **Hit Dice** : Change all the creature's racial Hit Dice to d8s. All Hit Dice derived from class levels remain unchanged. As undead, juju zombies use their Charisma modifiers to determine bonus hit points (instead of Constitution).
 
-**Defensive Abilities** : Juju zombies gain channel resistance +4, DR 5_dir/magic and slashing (or DR 10_dir/magic and slashing if it has 11 HD or more), and fire resistance 10. They are immune to cold, electricity, and _ [magic missile](additionalMonsters_dir/../spells_dir/magicMissile#_magic-missile)_.
+**Defensive Abilities** : Juju zombies gain channel resistance +4, DR 5_dir/magic and slashing (or DR 10_dir/magic and slashing if it has 11 HD or more), and fire resistance 10. They are immune to cold, electricity, and _ [magic missile](../additionalMonsters_dir/../spells_dir/magicMissile#_magic-missile)_.
 
 **Speed** : A winged juju zombie's maneuverability drops to clumsy. If the base creature flew magically, its fly speed is unchanged. Retain all other movement types.
 
@@ -81,7 +81,7 @@ Creating a Juju Zombie
 
 **Abilities** : Increase from the base creature as follows: Str +4, Dex +2. A juju zombie has no Con score; as an undead, it uses its Charisma in place of Constitution when calculating hit points, Fortitude saves, or any special ability that relies on Constitution.
 
-**Feats** : A juju zombie gains [Improved Initiative](additionalMonsters_dir/../feats#_improved-initiative) and [Toughness](additionalMonsters_dir/../feats#_toughness) as bonus feats.
+**Feats** : A juju zombie gains [Improved Initiative](../additionalMonsters_dir/../feats#_improved-initiative) and [Toughness](../additionalMonsters_dir/../feats#_toughness) as bonus feats.
 
-**Skills** : A juju zombie gains a +8 racial bonus on all [Climb](additionalMonsters_dir/../skills_dir/climb#_climb) checks.
+**Skills** : A juju zombie gains a +8 racial bonus on all [Climb](../additionalMonsters_dir/../skills_dir/climb#_climb) checks.
 

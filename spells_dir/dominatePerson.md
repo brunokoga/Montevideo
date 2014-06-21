@@ -16,7 +16,7 @@ title: spells_dir/dominatePerson
 
 **Duration** 1 day_dir/level
 
-**Saving Throw** [Will](../combat#_will) negates; **[Spell Resistance](../glossary#_spell-resistance)** yes
+**Saving Throw** [Will](../../combat#_will) negates; **[Spell Resistance](../../glossary#_spell-resistance)** yes
 
 You can control the actions of any humanoid creature through a telepathic link that you establish with the subject's mind.
 
@@ -32,5 +32,5 @@ Subjects resist this control, and any subject forced to take actions against its
 
 If you don't spend at least 1 round concentrating on the spell each day, the subject receives a new saving throw to throw off the domination.
 
-_ [Protection from evil](protectionFromEvil#_protection-from-evil) _or a similar spell can prevent you from exercising control or using the telepathic link while the subject is so warded, but such an effect does not automatically dispel it.
+_ [Protection from evil](../protectionFromEvil#_protection-from-evil) _or a similar spell can prevent you from exercising control or using the telepathic link while the subject is so warded, but such an effect does not automatically dispel it.
 

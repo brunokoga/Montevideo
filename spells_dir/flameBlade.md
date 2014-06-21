@@ -16,7 +16,7 @@ title: spells_dir/flameBlade
 
 **Duration** 1 min._dir/level (D)
 
-**Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** yes
+**Saving Throw** none; **[Spell Resistance](../../glossary#_spell-resistance)** yes
 
-A 3-foot-long, blazing beam of red-hot fire springs forth from your hand. You wield this blade-like beam as if it were a scimitar. Attacks with the _flame blade _are melee touch attacks. The blade deals 1d8 points of fire damage + 1 point per two caster levels (maximum +10). Since the blade is immaterial, your [Strength](../gettingStarted#_strength) modifier does not apply to the damage. A _flame blade _can ignite combustible materials such as parchment, straw, dry sticks, and cloth.
+A 3-foot-long, blazing beam of red-hot fire springs forth from your hand. You wield this blade-like beam as if it were a scimitar. Attacks with the _flame blade _are melee touch attacks. The blade deals 1d8 points of fire damage + 1 point per two caster levels (maximum +10). Since the blade is immaterial, your [Strength](../../gettingStarted#_strength) modifier does not apply to the damage. A _flame blade _can ignite combustible materials such as parchment, straw, dry sticks, and cloth.
 

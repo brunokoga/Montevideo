@@ -16,9 +16,9 @@ title: spells_dir/bless
 
 **Duration** 1 min._dir/level
 
-**Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** yes (harmless)
+**Saving Throw** none; **[Spell Resistance](../../glossary#_spell-resistance)** yes (harmless)
 
 _Bless _fills your allies with courage. Each ally gains a +1 morale bonus on attack rolls and on saving throws against fear effects.
 
-_Bless _counters and dispels _ [bane](bane#_bane)_.
+_Bless _counters and dispels _ [bane](../bane#_bane)_.
 

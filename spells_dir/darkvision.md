@@ -16,9 +16,9 @@ title: spells_dir/darkvision
 
 **Duration** 1 hour_dir/level
 
-**Saving Throw** [Will](../combat#_will) negates (harmless); **[Spell Resistance](../glossary#_spell-resistance)** yes (harmless)
+**Saving Throw** [Will](../../combat#_will) negates (harmless); **[Spell Resistance](../../glossary#_spell-resistance)** yes (harmless)
 
-The subject gains the ability to see 60 feet even in total darkness. [Darkvision](../glossary#_darkvision) is black and white only but otherwise like normal sight.
+The subject gains the ability to see 60 feet even in total darkness. [Darkvision](../../glossary#_darkvision) is black and white only but otherwise like normal sight.
 
-_Darkvision _can be made permanent with a _ [permanency](permanency#_permanency) _spell.
+_Darkvision _can be made permanent with a _ [permanency](../permanency#_permanency) _spell.
 

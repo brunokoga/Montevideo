@@ -16,7 +16,7 @@ title: spells_dir/scare
 
 **Duration** 1 round_dir/level or 1 round; see text for _cause fear_
 
-**Saving Throw** [Will](../combat#_will) partial; **[Spell Resistance](../glossary#_spell-resistance)** yes
+**Saving Throw** [Will](../../combat#_will) partial; **[Spell Resistance](../../glossary#_spell-resistance)** yes
 
-This spell functions like _cause fear, _except that it causes all targeted creatures of less than 6 HD to become [frightened](../glossary#_frightened).
+This spell functions like _cause fear, _except that it causes all targeted creatures of less than 6 HD to become [frightened](../../glossary#_frightened).
 

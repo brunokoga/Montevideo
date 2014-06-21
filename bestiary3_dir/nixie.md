@@ -10,9 +10,9 @@ Nixie CR 1
 
 XP 400
 
-N Small fey ( [aquatic](monsters_dir/creatureTypes#_aquatic-subtype))
+N Small fey ( [aquatic](../monsters_dir/creatureTypes#_aquatic-subtype))
 
-**Init** +3; **Senses** low-light vision; [Perception](skills_dir/perception#_perception) +6
+**Init** +3; **Senses** low-light vision; [Perception](../skills_dir/perception#_perception) +6
 
 Defense
 
@@ -34,9 +34,9 @@ Offense
 
 **Spell-Like Abilities** (CL 6th; concentration +10)
 
-3_dir/day—_ [charm person](spells_dir/charmPerson#_charm-person)_ (DC 15)
+3_dir/day—_ [charm person](../spells_dir/charmPerson#_charm-person)_ (DC 15)
 
-1_dir/day—_ [water breathing](spells_dir/waterBreathing#_water-breathing)_ (CL 12th)
+1_dir/day—_ [water breathing](../spells_dir/waterBreathing#_water-breathing)_ (CL 12th)
 
 Statistics
 
@@ -44,10 +44,10 @@ Statistics
 
 **Base Atk** +1; **CMB** –2; **CMD** 11
 
-**Feats** [Weapon Finesse](feats#_weapon-finesse)
+**Feats** [Weapon Finesse](../feats#_weapon-finesse)
 
-**Skills** [Bluff](skills_dir/bluff#_bluff) +9, [Craft](skills_dir/craft#_craft) (any one) +5, [Escape Artist](skills_dir/escapeArtist#_escape-artist) +8, [Handle Animal](skills_dir/handleAnimal#_handle-animal) +6, [Perception](skills_dir/perception#_perception) +6, [Perform](skills_dir/perform#_perform) (sing) +8, [Sense Motive](skills_dir/senseMotive#_sense-motive) +5,   
- [Stealth](skills_dir/stealth#_stealth) +12, [Swim](skills_dir/swim#_swim) +10
+**Skills** [Bluff](../skills_dir/bluff#_bluff) +9, [Craft](../skills_dir/craft#_craft) (any one) +5, [Escape Artist](../skills_dir/escapeArtist#_escape-artist) +8, [Handle Animal](../skills_dir/handleAnimal#_handle-animal) +6, [Perception](../skills_dir/perception#_perception) +6, [Perform](../skills_dir/perform#_perform) (sing) +8, [Sense Motive](../skills_dir/senseMotive#_sense-motive) +5,   
+ [Stealth](../skills_dir/stealth#_stealth) +12, [Swim](../skills_dir/swim#_swim) +10
 
 **Languages** Aquan, Sylvan
 
@@ -55,7 +55,7 @@ Statistics
 
 Ecology
 
-**Environment** temperate [water](monsters_dir/creatureTypes#_water-subtype)
+**Environment** temperate [water](../monsters_dir/creatureTypes#_water-subtype)
 
 **Organization** gang (2–4), band (6–11), or tribe (20–80)
 
@@ -67,7 +67,7 @@ Special Abilities
 
 Nixies are guardians of ponds, rivers, lakes, and springs. They prefer dwelling in idyllic places, which they protect from the depredations of predators and careless humanoids. While this often involves confusing enemies and driving foes away, nixies are not afraid of spilling blood to protect their homes—though they prefer not to resort to such means unless completely necessary. Nixies are 4 feet tall and rarely weigh more than 45 pounds.
 
-Nixies avoid combat if possible, using _ [charm person](spells_dir/charmPerson#_charm-person) _to lead humanoids away from their lairs. They sometimes use this ability to enslave people to act as protectors or help with a task that is simply too big for them to deal with. They cast _ [water breathing](spells_dir/waterBreathing#_water-breathing)_ on charmed creatures helping with tasks below the surface. Nixies are reclusive and prefer to keep their presence hidden. They make lairs underwater, forming small communities if their numbers are great enough. Legends speak of a secret nixie kingdom at the bottom of a great lake, but no one has yet confirmed its location.
+Nixies avoid combat if possible, using _ [charm person](../spells_dir/charmPerson#_charm-person) _to lead humanoids away from their lairs. They sometimes use this ability to enslave people to act as protectors or help with a task that is simply too big for them to deal with. They cast _ [water breathing](../spells_dir/waterBreathing#_water-breathing)_ on charmed creatures helping with tasks below the surface. Nixies are reclusive and prefer to keep their presence hidden. They make lairs underwater, forming small communities if their numbers are great enough. Legends speak of a secret nixie kingdom at the bottom of a great lake, but no one has yet confirmed its location.
 
 # Bog Nixies
 
@@ -77,7 +77,7 @@ A bog nixie is a neutral evil nixie with the advanced creature template who has 
 
 **Captivating Song (Su)** : This works like the harpy ability of the same name. The save DC is Charisma-based.
 
-**Change Shape (Su)** : This works as _ [polymorph](spells_dir/polymorph#_polymorph)_, and allows the bog nixie to assume the form of any Small or Medium aquatic animal or humanoid.
+**Change Shape (Su)** : This works as _ [polymorph](../spells_dir/polymorph#_polymorph)_, and allows the bog nixie to assume the form of any Small or Medium aquatic animal or humanoid.
 
 **Minor Wish (Sp)** : Once per day, a bog nixie can create a magical effect in exchange for a gift or service from a humanoid. The power of this “wish” is no greater than what can be done with a 3rd-level spell.
 

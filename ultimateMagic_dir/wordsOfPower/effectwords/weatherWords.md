@@ -22,7 +22,7 @@ This effect word creates a thick fog in its area of effect. It obscures all sigh
 
 Wind Blast (Weather)
 
-**School** evocation [[air](monsters_dir/creatureTypes#_air-subtype)]; **Level** druid 2, sorcerer_dir/wizard 3
+**School** evocation [[air](../monsters_dir/creatureTypes#_air-subtype)]; **Level** druid 2, sorcerer_dir/wizard 3
 
 **Duration** 1 round
 
@@ -42,7 +42,7 @@ Blizzard (Weather)
 
 **Target Restrictions** _burst_ (emanation)
 
-This effect word causes heavy snow to fall in the area of effect. This provides concealment as the _fog bank _effect word, but it cannot be removed by wind. In addition, the ground in the area of effect is treated as difficult terrain for the duration and as being very slippery for the purposes of [Acrobatics](skills_dir/acrobatics#_acrobatics) and [Climb](skills_dir/climb#_climb) skill checks.
+This effect word causes heavy snow to fall in the area of effect. This provides concealment as the _fog bank _effect word, but it cannot be removed by wind. In addition, the ground in the area of effect is treated as difficult terrain for the duration and as being very slippery for the purposes of [Acrobatics](../skills_dir/acrobatics#_acrobatics) and [Climb](../skills_dir/climb#_climb) skill checks.
 
 **Boost** : Each creature in the area of effect takes 2d6 points of cold damage each round at the end of its turn. Boosting this effect word increases its level by 1.
 

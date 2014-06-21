@@ -20,7 +20,7 @@ This effect word causes one object within range to lose half of its maximum hit 
 
 Rumble (Destruction)
 
-**School** evocation [[earth](monsters_dir/creatureTypes#_earth-subtype)]; **Level** cleric 8, druid 8
+**School** evocation [[earth](../monsters_dir/creatureTypes#_earth-subtype)]; **Level** cleric 8, druid 8
 
 **Duration** 1 round
 
@@ -32,7 +32,7 @@ This effect word causes the ground within the area to shake and rumble, like an 
 
 Catastrophe (Destruction)
 
-**School** evocation [[air](monsters_dir/creatureTypes#_air-subtype)]; **Level** cleric 9, druid 9, witch 9
+**School** evocation [[air](../monsters_dir/creatureTypes#_air-subtype)]; **Level** cleric 9, druid 9, witch 9
 
 **Duration** 1 round_dir/level
 

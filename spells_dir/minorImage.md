@@ -8,5 +8,5 @@ title: spells_dir/minorImage
 
 **Duration** concentration + 2 rounds
 
-This spell functions like _ [silent image](silentImage#_silent-image)_, except that _minor image _includes some minor sounds but not understandable speech.
+This spell functions like _ [silent image](../silentImage#_silent-image)_, except that _minor image _includes some minor sounds but not understandable speech.
 

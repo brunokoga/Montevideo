@@ -10,9 +10,9 @@ _This powerful canine watches its prey with piercing yellow eyes, darting its to
 
 **XP 400**
 
-N Medium [animal](creatureTypes#_animal)
+N Medium [animal](../creatureTypes#_animal)
 
-**Init** +2; **Senses** low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skills_dir/perception#_perception) +8
+**Init** +2; **Senses** low-light vision, [scent](../universalMonsterRules#_scent); [Perception](../../skills_dir/perception#_perception) +8
 
 **Defense**
 
@@ -26,7 +26,7 @@ N Medium [animal](creatureTypes#_animal)
 
 **Speed** 50 ft.
 
-**Melee** bite +2 (1d6+1 plus [trip](universalMonsterRules#_trip))
+**Melee** bite +2 (1d6+1 plus [trip](../universalMonsterRules#_trip))
 
 **Statistics**
 
@@ -34,9 +34,9 @@ N Medium [animal](creatureTypes#_animal)
 
 **Base Atk** +1; **CMB** +2; **CMD** 14 (18 vs. trip)
 
-**Feats** [Skill Focus](../feats#_skill-focus) ( [Perception](../skills_dir/perception#_perception))
+**Feats** [Skill Focus](../../feats#_skill-focus) ( [Perception](../../skills_dir/perception#_perception))
 
-**Skills** [Perception](../skills_dir/perception#_perception) +8, [Stealth](../skills_dir/stealth#_stealth) +6, [Survival](../skills_dir/survival#_survival) +1 (+5 scent tracking); **Racial Modifiers** +4 [Survival](../skills_dir/survival#_survival) when tracking by scent
+**Skills** [Perception](../../skills_dir/perception#_perception) +8, [Stealth](../../skills_dir/stealth#_stealth) +6, [Survival](../../skills_dir/survival#_survival) +1 (+5 scent tracking); **Racial Modifiers** +4 [Survival](../../skills_dir/survival#_survival) when tracking by scent
 
 **Ecology**
 
@@ -56,9 +56,9 @@ _This immense black wolf is the size of a horse, its fangs as large and sharp as
 
 **XP 800**
 
-N Large [animal](creatureTypes#_animal)
+N Large [animal](../creatureTypes#_animal)
 
-**Init** +2; **Senses** low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skills_dir/perception#_perception) +10
+**Init** +2; **Senses** low-light vision, [scent](../universalMonsterRules#_scent); [Perception](../../skills_dir/perception#_perception) +10
 
 **Defense**
 
@@ -72,7 +72,7 @@ N Large [animal](creatureTypes#_animal)
 
 **Speed** 50 ft.
 
-**Melee** bite +7 (1d8+6 plus [trip](universalMonsterRules#_trip))
+**Melee** bite +7 (1d8+6 plus [trip](../universalMonsterRules#_trip))
 
 **Space** 10 ft.; **Reach** 5 ft.
 
@@ -82,9 +82,9 @@ N Large [animal](creatureTypes#_animal)
 
 **Base Atk** +3; **CMB** +8; **CMD** 20 (24 vs. trip)
 
-**Feats** [Run](../feats#_run), [Skill Focus](../feats#_skill-focus) ( [Perception](../skills_dir/perception#_perception)), [Weapon Focus](../feats#_weapon-focus) (bite)
+**Feats** [Run](../../feats#_run), [Skill Focus](../../feats#_skill-focus) ( [Perception](../../skills_dir/perception#_perception)), [Weapon Focus](../../feats#_weapon-focus) (bite)
 
-**Skills** [Perception](../skills_dir/perception#_perception) +10, [Stealth](../skills_dir/stealth#_stealth) +3, [Survival](../skills_dir/survival#_survival) +1 (+5 scent tracking); **Racial Modifiers** +4 [Survival](../skills_dir/survival#_survival) when tracking by scent
+**Skills** [Perception](../../skills_dir/perception#_perception) +10, [Stealth](../../skills_dir/stealth#_stealth) +3, [Survival](../../skills_dir/survival#_survival) +1 (+5 scent tracking); **Racial Modifiers** +4 [Survival](../../skills_dir/survival#_survival) when tracking by scent
 
 **Ecology**
 

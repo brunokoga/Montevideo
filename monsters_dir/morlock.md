@@ -10,9 +10,9 @@ _Skin pale as a slug's belly, eyes huge and bulging, this thing crawls down the 
 
 **XP 600**
 
-CE Medium [monstrous humanoid](creatureTypes#_monstrous-humanoid)
+CE Medium [monstrous humanoid](../creatureTypes#_monstrous-humanoid)
 
-**Init** +8; **Senses** darkvision 120 ft., [scent](universalMonsterRules#_scent); [Perception](../skills_dir/perception#_perception) +2
+**Init** +8; **Senses** darkvision 120 ft., [scent](../universalMonsterRules#_scent); [Perception](../../skills_dir/perception#_perception) +2
 
 **Defense**
 
@@ -24,7 +24,7 @@ CE Medium [monstrous humanoid](creatureTypes#_monstrous-humanoid)
 
 **Immune** disease, poison
 
-**Weaknesses** [light blindness](universalMonsterRules#_light-blindness)
+**Weaknesses** [light blindness](../universalMonsterRules#_light-blindness)
 
 **Offense**
 
@@ -40,9 +40,9 @@ CE Medium [monstrous humanoid](creatureTypes#_monstrous-humanoid)
 
 **Base Atk** +3; **CMB** +5; **CMD** 19
 
-**Feats** [Improved Initiative](../feats#_improved-initiative), [Lightning Reflexes](../feats#_lightning-reflexes)
+**Feats** [Improved Initiative](../../feats#_improved-initiative), [Lightning Reflexes](../../feats#_lightning-reflexes)
 
-**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +13, [Climb](../skills_dir/climb#_climb) +22, [Stealth](../skills_dir/stealth#_stealth) +8 (+12 in caverns); **Racial Modifiers** +4 [Stealth](../skills_dir/stealth#_stealth) in caverns, +8 [Acrobatics](../skills_dir/acrobatics#_acrobatics), +16 [Climb](../skills_dir/climb#_climb)
+**Skills** [Acrobatics](../../skills_dir/acrobatics#_acrobatics) +13, [Climb](../../skills_dir/climb#_climb) +22, [Stealth](../../skills_dir/stealth#_stealth) +8 (+12 in caverns); **Racial Modifiers** +4 [Stealth](../../skills_dir/stealth#_stealth) in caverns, +8 [Acrobatics](../../skills_dir/acrobatics#_acrobatics), +16 [Climb](../../skills_dir/climb#_climb)
 
 **Languages** Undercommon
 
@@ -58,7 +58,7 @@ CE Medium [monstrous humanoid](creatureTypes#_monstrous-humanoid)
 
 **Special Abilities**
 
-**Expert Climber (Ex)** A morlock can cling to cave walls and even ceilings as long as the surface has hand- and footholds. In effect, a morlock is treated as constantly being under a nonmagical version of the spell _ [spider climb](../spells_dir/spiderClimb#_spider-climb)_, save that it cannot cling to smooth surfaces. This ability doubles the normal +8 racial bonus to [Climb](../skills_dir/climb#_climb) checks normally afforded creatures with a climb speed to a +16 racial bonus.
+**Expert Climber (Ex)** A morlock can cling to cave walls and even ceilings as long as the surface has hand- and footholds. In effect, a morlock is treated as constantly being under a nonmagical version of the spell _ [spider climb](../../spells_dir/spiderClimb#_spider-climb)_, save that it cannot cling to smooth surfaces. This ability doubles the normal +8 racial bonus to [Climb](../../skills_dir/climb#_climb) checks normally afforded creatures with a climb speed to a +16 racial bonus.
 
 **Leap Attack (Ex)** As a standard action, a morlock may make a single attack during a jump. It can make this attack at any point along the course of the leap—the start, the end, or while in mid-air. While jumping, a morlock does not provoke attacks of opportunity for leaving a threatened square.
 

@@ -16,7 +16,7 @@ title: spells_dir/fingerOfDeath
 
 **Duration** instantaneous
 
-**Saving Throw** [Fortitude](../combat#_fortitude) partial; **[Spell Resistance](../glossary#_spell-resistance)** yes
+**Saving Throw** [Fortitude](../../combat#_fortitude) partial; **[Spell Resistance](../../glossary#_spell-resistance)** yes
 
-This spell instantly delivers 10 points of damage per caster level. If the target's [Fortitude](../combat#_fortitude) saving throw succeeds, it instead takes 3d6 points of damage + 1 point per caster level. The subject might die from damage even if it succeeds on its saving throw.
+This spell instantly delivers 10 points of damage per caster level. If the target's [Fortitude](../../combat#_fortitude) saving throw succeeds, it instead takes 3d6 points of damage + 1 point per caster level. The subject might die from damage even if it succeeds on its saving throw.
 

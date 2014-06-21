@@ -10,9 +10,9 @@ Denizen of LengCR 8
 
 **XP 4,800**
 
-CE Medium [outsider](monsters_dir/creatureTypes#_outsider) ( [chaotic](monsters_dir/creatureTypes#_chaotic-subtype), [evil](monsters_dir/creatureTypes#_evil-subtype), [extraplanar](monsters_dir/creatureTypes#_extraplanar-subtype))
+CE Medium [outsider](../monsters_dir/creatureTypes#_outsider) ( [chaotic](../monsters_dir/creatureTypes#_chaotic-subtype), [evil](../monsters_dir/creatureTypes#_evil-subtype), [extraplanar](../monsters_dir/creatureTypes#_extraplanar-subtype))
 
-**Init** +4; **Senses** darkvision 60 ft.; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +16
+**Init** +4; **Senses** darkvision 60 ft.; [Perception](../additionalMonsters_dir/../skills_dir/perception#_perception) +16
 
 Defense
 
@@ -22,7 +22,7 @@ Defense
 
 **Fort** +11, **Ref** +11, **Will** +6
 
-**Defensive Abilities** [no breath](monsters_dir/universalMonsterRules#_no-breath), unusual anatomy; **Immune** [poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)); **Resist** [cold](monsters_dir/creatureTypes#_cold-subtype) 30, electricity 30; **SR** 19
+**Defensive Abilities** [no breath](../monsters_dir/universalMonsterRules#_no-breath), unusual anatomy; **Immune** [poison](../monsters_dir/universalMonsterRules#_poison-(ex-or-su)); **Resist** [cold](../monsters_dir/creatureTypes#_cold-subtype) 30, electricity 30; **SR** 19
 
 Offense
 
@@ -34,11 +34,11 @@ Offense
 
 **Spell-Like Abilities** (CL 10th; concentration +15)
 
-Constant—_ [tongues](additionalMonsters_dir/../spells_dir/tongues#_tongues)_
+Constant—_ [tongues](../additionalMonsters_dir/../spells_dir/tongues#_tongues)_
 
-3_dir/day—_ [detect thoughts](additionalMonsters_dir/../spells_dir/detectThoughts#_detect-thoughts)_ (DC 17), _ [hypnotic pattern](additionalMonsters_dir/../spells_dir/hypnoticPattern#_hypnotic-pattern)_ (DC 17), _ [levitate](additionalMonsters_dir/../spells_dir/levitate#_levitate)_, _ [minor image](additionalMonsters_dir/../spells_dir/minorImage#_minor-image)_ (DC 17)
+3_dir/day—_ [detect thoughts](../additionalMonsters_dir/../spells_dir/detectThoughts#_detect-thoughts)_ (DC 17), _ [hypnotic pattern](../additionalMonsters_dir/../spells_dir/hypnoticPattern#_hypnotic-pattern)_ (DC 17), _ [levitate](../additionalMonsters_dir/../spells_dir/levitate#_levitate)_, _ [minor image](../additionalMonsters_dir/../spells_dir/minorImage#_minor-image)_ (DC 17)
 
-1_dir/day—_ [locate object](additionalMonsters_dir/../spells_dir/locateObject#_locate-object)_, _ [plane shift](additionalMonsters_dir/../spells_dir/planeShift#_plane-shift)_ (DC 20, self only)
+1_dir/day—_ [locate object](../additionalMonsters_dir/../spells_dir/locateObject#_locate-object)_, _ [plane shift](../additionalMonsters_dir/../spells_dir/planeShift#_plane-shift)_ (DC 20, self only)
 
 Statistics
 
@@ -46,11 +46,11 @@ Statistics
 
 **Base Atk** +10; **CMB** +12; **CMD** 27
 
-**Feats** [Deceitful](additionalMonsters_dir/../feats#_deceitful), [Dodge](additionalMonsters_dir/../feats#_dodge), [Mobility](additionalMonsters_dir/../feats#_mobility), [Persuasive](additionalMonsters_dir/../feats#_persuasive), [Weapon Finesse](additionalMonsters_dir/../feats#_weapon-finesse)
+**Feats** [Deceitful](../additionalMonsters_dir/../feats#_deceitful), [Dodge](../additionalMonsters_dir/../feats#_dodge), [Mobility](../additionalMonsters_dir/../feats#_mobility), [Persuasive](../additionalMonsters_dir/../feats#_persuasive), [Weapon Finesse](../additionalMonsters_dir/../feats#_weapon-finesse)
 
-**Skills** [Bluff](additionalMonsters_dir/../skills_dir/bluff#_bluff) +22, [Diplomacy](additionalMonsters_dir/../skills_dir/diplomacy#_diplomacy) +7, [Disable Device](additionalMonsters_dir/../skills_dir/disableDevice#_disable-device) +14, [Disguise](additionalMonsters_dir/../skills_dir/disguise#_disguise) +12 (+16 as [humanoid](monsters_dir/creatureTypes#_humanoid)), [Intimidate](additionalMonsters_dir/../skills_dir/intimidate#_intimidate) +12, [Knowledge](additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (any one) +17, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +16, [Profession](additionalMonsters_dir/../skills_dir/profession#_profession) (sailor) +8, [Sense Motive](additionalMonsters_dir/../skills_dir/senseMotive#_sense-motive) +16, [Sleight of Hand](additionalMonsters_dir/../skills_dir/sleightOfHand#_sleight-of-hand) +17, [Spellcraft](additionalMonsters_dir/../skills_dir/spellcraft#_spellcraft) +12, [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) +17, [Use Magic Device](additionalMonsters_dir/../skills_dir/useMagicDevice#_use-magic-device) +18; **Racial Modifiers** +4 [Disguise](additionalMonsters_dir/../skills_dir/disguise#_disguise) when disguised as a Medium [humanoid](monsters_dir/creatureTypes#_humanoid)
+**Skills** [Bluff](../additionalMonsters_dir/../skills_dir/bluff#_bluff) +22, [Diplomacy](../additionalMonsters_dir/../skills_dir/diplomacy#_diplomacy) +7, [Disable Device](../additionalMonsters_dir/../skills_dir/disableDevice#_disable-device) +14, [Disguise](../additionalMonsters_dir/../skills_dir/disguise#_disguise) +12 (+16 as [humanoid](../monsters_dir/creatureTypes#_humanoid)), [Intimidate](../additionalMonsters_dir/../skills_dir/intimidate#_intimidate) +12, [Knowledge](../additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (any one) +17, [Perception](../additionalMonsters_dir/../skills_dir/perception#_perception) +16, [Profession](../additionalMonsters_dir/../skills_dir/profession#_profession) (sailor) +8, [Sense Motive](../additionalMonsters_dir/../skills_dir/senseMotive#_sense-motive) +16, [Sleight of Hand](../additionalMonsters_dir/../skills_dir/sleightOfHand#_sleight-of-hand) +17, [Spellcraft](../additionalMonsters_dir/../skills_dir/spellcraft#_spellcraft) +12, [Stealth](../additionalMonsters_dir/../skills_dir/stealth#_stealth) +17, [Use Magic Device](../additionalMonsters_dir/../skills_dir/useMagicDevice#_use-magic-device) +18; **Racial Modifiers** +4 [Disguise](../additionalMonsters_dir/../skills_dir/disguise#_disguise) when disguised as a Medium [humanoid](../monsters_dir/creatureTypes#_humanoid)
 
-**Languages** Aklo; _ [tongues](additionalMonsters_dir/../spells_dir/tongues#_tongues)_
+**Languages** Aklo; _ [tongues](../additionalMonsters_dir/../spells_dir/tongues#_tongues)_
 
 Ecology
 

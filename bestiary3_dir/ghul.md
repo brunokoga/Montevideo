@@ -10,9 +10,9 @@ Ghul CR 5
 
 XP 1,600
 
-CE Medium undead ( [shapechanger](monsters_dir/creatureTypes#_shapechanger-subtype))
+CE Medium undead ( [shapechanger](../monsters_dir/creatureTypes#_shapechanger-subtype))
 
-**Init** +2; **Senses** darkvision 60 ft.; [Perception](skills_dir/perception#_perception) +15
+**Init** +2; **Senses** darkvision 60 ft.; [Perception](../skills_dir/perception#_perception) +15
 
 Defense
 
@@ -22,15 +22,15 @@ Defense
 
 **Fort** +8, **Ref** +4, **Will** +7
 
-**DR** 5_dir/good; **Immune** undead traits; **Resist** [fire](monsters_dir/creatureTypes#_fire-subtype) 10
+**DR** 5_dir/good; **Immune** undead traits; **Resist** [fire](../monsters_dir/creatureTypes#_fire-subtype) 10
 
 Offense
 
 **Speed** 40 ft., climb 20 ft.
 
-**Melee** bite +10 (1d6+6), 2 claws +10 (1d4+6 plus [bleed](monsters_dir/universalMonsterRules#_bleed))
+**Melee** bite +10 (1d6+6), 2 claws +10 (1d4+6 plus [bleed](../monsters_dir/universalMonsterRules#_bleed))
 
-**Special Attacks** [bleed](monsters_dir/universalMonsterRules#_bleed) (1), cursed claws, rend (1d6+6)
+**Special Attacks** [bleed](../monsters_dir/universalMonsterRules#_bleed) (1), cursed claws, rend (1d6+6)
 
 Statistics
 
@@ -38,14 +38,14 @@ Statistics
 
 **Base Atk** +4; **CMB** +10; **CMD** 22
 
-**Feats** [Great Fortitude](feats#_great-fortitude), [Power Attack](feats#_power-attack), [Step Up](feats#_step-up)
+**Feats** [Great Fortitude](../feats#_great-fortitude), [Power Attack](../feats#_power-attack), [Step Up](../feats#_step-up)
 
-**Skills** [Bluff](skills_dir/bluff#_bluff) +10, [Climb](skills_dir/climb#_climb) +18, [Diplomacy](skills_dir/diplomacy#_diplomacy) +7, [Disguise](skills_dir/disguise#_disguise) +11, [Intimidate](skills_dir/intimidate#_intimidate) +11, [Perception](skills_dir/perception#_perception) +15,   
- [Stealth](skills_dir/stealth#_stealth) +11, [Survival](skills_dir/survival#_survival) +8 (+16 when following tracks); **Racial Modifiers** +4 [Perception](skills_dir/perception#_perception), +8 [Survival](skills_dir/survival#_survival) when following tracks
+**Skills** [Bluff](../skills_dir/bluff#_bluff) +10, [Climb](../skills_dir/climb#_climb) +18, [Diplomacy](../skills_dir/diplomacy#_diplomacy) +7, [Disguise](../skills_dir/disguise#_disguise) +11, [Intimidate](../skills_dir/intimidate#_intimidate) +11, [Perception](../skills_dir/perception#_perception) +15,   
+ [Stealth](../skills_dir/stealth#_stealth) +11, [Survival](../skills_dir/survival#_survival) +8 (+16 when following tracks); **Racial Modifiers** +4 [Perception](../skills_dir/perception#_perception), +8 [Survival](../skills_dir/survival#_survival) when following tracks
 
-**Languages** Common, one [elemental](monsters_dir/creatureTypes#_elemental-subtype) language (Aquan, Auran, Ignan, or Terran), one planar language (Abyssal, Celestial, or Infernal)
+**Languages** Common, one [elemental](../monsters_dir/creatureTypes#_elemental-subtype) language (Aquan, Auran, Ignan, or Terran), one planar language (Abyssal, Celestial, or Infernal)
 
-**SQ** [change shape](monsters_dir/universalMonsterRules#_change-shape) (hyena; does not detect as undead in this form; _ [beast shape I](spells_dir/beastShape#_beast-shape-i)_), genie-kin
+**SQ** [change shape](../monsters_dir/universalMonsterRules#_change-shape) (hyena; does not detect as undead in this form; _ [beast shape I](../spells_dir/beastShape#_beast-shape-i)_), genie-kin
 
 Ecology
 
@@ -57,7 +57,7 @@ Ecology
 
 Special Abilities
 
-**Cursed Claws (Ex)** A ghul's claws count as both [cold](monsters_dir/creatureTypes#_cold-subtype) iron and magic for the purpose of bypassing [damage reduction](monsters_dir/universalMonsterRules#_damage-reduction-(ex-or-su)).
+**Cursed Claws (Ex)** A ghul's claws count as both [cold](../monsters_dir/creatureTypes#_cold-subtype) iron and magic for the purpose of bypassing [damage reduction](../monsters_dir/universalMonsterRules#_damage-reduction-(ex-or-su)).
 
 **Genie-kin (Ex)** For all race-related effects (such as a ranger's favored enemy), a ghul is considered a genie even though its type is undead.
 

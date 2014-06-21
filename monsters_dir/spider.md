@@ -10,9 +10,9 @@ _A spider the size of a man crawls silently from the depths of its funnel-shaped
 
 **XP 400**
 
-N Medium [vermin](creatureTypes#_vermin)
+N Medium [vermin](../creatureTypes#_vermin)
 
-**Init** +3; **Senses** darkvision 60 ft., [tremorsense](universalMonsterRules#_tremorsense) 60 ft.; [Perception](../skills_dir/perception#_perception) +4
+**Init** +3; **Senses** darkvision 60 ft., [tremorsense](../universalMonsterRules#_tremorsense) 60 ft.; [Perception](../../skills_dir/perception#_perception) +4
 
 **Defense**
 
@@ -28,9 +28,9 @@ N Medium [vermin](creatureTypes#_vermin)
 
 **Speed** 30 ft., climb 30 ft.
 
-**Melee** bite +2 (1d6 plus [poison](universalMonsterRules#_poison))
+**Melee** bite +2 (1d6 plus [poison](../universalMonsterRules#_poison))
 
-**Special Attack** [web](universalMonsterRules#_web) (+5 ranged, DC 12, hp 2)
+**Special Attack** [web](../universalMonsterRules#_web) (+5 ranged, DC 12, hp 2)
 
 **Statistics**
 
@@ -38,7 +38,7 @@ N Medium [vermin](creatureTypes#_vermin)
 
 **Base Atk** +2; **CMB** +2; **CMD** 15 (27 vs. trip)
 
-**Skills** [Climb](../skills_dir/climb#_climb) +16, [Perception](../skills_dir/perception#_perception) +4 (+8 in webs), [Stealth](../skills_dir/stealth#_stealth) +7 (+11 in webs); **Racial Modifiers** +4 [Perception](../skills_dir/perception#_perception), +4 [Stealth](../skills_dir/stealth#_stealth) (+8 in webs), +16 [Climb](../skills_dir/climb#_climb)
+**Skills** [Climb](../../skills_dir/climb#_climb) +16, [Perception](../../skills_dir/perception#_perception) +4 (+8 in webs), [Stealth](../../skills_dir/stealth#_stealth) +7 (+11 in webs); **Racial Modifiers** +4 [Perception](../../skills_dir/perception#_perception), +4 [Stealth](../../skills_dir/stealth#_stealth) (+8 in webs), +16 [Climb](../../skills_dir/climb#_climb)
 
 **Ecology**
 
@@ -50,9 +50,9 @@ N Medium [vermin](creatureTypes#_vermin)
 
 **Special Abilities**
 
-**Poison (Ex)** Bite—injury; _save_ Fort DC 14; _frequency_ 1_dir/round for 4 rounds; _effect_ 1d2 Strength [damage](universalMonsterRules#_ability-damage-and-drain); _cure_ 1 save.
+**Poison (Ex)** Bite—injury; _save_ Fort DC 14; _frequency_ 1_dir/round for 4 rounds; _effect_ 1d2 Strength [damage](../universalMonsterRules#_ability-damage-and-drain); _cure_ 1 save.
 
-The statistics above are for a web-spinning spider. Hunting spiders lose the web ability but gain a +8 racial modifier on [Acrobatics](../skills_dir/acrobatics#_acrobatics) checks. All giant spiders have a +2 racial bonus on poison save DCs.
+The statistics above are for a web-spinning spider. Hunting spiders lose the web ability but gain a +8 racial modifier on [Acrobatics](../../skills_dir/acrobatics#_acrobatics) checks. All giant spiders have a +2 racial bonus on poison save DCs.
 
 Other species of giant spiders exist, as detailed below.
 
@@ -73,9 +73,9 @@ _An awful, scuttling mass of legs and mandibles scrambles forward out of the dar
 
 **XP 400**
 
-N Diminutive [vermin](creatureTypes#_vermin) ( [swarm](creatureTypes#_swarm-subtype))
+N Diminutive [vermin](../creatureTypes#_vermin) ( [swarm](../creatureTypes#_swarm-subtype))
 
-**Init** +3; **Senses** darkvision 60 ft., [tremorsense](universalMonsterRules#_tremorsense) 30 ft.; [Perception](../skills_dir/perception#_perception) +4
+**Init** +3; **Senses** darkvision 60 ft., [tremorsense](../universalMonsterRules#_tremorsense) 30 ft.; [Perception](../../skills_dir/perception#_perception) +4
 
 **Defense**
 
@@ -85,17 +85,17 @@ N Diminutive [vermin](creatureTypes#_vermin) ( [swarm](creatureTypes#_swarm-subt
 
 **Fort** +3, **Ref** +3, **Will** +0
 
-**Defensive Abilities** [swarm traits](creatureTypes#_swarm-subtype); **Immune** mind-affecting effects, weapon damage
+**Defensive Abilities** [swarm traits](../creatureTypes#_swarm-subtype); **Immune** mind-affecting effects, weapon damage
 
 **Offense**
 
 **Speed** 20 ft., climb 20 ft.
 
-**Melee** swarm (1d6 plus [poison](universalMonsterRules#_poison) and distraction)
+**Melee** swarm (1d6 plus [poison](../universalMonsterRules#_poison) and distraction)
 
 **Space** 10 ft.; **Reach** 0 ft.
 
-**Special Attacks** [distraction](universalMonsterRules#_distraction) (DC 11)
+**Special Attacks** [distraction](../universalMonsterRules#_distraction) (DC 11)
 
 **Statistics**
 
@@ -103,7 +103,7 @@ N Diminutive [vermin](creatureTypes#_vermin) ( [swarm](creatureTypes#_swarm-subt
 
 **Base Atk** +1; **CMB** —; **CMD** —
 
-**Skills** [Climb](../skills_dir/climb#_climb) +11, [Perception](../skills_dir/perception#_perception) +4; **Racial Modifiers** +4 [Perception](../skills_dir/perception#_perception); uses Dexterity for [Climb](../skills_dir/climb#_climb) checks
+**Skills** [Climb](../../skills_dir/climb#_climb) +11, [Perception](../../skills_dir/perception#_perception) +4; **Racial Modifiers** +4 [Perception](../../skills_dir/perception#_perception); uses Dexterity for [Climb](../../skills_dir/climb#_climb) checks
 
 **Ecology**
 

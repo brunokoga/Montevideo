@@ -16,7 +16,7 @@ title: spells_dir/burningHands
 
 **Duration** instantaneous
 
-**Saving Throw** [Reflex](../combat#_reflex) half; **[Spell Resistance](../glossary#_spell-resistance)** yes
+**Saving Throw** [Reflex](../../combat#_reflex) half; **[Spell Resistance](../../glossary#_spell-resistance)** yes
 
 A cone of searing flame shoots from your fingertips. Any creature in the area of the flames takes 1d4 points of fire damage per caster level (maximum 5d4). Flammable materials burn if the flames touch them. A character can extinguish burning items as a full-round action.
 

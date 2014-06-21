@@ -16,7 +16,7 @@ title: spells_dir/produceFlame
 
 **Duration** 1 min._dir/level (D)
 
-**Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** yes
+**Saving Throw** none; **[Spell Resistance](../../glossary#_spell-resistance)** yes
 
 Flames as bright as a torch appear in your open hand. The flames harm neither you nor your equipment.
 

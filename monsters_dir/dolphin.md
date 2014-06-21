@@ -10,9 +10,9 @@ _This streamlined, fish-like mammal has sparkling eyes over a smiling mouth fill
 
 **XP 200**
 
-N Medium [animal](creatureTypes#_animal)
+N Medium [animal](../creatureTypes#_animal)
 
-**Init** +2; **Senses** [blindsight](universalMonsterRules#_blindsight) 120 ft., low-light vision; [Perception](../skills_dir/perception#_perception) +9
+**Init** +2; **Senses** [blindsight](../universalMonsterRules#_blindsight) 120 ft., low-light vision; [Perception](../../skills_dir/perception#_perception) +9
 
 **Defense**
 
@@ -34,9 +34,9 @@ N Medium [animal](creatureTypes#_animal)
 
 **Base Atk** +1; **CMB** +2; **CMD** 14
 
-**Feats** [Weapon Finesse](../feats#_weapon-finesse)
+**Feats** [Weapon Finesse](../../feats#_weapon-finesse)
 
-**Skills** [Perception](../skills_dir/perception#_perception) +9, [Swim](../skills_dir/swim#_swim) +13; **Racial Modifiers** +4 [Perception](../skills_dir/perception#_perception)
+**Skills** [Perception](../../skills_dir/perception#_perception) +9, [Swim](../../skills_dir/swim#_swim) +13; **Racial Modifiers** +4 [Perception](../../skills_dir/perception#_perception)
 
 **SQ** hold breath
 
@@ -68,9 +68,9 @@ _This sleek black whale has a distinctive white patch near each eye and a mouth 
 
 **XP 1,600**
 
-N Huge [animal](creatureTypes#_animal)
+N Huge [animal](../creatureTypes#_animal)
 
-**Init** +6; **Senses** [blindsight](universalMonsterRules#_blindsight) 120 ft., low-light vision; [Perception](../skills_dir/perception#_perception) +19
+**Init** +6; **Senses** [blindsight](../universalMonsterRules#_blindsight) 120 ft., low-light vision; [Perception](../../skills_dir/perception#_perception) +19
 
 **Defense**
 
@@ -94,9 +94,9 @@ N Huge [animal](creatureTypes#_animal)
 
 **Base**  **Atk** +6; **CMB** +16; **CMD** 28
 
-**Feats** [Endurance](../feats#_endurance), [Improved Initiative](../feats#_improved-initiative), [Skill Focus](../feats#_skill-focus) ( [Perception](../skills_dir/perception#_perception), [Swim](../skills_dir/swim#_swim)), [Weapon Focus](../feats#_weapon-focus) (bite)
+**Feats** [Endurance](../../feats#_endurance), [Improved Initiative](../../feats#_improved-initiative), [Skill Focus](../../feats#_skill-focus) ( [Perception](../../skills_dir/perception#_perception), [Swim](../../skills_dir/swim#_swim)), [Weapon Focus](../../feats#_weapon-focus) (bite)
 
-**Skills** [Perception](../skills_dir/perception#_perception) +19, [Swim](../skills_dir/swim#_swim) +28; **Racial Modifiers** +8 [Perception](../skills_dir/perception#_perception)
+**Skills** [Perception](../../skills_dir/perception#_perception) +19, [Swim](../../skills_dir/swim#_swim) +28; **Racial Modifiers** +8 [Perception](../../skills_dir/perception#_perception)
 
 **SQ** hold breath (as dolphin)
 

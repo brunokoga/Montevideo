@@ -10,9 +10,9 @@ _A dark blue dragon, its wings immense and its tail tipped with a hooked stinger
 
 **XP 2,400**
 
-N Large [dragon](creatureTypes#_dragon)
+N Large [dragon](../creatureTypes#_dragon)
 
-**Init** +5; **Senses** darkvision 60 ft., low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skills_dir/perception#_perception) +18
+**Init** +5; **Senses** darkvision 60 ft., low-light vision, [scent](../universalMonsterRules#_scent); [Perception](../../skills_dir/perception#_perception) +18
 
 **Defense**
 
@@ -28,11 +28,11 @@ N Large [dragon](creatureTypes#_dragon)
 
 **Speed** 20 ft., fly 60 ft. (poor)
 
-**Melee** sting +10 melee (1d6+4 plus [poison](universalMonsterRules#_poison)), bite +10 melee (2d6+4 plus grab), 2 wings +5 (1d6+2)
+**Melee** sting +10 melee (1d6+4 plus [poison](../universalMonsterRules#_poison)), bite +10 melee (2d6+4 plus grab), 2 wings +5 (1d6+2)
 
 **Space** 10 ft.; **Reach** 5 ft.
 
-**Special Attack** [rake](universalMonsterRules#_rake) (2 talons +10, 1d6+4)
+**Special Attack** [rake](../universalMonsterRules#_rake) (2 talons +10, 1d6+4)
 
 **Statistics**
 
@@ -40,9 +40,9 @@ N Large [dragon](creatureTypes#_dragon)
 
 **Base Atk** +7; **CMB** +12 (+16 grapple); **CMD** 23
 
-**Feats** [Flyby Attack](monsterFeats#_flyby-attack), [Improved Initiative](../feats#_improved-initiative), [Iron Will](../feats#_iron-will), [Skill Focus](../feats#_skill-focus) ( [Perception](../skills_dir/perception#_perception))
+**Feats** [Flyby Attack](../monsterFeats#_flyby-attack), [Improved Initiative](../../feats#_improved-initiative), [Iron Will](../../feats#_iron-will), [Skill Focus](../../feats#_skill-focus) ( [Perception](../../skills_dir/perception#_perception))
 
-**Skills** [Fly](../skills_dir/fly#_fly) +5, [Perception](../skills_dir/perception#_perception) +18, [Sense Motive](../skills_dir/senseMotive#_sense-motive) +11, [Stealth](../skills_dir/stealth#_stealth) +7; **Racial Modifier** +4 [Perception](../skills_dir/perception#_perception)
+**Skills** [Fly](../../skills_dir/fly#_fly) +5, [Perception](../../skills_dir/perception#_perception) +18, [Sense Motive](../../skills_dir/senseMotive#_sense-motive) +11, [Stealth](../../skills_dir/stealth#_stealth) +7; **Racial Modifier** +4 [Perception](../../skills_dir/perception#_perception)
 
 **Languages** Draconic
 

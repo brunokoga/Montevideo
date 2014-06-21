@@ -28,17 +28,17 @@ When a specific ratfolk warren grows overcrowded and the surrounding environment
 
 **Ratfolk** : Ratfolk are humanoids with the ratfolk subtype.
 
-**Small** : Ratfolk are Small and gain a +1 size bonus to their AC, a +1 size bonus on attack rolls, a –1 penalty on combat maneuver checks and to their CMD, and a +4 size bonus on [Stealth](skills_dir/stealth#_stealth) checks.
+**Small** : Ratfolk are Small and gain a +1 size bonus to their AC, a +1 size bonus on attack rolls, a –1 penalty on combat maneuver checks and to their CMD, and a +4 size bonus on [Stealth](../skills_dir/stealth#_stealth) checks.
 
 **Slow Speed** : Ratfolk have a base speed of 20 feet.
 
 **Darkvision** : Ratfolk can see in the dark up to 60 feet.
 
-**Rodent Empathy** : Ratfolk gain a +4 racial bonus on [Handle Animal](skills_dir/handleAnimal#_handle-animal) checks made to influence rodents.
+**Rodent Empathy** : Ratfolk gain a +4 racial bonus on [Handle Animal](../skills_dir/handleAnimal#_handle-animal) checks made to influence rodents.
 
 **Swarming** : Ratfolk are used to living and fighting communally, and are adept at swarming foes for their own gain and their foes' detriment. Up to two ratfolk can share the same square at the same time. If two ratfolk in the same square attack the same foe, they are considered to be flanking that foe as if they were in two opposite squares.
 
-**Tinker** : Ratfolk gain a +2 racial bonus on [Craft](skills_dir/craft#_craft) (alchemy), [Perception](skills_dir/perception#_perception), and [Use Magic Device](skills_dir/useMagicDevice#_use-magic-device) checks.
+**Tinker** : Ratfolk gain a +2 racial bonus on [Craft](../skills_dir/craft#_craft) (alchemy), [Perception](../skills_dir/perception#_perception), and [Use Magic Device](../skills_dir/useMagicDevice#_use-magic-device) checks.
 
 **Languages** : Ratfolk begin play speaking Common. Ratfolk with high Intelligence scores can choose from the following: Aklo, Draconic, Dwarven, Gnoll, Gnome, Goblin, Halfling, Orc, and Undercommon.
 
@@ -48,9 +48,9 @@ The following racial traits may be selected instead of existing ratfolk racial t
 
 **Cornered Fury** : Ratfolk can fight viciously when cut off from friends and allies. Whenever a ratfolk with this racial trait is reduced to half or fewer of his hit points, and has no conscious ally within 30 feet, he gains a +2 racial bonus on melee attack rolls and to Armor Class. This racial trait replaces swarming.
 
-**Scent** : Some ratfolk have much more strongly developed senses of smell, instead of keen eyes and ears. These ratfolk have the scent ability, but take a –2 penalty on all [Perception](skills_dir/perception#_perception) checks based primarily on sight or hearing. This racial trait replaces tinker.
+**Scent** : Some ratfolk have much more strongly developed senses of smell, instead of keen eyes and ears. These ratfolk have the scent ability, but take a –2 penalty on all [Perception](../skills_dir/perception#_perception) checks based primarily on sight or hearing. This racial trait replaces tinker.
 
-**Skulk** : Some ratfolk can blend easily into their environments, and move with surprising grace. Ratfolk gain a +2 racial bonus on [Stealth](skills_dir/stealth#_stealth) checks, and take only a –5 penalty on [Stealth](skills_dir/stealth#_stealth) checks made to hide from creatures they have distracted with a [Bluff](skills_dir/bluff#_bluff) check (rather than the normal –10 penalty). This racial trait replaces tinker.
+**Skulk** : Some ratfolk can blend easily into their environments, and move with surprising grace. Ratfolk gain a +2 racial bonus on [Stealth](../skills_dir/stealth#_stealth) checks, and take only a –5 penalty on [Stealth](../skills_dir/stealth#_stealth) checks made to hide from creatures they have distracted with a [Bluff](../skills_dir/bluff#_bluff) check (rather than the normal –10 penalty). This racial trait replaces tinker.
 
 **Unnatural** : Some ratfolk unnerve normal animals, and train to defend themselves against the inevitable attacks from such creatures. These ratfolk take a –4 penalty on all Charisma-based skill checks to affect creatures of the animal type, and receive a +2 dodge bonus to AC against animals. An animal's starting attitude toward ratfolk is one step worse than normal. This racial trait replaces rodent empathy.
 
@@ -68,11 +68,11 @@ The following options are available to all ratfolk who have the listed favored c
 
 **Gunslinger** : Add a +1_dir/2 bonus on initiative checks when the gunslinger has at least 1 grit point.
 
-**Monk** : Add +1 feet to the speed the monk can move while making a [Stealth](skills_dir/stealth#_stealth) check without taking a penalty. This has no effect unless the monk has selected this reward five times (or another increment of five). This does not allow the monk to use [Stealth](skills_dir/stealth#_stealth) while running or charging.
+**Monk** : Add +1 feet to the speed the monk can move while making a [Stealth](../skills_dir/stealth#_stealth) check without taking a penalty. This has no effect unless the monk has selected this reward five times (or another increment of five). This does not allow the monk to use [Stealth](../skills_dir/stealth#_stealth) while running or charging.
 
 **Ranger** : Add +1 to an animal companion's CMD when adjacent to the ranger. If the ranger ever replaces his animal companion, the new animal companion gains this bonus.
 
-**Rogue** : Add a +1_dir/2 bonus on [Escape Artist](skills_dir/escapeArtist#_escape-artist) checks.
+**Rogue** : Add a +1_dir/2 bonus on [Escape Artist](../skills_dir/escapeArtist#_escape-artist) checks.
 
 **Summoner** : Add a +1 bonus on saving throws against poison made by the summoner's eidolon.
 
@@ -86,7 +86,7 @@ The following racial archetypes are available to ratfolk.
 
 Ratfolk warfare often occurs in cramped, claustrophobic spaces such as the ratfolk's own underground warrens and heavily trapped gulch fortresses, or the subterranean tunnels of goblins and similar foes. Since these battlegrounds often have tight corners and few areas with long lines of sight, those ratfolk who seek to master the use of firearms almost inevitably become experts in close-quarters combat. These gulch gunners often specialize in proficiency with a single pistol (easily handled in tight spaces) and wander from warren to warren selling their tunnel-shooting skills to the highest bidder. A gulch gunner has the following class features.
 
-**Class Skills** : A gulch gunner adds [Disable Device](skills_dir/disableDevice#_disable-device), [Escape Artist](skills_dir/escapeArtist#_escape-artist), and [Knowledge](skills_dir/knowledge#_knowledge) (dungeoneering) to her list of class skills and removes [Knowledge](skills_dir/knowledge#_knowledge) (local), [Ride](skills_dir/ride#_ride), and [Swim](skills_dir/swim#_swim) from her list of class skills.
+**Class Skills** : A gulch gunner adds [Disable Device](../skills_dir/disableDevice#_disable-device), [Escape Artist](../skills_dir/escapeArtist#_escape-artist), and [Knowledge](../skills_dir/knowledge#_knowledge) (dungeoneering) to her list of class skills and removes [Knowledge](../skills_dir/knowledge#_knowledge) (local), [Ride](../skills_dir/ride#_ride), and [Swim](../skills_dir/swim#_swim) from her list of class skills.
 
 **Grit (Ex)** : At 1st level, a gulch gunner gains grit as a standard gunslinger. However, the close-combat focus of the gulch gunner results in a slightly different set of circumstances for regaining grit.
 
@@ -94,7 +94,7 @@ Ratfolk warfare often occurs in cramped, claustrophobic spaces such as the ratfo
 
 **Deeds** : A gulch gunner has some unique deeds, which replace some of the standard gunslinger deeds as listed in each entry. These deeds follow all the general rules and restrictions of gunslinger deeds.
 
-> _Flash and [Shock](magicItems_dir/weapons#_weapons-shock) (Ex)_: At 1st level, the gulch gunner can take advantage of the flash and sound of a firearm to throw off an attacker's aim at close range. When she makes an attack against a foe within her firearm's first range increment, she may spend 1 grit point to gain a +4 circumstance bonus to AC against that opponent until the beginning of her next turn. She can only perform this deed while wearing medium, light, or no armor, and while carrying no more than a light load. This deed replaces the deadeye deed.
+> _Flash and [Shock](../magicItems_dir/weapons#_weapons-shock) (Ex)_: At 1st level, the gulch gunner can take advantage of the flash and sound of a firearm to throw off an attacker's aim at close range. When she makes an attack against a foe within her firearm's first range increment, she may spend 1 grit point to gain a +4 circumstance bonus to AC against that opponent until the beginning of her next turn. She can only perform this deed while wearing medium, light, or no armor, and while carrying no more than a light load. This deed replaces the deadeye deed.
 > 
 > _Powder Burns (Ex)_: At 3rd level, the gulch gunner learns to maximize the damage dealt by a firearm at extremely close range. When the gulch gunner successfully hits an adjacent foe with a ranged firearm attack, she may spend 1 grit point to deal an additional 1d6 points of fire damage from the muzzle flash of her weapon. The target must also make a Reflex save (DC 10 + 1_dir/2 the gulch gunner's level + the gulch gunner's Wisdom modifier) or catch on fire. This deed replaces the pistol whip deed.
 > 
@@ -124,7 +124,7 @@ All limitations to mutagens apply to plague vials as if they were the same subst
 
 The following new discoveries can be taken by any alchemist who meets the prerequisites, but are more common among ratfolk.
 
-_Greater Plague Bomb_: The effects of the smoke created by an alchemist's bomb duplicates the effects of _ [greater contagion](ultimateMagic_dir/spells_dir/contagion#_contagion,-greater)_ instead of _ [fog cloud](spells_dir/fogCloud)_, filling an area equal to twice the bomb's splash radius for 1 round per level. An alchemist must be at least 16th level and must possess the plague bomb and smoke bomb discoveries before selecting this discovery.
+_Greater Plague Bomb_: The effects of the smoke created by an alchemist's bomb duplicates the effects of _ [greater contagion](../ultimateMagic_dir/spells_dir/contagion#_contagion,-greater)_ instead of _ [fog cloud](../spells_dir/fogCloud)_, filling an area equal to twice the bomb's splash radius for 1 round per level. An alchemist must be at least 16th level and must possess the plague bomb and smoke bomb discoveries before selecting this discovery.
 
 _Lingering Plague_: Any creature that must make a save against a disease caused by the alchemist's extract or other class ability must make a second save 1 round later to avoid doubling the duration of the disease effect. If the disease doesn't have a duration, this discovery reduces its onset time and frequencies by half. An alchemist must be at least 8th level before selecting this discovery.
 
@@ -142,7 +142,7 @@ Ratfolk have access to the following equipment.
 
 **Stink Ink** : Stink ink is a special, pungent, musk-based ink that allows its user to encode information with smell rather than visually. Stink ink dries clear but its sharp, extremely localized smell can be picked out by those with sensitive enough noses to make it possible to read by sense of smell. Only creatures with the keen senses trait or scent ability can read stink ink without aid of some form of magic. Reading or writing something with stink ink takes twice as long as going through the same amount of information written in normal ink.
 
-**Stink Ink, Arcane** : Most common among ratfolk alchemists, arcane stink ink is used to inscribe formulae or spells into formula books and spellbooks. Like normal stink ink, the arcane version can only be read by creatures with the scent ability (although _ [read magic](spells_dir/readMagic#_read-magic)_ works normally on spells and arcane formulae inscribed with stink ink). Using arcane stink ink to inscribe a spell or formula into a book costs +10% of the normal amount .
+**Stink Ink, Arcane** : Most common among ratfolk alchemists, arcane stink ink is used to inscribe formulae or spells into formula books and spellbooks. Like normal stink ink, the arcane version can only be read by creatures with the scent ability (although _ [read magic](../spells_dir/readMagic#_read-magic)_ works normally on spells and arcane formulae inscribed with stink ink). Using arcane stink ink to inscribe a spell or formula into a book costs +10% of the normal amount .
 
 **Tailblade** : A tailblade is a small, sharp knife designed to be strapped to the tip of a wielder's tail. It takes a full-round action to strap on or remove a tailblade. The wearer can loosely attach the tailblade (without strapping it securely in place) as a move action, but using a loosely attached tailblade gives the wielder a –4 penalty on all attack rolls made with the weapon, and other creatures get a +4 bonus on disarm combat maneuver checks to disarm the tailblade. A ratfolk wielding a tailblade can make a tail attack, adding its Strength modifier to the tailblade's damage. Ratfolk are considered proficient with such attacks and can apply feats or effects appropriate to natural attacks to tail attacks made with a tailblade. If used as part of a full attack action, attacks with a tailblade are considered secondary attacks.
 
@@ -200,11 +200,11 @@ Cap of Human Guise
 
 Description
 
-This threadbare hat allows its wearer to alter her appearance as with a _ [disguise self](spells_dir/disguiseSelf#_disguise-self)_ spell, except she can only appear as a plainly dressed Small human child, adult halfling, or adult gnome, such as a peasant, blacksmith, or shopkeeper. The wearer can slightly alter the cap's appearance as part of the disguise, but otherwise must match the overall unremarkable look of the illusory form.
+This threadbare hat allows its wearer to alter her appearance as with a _ [disguise self](../spells_dir/disguiseSelf#_disguise-self)_ spell, except she can only appear as a plainly dressed Small human child, adult halfling, or adult gnome, such as a peasant, blacksmith, or shopkeeper. The wearer can slightly alter the cap's appearance as part of the disguise, but otherwise must match the overall unremarkable look of the illusory form.
 
 Construction
 
-**Requirements** [Craft Wondrous Item](feats#_craft-wondrous-item), _ [disguise self](spells_dir/disguiseSelf#_disguise-self)_; **Cost** 400 gp
+**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item), _ [disguise self](../spells_dir/disguiseSelf#_disguise-self)_; **Cost** 400 gp
 
 Cloak of the Scuttling Rat
 
@@ -214,11 +214,11 @@ Cloak of the Scuttling Rat
 
 Description
 
-This unassuming cloak initially appears to be made of plain leather. When the wearer speaks the command word, however, the _cloak of the scuttling rat_ wraps itself around the individual, transforming her into a dire rat as if using _ [beast shape I](spells_dir/beastShape#_beast-shape-i)_. The wearer can remain in dire rat form for up to 5 minutes per day. This duration need not be consecutive, but it must be used in 1-minute increments.
+This unassuming cloak initially appears to be made of plain leather. When the wearer speaks the command word, however, the _cloak of the scuttling rat_ wraps itself around the individual, transforming her into a dire rat as if using _ [beast shape I](../spells_dir/beastShape#_beast-shape-i)_. The wearer can remain in dire rat form for up to 5 minutes per day. This duration need not be consecutive, but it must be used in 1-minute increments.
 
 Construction
 
-**Requirements** [Craft Wondrous Item](feats#_craft-wondrous-item), _ [beast shape I](spells_dir/beastShape#_beast-shape-i)_; **Cost** 3,000 gp
+**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item), _ [beast shape I](../spells_dir/beastShape#_beast-shape-i)_; **Cost** 3,000 gp
 
 Pipes of the Warren Guardian
 
@@ -228,11 +228,11 @@ Pipes of the Warren Guardian
 
 Description
 
-These finely crafted yellow-ivory pipes are bound in bronze and decorated with bits of amber. If the possessor learns the proper tune, once per day he can use these pipes to summon 1d4+1 dire rats as if using _ [summon monster III](spells_dir/summonMonster#_summon-monster-iii)_. The summoned dire rats also have the swarming racial trait, and count as ratfolk for the purposes of the ratfolk's swarming racial trait.
+These finely crafted yellow-ivory pipes are bound in bronze and decorated with bits of amber. If the possessor learns the proper tune, once per day he can use these pipes to summon 1d4+1 dire rats as if using _ [summon monster III](../spells_dir/summonMonster#_summon-monster-iii)_. The summoned dire rats also have the swarming racial trait, and count as ratfolk for the purposes of the ratfolk's swarming racial trait.
 
 Construction
 
-**Requirements** [Craft Wondrous Item](feats#_craft-wondrous-item), _ [summon monster III](spells_dir/summonMonster#_summon-monster-iii)_; **Cost** 3,000 gp
+**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item), _ [summon monster III](../spells_dir/summonMonster#_summon-monster-iii)_; **Cost** 3,000 gp
 
 Ring of Rat Fangs
 
@@ -246,7 +246,7 @@ This bone ring is the shape of an elongated rat biting its own tail. The wearer 
 
 Construction
 
-**Requirements** [Forge Ring](feats#_forge-ring), _ [magic fang](spells_dir/magicFang#_magic-fang)_, _ [polymorph](spells_dir/polymorph#_polymorph)_; **Cost** 2,500 gp
+**Requirements** [Forge Ring](../feats#_forge-ring), _ [magic fang](../spells_dir/magicFang#_magic-fang)_, _ [polymorph](../spells_dir/polymorph#_polymorph)_; **Cost** 2,500 gp
 
 Ring of Swarming Stabs
 
@@ -260,7 +260,7 @@ This ring is crafted of hardened leather strips, into which bits of fur, feather
 
 Construction
 
-**Requirements** [Forge Ring](feats#_forge-ring), _ [guidance](spells_dir/guidance#_guidance)_, creator must be able to sneak attack; **Cost** 3,000 gp
+**Requirements** [Forge Ring](../feats#_forge-ring), _ [guidance](../spells_dir/guidance#_guidance)_, creator must be able to sneak attack; **Cost** 3,000 gp
 
 ## Ratfolk Spells
 
@@ -304,7 +304,7 @@ The target becomes temporarily immune to disease. Any disease to which it is exp
 
 Sickening Strikes
 
-**School** transmutation [[disease](monsters_dir/universalMonsterRules#_disease-(ex-or-su))]; **Level** alchemist 2, antipaladin 2, druid 2, magus 3, ranger 4, witch 2
+**School** transmutation [[disease](../monsters_dir/universalMonsterRules#_disease-(ex-or-su))]; **Level** alchemist 2, antipaladin 2, druid 2, magus 3, ranger 4, witch 2
 
 **Casting Time** 1 standard action
 

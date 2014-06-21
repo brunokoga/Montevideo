@@ -4,7 +4,7 @@ title: mythicAdventures_dir/mythicSpells_dir/dimensionDoor
 ---
 Dimension Door
 
-**Source** [_dimension door_](spells_dir/dimensionDoor#_dimension-door)
+**Source** [_dimension door_](../spells_dir/dimensionDoor#_dimension-door)
 
 The duration of this spell changes to 1 round per 2 caster levels, and it creates a temporary, invisible, one-way portal in your square to your destination. You immediately pass through the portal and arrive at the destination, but you can't take any other creatures with you.
 
