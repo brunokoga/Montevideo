@@ -269,7 +269,7 @@ Charisma measures a character's personality, personal magnetism, ability to lead
 
 You apply your character's Charisma modifier to:
 
-- [Bluff](skills_dir/bluff#_bluff), [Diplomacy](skills_dir/diplomacy#_diplomacy), [Disguise](skills_dir/disguise#_disguise), [Handle Animal](skills_dir/handleAnimal#_handle-animal), [Intimidate](skills_dir/intimidate#_intimidate), [Perform](skills_dir/perform#_perform), and [Use Magic Device](skills_dir/useMagicDevice#_use-magic-device) checks.
+- [Bluff](/skills_dir/bluff#_bluff), [Diplomacy](skills_dir/diplomacy#_diplomacy), [Disguise](skills_dir/disguise#_disguise), [Handle Animal](skills_dir/handleAnimal#_handle-animal), [Intimidate](skills_dir/intimidate#_intimidate), [Perform](skills_dir/perform#_perform), and [Use Magic Device](skills_dir/useMagicDevice#_use-magic-device) checks.
 - Checks that represent attempts to influence others. 
 - [Channel energy](classes_dir/cleric#_channel-energy-cleric) DCs for [clerics](classes_dir/cleric#_cleric) and [paladins](classes_dir/paladin#_paladin) attempting to harm undead foes.
 
