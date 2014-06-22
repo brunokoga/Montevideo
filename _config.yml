@@ -6,7 +6,8 @@ version:      0.1
 author:
   name:       'Bruno Koga'
   email:      'koga@brunokoga.com'
-markdown:     rdiscount
+markdown:     redcarpet
+redcarpet: tables
 permalink:    pretty
 pygments:     true
 paginate:     5
